@@ -1,6 +1,4 @@
-# Welcome to my football betting and analytics portfolio
-
-This repository showcases a selection of projects that I have been working on as part of my own sports betting operation, as well as other areas of sports betting and analytics that interest me. Each project below includes a quick intro and everything you need to run the code.
+This repository showcases a selection of projects that I have been working on as part of my own sports betting operation, as well as other areas of sports betting and analytics that interest me. Below is a quick intro to each project and instructions on how run and set up the analysis. The Notebooks are saved with outputs visible in the repository if you would prefer an overview.
 
 # Long Term Model
 
@@ -10,24 +8,19 @@ It also contains predictions for each teams likelihood to finish 1st, Top 4, Top
 
 # Corner Game State Analysis
 
-This project looks at the effect that game state has on corner performances and proposes a way of .....
+This project looks at the effect that game state has on corner performances. It processes event level data to calculate how long each team spends in each game state and how many corners are won or conceded in each game state. 
+It then examines the effect that these game state effects can have on corner performance and proposes a way of harnessing team supremacy and game state dynamics to create better corner ratings for use in predictive models.
 
 ## Dependencies
 
-- See setup section below to install the required pip packages for this project
+- See setup section below to install the required packages for these projects
 
 ## Setup
 
 ```
-# Set up venv
 
-# Install Dependencies
-
-# launch jupyter notebook
 
 ```
-
-From there you can navigate to the project folder and open LT_model.ipynb.
 
 ## Data
 
@@ -35,8 +28,8 @@ The following data files are used in this project:
 - `data/'League'.csv`: Five individual files containing historical betting odds for top 5 leagues.
 - `data/goallines.csv`: Contains a lookup table to convert betting lines into goal expectancies for each match.
 - `data/supconversion.csv`: Contains a lookup table to convert betting lines into goal expectancies for each match.
--  data/mins_conv.csv: Contains a lookup table to convert goal expectancies into expected winning, drawing and losing minutes for each match.
--  data/corner_gamestate.csv.csv: Contains event level data for a range of leagues for game state analysis
+- `data/mins_conv.csv`: Contains a lookup table to convert goal expectancies into expected winning, drawing and losing minutes for each match.
+- `data/corner_gamestate.csv`: Contains event level data for a range of leagues for game state analysis.
 
 These files are located in the `data/` folder.
 
