@@ -1,4 +1,4 @@
-## Sports Betting & Analytisc Portfolio
+## Sports Betting & Analytics Portfolio
 
 This repository showcases a selection of projects that I have been working on as part of my own sports betting operation, as well as other areas of sports betting and analytics that interest me. Below is a quick intro to each project and instructions on how run and set up the analysis. The Notebooks are saved with outputs visible in the repository if you would prefer an overview.
 
