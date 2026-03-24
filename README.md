@@ -7,7 +7,6 @@ This repository showcases a selection of projects that I have been working on as
 This project creates predictions for every match for the rest of the season for any of the top 5 European Leagues, based on optimised goal, xG and betting line ratings.
 These predictions are then used to create a league table with predicted number of points, goals scored and goals conceded at the end of the season.
 It also contains predictions for each teams likelihood to finish 1st, Top 4, Top 6 and Bottom 3, derived from running Monte Carlo simulations on the rest of the seasons fixtures.
-Note: As we approach the end of the season, I have modified the data to make end of season predictions as if it is 1st April 2025.
 
 ## Corner Game State Analysis
 
