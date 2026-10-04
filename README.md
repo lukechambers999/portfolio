@@ -1,6 +1,6 @@
 # Luke Chambers - Sports Data Portfolio
 
-Source for the site at **https://lukechambers999.github.io/portfolio_2026/**,
+Source for the site at **https://lukechambers999.github.io/portfolio/**,
 which holds two projects:
 
 - **Game State Corner Model** (`index.qmd`, with `methodology.qmd`): corner

@@ -11,8 +11,8 @@ project:
 
 website:
   title: "Luke Chambers - Sports Data Portfolio"
-  site-url: https://lukechambers999.github.io/portfolio_2026/
-  repo-url: https://github.com/lukechambers999/portfolio_2026
+  site-url: https://lukechambers999.github.io/portfolio/
+  repo-url: https://github.com/lukechambers999/portfolio
   navbar:
     left:
       - href: index.qmd
@@ -23,7 +23,7 @@ website:
         text: Methodology
     right:
       - icon: github
-        href: https://github.com/lukechambers999/portfolio_2026
+        href: https://github.com/lukechambers999/portfolio
         aria-label: Code on GitHub
 
 format:
