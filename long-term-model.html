@@ -189,8 +189,9 @@ window.Quarto = {
   <ul class="collapse">
   <li><a href="#home-advantage" id="toc-home-advantage" class="nav-link" data-scroll-target="#home-advantage">Home advantage</a></li>
   <li><a href="#draw-factor" id="toc-draw-factor" class="nav-link" data-scroll-target="#draw-factor">Draw factor</a></li>
+  <li><a href="#a-worked-example" id="toc-a-worked-example" class="nav-link" data-scroll-target="#a-worked-example">A worked example</a></li>
   </ul></li>
-  <li><a href="#simulating-the-season" id="toc-simulating-the-season" class="nav-link" data-scroll-target="#simulating-the-season">6. Simulating the season</a></li>
+  <li><a href="#simulating-the-season" id="toc-simulating-the-season" class="nav-link" data-scroll-target="#simulating-the-season">5. Simulating the season</a></li>
   </ul>
 </nav>
     </div>
@@ -229,7 +230,7 @@ window.Quarto = {
 <p>You will see the <strong>Team ratings</strong> adjust based on these inputs. This will change the match odds for every upcoming fixture for the rest of the season in <strong>Fixtures &amp; prices</strong>, which in turn feeds into the <strong>Predicted table</strong>. Using these predicted match odds you can run a Monte Carlo simulation in <strong>Season odds</strong> that will show each team’s chances of finishing 1st, Top 4, Top 6 and Bottom 3.</p>
 <p>The weightings are pre-set to the optimal combination of weights and number of matches that have historically made the best predictions for each league.</p>
 <p>The odds weight fills whatever is left so the three always add up to 1. <strong>Reset to optimised</strong> restores the optimised ratings. Your league and settings are saved in the page link, so you can share a particular set-up with someone.</p>
-<div id="52a5e738" class="cell" data-execution_count="2">
+<div id="7a8bcbe8" class="cell" data-execution_count="2">
 <div class="cell-output cell-output-display">
 <div id="lt-app"><p class="lt-loading">Loading the model…</p></div><script type="module" src="lt_app/app.js?v=a957610cf9"></script>
 </div>
@@ -243,9 +244,9 @@ window.Quarto = {
 <li><strong>Understat</strong> provides goals and expected goals (xG) from historical matches and this season’s remaining fixtures. It includes data back to the 2015/16 season.</li>
 <li><strong>totalcorner.com</strong> provides pre-match Asian handicap and goal lines for historical fixtures, this includes the top flight and the division below. These come from the daily scrape that also feeds the <a href="./index.html">corner model</a>. The goal line is solved using a Poisson goal distribution, and the handicap line is solved using a Skellam distribution. Together they give the market implied expected goals for each side, called <em>Asian goals</em> here.</li>
 </ul>
-<p>The latest Premier League matches from each source are shown below. Understat’s team names are shown as Understat spells them.</p>
+<p>Five Premier League matches from each source are shown below. Understat’s team names are shown as Understat spells them.</p>
 <p><strong>Understat</strong> (goals and xG):</p>
-<div id="31631aa4" class="cell" data-execution_count="4">
+<div id="c7f4bc5e" class="cell" data-execution_count="4">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="4">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -321,7 +322,7 @@ window.Quarto = {
 </div>
 </div>
 <p><strong>totalcorner.com</strong> (pre-match lines and odds, with the Asian goals solved from them):</p>
-<div id="688b3ed8" class="cell" data-execution_count="5">
+<div id="41f8bc36" class="cell" data-execution_count="5">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="5">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -425,7 +426,7 @@ window.Quarto = {
 </div>
 </div>
 <p><strong>Joined</strong>, one row per match with all three metrics the ratings use:</p>
-<div id="5f4b9ce9" class="cell" data-execution_count="6">
+<div id="d29fab63" class="cell" data-execution_count="6">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="6">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -514,12 +515,12 @@ window.Quarto = {
 </div>
 </div>
 </div>
-<div id="363b21de" class="cell" data-execution_count="7">
+<div id="512992db" class="cell" data-execution_count="7">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="7">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/understat.py" class="code-link">Understat scrape and team-name matching → <code>code/lt/understat.py</code></a></p>
 </div>
 </div>
-<div id="4a5e699f" class="cell" data-execution_count="8">
+<div id="32f71883" class="cell" data-execution_count="8">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="8">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/asian_lines.py" class="code-link">Odds to expected goals for each side → <code>code/lt/asian_lines.py</code></a></p>
 </div>
@@ -538,14 +539,14 @@ window.Quarto = {
 <div style="text-align: center">
 <p>where <span class="math inline">w_g + w_x + w_o = 1</span></p>
 </div>
-<p>The optimised window and weights were chosen by grid search, separately for each league. Every window from 5 to 29 matches and every weight combination was tested. Each match was predicted using only ratings from the previous n games. The predictions were then scored on mean absolute error (MAE) against the market implied total goals and goal supremacy for each match. The training data only contained data from seasons up to 2022/23. The winning combination was then tested on data from 2023/24 onward.</p>
-<div id="733efa99" class="cell" data-execution_count="9">
+<p>The optimised window and weights were chosen by grid search, separately for each league. Every window from 5 to 29 matches and every weight combination was tested. Each match was predicted using only ratings from the previous n games. The predictions were then scored on mean absolute error (MAE) against the market implied total goals and goal supremacy for each match.</p>
+<div id="bc38b416" class="cell" data-execution_count="9">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="9">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/optimise.py#L73-L98" class="code-link">Grid search: find_optimal_parameters() → <code>code/lt/optimise.py</code></a></p>
 </div>
 </div>
 <p>The table below gives each league’s fitted values. The MAE columns are the test data error against the market, in goals.</p>
-<div id="d24694d9" class="cell" data-execution_count="10">
+<div id="d0bc2682" class="cell" data-execution_count="10">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="10">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -625,7 +626,7 @@ window.Quarto = {
 <h3 class="anchored" data-anchor-id="promoted-teams">Promoted teams</h3>
 <p>A newly promoted team has fewer top-flight matches to rate it on, and none at all at the start of the season. Its matches from the season it won promotion are used instead, with the market’s expected goals scaled to top-flight level.</p>
 <p>Each league’s scaling comes from its own past promotions (165 across the five leagues). For each one, the team’s average Asian goals in its first top-flight season are compared with its promotion season. Depending on the league, promoted teams’ expected goals scored fell by 21% to 33% and their expected goals conceded rose by 49% to 67%.</p>
-<div id="d0f13897" class="cell" data-execution_count="11">
+<div id="87d5bb3a" class="cell" data-execution_count="11">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="11">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -674,60 +675,60 @@ window.Quarto = {
 </div>
 </div>
 <p>This season’s three promoted Premier League teams show the adjustment. At the start of the season each was rated on its last 16 EnglandChampionship matches (the league’s optimised window). Their average Asian goals from those odds are multiplied by the Premier League factors (×0.67 for, ×1.67 against). The last two columns are what the market has implied for them in the Premier League so far.</p>
-<div id="167c84a5" class="cell" data-execution_count="12">
+<div id="cf7504bc" class="cell" data-execution_count="12">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="12">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
 <colgroup>
-<col style="width: 5%">
-<col style="width: 12%">
-<col style="width: 12%">
-<col style="width: 14%">
-<col style="width: 14%">
+<col style="width: 6%">
 <col style="width: 8%">
-<col style="width: 14%">
-<col style="width: 16%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 15%">
+<col style="width: 15%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Team</th>
-<th style="text-align: right;">Asian for (tier 2)</th>
-<th style="text-align: right;">Asian for (scaled)</th>
-<th style="text-align: right;">Asian against (tier 2)</th>
-<th style="text-align: right;">Asian against (scaled)</th>
 <th style="text-align: right;">PL matches</th>
-<th style="text-align: right;">Asian for (PL so far)</th>
-<th style="text-align: right;">Asian against (PL so far)</th>
+<th style="text-align: right;">Asian AR (tier 2)</th>
+<th style="text-align: right;">Asian DR (tier 2)</th>
+<th style="text-align: right;">Asian AR (scaled)</th>
+<th style="text-align: right;">Asian DR (scaled)</th>
+<th style="text-align: right;">Asian AR (PL so far)</th>
+<th style="text-align: right;">Asian DR (PL so far)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">Coventry</td>
-<td style="text-align: right;">1.83</td>
-<td style="text-align: right;">1.22</td>
-<td style="text-align: right;">1.11</td>
-<td style="text-align: right;">1.84</td>
 <td style="text-align: right;">5</td>
+<td style="text-align: right;">1.83</td>
+<td style="text-align: right;">1.11</td>
+<td style="text-align: right;">1.22</td>
+<td style="text-align: right;">1.84</td>
 <td style="text-align: right;">1.07</td>
 <td style="text-align: right;">2.01</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Hull</td>
-<td style="text-align: right;">1.23</td>
-<td style="text-align: right;">0.82</td>
-<td style="text-align: right;">1.48</td>
-<td style="text-align: right;">2.47</td>
 <td style="text-align: right;">5</td>
+<td style="text-align: right;">1.23</td>
+<td style="text-align: right;">1.48</td>
+<td style="text-align: right;">0.82</td>
+<td style="text-align: right;">2.47</td>
 <td style="text-align: right;">0.96</td>
 <td style="text-align: right;">2.14</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Ipswich</td>
-<td style="text-align: right;">1.75</td>
-<td style="text-align: right;">1.17</td>
-<td style="text-align: right;">1.02</td>
-<td style="text-align: right;">1.70</td>
 <td style="text-align: right;">5</td>
+<td style="text-align: right;">1.75</td>
+<td style="text-align: right;">1.02</td>
+<td style="text-align: right;">1.17</td>
+<td style="text-align: right;">1.70</td>
 <td style="text-align: right;">1.13</td>
 <td style="text-align: right;">1.92</td>
 </tr>
@@ -736,8 +737,8 @@ window.Quarto = {
 </div>
 </div>
 </div>
-<p>Only the odds-based metric can be carried over this way, because Understat has no second-division goals or xG. Within the window, goals and xG are averaged over the team’s top-flight matches. A team with no top-flight matches yet is rated on its scaled Asian goals alone. In the app, these teams are tagged <strong>P</strong> with the number of second-division matches in their window.</p>
-<div id="11f5713d" class="cell" data-execution_count="13">
+<p>Only the odds-based metric can be carried over this way, because the model does not have goals and xG data from lower tier competitions. Within the window, goals and xG are averaged over the team’s top-flight matches. In the app, promoted teams are tagged <strong>P</strong> alongside the number of second tier matches in their window.</p>
+<div id="d32e02d2" class="cell" data-execution_count="13">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="13">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/promotion.py" class="code-link">Promotion factors and adjustment → <code>code/lt/promotion.py</code></a></p>
 </div>
@@ -746,16 +747,19 @@ window.Quarto = {
 </section>
 <section id="generating-match-prices" class="level2">
 <h2 class="anchored" data-anchor-id="generating-match-prices">4. Generating match prices</h2>
-<p>Each teams predicted goals is calculated by multiplying one team’s attack rating by the other teams defense rating, then dividing by the league average defense rating. This give a goals and supremacy line for each upcoming fixture. mbda_{home} = $$</p>
+<p>Each team’s predicted goals is calculated by multiplying one team’s attack rating by the other team’s defence rating, then dividing by the league average defence rating. Adjustments for home advantage and draw correlations are added to give a final goals and supremacy line for every upcoming fixture.</p>
+<p><span class="math display">
+\lambda_{home} = \frac{\text{Att}_{home}\times\text{Def}_{away}}{\overline{\text{Def}}}
+</span></p>
 <p><span class="math display">\lambda_{away} = \frac{\text{Att}_{away}\times\text{Def}_{home}}{\overline{\text{Def}}}
 </span></p>
 <section id="home-advantage" class="level3">
 <h3 class="anchored" data-anchor-id="home-advantage">Home advantage</h3>
-<p>Home advantage is then moved from the away side to the home side. The home team gains a fixed share of the match’s expected goals (9.2% to 14.6% depending on the league) and the total stays the same. That share is the home-minus-away goal difference as a proportion of all goals in the league’s non-COVID history:</p>
+<p>Home advantage is accounted for based on the historical proportion of home goals scored in each league’s non-COVID history.</p>
 <p><span class="math display">
 \text{Home adv.} = \frac{\overline{\text{home goals}} - \overline{\text{away goals}}}{\overline{\text{home goals}} + \overline{\text{away goals}}}
 </span></p>
-<div id="7dfbf0c3" class="cell" data-execution_count="14">
+<div id="b978b8e1" class="cell" data-execution_count="14">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="14">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -830,7 +834,7 @@ window.Quarto = {
 </div>
 </div>
 </div>
-<div id="b599513c" class="cell" data-execution_count="15">
+<div id="63e0a7b8" class="cell" data-execution_count="15">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="15">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/ratings.py#L73-L83" class="code-link">Expected goals: predict_goals() → <code>code/lt/ratings.py</code></a></p>
 </div>
@@ -838,38 +842,33 @@ window.Quarto = {
 </section>
 <section id="draw-factor" class="level3">
 <h3 class="anchored" data-anchor-id="draw-factor">Draw factor</h3>
-<p>Two independent Poisson distributions turn the expected goals into a probability for every scoreline up to 10-10. Independent Poissons slightly under-price low-scoring draws, so the Dixon-Coles correction reweights 0-0, 0-1, 1-0 and 1-1 using one parameter, ρ. ρ is fitted for each league by maximum likelihood on past scorelines, with the market’s expected goals as the inputs. Adding up the scorelines where the home side wins, where it’s level, and where the away side wins gives the home, draw and away probabilities. Their inverses are the fair (margin-free) 1X2 odds.</p>
-<div id="e4552481" class="cell" data-execution_count="16">
+<p>Two independent Poisson distributions turn the expected goals into a probability for every scoreline up to 10-10. However independent Poissons slightly under-price low-scoring draws, so the Dixon-Coles correction reweights 0-0, 0-1, 1-0 and 1-1 using one parameter, ρ. ρ is fitted for each league by maximum likelihood on past scorelines, with the market’s expected goals as the inputs. Adding up the scorelines where the home side wins, where it’s level, and where the away side wins gives the home, draw and away probabilities. Their inverses are the fair (margin-free) 1X2 odds.</p>
+<div id="772831a0" class="cell" data-execution_count="16">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="16">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/dixon_coles.py#L20-L62" class="code-link">Dixon-Coles scorelines and 1X2 → <code>code/lt/dixon_coles.py</code></a></p>
 </div>
 </div>
-<section id="a-worked-example" class="level4">
-<h4 class="anchored" data-anchor-id="a-worked-example">A worked example</h4>
-<p>Arsenal v Leeds on 10 October is the next Premier League fixture. With the optimised ratings, Arsenal have an attack rating of 1.96 and a defence rating of 0.88. Leeds have 1.37 and 1.35, and the league’s average defence rating is 1.49. The table shows the match price at each step: the ratings alone, then home advantage (10.8% of the total moved to the home side), then the draw factor (ρ = -0.042).</p>
-<div id="4c099228" class="cell" data-execution_count="18">
+</section>
+<section id="a-worked-example" class="level3">
+<h3 class="anchored" data-anchor-id="a-worked-example">A worked example</h3>
+<p>Hull v Coventry on 17 April is the remaining Premier League fixture with the most even home and away odds, where the draw factor makes the biggest difference. With the optimised ratings, Hull have an attack rating of 0.96 and a defence rating of 2.07. Coventry have 1.08 and 1.87, and the league’s average defence rating is 1.49. The table shows the match price at each step: the ratings alone, then home advantage (10.8% of the total moved to the home side), then the draw factor (ρ = -0.042).</p>
+<div id="123a4915" class="cell" data-execution_count="18">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="18">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
 <colgroup>
+<col style="width: 22%">
+<col style="width: 13%">
+<col style="width: 13%">
 <col style="width: 16%">
-<col style="width: 10%">
-<col style="width: 10%">
-<col style="width: 9%">
-<col style="width: 9%">
-<col style="width: 9%">
-<col style="width: 11%">
-<col style="width: 11%">
-<col style="width: 11%">
+<col style="width: 16%">
+<col style="width: 16%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Step</th>
 <th style="text-align: right;">Home xG</th>
 <th style="text-align: right;">Away xG</th>
-<th style="text-align: left;">Home %</th>
-<th style="text-align: left;">Draw %</th>
-<th style="text-align: left;">Away %</th>
 <th style="text-align: right;">Home odds</th>
 <th style="text-align: right;">Draw odds</th>
 <th style="text-align: right;">Away odds</th>
@@ -878,50 +877,40 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">Ratings only</td>
-<td style="text-align: right;">1.78</td>
-<td style="text-align: right;">0.81</td>
-<td style="text-align: left;">60.4%</td>
-<td style="text-align: left;">22.9%</td>
-<td style="text-align: left;">16.7%</td>
-<td style="text-align: right;">1.66</td>
-<td style="text-align: right;">4.37</td>
-<td style="text-align: right;">5.97</td>
+<td style="text-align: right;">1.21</td>
+<td style="text-align: right;">1.50</td>
+<td style="text-align: right;">3.27</td>
+<td style="text-align: right;">3.93</td>
+<td style="text-align: right;">2.27</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">+ Home advantage</td>
-<td style="text-align: right;">1.92</td>
-<td style="text-align: right;">0.67</td>
-<td style="text-align: left;">67.0%</td>
-<td style="text-align: left;">20.7%</td>
-<td style="text-align: left;">12.2%</td>
-<td style="text-align: right;">1.49</td>
-<td style="text-align: right;">4.82</td>
-<td style="text-align: right;">8.18</td>
+<td style="text-align: right;">1.35</td>
+<td style="text-align: right;">1.35</td>
+<td style="text-align: right;">2.69</td>
+<td style="text-align: right;">3.88</td>
+<td style="text-align: right;">2.70</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">+ Draw factor</td>
-<td style="text-align: right;">1.92</td>
-<td style="text-align: right;">0.67</td>
-<td style="text-align: left;">66.6%</td>
-<td style="text-align: left;">21.5%</td>
-<td style="text-align: left;">11.8%</td>
-<td style="text-align: right;">1.50</td>
-<td style="text-align: right;">4.64</td>
-<td style="text-align: right;">8.47</td>
+<td style="text-align: right;">1.35</td>
+<td style="text-align: right;">1.35</td>
+<td style="text-align: right;">2.73</td>
+<td style="text-align: right;">3.73</td>
+<td style="text-align: right;">2.73</td>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
 </div>
-<p>The <strong>predicted table</strong> adds each fixture’s expected points (3 × win probability + draw probability) and expected goals to the current table.</p>
-</section>
+<p>After we have win, draw and lose probabilities for every match, the <strong>predicted table</strong> adds each fixture’s expected points (3 × win probability + draw probability) and expected goals to the current table.</p>
 </section>
 </section>
 <section id="simulating-the-season" class="level2">
-<h2 class="anchored" data-anchor-id="simulating-the-season">6. Simulating the season</h2>
+<h2 class="anchored" data-anchor-id="simulating-the-season">5. Simulating the season</h2>
 <p>Expected points give the most likely finishing order, but not how likely each outcome is. For that, the rest of the season is simulated thousands of times. Each fixture is drawn as a home win, draw or away win from its 1X2 probabilities, and the final positions are recorded. The share of simulations in which a team wins the league, finishes in the top 4 or top 6, or ends in the bottom 3 is its probability, and 1 / probability is its fair price.</p>
-<div id="6fa704fa" class="cell" data-execution_count="19">
+<div id="f8152ce3" class="cell" data-execution_count="19">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="19">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/simulate.py" class="code-link">Monte Carlo: simulate_season() → <code>code/lt/simulate.py</code></a></p>
 </div>
