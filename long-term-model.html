@@ -159,7 +159,7 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/lukechambers999/portfolio_2026"> <i class="bi bi-github" role="img" aria-label="Code on GitHub">
+    <a class="nav-link" href="https://github.com/lukechambers999/portfolio"> <i class="bi bi-github" role="img" aria-label="Code on GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -229,7 +229,7 @@ window.Quarto = {
 <p>You will see the <strong>Team ratings</strong> adjust based on these inputs. This will change the match odds for every upcoming fixture for the rest of the season in <strong>Fixtures &amp; prices</strong>, which in turn feeds into the <strong>Predicted table</strong>. Using these predicted match odds you can run a Monte Carlo simulation in <strong>Season odds</strong> that will show each team’s chances of finishing 1st, Top 4, Top 6 and Bottom 3.</p>
 <p>The weightings are pre-set to the optimal combination of weights and number of matches that have historically made the best predictions for each league.</p>
 <p>The odds weight fills whatever is left so the three always add up to 1. <strong>Reset to optimised</strong> restores the optimised ratings. Your league and settings are saved in the page link, so you can share a particular set-up with someone.</p>
-<div id="77dfc26c" class="cell" data-execution_count="2">
+<div id="52a5e738" class="cell" data-execution_count="2">
 <div class="cell-output cell-output-display">
 <div id="lt-app"><p class="lt-loading">Loading the model…</p></div><script type="module" src="lt_app/app.js?v=a957610cf9"></script>
 </div>
@@ -245,7 +245,7 @@ window.Quarto = {
 </ul>
 <p>The latest Premier League matches from each source are shown below. Understat’s team names are shown as Understat spells them.</p>
 <p><strong>Understat</strong> (goals and xG):</p>
-<div id="7c986449" class="cell" data-execution_count="4">
+<div id="31631aa4" class="cell" data-execution_count="4">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="4">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -321,7 +321,7 @@ window.Quarto = {
 </div>
 </div>
 <p><strong>totalcorner.com</strong> (pre-match lines and odds, with the Asian goals solved from them):</p>
-<div id="10a38824" class="cell" data-execution_count="5">
+<div id="688b3ed8" class="cell" data-execution_count="5">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="5">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -425,7 +425,7 @@ window.Quarto = {
 </div>
 </div>
 <p><strong>Joined</strong>, one row per match with all three metrics the ratings use:</p>
-<div id="a6a79be2" class="cell" data-execution_count="6">
+<div id="5f4b9ce9" class="cell" data-execution_count="6">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="6">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -514,12 +514,12 @@ window.Quarto = {
 </div>
 </div>
 </div>
-<div id="ae1413b7" class="cell" data-execution_count="7">
+<div id="363b21de" class="cell" data-execution_count="7">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="7">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/understat.py" class="code-link">Understat scrape and team-name matching → <code>code/lt/understat.py</code></a></p>
 </div>
 </div>
-<div id="912c965d" class="cell" data-execution_count="8">
+<div id="4a5e699f" class="cell" data-execution_count="8">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="8">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/asian_lines.py" class="code-link">Odds to expected goals for each side → <code>code/lt/asian_lines.py</code></a></p>
 </div>
@@ -539,13 +539,13 @@ window.Quarto = {
 <p>where <span class="math inline">w_g + w_x + w_o = 1</span></p>
 </div>
 <p>The optimised window and weights were chosen by grid search, separately for each league. Every window from 5 to 29 matches and every weight combination was tested. Each match was predicted using only ratings from the previous n games. The predictions were then scored on mean absolute error (MAE) against the market implied total goals and goal supremacy for each match. The training data only contained data from seasons up to 2022/23. The winning combination was then tested on data from 2023/24 onward.</p>
-<div id="4344e882" class="cell" data-execution_count="9">
+<div id="733efa99" class="cell" data-execution_count="9">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="9">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/optimise.py#L73-L98" class="code-link">Grid search: find_optimal_parameters() → <code>code/lt/optimise.py</code></a></p>
 </div>
 </div>
 <p>The table below gives each league’s fitted values. The MAE columns are the test data error against the market, in goals.</p>
-<div id="96d20955" class="cell" data-execution_count="10">
+<div id="d24694d9" class="cell" data-execution_count="10">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="10">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -625,7 +625,7 @@ window.Quarto = {
 <h3 class="anchored" data-anchor-id="promoted-teams">Promoted teams</h3>
 <p>A newly promoted team has fewer top-flight matches to rate it on, and none at all at the start of the season. Its matches from the season it won promotion are used instead, with the market’s expected goals scaled to top-flight level.</p>
 <p>Each league’s scaling comes from its own past promotions (165 across the five leagues). For each one, the team’s average Asian goals in its first top-flight season are compared with its promotion season. Depending on the league, promoted teams’ expected goals scored fell by 21% to 33% and their expected goals conceded rose by 49% to 67%.</p>
-<div id="4e76149c" class="cell" data-execution_count="11">
+<div id="d0f13897" class="cell" data-execution_count="11">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="11">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -674,7 +674,7 @@ window.Quarto = {
 </div>
 </div>
 <p>This season’s three promoted Premier League teams show the adjustment. At the start of the season each was rated on its last 16 EnglandChampionship matches (the league’s optimised window). Their average Asian goals from those odds are multiplied by the Premier League factors (×0.67 for, ×1.67 against). The last two columns are what the market has implied for them in the Premier League so far.</p>
-<div id="12653b9a" class="cell" data-execution_count="12">
+<div id="167c84a5" class="cell" data-execution_count="12">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="12">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -737,7 +737,7 @@ window.Quarto = {
 </div>
 </div>
 <p>Only the odds-based metric can be carried over this way, because Understat has no second-division goals or xG. Within the window, goals and xG are averaged over the team’s top-flight matches. A team with no top-flight matches yet is rated on its scaled Asian goals alone. In the app, these teams are tagged <strong>P</strong> with the number of second-division matches in their window.</p>
-<div id="ec4ddc68" class="cell" data-execution_count="13">
+<div id="11f5713d" class="cell" data-execution_count="13">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="13">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/promotion.py" class="code-link">Promotion factors and adjustment → <code>code/lt/promotion.py</code></a></p>
 </div>
@@ -755,7 +755,7 @@ window.Quarto = {
 <p><span class="math display">
 \text{Home adv.} = \frac{\overline{\text{home goals}} - \overline{\text{away goals}}}{\overline{\text{home goals}} + \overline{\text{away goals}}}
 </span></p>
-<div id="c9a2a987" class="cell" data-execution_count="14">
+<div id="7dfbf0c3" class="cell" data-execution_count="14">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="14">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -830,7 +830,7 @@ window.Quarto = {
 </div>
 </div>
 </div>
-<div id="1187e5a6" class="cell" data-execution_count="15">
+<div id="b599513c" class="cell" data-execution_count="15">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="15">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/ratings.py#L73-L83" class="code-link">Expected goals: predict_goals() → <code>code/lt/ratings.py</code></a></p>
 </div>
@@ -839,7 +839,7 @@ window.Quarto = {
 <section id="draw-factor" class="level3">
 <h3 class="anchored" data-anchor-id="draw-factor">Draw factor</h3>
 <p>Two independent Poisson distributions turn the expected goals into a probability for every scoreline up to 10-10. Independent Poissons slightly under-price low-scoring draws, so the Dixon-Coles correction reweights 0-0, 0-1, 1-0 and 1-1 using one parameter, ρ. ρ is fitted for each league by maximum likelihood on past scorelines, with the market’s expected goals as the inputs. Adding up the scorelines where the home side wins, where it’s level, and where the away side wins gives the home, draw and away probabilities. Their inverses are the fair (margin-free) 1X2 odds.</p>
-<div id="3a68a26a" class="cell" data-execution_count="16">
+<div id="e4552481" class="cell" data-execution_count="16">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="16">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/dixon_coles.py#L20-L62" class="code-link">Dixon-Coles scorelines and 1X2 → <code>code/lt/dixon_coles.py</code></a></p>
 </div>
@@ -847,7 +847,7 @@ window.Quarto = {
 <section id="a-worked-example" class="level4">
 <h4 class="anchored" data-anchor-id="a-worked-example">A worked example</h4>
 <p>Arsenal v Leeds on 10 October is the next Premier League fixture. With the optimised ratings, Arsenal have an attack rating of 1.96 and a defence rating of 0.88. Leeds have 1.37 and 1.35, and the league’s average defence rating is 1.49. The table shows the match price at each step: the ratings alone, then home advantage (10.8% of the total moved to the home side), then the draw factor (ρ = -0.042).</p>
-<div id="d155cc97" class="cell" data-execution_count="18">
+<div id="4c099228" class="cell" data-execution_count="18">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="18">
 <div class="table-wrap">
 <table class="caption-top table table-sm table-striped small">
@@ -921,7 +921,7 @@ window.Quarto = {
 <section id="simulating-the-season" class="level2">
 <h2 class="anchored" data-anchor-id="simulating-the-season">6. Simulating the season</h2>
 <p>Expected points give the most likely finishing order, but not how likely each outcome is. For that, the rest of the season is simulated thousands of times. Each fixture is drawn as a home win, draw or away win from its 1X2 probabilities, and the final positions are recorded. The share of simulations in which a team wins the league, finishes in the top 4 or top 6, or ends in the bottom 3 is its probability, and 1 / probability is its fair price.</p>
-<div id="edc83cd0" class="cell" data-execution_count="19">
+<div id="6fa704fa" class="cell" data-execution_count="19">
 <div class="cell-output cell-output-display cell-output-markdown" data-execution_count="19">
 <p><a href="https://github.com/lukechambers999/portfolio_2026/blob/main/code/lt/simulate.py" class="code-link">Monte Carlo: simulate_season() → <code>code/lt/simulate.py</code></a></p>
 </div>
@@ -1004,7 +1004,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lukechambers999\.github\.io\/portfolio_2026\/");
+        var filterRegex = new RegExp("https:\/\/lukechambers999\.github\.io\/portfolio\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
