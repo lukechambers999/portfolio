@@ -115,40 +115,40 @@
   }
  ],
  "price_example": {
-  "Date": "2027-04-17",
-  "Home": "Hull",
-  "Away": "Coventry",
-  "home_att": 0.9611,
-  "home_def": 2.073,
-  "away_att": 1.0763,
-  "away_def": 1.8683,
+  "Date": "2026-10-10",
+  "Home": "Aston Villa",
+  "Away": "Brentford",
+  "home_att": 1.437,
+  "home_def": 1.514,
+  "away_att": 1.6012,
+  "away_def": 1.4419,
   "def_avg": 1.4881,
   "HA": 0.108371,
   "rho": -0.042024,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.2066,
-    "away_goals": 1.4994,
-    "home": 0.3055,
-    "draw": 0.2547,
-    "away": 0.4398
+    "home_goals": 1.3924,
+    "away_goals": 1.629,
+    "home": 0.3281,
+    "draw": 0.2402,
+    "away": 0.4317
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.3532,
-    "away_goals": 1.3527,
-    "home": 0.3712,
-    "draw": 0.2579,
-    "away": 0.371
+    "home_goals": 1.5561,
+    "away_goals": 1.4653,
+    "home": 0.399,
+    "draw": 0.2418,
+    "away": 0.3592
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.3532,
-    "away_goals": 1.3527,
-    "home": 0.366,
-    "draw": 0.2681,
-    "away": 0.3658
+    "home_goals": 1.5561,
+    "away_goals": 1.4653,
+    "home": 0.3943,
+    "draw": 0.2511,
+    "away": 0.3546
    }
   ]
  }

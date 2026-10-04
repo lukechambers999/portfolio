@@ -215,9 +215,10 @@ def build(us_league, cfg, tc_dir, cache):
     fx[["home_pc", "draw_pc", "away_pc"]] = [match_probabilities(h, a, rho) for h, a in zip(hp, ap)] if len(fx) else np.empty((0, 3))
     exp_table = expected_table(current_table(teams, results), fx)
     if us_league == SAMPLE_LEAGUE and len(fx):
-        # The worked price example is the fixture closest to even (home and away win chances
-        # nearest each other), where the draw factor makes the biggest difference
-        even = (fx["home_pc"] - fx["away_pc"]).abs().reset_index(drop=True).idxmin()
+        # The worked price example is the next game week's fixture closest to even (home and
+        # away win chances nearest each other), where the draw factor makes the biggest difference
+        next_week = fx.head(cfg["n_teams_div"] // 2)
+        even = (next_week["home_pc"] - next_week["away_pc"]).abs().reset_index(drop=True).idxmin()
         write_samples(past_all, cfg, price_example(fx.iloc[even], ratings, HA, rho))
 
     as_records = lambda df, cols: df[cols].assign(Date=df["Date"].dt.strftime("%Y-%m-%d")).to_dict("records")
