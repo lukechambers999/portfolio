@@ -113,5 +113,43 @@
    "AsianHomeGoals": 2.2326,
    "AsianAwayGoals": 0.7797
   }
- ]
+ ],
+ "price_example": {
+  "Date": "2026-10-10",
+  "Home": "Arsenal",
+  "Away": "Leeds",
+  "home_att": 1.9612,
+  "home_def": 0.8813,
+  "away_att": 1.3737,
+  "away_def": 1.3514,
+  "def_avg": 1.4881,
+  "HA": 0.108371,
+  "rho": -0.042024,
+  "steps": [
+   {
+    "step": "Ratings only",
+    "home_goals": 1.7811,
+    "away_goals": 0.8136,
+    "home": 0.6036,
+    "draw": 0.229,
+    "away": 0.1674
+   },
+   {
+    "step": "+ Home advantage",
+    "home_goals": 1.9217,
+    "away_goals": 0.673,
+    "home": 0.6705,
+    "draw": 0.2073,
+    "away": 0.1222
+   },
+   {
+    "step": "+ Draw factor",
+    "home_goals": 1.9217,
+    "away_goals": 0.673,
+    "home": 0.6664,
+    "draw": 0.2154,
+    "away": 0.1181
+   }
+  ]
+ }
 }

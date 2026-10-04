@@ -58,6 +58,25 @@ def fitted_table():
     return table(pd.DataFrame(rows), floatfmt=("", "", ".1f", ".1f", ".1f", ".3f", ".3f"))
 
 
+def home_advantage_table():
+    rows = [{
+        "League": m["league"], "Matches": m["n_history_matches"],
+        "Home goals": m["home_goals"], "Away goals": m["away_goals"],
+        "Home − away": m["home_goals"] - m["away_goals"], "Total": m["home_goals"] + m["away_goals"],
+        "Home adv.": f"{m['HA'] * 100:.1f}%",
+    } for m in metas]
+    return table(pd.DataFrame(rows), floatfmt=("", "", ".3f", ".3f", ".3f", ".3f", ""))
+
+
+def price_example_table(ex):
+    rows = [{
+        "Step": st["step"], "Home xG": st["home_goals"], "Away xG": st["away_goals"],
+        "Home %": f"{st['home'] * 100:.1f}%", "Draw %": f"{st['draw'] * 100:.1f}%", "Away %": f"{st['away'] * 100:.1f}%",
+        "Home odds": 1 / st["home"], "Draw odds": 1 / st["draw"], "Away odds": 1 / st["away"],
+    } for st in ex["steps"]]
+    return table(pd.DataFrame(rows), floatfmt=("", ".2f", ".2f", "", "", "", ".2f", ".2f", ".2f"))
+
+
 def promotion_table():
     rows = [{
         "League": m["league"], "Promotions": m["promotion"]["n"],
@@ -72,6 +91,7 @@ def promotion_table():
 epl = next(lt for lt in leagues if lt["meta"]["key"] == "epl")
 epl_promo = epl["meta"]["promotion"]
 epl_window = epl["meta"]["defaults"]["n_matches"]
+epl_below = epl["meta"]["league_below"]
 
 
 def promoted_example_table():
@@ -264,12 +284,12 @@ promotion_table()
 
 This season's three promoted Premier League teams show the adjustment.
 At the start of the season each was rated on its last
-`{python} epl_window` Championship matches (the league's
+`{python} epl_window` `{python} epl_below` matches (the league's
 optimised window). Their average Asian goals from those odds are
-multiplied by the Premier League factors (×`{python} f"{epl_promo['for']:.2f}"`
-for, ×`{python} f"{epl_promo['conc']:.2f}"` against). The last two
-columns are what the market has implied for them in the Premier League
-so far.
+multiplied by the Premier League factors
+(×`{python} f"{epl_promo['for']:.2f}"` for,
+×`{python} f"{epl_promo['conc']:.2f}"` against). The last two columns
+are what the market has implied for them in the Premier League so far.
 
 ```{python}
 promoted_example_table()
@@ -288,15 +308,14 @@ code_link("code/lt/promotion.py", "Promotion factors and adjustment")
 
 ## 4. Generating match prices
 
-A fixture's expected goals multiply one side's attack by the other
-side's defence, relative to the league's average defence:
+Each teams predicted goals is calculated by multiplying one team's
+attack rating by the other teams defense rating, then dividing by the
+league average defense rating. This give a goals and supremacy line for
+each upcoming fixture.
+mbda_{home} = \frac{\text{Att}_{home}\times\text{Def}_{away}}{\overline{\text{Def}}}
+$$
 
-$$
-\lambda_{home} = \frac{\text{Att}_{home}\times\text{Def}_{away}}{\overline{\text{Def}}}
-$$
-
-$$
-\lambda_{away} = \frac{\text{Att}_{away}\times\text{Def}_{home}}{\overline{\text{Def}}}
+$$\lambda_{away} = \frac{\text{Att}_{away}\times\text{Def}_{home}}{\overline{\text{Def}}}
 $$
 
 ### Home advantage
@@ -306,7 +325,15 @@ home team gains a fixed share of the match's expected goals
 (`{python} f"{ha[0]:.1f}% to {ha[-1]:.1f}%"` depending on the league)
 and the total stays the same. That share is the home-minus-away goal
 difference as a proportion of all goals in the league's non-COVID
-history.
+history:
+
+$$
+\text{Home adv.} = \frac{\overline{\text{home goals}} - \overline{\text{away goals}}}{\overline{\text{home goals}} + \overline{\text{away goals}}}
+$$
+
+```{python}
+home_advantage_table()
+```
 
 ```{python}
 code_link("code/lt/ratings.py#L73-L83", "Expected goals: predict_goals()")
@@ -326,6 +353,30 @@ home, draw and away probabilities. Their inverses are the fair
 
 ```{python}
 code_link("code/lt/dixon_coles.py#L20-L62", "Dixon-Coles scorelines and 1X2")
+```
+
+```{python}
+ex = samples["price_example"]
+ex_date = pd.Timestamp(ex["Date"])
+ex_match = f"{ex['Home']} v {ex['Away']}"
+ex_when = f"{ex_date.day} {ex_date:%B}"
+```
+
+#### A worked example
+
+`{python} ex_match` on `{python} ex_when` is the next Premier League
+fixture. With the optimised ratings, `{python} ex['Home']` have an
+attack rating of `{python} f"{ex['home_att']:.2f}"` and a defence rating
+of `{python} f"{ex['home_def']:.2f}"`. `{python} ex['Away']` have
+`{python} f"{ex['away_att']:.2f}"` and `{python} f"{ex['away_def']:.2f}"`,
+and the league's average defence rating is
+`{python} f"{ex['def_avg']:.2f}"`. The table shows the match price at
+each step: the ratings alone, then home advantage
+(`{python} f"{ex['HA'] * 100:.1f}%"` of the total moved to the home
+side), then the draw factor (ρ = `{python} f"{ex['rho']:.3f}"`).
+
+```{python}
+price_example_table(ex)
 ```
 
 The **predicted table** adds each fixture's expected points (3 × win

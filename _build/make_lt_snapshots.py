@@ -112,7 +112,7 @@ def promotion_adjusted_history(past_all, below, cfg, current):
 
 # The latest matches with lines as each source has them, for the page's Data section.
 # Understat rows keep Understat's own team spellings, to show the name matching.
-def write_samples(past_all, cfg):
+def write_samples(past_all, cfg, price_example):
     s = past_all.dropna(subset=["AsianHomeGoals", "AsianAwayGoals"]).tail(N_SAMPLE).copy()
     s["Date"] = s["Date"].dt.strftime("%Y-%m-%d")
     us_names = {tc: us for us, tc in understat.NAME_CONV.items()}
@@ -123,8 +123,24 @@ def write_samples(past_all, cfg):
         "league": cfg["name"],
         "understat": num(us, ["Date", "Home", "Away", "goals_h", "goals_a", "xG_h", "xG_a"]),
         "totalcorner": num(s, ["Date", "Home", "Away", *TC_COLS[3:], "AsianHomeGoals", "AsianAwayGoals"]),
+        "price_example": price_example,
     }
     (OUT / "samples.json").write_text(json.dumps(data, indent=1), encoding="utf-8")
+
+
+# One upcoming fixture priced step by step: ratings alone, then home advantage, then the draw factor
+def price_example(fixture, ratings, HA, rho):
+    home, away = ratings.loc[fixture["Home"]], ratings.loc[fixture["Away"]]
+    ds_avg = ratings["DS_avg"].iloc[0]
+    steps = []
+    for step, ha, rh in [("Ratings only", 0.0, 0.0), ("+ Home advantage", HA, 0.0), ("+ Draw factor", HA, rho)]:
+        hp, ap, _, _ = predict_goals(home["weight_AS"], home["weight_DS"], away["weight_AS"], away["weight_DS"], ds_avg, ha)
+        steps.append({"step": step, "home_goals": r(hp, 4), "away_goals": r(ap, 4),
+                      **dict(zip(["home", "draw", "away"], (r(p, 4) for p in match_probabilities(hp, ap, rh))))})
+    return {"Date": fixture["Date"].strftime("%Y-%m-%d"), "Home": fixture["Home"], "Away": fixture["Away"],
+            "home_att": r(home["weight_AS"], 4), "home_def": r(home["weight_DS"], 4),
+            "away_att": r(away["weight_AS"], 4), "away_def": r(away["weight_DS"], 4),
+            "def_avg": r(ds_avg, 4), "HA": r(HA), "rho": r(rho), "steps": steps}
 
 
 def build(us_league, cfg, tc_dir, cache):
@@ -145,8 +161,6 @@ def build(us_league, cfg, tc_dir, cache):
     past_all = attach_lines(played, tc)
     past_all["matchid"] = past_all["Date"].dt.strftime("%Y-%m-%d") + "-" + past_all["Home"] + "-" + past_all["Away"]
     past_all["League"] = cfg["league_tc"]
-    if us_league == SAMPLE_LEAGUE:
-        write_samples(past_all, cfg)
 
     # Home advantage on every non-COVID result; rho and the grid search on matches with lines
     past = remove_covid_period(past_all)
@@ -190,13 +204,15 @@ def build(us_league, cfg, tc_dir, cache):
     fx["Home_Pred_Goals"], fx["Away_Pred_Goals"] = hp, ap
     fx[["home_pc", "draw_pc", "away_pc"]] = [match_probabilities(h, a, rho) for h, a in zip(hp, ap)] if len(fx) else np.empty((0, 3))
     exp_table = expected_table(current_table(teams, results), fx)
+    if us_league == SAMPLE_LEAGUE and len(fx):
+        write_samples(past_all, cfg, price_example(fx.iloc[0], ratings, HA, rho))
 
     as_records = lambda df, cols: df[cols].assign(Date=df["Date"].dt.strftime("%Y-%m-%d")).to_dict("records")
     data = {
         "meta": {
             "key": key, "league": cfg["name"], "season": season,
             "lines_to": tc["Date"].max().strftime("%Y-%m-%d"), "n_results_no_lines": int(len(no_lines)),
-            "HA": r(HA), "rho": r(rho), "window_max": window_max, "window_min": WINDOW_MIN,
+            "HA": r(HA), "home_goals": r(past["goals_h"].mean(), 4), "away_goals": r(past["goals_a"].mean(), 4), "rho": r(rho), "window_max": window_max, "window_min": WINDOW_MIN,
             "defaults": {"n_matches": n_best, "goals_wgt": w_best[0], "xG_wgt": w_best[1], "asian_wgt": w_best[2]},
             "test_mae": {"total": r(mae_total_test, 4), "sup": r(mae_sup_test, 4), "split": TRAIN_TEST_SPLIT},
             "n_history_matches": int(len(past)), "n_lined_matches": int(len(lined)),
