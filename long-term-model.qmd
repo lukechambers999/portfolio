@@ -97,19 +97,7 @@ The data was last updated on `{python} updated`, covering the
 `{python} season.replace("/20", "/")` season so far. Results and
 fixtures are refreshed every day.
 
-## 2. Overview
-
--   Data sources and scraping
-
--   Creating team ratings
-
--   Optimising ratings
-
--   Handling Promoted Teams
-
--   Adding a draw factor
-
-## 3. Data
+## 2. The Data
 
 Two data sources are scraped independently and reconciled by mapping
 differing team names and creating a unique matchid for each fixture.
@@ -124,6 +112,44 @@ differing team names and creating a unique matchid for each fixture.
     goal distribution, and the handicap line is solved using a Skellam
     distribution. Together they give the market implied expected goals
     for each side, called *Asian goals* here.
+
+```{python}
+samples = json.loads((SNAP / "lt" / "samples.json").read_text(encoding="utf-8"))
+us_sample = pd.DataFrame(samples["understat"])
+tc_sample = pd.DataFrame(samples["totalcorner"])
+for df in (us_sample, tc_sample):
+    df["Date"] = pd.to_datetime(df["Date"]).dt.strftime("%d %b")
+sample_league = samples["league"]
+```
+
+The latest `{python} sample_league` matches from each source are shown
+below. Understat's team names are shown as Understat spells them.
+
+**Understat** (goals and xG):
+
+```{python}
+table(us_sample.set_axis(["Date", "Home", "Away", "Home goals", "Away goals", "Home xG", "Away xG"], axis=1),
+      floatfmt=("", "", "", ".0f", ".0f", ".2f", ".2f"))
+```
+
+**totalcorner.com** (pre-match lines and odds, with the Asian goals
+solved from them):
+
+```{python}
+table(tc_sample.set_axis(["Date", "Home", "Away", "AH line", "AH home odds", "AH away odds",
+                          "Goal line", "Over odds", "Under odds", "Home Asian goals", "Away Asian goals"], axis=1),
+      floatfmt=("", "", "", "", ".3f", ".3f", "", ".3f", ".3f", ".2f", ".2f"))
+```
+
+**Joined**, one row per match with all three metrics the ratings use:
+
+```{python}
+joined = pd.concat([tc_sample[["Date", "Home", "Away"]], us_sample[["goals_h", "goals_a", "xG_h", "xG_a"]],
+                    tc_sample[["AsianHomeGoals", "AsianAwayGoals"]]], axis=1)
+table(joined.set_axis(["Date", "Home", "Away", "Home goals", "Away goals", "Home xG", "Away xG",
+                       "Home Asian goals", "Away Asian goals"], axis=1),
+      floatfmt=("", "", "", ".0f", ".0f", ".2f", ".2f", ".2f", ".2f"))
+```
 
 ```{python}
 code_link("code/lt/understat.py", "Understat scrape and team-name matching")
@@ -165,20 +191,20 @@ from 2023/24 onward.
 code_link("code/lt/optimise.py#L73-L98", "Grid search: find_optimal_parameters()")
 ```
 
-The optimal ratings for each league were broadly in line. Each one
-picked a window of `{python} window_txt` matches with
-`{python} odds_txt` of the weight on the odds. The odds heavy weighting
-is expected, given how efficient market odds are at KO and because the
-market odds already contain information on teams' strength based on goals
-and xG. The small goals and xG weights pick up recent performance the
-lines may not have caught up with yet.
-
 The table below gives each league's fitted values. The MAE columns are
 the test data error against the market, in goals.
 
 ```{python}
 fitted_table()
 ```
+
+The optimal ratings for each league were broadly in line. Each one
+picked a window of `{python} window_txt` matches with
+`{python} odds_txt` of the weight on the odds. The odds heavy weighting
+is expected, given how efficient market odds are at KO and because the
+market odds already contain information on teams' strength based on
+goals and xG. The small goals and xG weights pick up recent performance
+the lines may not have caught up with yet.
 
 ### Promoted teams
 

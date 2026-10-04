@@ -1,0 +1,117 @@
+{
+ "league": "Premier League",
+ "understat": [
+  {
+   "Date": "2026-09-19",
+   "Home": "Tottenham",
+   "Away": "Aston Villa",
+   "goals_h": 2.0,
+   "goals_a": 3.0,
+   "xG_h": 1.7218,
+   "xG_a": 1.7092
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Bournemouth",
+   "Away": "Liverpool",
+   "goals_h": 0.0,
+   "goals_a": 1.0,
+   "xG_h": 0.9447,
+   "xG_a": 1.2912
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Fulham",
+   "Away": "Manchester United",
+   "goals_h": 1.0,
+   "goals_a": 1.0,
+   "xG_h": 1.7172,
+   "xG_a": 2.1245
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Leeds",
+   "Away": "Crystal Palace",
+   "goals_h": 0.0,
+   "goals_a": 0.0,
+   "xG_h": 1.0855,
+   "xG_a": 1.1291
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Manchester City",
+   "Away": "Sunderland",
+   "goals_h": 5.0,
+   "goals_a": 3.0,
+   "xG_h": 2.6686,
+   "xG_a": 3.1066
+  }
+ ],
+ "totalcorner": [
+  {
+   "Date": "2026-09-19",
+   "Home": "Tottenham",
+   "Away": "Aston Villa",
+   "AH.Line": "Full (-0.5)",
+   "AH.Home.Odds": 1.85,
+   "AH.Away.Odds": 2.0,
+   "Goal.Line": "Full (3.0)",
+   "Goal.O.Odds": 2.025,
+   "Goal.U.Odds": 1.825,
+   "AsianHomeGoals": 1.8316,
+   "AsianAwayGoals": 1.2097
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Bournemouth",
+   "Away": "Liverpool",
+   "AH.Line": "Full (0.0, +0.5)",
+   "AH.Home.Odds": 1.95,
+   "AH.Away.Odds": 1.9,
+   "Goal.Line": "Full (3.0)",
+   "Goal.O.Odds": 1.95,
+   "Goal.U.Odds": 1.9,
+   "AsianHomeGoals": 1.4135,
+   "AsianAwayGoals": 1.7162
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Fulham",
+   "Away": "Man Utd",
+   "AH.Line": "Full (+0.5)",
+   "AH.Home.Odds": 1.85,
+   "AH.Away.Odds": 2.0,
+   "Goal.Line": "Full (3.0)",
+   "Goal.O.Odds": 1.9,
+   "Goal.U.Odds": 1.95,
+   "AsianHomeGoals": 1.3713,
+   "AsianAwayGoals": 1.8181
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Leeds",
+   "Away": "Crystal Palace",
+   "AH.Line": "Full (-0.5, -1.0)",
+   "AH.Home.Odds": 1.825,
+   "AH.Away.Odds": 2.025,
+   "Goal.Line": "Full (2.5, 3.0)",
+   "Goal.O.Odds": 1.925,
+   "Goal.U.Odds": 1.925,
+   "AsianHomeGoals": 1.9088,
+   "AsianAwayGoals": 0.9994
+  },
+  {
+   "Date": "2026-09-20",
+   "Home": "Man City",
+   "Away": "Sunderland",
+   "AH.Line": "Full (-1.0, -1.5)",
+   "AH.Home.Odds": 1.825,
+   "AH.Away.Odds": 2.025,
+   "Goal.Line": "Full (3.0)",
+   "Goal.O.Odds": 2.05,
+   "Goal.U.Odds": 1.8,
+   "AsianHomeGoals": 2.2326,
+   "AsianAwayGoals": 0.7797
+  }
+ ]
+}

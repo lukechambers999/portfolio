@@ -48,6 +48,8 @@ OUT = ROOT / "snapshots" / "lt"
 WINDOW_CAP = 38  # one season
 WINDOW_MIN = 5
 TC_COLS = ["Date", "Home", "Away", "AH.Line", "AH.Home.Odds", "AH.Away.Odds", "Goal.Line", "Goal.O.Odds", "Goal.U.Odds"]
+SAMPLE_LEAGUE = "EPL"  # league whose latest matches are shown as source samples on the page
+N_SAMPLE = 5
 
 
 def r(x, nd=6):
@@ -60,7 +62,7 @@ def load_tc(tc_dir, league_file):
     tc["Date"] = pd.to_datetime(tc["Date"], format="%d.%m.%Y")
     tc = add_asian_goals(tc.drop_duplicates(subset=["Date", "Home", "Away"]))
     tc["League"] = league_file
-    return tc[["Date", "Home", "Away", "League", "AsianHomeGoals", "AsianAwayGoals"]]
+    return tc[["Date", "Home", "Away", "League", *TC_COLS[3:], "AsianHomeGoals", "AsianAwayGoals"]]
 
 
 # Joins each Understat match to its totalcorner lines: same teams, kick-off dates within two days
@@ -108,6 +110,23 @@ def promotion_adjusted_history(past_all, below, cfg, current):
     return ts, promo_for, promo_conc, len(comparison)
 
 
+# The latest matches with lines as each source has them, for the page's Data section.
+# Understat rows keep Understat's own team spellings, to show the name matching.
+def write_samples(past_all, cfg):
+    s = past_all.dropna(subset=["AsianHomeGoals", "AsianAwayGoals"]).tail(N_SAMPLE).copy()
+    s["Date"] = s["Date"].dt.strftime("%Y-%m-%d")
+    us_names = {tc: us for us, tc in understat.NAME_CONV.items()}
+    us = s.assign(Home=s["Home"].map(lambda t: us_names.get(t, t)), Away=s["Away"].map(lambda t: us_names.get(t, t)))
+    num = lambda df, cols: [{c: (r(v, 4) if isinstance(v, float) else v) for c, v in row.items()}
+                            for row in df[cols].to_dict("records")]
+    data = {
+        "league": cfg["name"],
+        "understat": num(us, ["Date", "Home", "Away", "goals_h", "goals_a", "xG_h", "xG_a"]),
+        "totalcorner": num(s, ["Date", "Home", "Away", *TC_COLS[3:], "AsianHomeGoals", "AsianAwayGoals"]),
+    }
+    (OUT / "samples.json").write_text(json.dumps(data, indent=1), encoding="utf-8")
+
+
 def build(us_league, cfg, tc_dir, cache):
     key = us_league.lower()
     as_of = pd.Timestamp(date.today())
@@ -126,6 +145,8 @@ def build(us_league, cfg, tc_dir, cache):
     past_all = attach_lines(played, tc)
     past_all["matchid"] = past_all["Date"].dt.strftime("%Y-%m-%d") + "-" + past_all["Home"] + "-" + past_all["Away"]
     past_all["League"] = cfg["league_tc"]
+    if us_league == SAMPLE_LEAGUE:
+        write_samples(past_all, cfg)
 
     # Home advantage on every non-COVID result; rho and the grid search on matches with lines
     past = remove_covid_period(past_all)

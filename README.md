@@ -23,7 +23,7 @@ which holds two projects:
 | `long-term-model.qmd` | Season Outrights Model page: write-up plus the embedded interactive app |
 | `code/lt/` | Season Outrights Model code (adapted from `portfolio/LT_model.ipynb`), linked from that page |
 | `lt_app/` | The in-browser app: `model.js` mirrors `code/lt/`, `app.js` is the UI |
-| `snapshots/lt/` | Per-league JSON the app runs on (`index.json` lists the leagues) |
+| `snapshots/lt/` | Per-league JSON the app runs on (`index.json` lists the leagues; `samples.json` holds the latest Premier League rows from each source for the Data section) |
 | `_build/make_lt_snapshots.py` | Regenerates `snapshots/lt/` for the top-5 leagues: scrapes Understat, joins the totalcorner lines, fits HA, rho, the default window/weights and the promotion factors |
 | `.github/workflows/update_lt_data.yml` | Daily Action: pulls the totalcorner CSVs from Google Drive, runs the build, commits `snapshots/lt/` if it changed and republishes |
 
