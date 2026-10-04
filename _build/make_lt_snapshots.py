@@ -48,8 +48,16 @@ OUT = ROOT / "snapshots" / "lt"
 WINDOW_CAP = 38  # one season
 WINDOW_MIN = 5
 TC_COLS = ["Date", "Home", "Away", "AH.Line", "AH.Home.Odds", "AH.Away.Odds", "Goal.Line", "Goal.O.Odds", "Goal.U.Odds"]
-SAMPLE_LEAGUE = "EPL"  # league whose latest matches are shown as source samples on the page
-N_SAMPLE = 5
+SAMPLE_LEAGUE = "EPL"  # league whose matches are shown as source samples on the page
+# Fixed sample matches (Understat date, totalcorner names), chosen because Understat and
+# totalcorner spell some of the teams differently (Man Utd, Man City)
+SAMPLE_MATCHIDS = [
+    "2026-09-19-Tottenham-Aston Villa",
+    "2026-09-20-Bournemouth-Liverpool",
+    "2026-09-20-Fulham-Man Utd",
+    "2026-09-20-Leeds-Crystal Palace",
+    "2026-09-20-Man City-Sunderland",
+]
 
 
 def r(x, nd=6):
@@ -110,10 +118,12 @@ def promotion_adjusted_history(past_all, below, cfg, current):
     return ts, promo_for, promo_conc, len(comparison)
 
 
-# The latest matches with lines as each source has them, for the page's Data section.
+# The fixed sample matches as each source has them, for the page's Data section.
 # Understat rows keep Understat's own team spellings, to show the name matching.
 def write_samples(past_all, cfg, price_example):
-    s = past_all.dropna(subset=["AsianHomeGoals", "AsianAwayGoals"]).tail(N_SAMPLE).copy()
+    s = past_all[past_all["matchid"].isin(SAMPLE_MATCHIDS)].dropna(subset=["AsianHomeGoals", "AsianAwayGoals"]).copy()
+    if len(s) != len(SAMPLE_MATCHIDS):
+        raise SystemExit(f"sample matches missing: {sorted(set(SAMPLE_MATCHIDS) - set(s['matchid']))}")
     s["Date"] = s["Date"].dt.strftime("%Y-%m-%d")
     us_names = {tc: us for us, tc in understat.NAME_CONV.items()}
     us = s.assign(Home=s["Home"].map(lambda t: us_names.get(t, t)), Away=s["Away"].map(lambda t: us_names.get(t, t)))
@@ -205,7 +215,10 @@ def build(us_league, cfg, tc_dir, cache):
     fx[["home_pc", "draw_pc", "away_pc"]] = [match_probabilities(h, a, rho) for h, a in zip(hp, ap)] if len(fx) else np.empty((0, 3))
     exp_table = expected_table(current_table(teams, results), fx)
     if us_league == SAMPLE_LEAGUE and len(fx):
-        write_samples(past_all, cfg, price_example(fx.iloc[0], ratings, HA, rho))
+        # The worked price example is the fixture closest to even (home and away win chances
+        # nearest each other), where the draw factor makes the biggest difference
+        even = (fx["home_pc"] - fx["away_pc"]).abs().reset_index(drop=True).idxmin()
+        write_samples(past_all, cfg, price_example(fx.iloc[even], ratings, HA, rho))
 
     as_records = lambda df, cols: df[cols].assign(Date=df["Date"].dt.strftime("%Y-%m-%d")).to_dict("records")
     data = {
