@@ -71,9 +71,10 @@ def home_advantage_table():
 def price_example_table(ex):
     rows = [{
         "Step": st["step"], "Home xG": st["home_goals"], "Away xG": st["away_goals"],
+        "Goals": st["home_goals"] + st["away_goals"], "Supremacy": st["home_goals"] - st["away_goals"],
         "Home odds": 1 / st["home"], "Draw odds": 1 / st["draw"], "Away odds": 1 / st["away"],
     } for st in ex["steps"]]
-    return table(pd.DataFrame(rows), floatfmt=("", ".2f", ".2f", ".2f", ".2f", ".2f"))
+    return table(pd.DataFrame(rows), floatfmt=("", ".2f", ".2f", ".2f", "+.2f", ".2f", ".2f", ".2f"))
 
 
 def promotion_table():
@@ -308,8 +309,8 @@ code_link("code/lt/promotion.py", "Promotion factors and adjustment")
 Each team's predicted goals is calculated by multiplying one team's
 attack rating by the other team's defence rating, then dividing by the
 league average defence rating. Adjustments for home advantage are then
-added to give a final goals and supremacy line for every upcoming
-fixture. We then run a Poisson distribution for each team and add a
+added to give a final goals and supremacy line for every fixture. We
+then run an independent Poisson distribution for each team and add a
 further draw factor adjustment to give final home win, draw and away win
 probabilities for each fixture.
 
@@ -322,8 +323,8 @@ $$
 
 ### Home advantage
 
-Home advantage is the difference between average home and away goals
-as a proportion of average total goals, over each league's non-COVID
+Home advantage is the difference between average home and away goals as
+a proportion of average total goals, over each league's non-COVID
 history.
 
 $$
@@ -360,12 +361,15 @@ ex = samples["price_example"]
 ex_date = pd.Timestamp(ex["Date"])
 ex_match = f"{ex['Home']} v {ex['Away']}"
 ex_when = f"{ex_date.day} {ex_date:%B}"
+ex_raw, ex_ha, ex_dc = ex["steps"]
+ex_goals = lambda st: f"{st['home_goals'] + st['away_goals']:.2f}"
+ex_sup = lambda st: f"{st['home_goals'] - st['away_goals']:+.2f}"
+ex_odds = lambda st: ", ".join(f"{1 / st[k]:.2f}" for k in ("home", "draw", "away"))
 ```
 
 ### A worked example
 
-`{python} ex_match` on `{python} ex_when` is the Premier League match
-in the next game week with the closest odds. With the optimised ratings,
+`{python} ex_match` on `{python} ex_when` - with the optimised ratings,
 `{python} ex['Home']` have an attack rating of
 `{python} f"{ex['home_att']:.2f}"` and a defence rating of
 `{python} f"{ex['home_def']:.2f}"`. `{python} ex['Away']` have
@@ -373,18 +377,24 @@ in the next game week with the closest odds. With the optimised ratings,
 `{python} f"{ex['away_def']:.2f}"`, and the league's average defence
 rating is `{python} f"{ex['def_avg']:.2f}"`.
 
-The table shows the match price at each step: the ratings alone, then
-home advantage (`{python} f"{ex['HA'] * 100:.1f}%"` of the total moved
-to the home side), then the draw factor (ρ =
-`{python} f"{ex['rho']:.3f}"`).
+The table shows the effect these adjustments make on the goals and
+supremacy lines, and the subsequent 1X2 match prices. The ratings alone
+give a goal line of `{python} ex_goals(ex_raw)` and a supremacy line of
+`{python} ex_sup(ex_raw)`. The home advantage factor of
+`{python} f"{ex['HA'] * 100:.1f}%"` leaves the goal line unchanged but
+moves supremacy to `{python} ex_sup(ex_ha)`. This gives 1X2 prices of
+`{python} ex_odds(ex_ha)`. Finally the draw factor of
+`{python} f"{ex['rho']:.3f}"` shortens the draw price to give our
+definitive 1X2 prices of `{python} ex_odds(ex_dc)`.
 
 ```{python}
 price_example_table(ex)
 ```
 
-After we have win, draw and lose probabilities for every match, the
-**predicted table** adds each fixture's expected points (3 × win
-probability + draw probability) and expected goals to the current table.
+After we have expected team goals predictions and win, draw and lose
+probabilities for every match, the **predicted table** adds each
+fixture's expected points (3 × win probability + draw probability) and
+expected goals to the current table.
 
 ## 5. Simulating the season
 
