@@ -18,9 +18,14 @@ import hashlib
 import json
 from pathlib import Path
 
+import sys
+
 import pandas as pd
-from IPython.display import HTML, display
+from IPython.display import HTML, Markdown, display
 from _charts import SNAP, code_link, table
+
+sys.path.insert(0, "code/lt")
+from dixon_coles import LOW_SCORELINES, score_matrix
 
 LT_APP = Path("lt_app")
 index = json.loads((SNAP / "lt" / "index.json").read_text(encoding="utf-8"))
@@ -75,6 +80,21 @@ def price_example_table(ex):
         "Home odds": 1 / st["home"], "Draw odds": 1 / st["draw"], "Away odds": 1 / st["away"],
     } for st in ex["steps"]]
     return table(pd.DataFrame(rows), floatfmt=("", ".2f", ".2f", ".2f", "+.2f", ".2f", ".2f", ".2f"))
+
+
+# The example's low scorelines (0-2 goals each side) as probabilities, side by side without
+# and with the draw factor. The four cells Dixon-Coles reweights are in bold.
+def draw_factor_grids(ex):
+    st = ex["steps"][-1]
+    grids = []
+    for title, rho in [("Independent Poisson", 0.0), (f"With draw factor (ρ = {ex['rho']:.3f})", ex["rho"])]:
+        m = score_matrix(st["home_goals"], st["away_goals"], rho)
+        cell = lambda h, a: f"**{m[h, a]:.1%}**" if (h, a) in LOW_SCORELINES else f"{m[h, a]:.1%}"
+        df = pd.DataFrame([{f"{ex['Home']} ↓ {ex['Away']} →": h, **{str(a): cell(h, a) for a in range(3)}}
+                           for h in range(3)])
+        md = df.to_markdown(index=False, colalign=("left", "right", "right", "right"))
+        grids.append(f"::: {{}}\n**{title}**\n\n::: {{.table-wrap}}\n{md}\n:::\n:::")
+    return Markdown(":::: {layout-ncol=2}\n" + "\n\n".join(grids) + "\n::::")
 
 
 def promotion_table():
@@ -270,12 +290,11 @@ none at all at the start of the season. Its matches from the season it
 won promotion are used instead, with the market's expected goals scaled
 to top-flight level.
 
-Each league's scaling comes from its own past promotions
-(`{python} n_promotions` across the five leagues). For each one, the
-team's average Asian goals in its first top-flight season are compared
-with its promotion season. Depending on the league, promoted teams'
-expected goals scored fell by `{python} pct_range(promo_for)` and their
-expected goals conceded rose by `{python} pct_range(promo_conc)`.
+Each league's scaling comes from its own past promotions. For each one,
+the team's average Asian goals in its first top-flight season are
+compared with its promotion season. Depending on the league, promoted
+teams' expected goals scored fell by `{python} pct_range(promo_for)` and
+their expected goals conceded rose by `{python} pct_range(promo_conc)`.
 
 ```{python}
 promotion_table()
@@ -375,20 +394,30 @@ ex_odds = lambda st: ", ".join(f"{1 / st[k]:.2f}" for k in ("home", "draw", "awa
 `{python} f"{ex['home_def']:.2f}"`. `{python} ex['Away']` have
 `{python} f"{ex['away_att']:.2f}"` and
 `{python} f"{ex['away_def']:.2f}"`, and the league's average defence
-rating is `{python} f"{ex['def_avg']:.2f}"`.
+rating is `{python} f"{ex['def_avg']:.2f}"`. These ratings alone give a
+goal line of `{python} ex_goals(ex_raw)` and a supremacy line of
+`{python} ex_sup(ex_raw)`.
 
 The table shows the effect these adjustments make on the goals and
-supremacy lines, and the subsequent 1X2 match prices. The ratings alone
-give a goal line of `{python} ex_goals(ex_raw)` and a supremacy line of
-`{python} ex_sup(ex_raw)`. The home advantage factor of
-`{python} f"{ex['HA'] * 100:.1f}%"` leaves the goal line unchanged but
-moves supremacy to `{python} ex_sup(ex_ha)`. This gives 1X2 prices of
-`{python} ex_odds(ex_ha)`. Finally the draw factor of
+supremacy lines, and the subsequent 1X2 match prices. The home advantage
+factor of `{python} f"{ex['HA'] * 100:.1f}%"` leaves the goal line
+unchanged but moves supremacy to `{python} ex_sup(ex_ha)`. This gives
+1X2 prices of `{python} ex_odds(ex_ha)`. Finally the draw factor of
 `{python} f"{ex['rho']:.3f}"` shortens the draw price to give our
 definitive 1X2 prices of `{python} ex_odds(ex_dc)`.
 
 ```{python}
 price_example_table(ex)
+```
+
+The grids show this match's low-scoring scorelines before and after the
+draw factor (rows are `{python} ex['Home']` goals, columns
+`{python} ex['Away']` goals). The correction raises the 0-0 and 1-1
+draws and lowers 1-0 and 0-1, while the other scorelines only move
+slightly as the probabilities are rescaled to sum to 100%.
+
+```{python}
+draw_factor_grids(ex)
 ```
 
 After we have expected team goals predictions and win, draw and lose
