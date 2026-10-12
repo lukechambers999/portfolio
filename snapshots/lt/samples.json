@@ -118,37 +118,37 @@
   "Date": "2026-10-17",
   "Home": "Everton",
   "Away": "Chelsea",
-  "home_att": 1.3231,
-  "home_def": 1.4953,
+  "home_att": 1.343,
+  "home_def": 1.4617,
   "away_att": 1.6365,
   "away_def": 1.4699,
-  "def_avg": 1.4921,
-  "HA": 0.108562,
+  "def_avg": 1.4944,
+  "HA": 0.108333,
   "rho": -0.042024,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.3035,
-    "away_goals": 1.64,
-    "home": 0.3048,
-    "draw": 0.2419,
-    "away": 0.4534
+    "home_goals": 1.321,
+    "away_goals": 1.6006,
+    "home": 0.3159,
+    "draw": 0.2441,
+    "away": 0.44
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.4632,
-    "away_goals": 1.4802,
-    "home": 0.3734,
-    "draw": 0.2456,
-    "away": 0.3809
+    "home_goals": 1.4792,
+    "away_goals": 1.4424,
+    "home": 0.3849,
+    "draw": 0.2467,
+    "away": 0.3685
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.4632,
-    "away_goals": 1.4802,
-    "home": 0.3686,
-    "draw": 0.2552,
-    "away": 0.3762
+    "home_goals": 1.4792,
+    "away_goals": 1.4424,
+    "home": 0.38,
+    "draw": 0.2563,
+    "away": 0.3636
    }
   ]
  }
