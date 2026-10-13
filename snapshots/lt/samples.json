@@ -122,33 +122,33 @@
   "home_def": 1.4617,
   "away_att": 1.6365,
   "away_def": 1.4699,
-  "def_avg": 1.4944,
-  "HA": 0.108333,
+  "def_avg": 1.494,
+  "HA": 0.108589,
   "rho": -0.042024,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.321,
-    "away_goals": 1.6006,
+    "home_goals": 1.3213,
+    "away_goals": 1.6011,
     "home": 0.3159,
-    "draw": 0.2441,
+    "draw": 0.244,
     "away": 0.44
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.4792,
+    "home_goals": 1.48,
     "away_goals": 1.4424,
-    "home": 0.3849,
-    "draw": 0.2467,
-    "away": 0.3685
+    "home": 0.3851,
+    "draw": 0.2466,
+    "away": 0.3683
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.4792,
+    "home_goals": 1.48,
     "away_goals": 1.4424,
-    "home": 0.38,
+    "home": 0.3802,
     "draw": 0.2563,
-    "away": 0.3636
+    "away": 0.3635
    }
   ]
  }
