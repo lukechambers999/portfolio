@@ -1,0 +1,2001 @@
+league,Date,season,isResult,Home,Away,goals_h,goals_a,xG_h,xG_a
+League One,2022-07-30,2022/2023,True,Accrington Stanley,Charlton Athletic,2.0,2.0,2.63,1.14
+League One,2022-07-30,2022/2023,True,Bristol Rovers,Forest Green Rovers,1.0,2.0,0.37,1.34
+League One,2022-07-30,2022/2023,True,Cambridge United,Milton Keynes Dons,1.0,0.0,0.5,0.23
+League One,2022-07-30,2022/2023,True,Cheltenham Town,Peterborough United,2.0,3.0,2.51,0.83
+League One,2022-07-30,2022/2023,True,Derby County,Oxford United,1.0,0.0,0.67,0.37
+League One,2022-07-30,2022/2023,True,Ipswich Town,Bolton Wanderers,1.0,1.0,0.86,0.89
+League One,2022-07-30,2022/2023,True,Lincoln City,Exeter City,1.0,1.0,0.77,0.63
+League One,2022-07-30,2022/2023,True,Morecambe,Shrewsbury Town,0.0,0.0,0.45,0.69
+League One,2022-07-30,2022/2023,True,Plymouth Argyle,Barnsley,1.0,0.0,1.25,1.16
+League One,2022-07-30,2022/2023,True,Port Vale,Fleetwood Town,2.0,1.0,0.55,0.51
+League One,2022-07-30,2022/2023,True,Sheffield Wednesday,Portsmouth,3.0,3.0,1.0,1.49
+League One,2022-07-30,2022/2023,True,Wycombe Wanderers,Burton Albion,3.0,0.0,1.45,0.47
+League One,2022-08-06,2022/2023,True,Barnsley,Cheltenham Town,1.0,0.0,1.46,0.74
+League One,2022-08-06,2022/2023,True,Bolton Wanderers,Wycombe Wanderers,3.0,0.0,2.12,1.01
+League One,2022-08-06,2022/2023,True,Burton Albion,Bristol Rovers,0.0,4.0,0.65,1.42
+League One,2022-08-06,2022/2023,True,Charlton Athletic,Derby County,1.0,0.0,1.6,1.13
+League One,2022-08-06,2022/2023,True,Exeter City,Port Vale,4.0,0.0,2.04,0.31
+League One,2022-08-06,2022/2023,True,Fleetwood Town,Plymouth Argyle,2.0,1.0,1.52,1.61
+League One,2022-08-06,2022/2023,True,Forest Green Rovers,Ipswich Town,1.0,2.0,1.47,0.83
+League One,2022-08-06,2022/2023,True,Milton Keynes Dons,Sheffield Wednesday,0.0,1.0,0.5,1.51
+League One,2022-08-06,2022/2023,True,Oxford United,Cambridge United,1.0,0.0,0.74,0.5
+League One,2022-08-06,2022/2023,True,Peterborough United,Morecambe,3.0,0.0,1.01,0.59
+League One,2022-08-06,2022/2023,True,Portsmouth,Lincoln City,0.0,0.0,1.36,0.27
+League One,2022-08-06,2022/2023,True,Shrewsbury Town,Accrington Stanley,0.0,1.0,0.85,0.43
+League One,2022-08-13,2022/2023,True,Bristol Rovers,Oxford United,1.0,0.0,0.46,0.24
+League One,2022-08-13,2022/2023,True,Accrington Stanley,Burton Albion,4.0,4.0,1.56,3.49
+League One,2022-08-13,2022/2023,True,Cambridge United,Exeter City,2.0,1.0,1.23,1.3
+League One,2022-08-13,2022/2023,True,Cheltenham Town,Portsmouth,0.0,2.0,0.96,1.76
+League One,2022-08-13,2022/2023,True,Derby County,Barnsley,2.0,1.0,0.77,0.99
+League One,2022-08-13,2022/2023,True,Ipswich Town,Milton Keynes Dons,3.0,0.0,1.09,0.42
+League One,2022-08-13,2022/2023,True,Lincoln City,Forest Green Rovers,1.0,1.0,0.88,0.69
+League One,2022-08-13,2022/2023,True,Morecambe,Fleetwood Town,1.0,1.0,1.05,0.89
+League One,2022-08-13,2022/2023,True,Plymouth Argyle,Peterborough United,2.0,0.0,1.83,0.22
+League One,2022-08-13,2022/2023,True,Port Vale,Bolton Wanderers,0.0,0.0,1.06,1.05
+League One,2022-08-13,2022/2023,True,Sheffield Wednesday,Charlton Athletic,1.0,0.0,0.72,0.64
+League One,2022-08-13,2022/2023,True,Wycombe Wanderers,Shrewsbury Town,1.0,2.0,0.81,1.3
+League One,2022-08-16,2022/2023,True,Barnsley,Bristol Rovers,3.0,0.0,0.9,0.49
+League One,2022-08-16,2022/2023,True,Bolton Wanderers,Morecambe,1.0,0.0,1.05,0.31
+League One,2022-08-16,2022/2023,True,Burton Albion,Ipswich Town,0.0,1.0,2.08,0.74
+League One,2022-08-16,2022/2023,True,Charlton Athletic,Plymouth Argyle,5.0,1.0,2.68,0.51
+League One,2022-08-16,2022/2023,True,Exeter City,Wycombe Wanderers,3.0,1.0,1.1,0.66
+League One,2022-08-16,2022/2023,True,Fleetwood Town,Cheltenham Town,0.0,0.0,0.6,0.65
+League One,2022-08-16,2022/2023,True,Milton Keynes Dons,Port Vale,2.0,1.0,0.45,0.84
+League One,2022-08-16,2022/2023,True,Oxford United,Lincoln City,1.0,2.0,2.07,0.68
+League One,2022-08-16,2022/2023,True,Peterborough United,Sheffield Wednesday,2.0,0.0,1.18,0.31
+League One,2022-08-16,2022/2023,True,Portsmouth,Cambridge United,4.0,1.0,1.53,0.53
+League One,2022-08-16,2022/2023,True,Shrewsbury Town,Derby County,0.0,0.0,0.43,1.1
+League One,2022-08-20,2022/2023,True,Barnsley,Wycombe Wanderers,0.0,3.0,0.69,1.48
+League One,2022-08-20,2022/2023,True,Bolton Wanderers,Sheffield Wednesday,0.0,2.0,0.6,1.71
+League One,2022-08-20,2022/2023,True,Burton Albion,Port Vale,0.0,2.0,0.57,1.59
+League One,2022-08-20,2022/2023,True,Charlton Athletic,Cambridge United,1.0,1.0,1.27,0.69
+League One,2022-08-20,2022/2023,True,Exeter City,Cheltenham Town,0.0,1.0,1.17,0.39
+League One,2022-08-20,2022/2023,True,Fleetwood Town,Derby County,0.0,0.0,0.73,2.4
+League One,2022-08-20,2022/2023,True,Forest Green Rovers,Plymouth Argyle,0.0,3.0,0.53,0.64
+League One,2022-08-20,2022/2023,True,Milton Keynes Dons,Accrington Stanley,1.0,1.0,0.62,1.66
+League One,2022-08-20,2022/2023,True,Oxford United,Morecambe,1.0,1.0,1.54,0.21
+League One,2022-08-20,2022/2023,True,Peterborough United,Lincoln City,4.0,0.0,2.64,0.25
+League One,2022-08-20,2022/2023,True,Portsmouth,Bristol Rovers,3.0,1.0,2.66,0.41
+League One,2022-08-20,2022/2023,True,Shrewsbury Town,Ipswich Town,0.0,3.0,0.44,1.69
+League One,2022-08-27,2022/2023,True,Accrington Stanley,Exeter City,0.0,0.0,0.56,0.38
+League One,2022-08-27,2022/2023,True,Bristol Rovers,Shrewsbury Town,1.0,1.0,0.79,1.77
+League One,2022-08-27,2022/2023,True,Cambridge United,Burton Albion,4.0,3.0,2.13,1.28
+League One,2022-08-27,2022/2023,True,Cheltenham Town,Oxford United,1.0,2.0,0.35,1.38
+League One,2022-08-27,2022/2023,True,Derby County,Peterborough United,2.0,1.0,1.49,1.01
+League One,2022-08-27,2022/2023,True,Ipswich Town,Barnsley,2.0,2.0,1.02,1.05
+League One,2022-08-27,2022/2023,True,Lincoln City,Fleetwood Town,2.0,2.0,1.01,1.45
+League One,2022-08-27,2022/2023,True,Morecambe,Milton Keynes Dons,0.0,4.0,0.81,1.65
+League One,2022-08-27,2022/2023,True,Plymouth Argyle,Bolton Wanderers,2.0,0.0,0.49,0.99
+League One,2022-08-27,2022/2023,True,Port Vale,Portsmouth,0.0,1.0,0.37,1.04
+League One,2022-08-27,2022/2023,True,Sheffield Wednesday,Forest Green Rovers,5.0,0.0,1.74,0.16
+League One,2022-08-27,2022/2023,True,Wycombe Wanderers,Charlton Athletic,1.0,1.0,1.09,0.64
+League One,2022-09-03,2022/2023,True,Accrington Stanley,Ipswich Town,0.0,2.0,0.3,1.68
+League One,2022-09-03,2022/2023,True,Bolton Wanderers,Charlton Athletic,3.0,1.0,1.09,0.76
+League One,2022-09-03,2022/2023,True,Bristol Rovers,Morecambe,2.0,2.0,3.34,0.46
+League One,2022-09-03,2022/2023,True,Cambridge United,Lincoln City,2.0,0.0,0.62,0.22
+League One,2022-09-03,2022/2023,True,Derby County,Plymouth Argyle,2.0,3.0,1.1,1.09
+League One,2022-09-03,2022/2023,True,Exeter City,Milton Keynes Dons,1.0,0.0,1.15,0.18
+League One,2022-09-03,2022/2023,True,Fleetwood Town,Wycombe Wanderers,1.0,1.0,1.34,0.64
+League One,2022-09-03,2022/2023,True,Forest Green Rovers,Shrewsbury Town,0.0,2.0,0.9,0.57
+League One,2022-09-03,2022/2023,True,Oxford United,Burton Albion,2.0,1.0,0.76,0.43
+League One,2022-09-03,2022/2023,True,Port Vale,Cheltenham Town,2.0,2.0,0.62,0.5
+League One,2022-09-03,2022/2023,True,Portsmouth,Peterborough United,2.0,1.0,0.77,0.48
+League One,2022-09-03,2022/2023,True,Sheffield Wednesday,Barnsley,0.0,2.0,0.61,1.24
+League One,2022-09-06,2022/2023,True,Forest Green Rovers,Accrington Stanley,2.0,1.0,0.58,1.08
+League One,2022-09-13,2022/2023,True,Barnsley,Port Vale,1.0,1.0,1.52,1.03
+League One,2022-09-13,2022/2023,True,Burton Albion,Portsmouth,0.0,2.0,0.97,0.62
+League One,2022-09-13,2022/2023,True,Charlton Athletic,Forest Green Rovers,1.0,1.0,1.53,0.63
+League One,2022-09-13,2022/2023,True,Cheltenham Town,Cambridge United,2.0,1.0,0.65,0.58
+League One,2022-09-13,2022/2023,True,Ipswich Town,Bristol Rovers,2.0,0.0,1.42,0.23
+League One,2022-09-13,2022/2023,True,Lincoln City,Derby County,2.0,0.0,1.41,0.87
+League One,2022-09-13,2022/2023,True,Milton Keynes Dons,Bolton Wanderers,0.0,2.0,0.22,1.93
+League One,2022-09-13,2022/2023,True,Morecambe,Sheffield Wednesday,0.0,3.0,0.36,2.19
+League One,2022-09-13,2022/2023,True,Peterborough United,Fleetwood Town,0.0,1.0,1.3,0.41
+League One,2022-09-13,2022/2023,True,Plymouth Argyle,Oxford United,1.0,0.0,1.26,0.81
+League One,2022-09-13,2022/2023,True,Shrewsbury Town,Exeter City,3.0,2.0,1.07,0.71
+League One,2022-09-13,2022/2023,True,Wycombe Wanderers,Accrington Stanley,1.0,0.0,1.3,0.7
+League One,2022-09-17,2022/2023,True,Accrington Stanley,Cheltenham Town,1.0,0.0,1.73,0.54
+League One,2022-09-17,2022/2023,True,Bolton Wanderers,Peterborough United,1.0,0.0,0.69,0.06
+League One,2022-09-17,2022/2023,True,Bristol Rovers,Lincoln City,3.0,6.0,2.07,2.25
+League One,2022-09-17,2022/2023,True,Cambridge United,Barnsley,0.0,3.0,0.6,0.85
+League One,2022-09-17,2022/2023,True,Derby County,Wycombe Wanderers,2.0,1.0,1.89,0.87
+League One,2022-09-17,2022/2023,True,Exeter City,Burton Albion,0.0,2.0,0.83,1.84
+League One,2022-09-17,2022/2023,True,Fleetwood Town,Charlton Athletic,1.0,1.0,0.81,0.75
+League One,2022-09-17,2022/2023,True,Forest Green Rovers,Morecambe,1.0,2.0,0.6,1.7
+League One,2022-09-17,2022/2023,True,Oxford United,Milton Keynes Dons,1.0,2.0,1.27,1.04
+League One,2022-09-17,2022/2023,True,Port Vale,Shrewsbury Town,2.0,1.0,0.86,0.46
+League One,2022-09-17,2022/2023,True,Portsmouth,Plymouth Argyle,2.0,2.0,1.45,0.45
+League One,2022-09-17,2022/2023,True,Sheffield Wednesday,Ipswich Town,2.0,2.0,0.78,0.7
+League One,2022-09-24,2022/2023,True,Forest Green Rovers,Exeter City,0.0,4.0,0.58,2.8
+League One,2022-09-24,2022/2023,True,Barnsley,Charlton Athletic,3.0,1.0,0.75,0.71
+League One,2022-09-24,2022/2023,True,Bristol Rovers,Accrington Stanley,0.0,1.0,0.92,1.09
+League One,2022-09-24,2022/2023,True,Morecambe,Cambridge United,1.0,2.0,0.58,1.28
+League One,2022-09-24,2022/2023,True,Peterborough United,Port Vale,3.0,0.0,1.62,0.28
+League One,2022-09-24,2022/2023,True,Sheffield Wednesday,Wycombe Wanderers,3.0,1.0,1.24,0.78
+League One,2022-09-24,2022/2023,True,Shrewsbury Town,Burton Albion,2.0,1.0,0.87,2.22
+League One,2022-09-25,2022/2023,True,Plymouth Argyle,Ipswich Town,2.0,1.0,0.68,1.2
+League One,2022-10-01,2022/2023,True,Accrington Stanley,Morecambe,3.0,1.0,0.99,0.31
+League One,2022-10-01,2022/2023,True,Bolton Wanderers,Lincoln City,2.0,0.0,1.39,0.53
+League One,2022-10-01,2022/2023,True,Burton Albion,Forest Green Rovers,3.0,2.0,1.19,1.07
+League One,2022-10-01,2022/2023,True,Cambridge United,Derby County,0.0,2.0,0.21,0.87
+League One,2022-10-01,2022/2023,True,Charlton Athletic,Oxford United,1.0,1.0,1.04,0.53
+League One,2022-10-01,2022/2023,True,Cheltenham Town,Shrewsbury Town,2.0,0.0,0.87,0.16
+League One,2022-10-01,2022/2023,True,Exeter City,Bristol Rovers,2.0,2.0,1.21,0.75
+League One,2022-10-01,2022/2023,True,Fleetwood Town,Barnsley,0.0,1.0,0.33,0.54
+League One,2022-10-01,2022/2023,True,Ipswich Town,Portsmouth,3.0,2.0,2.15,1.7
+League One,2022-10-01,2022/2023,True,Milton Keynes Dons,Peterborough United,2.0,3.0,0.5,1.62
+League One,2022-10-01,2022/2023,True,Port Vale,Sheffield Wednesday,0.0,1.0,0.39,0.31
+League One,2022-10-01,2022/2023,True,Wycombe Wanderers,Plymouth Argyle,0.0,1.0,1.44,1.74
+League One,2022-10-04,2022/2023,True,Burton Albion,Fleetwood Town,0.0,1.0,0.55,1.08
+League One,2022-10-04,2022/2023,True,Cheltenham Town,Bolton Wanderers,1.0,0.0,0.71,0.14
+League One,2022-10-04,2022/2023,True,Ipswich Town,Cambridge United,3.0,0.0,0.84,0.1
+League One,2022-10-04,2022/2023,True,Plymouth Argyle,Sheffield Wednesday,2.0,1.0,0.62,0.76
+League One,2022-10-08,2022/2023,True,Barnsley,Exeter City,0.0,2.0,0.82,1.69
+League One,2022-10-08,2022/2023,True,Bristol Rovers,Cambridge United,2.0,1.0,1.14,1.3
+League One,2022-10-08,2022/2023,True,Derby County,Port Vale,1.0,2.0,0.97,2.61
+League One,2022-10-08,2022/2023,True,Forest Green Rovers,Bolton Wanderers,1.0,0.0,0.52,0.76
+League One,2022-10-08,2022/2023,True,Lincoln City,Charlton Athletic,0.0,0.0,0.35,0.18
+League One,2022-10-08,2022/2023,True,Morecambe,Ipswich Town,1.0,2.0,0.59,2.49
+League One,2022-10-08,2022/2023,True,Oxford United,Wycombe Wanderers,0.0,1.0,1.96,0.35
+League One,2022-10-08,2022/2023,True,Peterborough United,Burton Albion,1.0,1.0,1.27,0.84
+League One,2022-10-08,2022/2023,True,Plymouth Argyle,Accrington Stanley,3.0,0.0,1.65,0.6
+League One,2022-10-08,2022/2023,True,Portsmouth,Fleetwood Town,1.0,1.0,0.88,0.52
+League One,2022-10-08,2022/2023,True,Sheffield Wednesday,Cheltenham Town,3.0,0.0,1.94,0.44
+League One,2022-10-08,2022/2023,True,Shrewsbury Town,Milton Keynes Dons,2.0,1.0,0.75,0.42
+League One,2022-10-11,2022/2023,True,Charlton Athletic,Exeter City,4.0,2.0,1.39,1.16
+League One,2022-10-11,2022/2023,True,Milton Keynes Dons,Bristol Rovers,0.0,1.0,0.1,1.44
+League One,2022-10-11,2022/2023,True,Peterborough United,Forest Green Rovers,4.0,1.0,1.82,0.56
+League One,2022-10-15,2022/2023,True,Accrington Stanley,Derby County,0.0,3.0,2.26,1.99
+League One,2022-10-15,2022/2023,True,Bolton Wanderers,Barnsley,0.0,0.0,0.52,0.34
+League One,2022-10-15,2022/2023,True,Burton Albion,Morecambe,1.0,1.0,1.0,0.98
+League One,2022-10-15,2022/2023,True,Cambridge United,Sheffield Wednesday,0.0,2.0,0.49,0.92
+League One,2022-10-15,2022/2023,True,Cheltenham Town,Bristol Rovers,1.0,4.0,1.41,1.08
+League One,2022-10-15,2022/2023,True,Exeter City,Oxford United,2.0,4.0,0.53,1.36
+League One,2022-10-15,2022/2023,True,Fleetwood Town,Shrewsbury Town,0.0,1.0,1.03,0.6
+League One,2022-10-15,2022/2023,True,Ipswich Town,Lincoln City,0.0,1.0,1.6,0.6
+League One,2022-10-15,2022/2023,True,Milton Keynes Dons,Plymouth Argyle,1.0,4.0,0.42,1.87
+League One,2022-10-15,2022/2023,True,Port Vale,Forest Green Rovers,2.0,2.0,1.83,0.5
+League One,2022-10-15,2022/2023,True,Wycombe Wanderers,Peterborough United,3.0,1.0,2.07,0.79
+League One,2022-10-17,2022/2023,True,Charlton Athletic,Portsmouth,3.0,0.0,1.3,0.54
+League One,2022-10-21,2022/2023,True,Ipswich Town,Derby County,1.0,0.0,1.71,0.14
+League One,2022-10-22,2022/2023,True,Lincoln City,Sheffield Wednesday,1.0,1.0,0.2,1.18
+League One,2022-10-22,2022/2023,True,Accrington Stanley,Bolton Wanderers,2.0,3.0,0.8,1.84
+League One,2022-10-22,2022/2023,True,Bristol Rovers,Plymouth Argyle,2.0,2.0,2.01,0.75
+League One,2022-10-22,2022/2023,True,Burton Albion,Cheltenham Town,1.0,0.0,2.11,0.31
+League One,2022-10-22,2022/2023,True,Cambridge United,Port Vale,0.0,1.0,0.34,0.5
+League One,2022-10-22,2022/2023,True,Exeter City,Fleetwood Town,2.0,1.0,0.83,0.59
+League One,2022-10-22,2022/2023,True,Forest Green Rovers,Portsmouth,0.0,1.0,0.49,1.28
+League One,2022-10-22,2022/2023,True,Milton Keynes Dons,Wycombe Wanderers,0.0,1.0,0.71,0.88
+League One,2022-10-22,2022/2023,True,Morecambe,Barnsley,1.0,0.0,0.66,0.98
+League One,2022-10-22,2022/2023,True,Oxford United,Peterborough United,1.0,2.0,0.64,0.29
+League One,2022-10-22,2022/2023,True,Shrewsbury Town,Charlton Athletic,0.0,1.0,0.48,1.41
+League One,2022-10-25,2022/2023,True,Barnsley,Lincoln City,0.0,1.0,0.79,0.68
+League One,2022-10-25,2022/2023,True,Bolton Wanderers,Burton Albion,2.0,1.0,1.28,0.97
+League One,2022-10-25,2022/2023,True,Charlton Athletic,Milton Keynes Dons,0.0,2.0,0.4,1.25
+League One,2022-10-25,2022/2023,True,Cheltenham Town,Morecambe,1.0,0.0,1.19,0.14
+League One,2022-10-25,2022/2023,True,Derby County,Exeter City,0.0,0.0,0.45,0.19
+League One,2022-10-25,2022/2023,True,Fleetwood Town,Forest Green Rovers,1.0,1.0,1.95,0.89
+League One,2022-10-25,2022/2023,True,Peterborough United,Accrington Stanley,3.0,1.0,1.1,1.2
+League One,2022-10-25,2022/2023,True,Plymouth Argyle,Shrewsbury Town,2.0,1.0,1.18,1.1
+League One,2022-10-25,2022/2023,True,Port Vale,Ipswich Town,2.0,3.0,0.37,2.45
+League One,2022-10-25,2022/2023,True,Portsmouth,Oxford United,1.0,1.0,1.2,0.36
+League One,2022-10-25,2022/2023,True,Wycombe Wanderers,Cambridge United,2.0,3.0,2.04,1.24
+League One,2022-10-26,2022/2023,True,Sheffield Wednesday,Bristol Rovers,1.0,1.0,1.57,1.0
+League One,2022-10-29,2022/2023,True,Barnsley,Forest Green Rovers,2.0,0.0,2.65,0.1
+League One,2022-10-29,2022/2023,True,Bolton Wanderers,Oxford United,1.0,3.0,0.96,1.61
+League One,2022-10-29,2022/2023,True,Charlton Athletic,Ipswich Town,4.0,4.0,2.27,1.56
+League One,2022-10-29,2022/2023,True,Cheltenham Town,Milton Keynes Dons,0.0,0.0,1.01,0.55
+League One,2022-10-29,2022/2023,True,Derby County,Bristol Rovers,4.0,2.0,1.6,1.62
+League One,2022-10-29,2022/2023,True,Fleetwood Town,Accrington Stanley,3.0,0.0,0.68,1.03
+League One,2022-10-29,2022/2023,True,Peterborough United,Cambridge United,1.0,0.0,0.97,0.49
+League One,2022-10-29,2022/2023,True,Port Vale,Lincoln City,1.0,0.0,0.9,0.2
+League One,2022-10-29,2022/2023,True,Portsmouth,Shrewsbury Town,1.0,1.0,1.08,0.38
+League One,2022-10-29,2022/2023,True,Sheffield Wednesday,Burton Albion,4.0,2.0,2.29,0.58
+League One,2022-10-29,2022/2023,True,Wycombe Wanderers,Morecambe,1.0,1.0,1.09,1.8
+League One,2022-10-31,2022/2023,True,Plymouth Argyle,Exeter City,4.0,2.0,1.07,1.17
+League One,2022-11-01,2022/2023,True,Lincoln City,Accrington Stanley,1.0,1.0,1.2,0.48
+League One,2022-11-01,2022/2023,True,Morecambe,Derby County,1.0,1.0,0.93,3.19
+League One,2022-11-01,2022/2023,True,Oxford United,Fleetwood Town,1.0,1.0,1.55,1.0
+League One,2022-11-01,2022/2023,True,Wycombe Wanderers,Port Vale,2.0,2.0,0.88,1.21
+League One,2022-11-09,2022/2023,True,Shrewsbury Town,Oxford United,1.0,1.0,0.82,0.78
+League One,2022-11-12,2022/2023,True,Accrington Stanley,Sheffield Wednesday,0.0,1.0,0.6,1.64
+League One,2022-11-12,2022/2023,True,Bristol Rovers,Fleetwood Town,2.0,2.0,1.27,1.1
+League One,2022-11-12,2022/2023,True,Burton Albion,Charlton Athletic,3.0,3.0,1.73,0.78
+League One,2022-11-12,2022/2023,True,Cambridge United,Bolton Wanderers,0.0,0.0,0.56,0.52
+League One,2022-11-12,2022/2023,True,Exeter City,Peterborough United,3.0,2.0,1.55,0.69
+League One,2022-11-12,2022/2023,True,Forest Green Rovers,Wycombe Wanderers,0.0,2.0,0.94,1.12
+League One,2022-11-12,2022/2023,True,Ipswich Town,Cheltenham Town,1.0,1.0,2.73,0.27
+League One,2022-11-12,2022/2023,True,Lincoln City,Plymouth Argyle,1.0,1.0,1.09,0.86
+League One,2022-11-12,2022/2023,True,Milton Keynes Dons,Derby County,1.0,3.0,1.58,0.81
+League One,2022-11-12,2022/2023,True,Morecambe,Portsmouth,1.0,1.0,1.9,1.32
+League One,2022-11-12,2022/2023,True,Oxford United,Port Vale,4.0,0.0,1.87,0.74
+League One,2022-11-12,2022/2023,True,Shrewsbury Town,Barnsley,0.0,1.0,0.44,0.73
+League One,2022-11-18,2022/2023,True,Portsmouth,Derby County,0.0,0.0,0.64,1.04
+League One,2022-11-19,2022/2023,True,Exeter City,Ipswich Town,0.0,2.0,0.62,1.75
+League One,2022-11-19,2022/2023,True,Barnsley,Milton Keynes Dons,3.0,1.0,1.26,0.34
+League One,2022-11-19,2022/2023,True,Bristol Rovers,Peterborough United,1.0,0.0,1.39,0.48
+League One,2022-11-19,2022/2023,True,Burton Albion,Plymouth Argyle,2.0,2.0,1.17,1.17
+League One,2022-11-19,2022/2023,True,Cambridge United,Accrington Stanley,0.0,1.0,0.19,0.63
+League One,2022-11-19,2022/2023,True,Cheltenham Town,Wycombe Wanderers,1.0,0.0,0.7,0.71
+League One,2022-11-19,2022/2023,True,Fleetwood Town,Bolton Wanderers,1.0,2.0,0.78,2.03
+League One,2022-11-19,2022/2023,True,Lincoln City,Morecambe,2.0,1.0,2.3,0.93
+League One,2022-11-19,2022/2023,True,Oxford United,Forest Green Rovers,1.0,1.0,0.99,1.52
+League One,2022-11-19,2022/2023,True,Port Vale,Charlton Athletic,1.0,0.0,0.59,0.38
+League One,2022-11-19,2022/2023,True,Sheffield Wednesday,Shrewsbury Town,1.0,0.0,1.47,0.41
+League One,2022-12-02,2022/2023,True,Bolton Wanderers,Bristol Rovers,1.0,1.0,1.33,0.85
+League One,2022-12-02,2022/2023,True,Charlton Athletic,Cheltenham Town,0.0,1.0,0.48,1.08
+League One,2022-12-02,2022/2023,True,Ipswich Town,Fleetwood Town,1.0,1.0,1.58,0.37
+League One,2022-12-02,2022/2023,True,Morecambe,Exeter City,1.0,1.0,0.63,1.71
+League One,2022-12-02,2022/2023,True,Peterborough United,Barnsley,1.0,2.0,1.24,0.19
+League One,2022-12-02,2022/2023,True,Plymouth Argyle,Port Vale,0.0,2.0,1.54,0.96
+League One,2022-12-03,2022/2023,True,Derby County,Sheffield Wednesday,0.0,0.0,0.63,0.48
+League One,2022-12-03,2022/2023,True,Milton Keynes Dons,Burton Albion,1.0,1.0,1.09,1.19
+League One,2022-12-03,2022/2023,True,Shrewsbury Town,Lincoln City,2.0,0.0,1.94,0.61
+League One,2022-12-03,2022/2023,True,Forest Green Rovers,Cambridge United,2.0,1.0,1.66,0.37
+League One,2022-12-03,2022/2023,True,Accrington Stanley,Oxford United,1.0,1.0,0.67,1.3
+League One,2022-12-04,2022/2023,True,Wycombe Wanderers,Portsmouth,2.0,0.0,1.49,0.46
+League One,2022-12-10,2022/2023,True,Ipswich Town,Peterborough United,2.0,1.0,0.64,0.72
+League One,2022-12-10,2022/2023,True,Shrewsbury Town,Bolton Wanderers,3.0,2.0,1.0,1.46
+League One,2022-12-10,2022/2023,True,Burton Albion,Derby County,1.0,1.0,0.94,1.2
+League One,2022-12-10,2022/2023,True,Forest Green Rovers,Cheltenham Town,1.0,0.0,0.91,0.22
+League One,2022-12-10,2022/2023,True,Bristol Rovers,Port Vale,1.0,0.0,0.45,0.49
+League One,2022-12-10,2022/2023,True,Cambridge United,Plymouth Argyle,0.0,0.0,1.17,0.67
+League One,2022-12-10,2022/2023,True,Exeter City,Sheffield Wednesday,1.0,1.0,0.31,0.63
+League One,2022-12-10,2022/2023,True,Lincoln City,Wycombe Wanderers,0.0,0.0,0.54,0.32
+League One,2022-12-10,2022/2023,True,Milton Keynes Dons,Fleetwood Town,1.0,2.0,1.62,0.43
+League One,2022-12-17,2022/2023,True,Barnsley,Burton Albion,2.0,0.0,2.14,0.36
+League One,2022-12-17,2022/2023,True,Bolton Wanderers,Exeter City,2.0,0.0,1.3,0.13
+League One,2022-12-17,2022/2023,True,Charlton Athletic,Bristol Rovers,1.0,2.0,0.8,0.77
+League One,2022-12-17,2022/2023,True,Derby County,Forest Green Rovers,4.0,0.0,2.67,0.25
+League One,2022-12-17,2022/2023,True,Plymouth Argyle,Morecambe,2.0,1.0,3.05,0.32
+League One,2022-12-17,2022/2023,True,Portsmouth,Milton Keynes Dons,0.0,2.0,1.69,1.02
+League One,2022-12-17,2022/2023,True,Sheffield Wednesday,Oxford United,0.0,0.0,1.0,1.83
+League One,2022-12-17,2022/2023,True,Wycombe Wanderers,Ipswich Town,1.0,0.0,0.55,1.03
+League One,2022-12-26,2022/2023,True,Accrington Stanley,Barnsley,1.0,1.0,1.02,1.86
+League One,2022-12-26,2022/2023,True,Burton Albion,Lincoln City,3.0,0.0,1.72,0.33
+League One,2022-12-26,2022/2023,True,Cambridge United,Shrewsbury Town,2.0,1.0,0.74,0.97
+League One,2022-12-26,2022/2023,True,Charlton Athletic,Peterborough United,1.0,1.0,1.48,1.76
+League One,2022-12-26,2022/2023,True,Cheltenham Town,Plymouth Argyle,0.0,1.0,1.19,0.57
+League One,2022-12-26,2022/2023,True,Exeter City,Portsmouth,0.0,0.0,1.21,0.84
+League One,2022-12-26,2022/2023,True,Fleetwood Town,Sheffield Wednesday,1.0,2.0,1.16,1.07
+League One,2022-12-26,2022/2023,True,Ipswich Town,Oxford United,3.0,0.0,1.03,0.42
+League One,2022-12-26,2022/2023,True,Milton Keynes Dons,Forest Green Rovers,1.0,0.0,0.71,1.91
+League One,2022-12-26,2022/2023,True,Port Vale,Morecambe,1.0,0.0,0.25,0.38
+League One,2022-12-26,2022/2023,True,Wycombe Wanderers,Bristol Rovers,2.0,1.0,1.33,1.97
+League One,2022-12-27,2022/2023,True,Bolton Wanderers,Derby County,0.0,0.0,0.83,0.61
+League One,2022-12-29,2022/2023,True,Barnsley,Fleetwood Town,2.0,1.0,1.07,0.84
+League One,2022-12-29,2022/2023,True,Bristol Rovers,Exeter City,3.0,4.0,1.9,2.36
+League One,2022-12-29,2022/2023,True,Forest Green Rovers,Burton Albion,1.0,2.0,1.48,1.09
+League One,2022-12-29,2022/2023,True,Morecambe,Accrington Stanley,2.0,0.0,1.03,1.02
+League One,2022-12-29,2022/2023,True,Oxford United,Charlton Athletic,3.0,1.0,2.14,0.88
+League One,2022-12-29,2022/2023,True,Peterborough United,Milton Keynes Dons,2.0,0.0,2.39,0.13
+League One,2022-12-29,2022/2023,True,Plymouth Argyle,Wycombe Wanderers,1.0,0.0,1.77,1.22
+League One,2022-12-29,2022/2023,True,Portsmouth,Ipswich Town,2.0,2.0,0.63,1.57
+League One,2022-12-29,2022/2023,True,Sheffield Wednesday,Port Vale,2.0,0.0,1.38,0.51
+League One,2022-12-29,2022/2023,True,Shrewsbury Town,Cheltenham Town,0.0,1.0,0.61,0.37
+League One,2022-12-30,2022/2023,True,Derby County,Cambridge United,1.0,0.0,1.21,0.37
+League One,2022-12-30,2022/2023,True,Lincoln City,Bolton Wanderers,1.0,1.0,0.54,0.49
+League One,2023-01-01,2022/2023,True,Bristol Rovers,Cheltenham Town,2.0,1.0,0.7,1.47
+League One,2023-01-01,2022/2023,True,Forest Green Rovers,Port Vale,1.0,3.0,0.77,1.89
+League One,2023-01-01,2022/2023,True,Morecambe,Burton Albion,5.0,0.0,2.32,0.69
+League One,2023-01-01,2022/2023,True,Oxford United,Exeter City,0.0,1.0,1.29,1.97
+League One,2023-01-01,2022/2023,True,Peterborough United,Wycombe Wanderers,0.0,3.0,1.48,1.36
+League One,2023-01-01,2022/2023,True,Plymouth Argyle,Milton Keynes Dons,3.0,1.0,1.31,0.63
+League One,2023-01-01,2022/2023,True,Portsmouth,Charlton Athletic,1.0,3.0,0.79,0.97
+League One,2023-01-01,2022/2023,True,Shrewsbury Town,Fleetwood Town,0.0,3.0,0.31,2.05
+League One,2023-01-02,2022/2023,True,Barnsley,Bolton Wanderers,0.0,3.0,0.37,2.14
+League One,2023-01-02,2022/2023,True,Derby County,Accrington Stanley,4.0,0.0,3.12,0.22
+League One,2023-01-02,2022/2023,True,Lincoln City,Ipswich Town,1.0,1.0,0.88,1.53
+League One,2023-01-02,2022/2023,True,Sheffield Wednesday,Cambridge United,5.0,0.0,3.02,0.79
+League One,2023-01-07,2022/2023,True,Bolton Wanderers,Plymouth Argyle,0.0,0.0,1.25,0.17
+League One,2023-01-07,2022/2023,True,Cambridge United,Bristol Rovers,1.0,2.0,0.72,1.0
+League One,2023-01-07,2022/2023,True,Charlton Athletic,Lincoln City,2.0,1.0,2.07,0.87
+League One,2023-01-07,2022/2023,True,Morecambe,Cheltenham Town,2.0,1.0,1.17,0.91
+League One,2023-01-14,2022/2023,True,Accrington Stanley,Bristol Rovers,2.0,0.0,1.08,0.46
+League One,2023-01-14,2022/2023,True,Bolton Wanderers,Portsmouth,3.0,0.0,1.06,0.81
+League One,2023-01-14,2022/2023,True,Burton Albion,Shrewsbury Town,0.0,4.0,0.7,1.74
+League One,2023-01-14,2022/2023,True,Charlton Athletic,Barnsley,2.0,0.0,1.97,0.92
+League One,2023-01-14,2022/2023,True,Cheltenham Town,Derby County,2.0,3.0,1.24,0.91
+League One,2023-01-14,2022/2023,True,Exeter City,Forest Green Rovers,1.0,1.0,1.79,1.37
+League One,2023-01-14,2022/2023,True,Fleetwood Town,Oxford United,1.0,2.0,1.94,0.87
+League One,2023-01-14,2022/2023,True,Ipswich Town,Plymouth Argyle,1.0,1.0,0.88,0.75
+League One,2023-01-14,2022/2023,True,Milton Keynes Dons,Lincoln City,0.0,0.0,0.17,0.18
+League One,2023-01-14,2022/2023,True,Wycombe Wanderers,Sheffield Wednesday,0.0,1.0,0.29,0.51
+League One,2023-01-16,2022/2023,True,Port Vale,Peterborough United,0.0,2.0,0.92,1.62
+League One,2023-01-21,2022/2023,True,Barnsley,Accrington Stanley,3.0,1.0,1.27,0.49
+League One,2023-01-21,2022/2023,True,Derby County,Bolton Wanderers,2.0,1.0,0.79,0.31
+League One,2023-01-21,2022/2023,True,Forest Green Rovers,Milton Keynes Dons,1.0,2.0,0.78,0.6
+League One,2023-01-21,2022/2023,True,Oxford United,Ipswich Town,2.0,1.0,0.77,1.23
+League One,2023-01-21,2022/2023,True,Plymouth Argyle,Cheltenham Town,4.0,2.0,1.86,0.81
+League One,2023-01-21,2022/2023,True,Portsmouth,Exeter City,2.0,0.0,1.13,0.5
+League One,2023-01-21,2022/2023,True,Sheffield Wednesday,Fleetwood Town,1.0,0.0,2.54,0.56
+League One,2023-01-21,2022/2023,True,Shrewsbury Town,Cambridge United,5.0,1.0,2.03,0.41
+League One,2023-01-24,2022/2023,True,Bolton Wanderers,Forest Green Rovers,1.0,0.0,0.4,1.09
+League One,2023-01-24,2022/2023,True,Fleetwood Town,Portsmouth,0.0,2.0,0.8,1.45
+League One,2023-01-24,2022/2023,True,Ipswich Town,Morecambe,4.0,0.0,1.93,0.14
+League One,2023-01-24,2022/2023,True,Milton Keynes Dons,Shrewsbury Town,0.0,1.0,0.95,0.43
+League One,2023-01-24,2022/2023,True,Port Vale,Derby County,1.0,2.0,1.16,2.57
+League One,2023-01-24,2022/2023,True,Wycombe Wanderers,Oxford United,2.0,0.0,1.4,1.27
+League One,2023-01-28,2022/2023,True,Charlton Athletic,Bolton Wanderers,1.0,2.0,0.8,3.35
+League One,2023-01-28,2022/2023,True,Burton Albion,Oxford United,2.0,0.0,1.12,1.64
+League One,2023-01-28,2022/2023,True,Cheltenham Town,Port Vale,0.0,0.0,1.35,0.53
+League One,2023-01-28,2022/2023,True,Lincoln City,Cambridge United,0.0,0.0,0.62,0.66
+League One,2023-01-28,2022/2023,True,Milton Keynes Dons,Exeter City,0.0,2.0,1.31,1.18
+League One,2023-01-28,2022/2023,True,Morecambe,Bristol Rovers,5.0,1.0,1.37,1.61
+League One,2023-01-28,2022/2023,True,Peterborough United,Portsmouth,2.0,1.0,2.1,0.59
+League One,2023-01-28,2022/2023,True,Shrewsbury Town,Forest Green Rovers,2.0,1.0,0.69,1.07
+League One,2023-02-01,2022/2023,True,Oxford United,Barnsley,1.0,2.0,1.97,1.03
+League One,2023-02-04,2022/2023,True,Accrington Stanley,Lincoln City,0.0,3.0,0.38,2.01
+League One,2023-02-04,2022/2023,True,Bolton Wanderers,Cheltenham Town,1.0,0.0,0.93,0.49
+League One,2023-02-04,2022/2023,True,Bristol Rovers,Milton Keynes Dons,0.0,2.0,0.72,1.4
+League One,2023-02-04,2022/2023,True,Cambridge United,Ipswich Town,1.0,1.0,1.02,1.23
+League One,2023-02-04,2022/2023,True,Derby County,Morecambe,5.0,0.0,3.52,0.09
+League One,2023-02-04,2022/2023,True,Exeter City,Charlton Athletic,1.0,2.0,0.79,1.08
+League One,2023-02-04,2022/2023,True,Fleetwood Town,Burton Albion,2.0,3.0,3.09,2.53
+League One,2023-02-04,2022/2023,True,Forest Green Rovers,Peterborough United,0.0,2.0,0.33,2.07
+League One,2023-02-04,2022/2023,True,Oxford United,Shrewsbury Town,0.0,1.0,1.04,0.48
+League One,2023-02-04,2022/2023,True,Port Vale,Wycombe Wanderers,0.0,3.0,0.85,3.42
+League One,2023-02-04,2022/2023,True,Portsmouth,Barnsley,1.0,1.0,1.04,1.61
+League One,2023-02-04,2022/2023,True,Sheffield Wednesday,Plymouth Argyle,1.0,0.0,1.2,0.47
+League One,2023-02-07,2022/2023,True,Port Vale,Accrington Stanley,1.0,1.0,1.7,0.95
+League One,2023-02-11,2022/2023,True,Barnsley,Cambridge United,2.0,0.0,1.0,0.68
+League One,2023-02-11,2022/2023,True,Burton Albion,Exeter City,1.0,0.0,0.71,0.66
+League One,2023-02-11,2022/2023,True,Charlton Athletic,Fleetwood Town,1.0,2.0,1.16,1.64
+League One,2023-02-11,2022/2023,True,Cheltenham Town,Accrington Stanley,0.0,0.0,2.35,0.54
+League One,2023-02-11,2022/2023,True,Ipswich Town,Sheffield Wednesday,2.0,2.0,1.44,0.54
+League One,2023-02-11,2022/2023,True,Lincoln City,Bristol Rovers,1.0,0.0,1.38,0.68
+League One,2023-02-11,2022/2023,True,Milton Keynes Dons,Oxford United,1.0,1.0,0.92,1.03
+League One,2023-02-11,2022/2023,True,Morecambe,Forest Green Rovers,1.0,1.0,0.49,0.83
+League One,2023-02-11,2022/2023,True,Peterborough United,Bolton Wanderers,0.0,5.0,1.05,3.87
+League One,2023-02-11,2022/2023,True,Plymouth Argyle,Portsmouth,3.0,1.0,1.97,1.74
+League One,2023-02-11,2022/2023,True,Shrewsbury Town,Port Vale,3.0,2.0,1.71,1.3
+League One,2023-02-11,2022/2023,True,Wycombe Wanderers,Derby County,3.0,2.0,1.26,2.24
+League One,2023-02-14,2022/2023,True,Accrington Stanley,Wycombe Wanderers,0.0,2.0,0.95,1.14
+League One,2023-02-14,2022/2023,True,Bolton Wanderers,Milton Keynes Dons,5.0,0.0,2.36,0.93
+League One,2023-02-14,2022/2023,True,Bristol Rovers,Ipswich Town,0.0,0.0,1.13,1.65
+League One,2023-02-14,2022/2023,True,Cambridge United,Cheltenham Town,1.0,2.0,1.31,0.68
+League One,2023-02-14,2022/2023,True,Derby County,Lincoln City,1.0,1.0,1.94,0.92
+League One,2023-02-14,2022/2023,True,Exeter City,Shrewsbury Town,0.0,0.0,0.43,1.03
+League One,2023-02-14,2022/2023,True,Fleetwood Town,Peterborough United,1.0,0.0,0.25,0.92
+League One,2023-02-14,2022/2023,True,Forest Green Rovers,Charlton Athletic,0.0,1.0,1.14,0.79
+League One,2023-02-14,2022/2023,True,Oxford United,Plymouth Argyle,1.0,3.0,0.71,1.56
+League One,2023-02-14,2022/2023,True,Port Vale,Barnsley,1.0,3.0,0.88,0.45
+League One,2023-02-14,2022/2023,True,Portsmouth,Burton Albion,1.0,0.0,1.39,0.49
+League One,2023-02-14,2022/2023,True,Sheffield Wednesday,Morecambe,3.0,0.0,2.74,0.47
+League One,2023-02-18,2022/2023,True,Accrington Stanley,Shrewsbury Town,1.0,0.0,0.34,1.15
+League One,2023-02-18,2022/2023,True,Bristol Rovers,Burton Albion,1.0,2.0,1.05,2.04
+League One,2023-02-18,2022/2023,True,Cambridge United,Oxford United,1.0,0.0,0.53,0.49
+League One,2023-02-18,2022/2023,True,Cheltenham Town,Barnsley,0.0,4.0,0.34,1.09
+League One,2023-02-18,2022/2023,True,Derby County,Charlton Athletic,2.0,0.0,2.62,0.3
+League One,2023-02-18,2022/2023,True,Ipswich Town,Forest Green Rovers,4.0,0.0,3.73,0.16
+League One,2023-02-18,2022/2023,True,Lincoln City,Portsmouth,0.0,0.0,1.27,1.35
+League One,2023-02-18,2022/2023,True,Morecambe,Peterborough United,0.0,3.0,0.79,0.97
+League One,2023-02-18,2022/2023,True,Plymouth Argyle,Fleetwood Town,0.0,0.0,1.14,0.61
+League One,2023-02-18,2022/2023,True,Port Vale,Exeter City,1.0,0.0,0.91,0.23
+League One,2023-02-18,2022/2023,True,Sheffield Wednesday,Milton Keynes Dons,5.0,2.0,3.55,0.73
+League One,2023-02-18,2022/2023,True,Wycombe Wanderers,Bolton Wanderers,1.0,0.0,0.92,1.17
+League One,2023-02-21,2022/2023,True,Fleetwood Town,Cambridge United,1.0,0.0,0.42,0.64
+League One,2023-02-21,2022/2023,True,Morecambe,Port Vale,1.0,0.0,0.29,0.99
+League One,2023-02-25,2022/2023,True,Oxford United,Bristol Rovers,0.0,3.0,0.95,1.6
+League One,2023-02-25,2022/2023,True,Barnsley,Derby County,4.0,1.0,1.88,1.22
+League One,2023-02-25,2022/2023,True,Bolton Wanderers,Port Vale,2.0,1.0,0.49,1.03
+League One,2023-02-25,2022/2023,True,Burton Albion,Accrington Stanley,0.0,0.0,0.91,0.41
+League One,2023-02-25,2022/2023,True,Charlton Athletic,Sheffield Wednesday,0.0,1.0,0.43,1.68
+League One,2023-02-25,2022/2023,True,Exeter City,Cambridge United,2.0,0.0,1.73,0.56
+League One,2023-02-25,2022/2023,True,Fleetwood Town,Morecambe,1.0,0.0,1.14,0.66
+League One,2023-02-25,2022/2023,True,Forest Green Rovers,Lincoln City,1.0,1.0,0.59,0.82
+League One,2023-02-25,2022/2023,True,Milton Keynes Dons,Ipswich Town,0.0,1.0,0.85,1.74
+League One,2023-02-25,2022/2023,True,Peterborough United,Plymouth Argyle,5.0,2.0,4.18,1.29
+League One,2023-02-25,2022/2023,True,Portsmouth,Cheltenham Town,4.0,0.0,1.1,0.64
+League One,2023-02-25,2022/2023,True,Shrewsbury Town,Wycombe Wanderers,2.0,0.0,1.29,1.13
+League One,2023-02-28,2022/2023,True,Derby County,Cheltenham Town,2.0,0.0,1.04,0.17
+League One,2023-02-28,2022/2023,True,Lincoln City,Milton Keynes Dons,1.0,1.0,0.3,0.7
+League One,2023-02-28,2022/2023,True,Peterborough United,Charlton Athletic,0.0,0.0,0.51,1.11
+League One,2023-02-28,2022/2023,True,Portsmouth,Bolton Wanderers,3.0,1.0,1.58,1.94
+League One,2023-03-04,2022/2023,True,Morecambe,Bolton Wanderers,0.0,0.0,0.89,1.03
+League One,2023-03-04,2022/2023,True,Accrington Stanley,Forest Green Rovers,2.0,1.0,1.77,1.12
+League One,2023-03-04,2022/2023,True,Bristol Rovers,Barnsley,0.0,0.0,0.95,1.32
+League One,2023-03-04,2022/2023,True,Cambridge United,Portsmouth,0.0,1.0,1.12,0.27
+League One,2023-03-04,2022/2023,True,Cheltenham Town,Fleetwood Town,1.0,0.0,0.99,0.45
+League One,2023-03-04,2022/2023,True,Derby County,Shrewsbury Town,2.0,2.0,1.55,1.1
+League One,2023-03-04,2022/2023,True,Ipswich Town,Burton Albion,4.0,0.0,1.87,0.87
+League One,2023-03-04,2022/2023,True,Lincoln City,Oxford United,1.0,0.0,1.15,1.55
+League One,2023-03-04,2022/2023,True,Plymouth Argyle,Charlton Athletic,2.0,0.0,1.85,0.5
+League One,2023-03-04,2022/2023,True,Port Vale,Milton Keynes Dons,1.0,0.0,0.89,0.51
+League One,2023-03-04,2022/2023,True,Sheffield Wednesday,Peterborough United,1.0,0.0,0.98,0.1
+League One,2023-03-04,2022/2023,True,Wycombe Wanderers,Exeter City,1.0,1.0,1.41,2.6
+League One,2023-03-07,2022/2023,True,Barnsley,Portsmouth,3.0,1.0,1.41,0.62
+League One,2023-03-07,2022/2023,True,Cambridge United,Morecambe,1.0,1.0,1.68,1.07
+League One,2023-03-07,2022/2023,True,Cheltenham Town,Lincoln City,0.0,0.0,0.17,0.76
+League One,2023-03-07,2022/2023,True,Ipswich Town,Accrington Stanley,3.0,0.0,2.01,0.22
+League One,2023-03-07,2022/2023,True,Peterborough United,Shrewsbury Town,2.0,1.0,1.36,0.76
+League One,2023-03-07,2022/2023,True,Wycombe Wanderers,Fleetwood Town,2.0,0.0,1.45,0.66
+League One,2023-03-07,2022/2023,True,Plymouth Argyle,Derby County,2.0,1.0,1.23,1.29
+League One,2023-03-11,2022/2023,True,Barnsley,Plymouth Argyle,3.0,0.0,1.0,0.28
+League One,2023-03-11,2022/2023,True,Bolton Wanderers,Ipswich Town,0.0,2.0,1.11,1.26
+League One,2023-03-11,2022/2023,True,Burton Albion,Wycombe Wanderers,2.0,1.0,0.89,1.98
+League One,2023-03-11,2022/2023,True,Charlton Athletic,Accrington Stanley,1.0,1.0,0.43,1.95
+League One,2023-03-11,2022/2023,True,Exeter City,Lincoln City,2.0,1.0,1.19,1.0
+League One,2023-03-11,2022/2023,True,Fleetwood Town,Port Vale,1.0,1.0,1.56,2.16
+League One,2023-03-11,2022/2023,True,Forest Green Rovers,Bristol Rovers,1.0,3.0,0.94,1.42
+League One,2023-03-11,2022/2023,True,Milton Keynes Dons,Cambridge United,1.0,0.0,0.65,0.37
+League One,2023-03-11,2022/2023,True,Oxford United,Derby County,2.0,3.0,1.41,0.71
+League One,2023-03-11,2022/2023,True,Peterborough United,Cheltenham Town,0.0,3.0,1.01,0.44
+League One,2023-03-11,2022/2023,True,Portsmouth,Sheffield Wednesday,0.0,1.0,1.04,0.38
+League One,2023-03-11,2022/2023,True,Shrewsbury Town,Morecambe,3.0,1.0,3.01,0.74
+League One,2023-03-14,2022/2023,True,Accrington Stanley,Portsmouth,1.0,3.0,1.32,0.67
+League One,2023-03-14,2022/2023,True,Bristol Rovers,Wycombe Wanderers,0.0,2.0,1.82,1.79
+League One,2023-03-14,2022/2023,True,Burton Albion,Peterborough United,2.0,5.0,1.95,4.68
+League One,2023-03-14,2022/2023,True,Morecambe,Charlton Athletic,1.0,4.0,0.79,2.27
+League One,2023-03-17,2022/2023,True,Sheffield Wednesday,Bolton Wanderers,1.0,1.0,0.97,0.4
+League One,2023-03-18,2022/2023,True,Lincoln City,Peterborough United,0.0,3.0,0.34,0.77
+League One,2023-03-18,2022/2023,True,Accrington Stanley,Milton Keynes Dons,0.0,1.0,0.5,1.1
+League One,2023-03-18,2022/2023,True,Bristol Rovers,Portsmouth,0.0,2.0,1.31,1.16
+League One,2023-03-18,2022/2023,True,Cambridge United,Charlton Athletic,1.0,2.0,1.02,1.41
+League One,2023-03-18,2022/2023,True,Cheltenham Town,Exeter City,3.0,1.0,0.93,1.29
+League One,2023-03-18,2022/2023,True,Derby County,Fleetwood Town,0.0,2.0,0.99,0.53
+League One,2023-03-18,2022/2023,True,Ipswich Town,Shrewsbury Town,2.0,0.0,1.81,0.4
+League One,2023-03-18,2022/2023,True,Morecambe,Oxford United,1.0,1.0,0.19,1.16
+League One,2023-03-18,2022/2023,True,Plymouth Argyle,Forest Green Rovers,2.0,0.0,0.63,0.18
+League One,2023-03-18,2022/2023,True,Port Vale,Burton Albion,2.0,3.0,1.36,1.49
+League One,2023-03-18,2022/2023,True,Wycombe Wanderers,Barnsley,0.0,1.0,1.36,0.97
+League One,2023-03-21,2022/2023,True,Accrington Stanley,Plymouth Argyle,0.0,2.0,0.37,1.06
+League One,2023-03-21,2022/2023,True,Barnsley,Sheffield Wednesday,4.0,2.0,1.5,3.12
+League One,2023-03-25,2022/2023,True,Charlton Athletic,Wycombe Wanderers,1.0,1.0,1.69,1.0
+League One,2023-03-25,2022/2023,True,Exeter City,Accrington Stanley,5.0,0.0,2.31,0.14
+League One,2023-03-25,2022/2023,True,Fleetwood Town,Lincoln City,2.0,1.0,1.5,1.62
+League One,2023-03-25,2022/2023,True,Milton Keynes Dons,Morecambe,1.0,0.0,1.4,0.34
+League One,2023-03-25,2022/2023,True,Peterborough United,Derby County,2.0,0.0,1.8,1.04
+League One,2023-03-25,2022/2023,True,Portsmouth,Port Vale,2.0,2.0,2.13,1.03
+League One,2023-03-26,2022/2023,True,Forest Green Rovers,Sheffield Wednesday,1.0,0.0,0.76,0.57
+League One,2023-03-28,2022/2023,True,Exeter City,Barnsley,3.0,1.0,1.83,1.51
+League One,2023-03-29,2022/2023,True,Cheltenham Town,Sheffield Wednesday,2.0,2.0,1.44,2.03
+League One,2023-04-01,2022/2023,True,Barnsley,Morecambe,5.0,0.0,2.6,0.58
+League One,2023-04-01,2022/2023,True,Charlton Athletic,Shrewsbury Town,6.0,0.0,2.3,0.44
+League One,2023-04-01,2022/2023,True,Cheltenham Town,Burton Albion,0.0,0.0,1.64,0.45
+League One,2023-04-01,2022/2023,True,Derby County,Ipswich Town,0.0,2.0,0.52,1.68
+League One,2023-04-01,2022/2023,True,Fleetwood Town,Exeter City,2.0,2.0,1.48,1.24
+League One,2023-04-01,2022/2023,True,Peterborough United,Oxford United,0.0,0.0,0.42,0.14
+League One,2023-04-01,2022/2023,True,Port Vale,Cambridge United,0.0,2.0,1.0,1.88
+League One,2023-04-01,2022/2023,True,Portsmouth,Forest Green Rovers,1.0,0.0,1.89,0.29
+League One,2023-04-01,2022/2023,True,Sheffield Wednesday,Lincoln City,1.0,1.0,2.51,0.69
+League One,2023-04-01,2022/2023,True,Wycombe Wanderers,Milton Keynes Dons,2.0,2.0,1.05,0.95
+League One,2023-04-07,2022/2023,True,Accrington Stanley,Port Vale,3.0,0.0,2.64,0.48
+League One,2023-04-07,2022/2023,True,Bristol Rovers,Charlton Athletic,1.0,0.0,1.23,0.75
+League One,2023-04-07,2022/2023,True,Burton Albion,Barnsley,2.0,1.0,0.84,1.95
+League One,2023-04-07,2022/2023,True,Cambridge United,Fleetwood Town,2.0,1.0,1.66,0.72
+League One,2023-04-07,2022/2023,True,Exeter City,Bolton Wanderers,0.0,1.0,1.04,0.86
+League One,2023-04-07,2022/2023,True,Forest Green Rovers,Derby County,0.0,2.0,0.33,1.99
+League One,2023-04-07,2022/2023,True,Ipswich Town,Wycombe Wanderers,4.0,0.0,1.79,0.17
+League One,2023-04-07,2022/2023,True,Lincoln City,Cheltenham Town,2.0,0.0,1.6,0.72
+League One,2023-04-07,2022/2023,True,Milton Keynes Dons,Portsmouth,1.0,1.0,0.74,0.38
+League One,2023-04-07,2022/2023,True,Morecambe,Plymouth Argyle,1.0,3.0,0.85,1.34
+League One,2023-04-07,2022/2023,True,Oxford United,Sheffield Wednesday,1.0,1.0,1.65,0.91
+League One,2023-04-07,2022/2023,True,Shrewsbury Town,Peterborough United,0.0,3.0,0.22,2.58
+League One,2023-04-10,2022/2023,True,Barnsley,Shrewsbury Town,2.0,1.0,2.43,0.64
+League One,2023-04-10,2022/2023,True,Bolton Wanderers,Cambridge United,1.0,1.0,1.06,0.67
+League One,2023-04-10,2022/2023,True,Charlton Athletic,Burton Albion,3.0,2.0,1.83,0.86
+League One,2023-04-10,2022/2023,True,Cheltenham Town,Ipswich Town,1.0,1.0,0.5,1.65
+League One,2023-04-10,2022/2023,True,Derby County,Milton Keynes Dons,1.0,1.0,2.74,0.3
+League One,2023-04-10,2022/2023,True,Fleetwood Town,Bristol Rovers,1.0,2.0,0.58,1.33
+League One,2023-04-10,2022/2023,True,Peterborough United,Exeter City,3.0,1.0,1.54,0.63
+League One,2023-04-10,2022/2023,True,Plymouth Argyle,Lincoln City,0.0,2.0,0.94,1.88
+League One,2023-04-10,2022/2023,True,Port Vale,Oxford United,0.0,0.0,0.52,0.69
+League One,2023-04-10,2022/2023,True,Portsmouth,Morecambe,0.0,0.0,0.79,1.02
+League One,2023-04-10,2022/2023,True,Sheffield Wednesday,Accrington Stanley,3.0,0.0,2.12,0.37
+League One,2023-04-10,2022/2023,True,Wycombe Wanderers,Forest Green Rovers,2.0,0.0,0.94,0.52
+League One,2023-04-15,2022/2023,True,Exeter City,Plymouth Argyle,0.0,1.0,0.8,0.3
+League One,2023-04-15,2022/2023,True,Cambridge United,Peterborough United,2.0,0.0,1.08,0.9
+League One,2023-04-15,2022/2023,True,Accrington Stanley,Fleetwood Town,2.0,5.0,0.86,4.33
+League One,2023-04-15,2022/2023,True,Bristol Rovers,Derby County,1.0,1.0,2.26,0.95
+League One,2023-04-15,2022/2023,True,Burton Albion,Sheffield Wednesday,3.0,2.0,1.13,2.07
+League One,2023-04-15,2022/2023,True,Forest Green Rovers,Barnsley,1.0,5.0,0.54,2.16
+League One,2023-04-15,2022/2023,True,Ipswich Town,Charlton Athletic,6.0,0.0,4.87,0.3
+League One,2023-04-15,2022/2023,True,Lincoln City,Port Vale,3.0,2.0,0.8,1.75
+League One,2023-04-15,2022/2023,True,Milton Keynes Dons,Cheltenham Town,2.0,2.0,1.95,2.27
+League One,2023-04-15,2022/2023,True,Morecambe,Wycombe Wanderers,1.0,0.0,0.51,1.78
+League One,2023-04-15,2022/2023,True,Oxford United,Bolton Wanderers,0.0,1.0,1.88,0.44
+League One,2023-04-15,2022/2023,True,Shrewsbury Town,Portsmouth,1.0,1.0,0.98,1.92
+League One,2023-04-18,2022/2023,True,Accrington Stanley,Peterborough United,1.0,2.0,1.2,1.57
+League One,2023-04-18,2022/2023,True,Bristol Rovers,Sheffield Wednesday,1.0,2.0,0.42,0.87
+League One,2023-04-18,2022/2023,True,Burton Albion,Bolton Wanderers,1.0,1.0,1.82,2.53
+League One,2023-04-18,2022/2023,True,Cambridge United,Wycombe Wanderers,1.0,2.0,1.73,2.39
+League One,2023-04-18,2022/2023,True,Exeter City,Derby County,1.0,2.0,0.82,1.22
+League One,2023-04-18,2022/2023,True,Forest Green Rovers,Fleetwood Town,0.0,0.0,0.45,0.81
+League One,2023-04-18,2022/2023,True,Ipswich Town,Port Vale,2.0,1.0,1.76,0.38
+League One,2023-04-18,2022/2023,True,Lincoln City,Barnsley,0.0,0.0,0.56,0.99
+League One,2023-04-18,2022/2023,True,Milton Keynes Dons,Charlton Athletic,0.0,1.0,0.46,0.93
+League One,2023-04-18,2022/2023,True,Oxford United,Portsmouth,1.0,1.0,2.06,1.27
+League One,2023-04-18,2022/2023,True,Shrewsbury Town,Plymouth Argyle,1.0,2.0,0.43,1.5
+League One,2023-04-22,2022/2023,True,Barnsley,Oxford United,2.0,0.0,1.35,1.06
+League One,2023-04-22,2022/2023,True,Bolton Wanderers,Shrewsbury Town,1.0,0.0,1.58,0.54
+League One,2023-04-22,2022/2023,True,Charlton Athletic,Morecambe,2.0,3.0,1.92,1.66
+League One,2023-04-22,2022/2023,True,Cheltenham Town,Forest Green Rovers,3.0,1.0,1.33,0.6
+League One,2023-04-22,2022/2023,True,Derby County,Burton Albion,1.0,0.0,2.8,0.45
+League One,2023-04-22,2022/2023,True,Fleetwood Town,Milton Keynes Dons,1.0,0.0,1.51,1.28
+League One,2023-04-22,2022/2023,True,Peterborough United,Ipswich Town,0.0,3.0,1.24,1.14
+League One,2023-04-22,2022/2023,True,Plymouth Argyle,Cambridge United,3.0,1.0,1.54,0.97
+League One,2023-04-22,2022/2023,True,Port Vale,Bristol Rovers,2.0,0.0,0.78,0.51
+League One,2023-04-22,2022/2023,True,Portsmouth,Accrington Stanley,1.0,0.0,1.26,0.89
+League One,2023-04-22,2022/2023,True,Sheffield Wednesday,Exeter City,2.0,1.0,1.91,1.34
+League One,2023-04-22,2022/2023,True,Wycombe Wanderers,Lincoln City,0.0,2.0,1.17,0.92
+League One,2023-04-25,2022/2023,True,Barnsley,Ipswich Town,0.0,3.0,0.59,1.4
+League One,2023-04-25,2022/2023,True,Bolton Wanderers,Accrington Stanley,0.0,1.0,1.65,0.67
+League One,2023-04-25,2022/2023,True,Lincoln City,Burton Albion,0.0,1.0,0.69,1.2
+League One,2023-04-25,2022/2023,True,Oxford United,Cheltenham Town,4.0,0.0,1.56,0.32
+League One,2023-04-25,2022/2023,True,Plymouth Argyle,Bristol Rovers,2.0,0.0,2.04,0.12
+League One,2023-04-29,2022/2023,True,Accrington Stanley,Cambridge United,1.0,2.0,1.55,1.69
+League One,2023-04-29,2022/2023,True,Bolton Wanderers,Fleetwood Town,2.0,0.0,1.27,1.12
+League One,2023-04-29,2022/2023,True,Charlton Athletic,Port Vale,3.0,2.0,0.95,1.68
+League One,2023-04-29,2022/2023,True,Derby County,Portsmouth,1.0,1.0,1.28,0.36
+League One,2023-04-29,2022/2023,True,Forest Green Rovers,Oxford United,0.0,3.0,0.32,0.63
+League One,2023-04-29,2022/2023,True,Ipswich Town,Exeter City,6.0,0.0,1.9,0.22
+League One,2023-04-29,2022/2023,True,Milton Keynes Dons,Barnsley,4.0,4.0,2.75,1.88
+League One,2023-04-29,2022/2023,True,Morecambe,Lincoln City,3.0,2.0,0.75,1.23
+League One,2023-04-29,2022/2023,True,Peterborough United,Bristol Rovers,0.0,0.0,1.05,0.16
+League One,2023-04-29,2022/2023,True,Plymouth Argyle,Burton Albion,1.0,0.0,1.92,0.49
+League One,2023-04-29,2022/2023,True,Shrewsbury Town,Sheffield Wednesday,0.0,3.0,0.84,1.56
+League One,2023-04-29,2022/2023,True,Wycombe Wanderers,Cheltenham Town,0.0,3.0,1.1,2.66
+League One,2023-05-02,2022/2023,True,Shrewsbury Town,Bristol Rovers,2.0,1.0,0.48,1.88
+League One,2023-05-03,2022/2023,True,Burton Albion,Cambridge United,1.0,0.0,0.34,0.7
+League One,2023-05-07,2022/2023,True,Barnsley,Peterborough United,0.0,2.0,1.03,1.01
+League One,2023-05-07,2022/2023,True,Bristol Rovers,Bolton Wanderers,2.0,3.0,2.65,2.08
+League One,2023-05-07,2022/2023,True,Burton Albion,Milton Keynes Dons,0.0,0.0,0.29,2.73
+League One,2023-05-07,2022/2023,True,Cambridge United,Forest Green Rovers,2.0,0.0,0.87,0.29
+League One,2023-05-07,2022/2023,True,Cheltenham Town,Charlton Athletic,2.0,2.0,2.23,2.44
+League One,2023-05-07,2022/2023,True,Exeter City,Morecambe,3.0,2.0,1.61,0.66
+League One,2023-05-07,2022/2023,True,Fleetwood Town,Ipswich Town,2.0,2.0,1.02,2.73
+League One,2023-05-07,2022/2023,True,Lincoln City,Shrewsbury Town,1.0,0.0,1.81,1.03
+League One,2023-05-07,2022/2023,True,Oxford United,Accrington Stanley,1.0,2.0,2.86,1.13
+League One,2023-05-07,2022/2023,True,Port Vale,Plymouth Argyle,1.0,3.0,0.88,1.14
+League One,2023-05-07,2022/2023,True,Portsmouth,Wycombe Wanderers,2.0,2.0,1.99,0.47
+League One,2023-05-07,2022/2023,True,Sheffield Wednesday,Derby County,1.0,0.0,1.79,0.62
+League One,2023-08-05,2023/2024,True,Barnsley,Port Vale,7.0,0.0,2.33,0.67
+League One,2023-08-05,2023/2024,True,Blackpool,Burton Albion,2.0,0.0,2.14,0.39
+League One,2023-08-05,2023/2024,True,Bolton Wanderers,Lincoln City,3.0,0.0,0.91,0.25
+League One,2023-08-05,2023/2024,True,Cambridge United,Oxford United,2.0,0.0,0.61,0.58
+League One,2023-08-05,2023/2024,True,Carlisle United,Fleetwood Town,1.0,1.0,1.23,0.85
+League One,2023-08-05,2023/2024,True,Charlton Athletic,Leyton Orient,1.0,0.0,1.88,0.35
+League One,2023-08-05,2023/2024,True,Derby County,Wigan Athletic,1.0,2.0,1.42,1.4
+League One,2023-08-05,2023/2024,True,Northampton Town,Stevenage,0.0,1.0,0.72,0.86
+League One,2023-08-05,2023/2024,True,Portsmouth,Bristol Rovers,1.0,1.0,1.8,1.09
+League One,2023-08-05,2023/2024,True,Reading,Peterborough United,0.0,1.0,1.02,0.5
+League One,2023-08-05,2023/2024,True,Shrewsbury Town,Cheltenham Town,1.0,0.0,1.4,0.75
+League One,2023-08-05,2023/2024,True,Wycombe Wanderers,Exeter City,0.0,3.0,0.64,2.12
+League One,2023-08-12,2023/2024,True,Bristol Rovers,Barnsley,1.0,1.0,1.64,0.41
+League One,2023-08-12,2023/2024,True,Burton Albion,Derby County,0.0,3.0,0.78,1.79
+League One,2023-08-12,2023/2024,True,Cheltenham Town,Bolton Wanderers,0.0,3.0,0.43,1.2
+League One,2023-08-12,2023/2024,True,Exeter City,Blackpool,0.0,0.0,1.0,0.57
+League One,2023-08-12,2023/2024,True,Fleetwood Town,Cambridge United,0.0,2.0,1.07,1.47
+League One,2023-08-12,2023/2024,True,Leyton Orient,Portsmouth,0.0,4.0,0.68,1.83
+League One,2023-08-12,2023/2024,True,Lincoln City,Wycombe Wanderers,3.0,0.0,1.77,0.61
+League One,2023-08-12,2023/2024,True,Oxford United,Carlisle United,1.0,0.0,0.72,0.26
+League One,2023-08-12,2023/2024,True,Peterborough United,Charlton Athletic,1.0,0.0,1.39,1.09
+League One,2023-08-12,2023/2024,True,Port Vale,Reading,1.0,0.0,1.05,1.14
+League One,2023-08-12,2023/2024,True,Stevenage,Shrewsbury Town,2.0,0.0,1.58,0.3
+League One,2023-08-12,2023/2024,True,Wigan Athletic,Northampton Town,2.0,1.0,1.71,1.24
+League One,2023-08-15,2023/2024,True,Barnsley,Peterborough United,1.0,3.0,0.82,2.81
+League One,2023-08-15,2023/2024,True,Blackpool,Port Vale,0.0,0.0,0.79,0.45
+League One,2023-08-15,2023/2024,True,Bolton Wanderers,Fleetwood Town,3.0,1.0,2.25,1.04
+League One,2023-08-15,2023/2024,True,Cambridge United,Stevenage,1.0,2.0,1.44,1.06
+League One,2023-08-15,2023/2024,True,Carlisle United,Wigan Athletic,1.0,1.0,0.79,1.37
+League One,2023-08-15,2023/2024,True,Charlton Athletic,Bristol Rovers,1.0,2.0,1.51,1.98
+League One,2023-08-15,2023/2024,True,Derby County,Oxford United,1.0,2.0,1.08,0.81
+League One,2023-08-15,2023/2024,True,Northampton Town,Lincoln City,2.0,2.0,1.57,0.53
+League One,2023-08-15,2023/2024,True,Shrewsbury Town,Burton Albion,2.0,1.0,0.59,2.17
+League One,2023-08-15,2023/2024,True,Wycombe Wanderers,Leyton Orient,3.0,2.0,2.31,0.9
+League One,2023-08-15,2023/2024,True,Portsmouth,Exeter City,1.0,0.0,0.71,1.42
+League One,2023-08-15,2023/2024,True,Reading,Cheltenham Town,1.0,0.0,0.42,0.49
+League One,2023-08-19,2023/2024,True,Bolton Wanderers,Wigan Athletic,0.0,4.0,2.45,1.11
+League One,2023-08-19,2023/2024,True,Barnsley,Oxford United,1.0,3.0,0.99,1.85
+League One,2023-08-19,2023/2024,True,Blackpool,Leyton Orient,0.0,0.0,1.52,1.26
+League One,2023-08-19,2023/2024,True,Cambridge United,Bristol Rovers,2.0,0.0,1.39,0.47
+League One,2023-08-19,2023/2024,True,Carlisle United,Exeter City,0.0,2.0,0.87,0.96
+League One,2023-08-19,2023/2024,True,Charlton Athletic,Port Vale,2.0,3.0,1.62,2.03
+League One,2023-08-19,2023/2024,True,Derby County,Fleetwood Town,1.0,0.0,0.98,0.65
+League One,2023-08-19,2023/2024,True,Northampton Town,Peterborough United,1.0,0.0,0.38,1.19
+League One,2023-08-19,2023/2024,True,Portsmouth,Cheltenham Town,0.0,0.0,1.39,0.4
+League One,2023-08-19,2023/2024,True,Reading,Stevenage,2.0,0.0,2.46,0.36
+League One,2023-08-19,2023/2024,True,Shrewsbury Town,Lincoln City,0.0,1.0,0.83,0.47
+League One,2023-08-19,2023/2024,True,Wycombe Wanderers,Burton Albion,0.0,0.0,0.74,0.38
+League One,2023-08-26,2023/2024,True,Bristol Rovers,Wycombe Wanderers,1.0,2.0,1.09,0.96
+League One,2023-08-26,2023/2024,True,Burton Albion,Bolton Wanderers,1.0,1.0,1.99,1.57
+League One,2023-08-26,2023/2024,True,Cheltenham Town,Northampton Town,0.0,1.0,0.38,0.57
+League One,2023-08-26,2023/2024,True,Exeter City,Reading,2.0,1.0,1.24,1.2
+League One,2023-08-26,2023/2024,True,Fleetwood Town,Shrewsbury Town,0.0,1.0,0.6,0.31
+League One,2023-08-26,2023/2024,True,Leyton Orient,Cambridge United,2.0,0.0,2.07,0.37
+League One,2023-08-26,2023/2024,True,Lincoln City,Blackpool,3.0,0.0,2.42,1.04
+League One,2023-08-26,2023/2024,True,Oxford United,Charlton Athletic,2.0,1.0,1.44,0.63
+League One,2023-08-26,2023/2024,True,Peterborough United,Derby County,2.0,4.0,2.83,1.35
+League One,2023-08-26,2023/2024,True,Port Vale,Carlisle United,1.0,0.0,2.14,0.7
+League One,2023-08-26,2023/2024,True,Stevenage,Portsmouth,0.0,0.0,1.52,0.77
+League One,2023-08-26,2023/2024,True,Wigan Athletic,Barnsley,0.0,2.0,0.36,2.41
+League One,2023-09-02,2023/2024,True,Blackpool,Wigan Athletic,2.0,1.0,2.2,1.09
+League One,2023-09-02,2023/2024,True,Bolton Wanderers,Derby County,2.0,1.0,1.78,1.35
+League One,2023-09-02,2023/2024,True,Bristol Rovers,Lincoln City,1.0,1.0,0.63,1.68
+League One,2023-09-02,2023/2024,True,Burton Albion,Exeter City,0.0,1.0,0.86,1.72
+League One,2023-09-02,2023/2024,True,Carlisle United,Shrewsbury Town,2.0,0.0,1.07,0.4
+League One,2023-09-02,2023/2024,True,Charlton Athletic,Fleetwood Town,2.0,1.0,1.79,0.84
+League One,2023-09-02,2023/2024,True,Cheltenham Town,Barnsley,0.0,2.0,1.67,1.44
+League One,2023-09-02,2023/2024,True,Leyton Orient,Stevenage,0.0,3.0,0.86,0.96
+League One,2023-09-02,2023/2024,True,Northampton Town,Wycombe Wanderers,0.0,1.0,1.32,1.12
+League One,2023-09-02,2023/2024,True,Oxford United,Port Vale,1.0,2.0,0.91,1.31
+League One,2023-09-02,2023/2024,True,Portsmouth,Peterborough United,3.0,1.0,3.45,1.41
+League One,2023-09-04,2023/2024,True,Cambridge United,Reading,1.0,0.0,1.48,1.19
+League One,2023-09-09,2023/2024,True,Exeter City,Leyton Orient,1.0,2.0,0.36,2.05
+League One,2023-09-09,2023/2024,True,Stevenage,Carlisle United,2.0,2.0,1.41,0.25
+League One,2023-09-16,2023/2024,True,Barnsley,Burton Albion,2.0,0.0,0.81,0.51
+League One,2023-09-16,2023/2024,True,Derby County,Portsmouth,1.0,1.0,2.4,2.17
+League One,2023-09-16,2023/2024,True,Exeter City,Cheltenham Town,1.0,0.0,1.99,0.54
+League One,2023-09-16,2023/2024,True,Fleetwood Town,Oxford United,0.0,3.0,0.96,0.47
+League One,2023-09-16,2023/2024,True,Lincoln City,Carlisle United,1.0,1.0,0.52,0.86
+League One,2023-09-16,2023/2024,True,Peterborough United,Leyton Orient,1.0,1.0,1.33,0.36
+League One,2023-09-16,2023/2024,True,Port Vale,Northampton Town,1.0,0.0,0.59,0.38
+League One,2023-09-16,2023/2024,True,Reading,Bolton Wanderers,2.0,1.0,1.23,1.63
+League One,2023-09-16,2023/2024,True,Shrewsbury Town,Bristol Rovers,0.0,2.0,0.71,2.15
+League One,2023-09-16,2023/2024,True,Stevenage,Charlton Athletic,1.0,1.0,0.84,1.59
+League One,2023-09-16,2023/2024,True,Wigan Athletic,Cambridge United,2.0,1.0,1.14,1.61
+League One,2023-09-16,2023/2024,True,Wycombe Wanderers,Blackpool,2.0,0.0,1.19,1.22
+League One,2023-09-19,2023/2024,True,Barnsley,Portsmouth,2.0,3.0,1.58,2.76
+League One,2023-09-19,2023/2024,True,Peterborough United,Cheltenham Town,3.0,0.0,2.3,0.04
+League One,2023-09-19,2023/2024,True,Port Vale,Burton Albion,2.0,3.0,1.25,0.96
+League One,2023-09-23,2023/2024,True,Blackpool,Reading,4.0,1.0,2.76,0.43
+League One,2023-09-23,2023/2024,True,Bolton Wanderers,Peterborough United,1.0,1.0,0.74,2.7
+League One,2023-09-23,2023/2024,True,Bristol Rovers,Wigan Athletic,4.0,1.0,1.53,0.68
+League One,2023-09-23,2023/2024,True,Burton Albion,Fleetwood Town,1.0,1.0,1.42,0.56
+League One,2023-09-23,2023/2024,True,Cambridge United,Port Vale,1.0,1.0,1.95,1.53
+League One,2023-09-23,2023/2024,True,Carlisle United,Derby County,0.0,2.0,0.31,1.33
+League One,2023-09-23,2023/2024,True,Charlton Athletic,Wycombe Wanderers,3.0,1.0,0.99,1.05
+League One,2023-09-23,2023/2024,True,Cheltenham Town,Stevenage,0.0,3.0,0.74,1.98
+League One,2023-09-23,2023/2024,True,Leyton Orient,Shrewsbury Town,1.0,0.0,1.26,1.13
+League One,2023-09-23,2023/2024,True,Northampton Town,Barnsley,1.0,2.0,1.48,0.66
+League One,2023-09-23,2023/2024,True,Oxford United,Exeter City,3.0,0.0,2.24,1.02
+League One,2023-09-23,2023/2024,True,Portsmouth,Lincoln City,2.0,1.0,1.03,0.88
+League One,2023-09-30,2023/2024,True,Barnsley,Blackpool,0.0,1.0,1.29,1.33
+League One,2023-09-30,2023/2024,True,Derby County,Cambridge United,0.0,0.0,1.49,0.12
+League One,2023-09-30,2023/2024,True,Exeter City,Northampton Town,0.0,2.0,0.48,1.87
+League One,2023-09-30,2023/2024,True,Fleetwood Town,Leyton Orient,1.0,0.0,1.3,0.86
+League One,2023-09-30,2023/2024,True,Lincoln City,Cheltenham Town,2.0,0.0,0.36,0.7
+League One,2023-09-30,2023/2024,True,Peterborough United,Bristol Rovers,2.0,0.0,2.19,1.66
+League One,2023-09-30,2023/2024,True,Port Vale,Bolton Wanderers,0.0,1.0,1.07,1.36
+League One,2023-09-30,2023/2024,True,Reading,Burton Albion,0.0,0.0,1.59,0.15
+League One,2023-09-30,2023/2024,True,Shrewsbury Town,Charlton Athletic,0.0,0.0,1.45,0.65
+League One,2023-09-30,2023/2024,True,Stevenage,Oxford United,1.0,3.0,1.5,1.98
+League One,2023-09-30,2023/2024,True,Wigan Athletic,Portsmouth,1.0,2.0,0.34,2.1
+League One,2023-09-30,2023/2024,True,Wycombe Wanderers,Carlisle United,2.0,0.0,2.34,0.94
+League One,2023-10-03,2023/2024,True,Blackpool,Derby County,1.0,3.0,0.61,2.46
+League One,2023-10-03,2023/2024,True,Bolton Wanderers,Stevenage,3.0,2.0,1.85,1.86
+League One,2023-10-03,2023/2024,True,Bristol Rovers,Port Vale,3.0,0.0,1.17,0.45
+League One,2023-10-03,2023/2024,True,Burton Albion,Wigan Athletic,2.0,1.0,1.44,0.85
+League One,2023-10-03,2023/2024,True,Cambridge United,Barnsley,0.0,4.0,1.16,0.95
+League One,2023-10-03,2023/2024,True,Carlisle United,Peterborough United,1.0,1.0,0.34,1.03
+League One,2023-10-03,2023/2024,True,Charlton Athletic,Exeter City,4.0,1.0,2.58,0.6
+League One,2023-10-03,2023/2024,True,Cheltenham Town,Fleetwood Town,0.0,2.0,0.57,2.09
+League One,2023-10-03,2023/2024,True,Northampton Town,Reading,3.0,1.0,1.62,0.44
+League One,2023-10-03,2023/2024,True,Oxford United,Shrewsbury Town,3.0,0.0,1.19,0.14
+League One,2023-10-03,2023/2024,True,Portsmouth,Wycombe Wanderers,2.0,1.0,1.15,0.46
+League One,2023-10-07,2023/2024,True,Oxford United,Bristol Rovers,2.0,1.0,1.94,1.19
+League One,2023-10-07,2023/2024,True,Bolton Wanderers,Carlisle United,1.0,3.0,1.11,2.89
+League One,2023-10-07,2023/2024,True,Charlton Athletic,Blackpool,2.0,2.0,1.39,1.14
+League One,2023-10-07,2023/2024,True,Cheltenham Town,Derby County,1.0,1.0,0.82,1.56
+League One,2023-10-07,2023/2024,True,Exeter City,Barnsley,0.0,1.0,0.6,1.21
+League One,2023-10-07,2023/2024,True,Fleetwood Town,Wycombe Wanderers,1.0,4.0,1.5,2.07
+League One,2023-10-07,2023/2024,True,Leyton Orient,Reading,2.0,1.0,2.15,1.33
+League One,2023-10-07,2023/2024,True,Peterborough United,Lincoln City,2.0,0.0,1.05,1.07
+League One,2023-10-07,2023/2024,True,Portsmouth,Port Vale,2.0,0.0,2.41,1.08
+League One,2023-10-07,2023/2024,True,Shrewsbury Town,Northampton Town,1.0,0.0,0.92,1.65
+League One,2023-10-07,2023/2024,True,Stevenage,Wigan Athletic,1.0,0.0,1.89,0.42
+League One,2023-10-09,2023/2024,True,Burton Albion,Cambridge United,2.0,1.0,1.34,0.81
+League One,2023-10-14,2023/2024,True,Blackpool,Stevenage,3.0,0.0,1.37,0.42
+League One,2023-10-14,2023/2024,True,Cambridge United,Shrewsbury Town,1.0,1.0,0.83,1.09
+League One,2023-10-14,2023/2024,True,Carlisle United,Leyton Orient,0.0,1.0,0.47,1.51
+League One,2023-10-14,2023/2024,True,Lincoln City,Burton Albion,0.0,1.0,0.26,0.72
+League One,2023-10-21,2023/2024,True,Bolton Wanderers,Northampton Town,2.0,1.0,1.84,0.46
+League One,2023-10-21,2023/2024,True,Burton Albion,Bristol Rovers,4.0,1.0,1.46,1.03
+League One,2023-10-21,2023/2024,True,Charlton Athletic,Reading,4.0,0.0,1.65,0.92
+League One,2023-10-21,2023/2024,True,Cheltenham Town,Cambridge United,1.0,0.0,1.14,0.63
+League One,2023-10-21,2023/2024,True,Exeter City,Wigan Athletic,0.0,2.0,1.65,0.73
+League One,2023-10-21,2023/2024,True,Fleetwood Town,Lincoln City,0.0,1.0,0.55,1.21
+League One,2023-10-21,2023/2024,True,Leyton Orient,Barnsley,1.0,1.0,1.58,0.24
+League One,2023-10-21,2023/2024,True,Oxford United,Blackpool,1.0,1.0,0.35,0.96
+League One,2023-10-21,2023/2024,True,Peterborough United,Wycombe Wanderers,2.0,2.0,0.43,1.32
+League One,2023-10-21,2023/2024,True,Portsmouth,Carlisle United,1.0,0.0,1.36,0.93
+League One,2023-10-21,2023/2024,True,Shrewsbury Town,Derby County,1.0,0.0,1.74,0.88
+League One,2023-10-21,2023/2024,True,Stevenage,Port Vale,0.0,0.0,1.11,0.41
+League One,2023-10-24,2023/2024,True,Barnsley,Shrewsbury Town,3.0,0.0,2.47,1.05
+League One,2023-10-24,2023/2024,True,Blackpool,Cheltenham Town,3.0,2.0,2.47,0.64
+League One,2023-10-24,2023/2024,True,Bristol Rovers,Stevenage,1.0,1.0,1.33,1.84
+League One,2023-10-24,2023/2024,True,Cambridge United,Portsmouth,0.0,0.0,0.54,1.02
+League One,2023-10-24,2023/2024,True,Carlisle United,Burton Albion,2.0,1.0,2.33,0.32
+League One,2023-10-24,2023/2024,True,Derby County,Exeter City,2.0,0.0,1.76,0.15
+League One,2023-10-24,2023/2024,True,Lincoln City,Charlton Athletic,3.0,1.0,2.78,1.54
+League One,2023-10-24,2023/2024,True,Northampton Town,Leyton Orient,2.0,2.0,1.18,2.18
+League One,2023-10-24,2023/2024,True,Port Vale,Peterborough United,0.0,1.0,0.83,1.29
+League One,2023-10-24,2023/2024,True,Wigan Athletic,Oxford United,2.0,0.0,0.63,0.37
+League One,2023-10-24,2023/2024,True,Wycombe Wanderers,Bolton Wanderers,2.0,4.0,0.72,1.58
+League One,2023-10-24,2023/2024,True,Reading,Fleetwood Town,1.0,2.0,2.28,2.63
+League One,2023-10-28,2023/2024,True,Barnsley,Fleetwood Town,2.0,2.0,3.39,0.87
+League One,2023-10-28,2023/2024,True,Blackpool,Peterborough United,2.0,4.0,1.76,2.41
+League One,2023-10-28,2023/2024,True,Bristol Rovers,Northampton Town,2.0,1.0,2.13,1.5
+League One,2023-10-28,2023/2024,True,Burton Albion,Leyton Orient,0.0,0.0,1.29,0.45
+League One,2023-10-28,2023/2024,True,Cambridge United,Carlisle United,1.0,0.0,1.18,0.35
+League One,2023-10-28,2023/2024,True,Charlton Athletic,Bolton Wanderers,0.0,2.0,1.03,0.57
+League One,2023-10-28,2023/2024,True,Exeter City,Lincoln City,1.0,1.0,2.17,1.08
+League One,2023-10-28,2023/2024,True,Oxford United,Wycombe Wanderers,2.0,2.0,2.69,1.88
+League One,2023-10-28,2023/2024,True,Port Vale,Cheltenham Town,1.0,2.0,0.68,0.76
+League One,2023-10-28,2023/2024,True,Reading,Portsmouth,2.0,3.0,1.46,2.67
+League One,2023-10-28,2023/2024,True,Stevenage,Derby County,3.0,1.0,1.83,0.79
+League One,2023-10-28,2023/2024,True,Wigan Athletic,Shrewsbury Town,2.0,0.0,1.74,0.3
+League One,2023-10-31,2023/2024,True,Derby County,Northampton Town,4.0,0.0,2.64,0.2
+League One,2023-10-31,2023/2024,True,Lincoln City,Oxford United,0.0,2.0,0.23,0.66
+League One,2023-10-31,2023/2024,True,Wigan Athletic,Charlton Athletic,2.0,3.0,0.93,1.43
+League One,2023-10-31,2023/2024,True,Wycombe Wanderers,Cambridge United,0.0,0.0,0.85,0.58
+League One,2023-11-01,2023/2024,True,Fleetwood Town,Blackpool,3.0,3.0,1.52,2.21
+League One,2023-11-07,2023/2024,True,Shrewsbury Town,Bolton Wanderers,0.0,2.0,0.37,0.7
+League One,2023-11-07,2023/2024,True,Wigan Athletic,Peterborough United,2.0,1.0,0.96,1.89
+League One,2023-11-07,2023/2024,True,Reading,Bristol Rovers,1.0,1.0,0.25,1.03
+League One,2023-11-11,2023/2024,True,Peterborough United,Cambridge United,5.0,0.0,2.47,0.31
+League One,2023-11-11,2023/2024,True,Bolton Wanderers,Blackpool,1.0,0.0,0.93,0.63
+League One,2023-11-11,2023/2024,True,Carlisle United,Bristol Rovers,0.0,1.0,0.62,0.38
+League One,2023-11-11,2023/2024,True,Cheltenham Town,Wigan Athletic,1.0,1.0,1.94,1.01
+League One,2023-11-11,2023/2024,True,Derby County,Barnsley,3.0,0.0,3.22,0.61
+League One,2023-11-11,2023/2024,True,Fleetwood Town,Exeter City,3.0,0.0,2.66,1.1
+League One,2023-11-11,2023/2024,True,Leyton Orient,Oxford United,2.0,3.0,0.95,2.2
+League One,2023-11-11,2023/2024,True,Lincoln City,Port Vale,1.0,1.0,2.0,0.89
+League One,2023-11-11,2023/2024,True,Northampton Town,Burton Albion,2.0,0.0,1.72,0.66
+League One,2023-11-11,2023/2024,True,Portsmouth,Charlton Athletic,2.0,2.0,2.74,0.53
+League One,2023-11-11,2023/2024,True,Shrewsbury Town,Reading,3.0,2.0,1.73,1.39
+League One,2023-11-11,2023/2024,True,Wycombe Wanderers,Stevenage,0.0,1.0,0.44,0.55
+League One,2023-11-18,2023/2024,True,Blackpool,Shrewsbury Town,4.0,0.0,3.09,0.41
+League One,2023-11-18,2023/2024,True,Stevenage,Lincoln City,1.0,0.0,1.92,0.21
+League One,2023-11-21,2023/2024,True,Leyton Orient,Lincoln City,0.0,1.0,1.35,0.74
+League One,2023-11-25,2023/2024,True,Bolton Wanderers,Exeter City,7.0,0.0,4.04,0.07
+League One,2023-11-25,2023/2024,True,Carlisle United,Charlton Athletic,1.0,1.0,0.83,1.7
+League One,2023-11-25,2023/2024,True,Cheltenham Town,Oxford United,2.0,0.0,1.22,1.42
+League One,2023-11-25,2023/2024,True,Derby County,Bristol Rovers,2.0,1.0,0.45,0.44
+League One,2023-11-25,2023/2024,True,Fleetwood Town,Stevenage,0.0,3.0,2.04,1.13
+League One,2023-11-25,2023/2024,True,Leyton Orient,Wigan Athletic,1.0,1.0,0.79,0.99
+League One,2023-11-25,2023/2024,True,Lincoln City,Barnsley,2.0,2.0,1.81,1.83
+League One,2023-11-25,2023/2024,True,Northampton Town,Cambridge United,2.0,1.0,1.53,1.41
+League One,2023-11-25,2023/2024,True,Peterborough United,Burton Albion,4.0,0.0,2.85,0.86
+League One,2023-11-25,2023/2024,True,Portsmouth,Blackpool,0.0,4.0,0.72,1.28
+League One,2023-11-25,2023/2024,True,Shrewsbury Town,Port Vale,2.0,1.0,0.62,1.36
+League One,2023-11-25,2023/2024,True,Wycombe Wanderers,Reading,1.0,2.0,0.51,1.48
+League One,2023-11-28,2023/2024,True,Barnsley,Wycombe Wanderers,1.0,0.0,1.69,0.81
+League One,2023-11-28,2023/2024,True,Blackpool,Northampton Town,1.0,2.0,1.31,0.89
+League One,2023-11-28,2023/2024,True,Bristol Rovers,Leyton Orient,1.0,1.0,0.67,0.33
+League One,2023-11-28,2023/2024,True,Burton Albion,Portsmouth,0.0,2.0,1.07,1.94
+League One,2023-11-28,2023/2024,True,Cambridge United,Lincoln City,0.0,3.0,0.36,2.35
+League One,2023-11-28,2023/2024,True,Charlton Athletic,Cheltenham Town,2.0,1.0,2.6,0.89
+League One,2023-11-28,2023/2024,True,Exeter City,Shrewsbury Town,0.0,0.0,0.66,0.58
+League One,2023-11-28,2023/2024,True,Oxford United,Bolton Wanderers,0.0,0.0,0.73,1.18
+League One,2023-11-28,2023/2024,True,Port Vale,Derby County,0.0,1.0,0.4,0.85
+League One,2023-11-28,2023/2024,True,Stevenage,Peterborough United,2.0,2.0,0.63,3.75
+League One,2023-11-28,2023/2024,True,Wigan Athletic,Fleetwood Town,3.0,0.0,2.2,0.38
+League One,2023-11-28,2023/2024,True,Reading,Carlisle United,5.0,1.0,2.09,0.8
+League One,2023-12-02,2023/2024,True,Northampton Town,Portsmouth,0.0,3.0,0.51,2.37
+League One,2023-12-09,2023/2024,True,Blackpool,Carlisle United,3.0,0.0,2.09,0.92
+League One,2023-12-09,2023/2024,True,Bristol Rovers,Cheltenham Town,1.0,1.0,1.19,1.94
+League One,2023-12-09,2023/2024,True,Burton Albion,Stevenage,1.0,2.0,1.3,2.81
+League One,2023-12-09,2023/2024,True,Charlton Athletic,Cambridge United,2.0,2.0,0.61,1.87
+League One,2023-12-09,2023/2024,True,Exeter City,Port Vale,0.0,1.0,1.49,1.29
+League One,2023-12-09,2023/2024,True,Leyton Orient,Derby County,0.0,3.0,0.5,2.82
+League One,2023-12-09,2023/2024,True,Northampton Town,Fleetwood Town,3.0,0.0,2.53,0.51
+League One,2023-12-09,2023/2024,True,Peterborough United,Oxford United,3.0,0.0,3.17,0.59
+League One,2023-12-09,2023/2024,True,Reading,Barnsley,1.0,3.0,0.91,2.27
+League One,2023-12-09,2023/2024,True,Wigan Athletic,Lincoln City,0.0,0.0,0.33,0.57
+League One,2023-12-09,2023/2024,True,Wycombe Wanderers,Shrewsbury Town,0.0,1.0,1.55,0.4
+League One,2023-12-11,2023/2024,True,Portsmouth,Bolton Wanderers,2.0,0.0,1.84,1.6
+League One,2023-12-12,2023/2024,True,Reading,Oxford United,1.0,1.0,1.31,0.52
+League One,2023-12-16,2023/2024,True,Barnsley,Charlton Athletic,1.0,1.0,1.2,1.04
+League One,2023-12-16,2023/2024,True,Bolton Wanderers,Bristol Rovers,1.0,2.0,0.98,1.87
+League One,2023-12-16,2023/2024,True,Cambridge United,Blackpool,2.0,1.0,2.56,0.96
+League One,2023-12-16,2023/2024,True,Carlisle United,Northampton Town,2.0,2.0,0.87,0.34
+League One,2023-12-16,2023/2024,True,Cheltenham Town,Leyton Orient,1.0,2.0,1.49,1.74
+League One,2023-12-16,2023/2024,True,Derby County,Wycombe Wanderers,1.0,1.0,0.91,1.45
+League One,2023-12-16,2023/2024,True,Fleetwood Town,Peterborough United,0.0,1.0,1.04,2.73
+League One,2023-12-16,2023/2024,True,Lincoln City,Reading,1.0,1.0,0.23,0.85
+League One,2023-12-16,2023/2024,True,Oxford United,Burton Albion,3.0,0.0,2.43,0.13
+League One,2023-12-16,2023/2024,True,Port Vale,Wigan Athletic,3.0,2.0,3.39,0.85
+League One,2023-12-16,2023/2024,True,Shrewsbury Town,Portsmouth,0.0,3.0,0.55,2.02
+League One,2023-12-16,2023/2024,True,Stevenage,Exeter City,1.0,1.0,1.68,0.55
+League One,2023-12-21,2023/2024,True,Derby County,Lincoln City,3.0,1.0,1.31,0.95
+League One,2023-12-22,2023/2024,True,Cambridge United,Exeter City,2.0,0.0,3.28,0.63
+League One,2023-12-23,2023/2024,True,Barnsley,Stevenage,2.0,1.0,0.53,1.42
+League One,2023-12-23,2023/2024,True,Blackpool,Bristol Rovers,3.0,1.0,0.81,0.84
+League One,2023-12-23,2023/2024,True,Bolton Wanderers,Leyton Orient,3.0,2.0,2.11,1.34
+League One,2023-12-23,2023/2024,True,Carlisle United,Cheltenham Town,0.0,1.0,0.76,1.03
+League One,2023-12-23,2023/2024,True,Charlton Athletic,Burton Albion,1.0,1.0,1.65,2.0
+League One,2023-12-23,2023/2024,True,Northampton Town,Oxford United,2.0,1.0,1.3,1.4
+League One,2023-12-23,2023/2024,True,Portsmouth,Fleetwood Town,1.0,1.0,2.04,1.1
+League One,2023-12-23,2023/2024,True,Reading,Wigan Athletic,2.0,0.0,1.0,0.87
+League One,2023-12-23,2023/2024,True,Shrewsbury Town,Peterborough United,1.0,2.0,1.09,2.82
+League One,2023-12-23,2023/2024,True,Wycombe Wanderers,Port Vale,1.0,1.0,1.61,0.56
+League One,2023-12-26,2023/2024,True,Leyton Orient,Charlton Athletic,1.0,0.0,0.84,0.45
+League One,2023-12-26,2023/2024,True,Bristol Rovers,Portsmouth,2.0,1.0,0.81,2.12
+League One,2023-12-26,2023/2024,True,Burton Albion,Blackpool,1.0,0.0,0.59,0.48
+League One,2023-12-26,2023/2024,True,Cheltenham Town,Shrewsbury Town,2.0,0.0,1.22,0.75
+League One,2023-12-26,2023/2024,True,Exeter City,Wycombe Wanderers,1.0,0.0,1.74,1.44
+League One,2023-12-26,2023/2024,True,Fleetwood Town,Carlisle United,1.0,1.0,0.48,0.29
+League One,2023-12-26,2023/2024,True,Lincoln City,Bolton Wanderers,0.0,1.0,0.06,1.14
+League One,2023-12-26,2023/2024,True,Oxford United,Cambridge United,2.0,1.0,1.5,1.67
+League One,2023-12-26,2023/2024,True,Peterborough United,Reading,2.0,2.0,1.22,0.75
+League One,2023-12-26,2023/2024,True,Port Vale,Barnsley,2.0,3.0,1.81,1.15
+League One,2023-12-26,2023/2024,True,Stevenage,Northampton Town,3.0,0.0,1.98,0.04
+League One,2023-12-26,2023/2024,True,Wigan Athletic,Derby County,0.0,1.0,0.21,0.96
+League One,2023-12-29,2023/2024,True,Wigan Athletic,Carlisle United,2.0,0.0,2.86,0.9
+League One,2023-12-29,2023/2024,True,Bristol Rovers,Charlton Athletic,2.0,1.0,1.48,0.9
+League One,2023-12-29,2023/2024,True,Burton Albion,Shrewsbury Town,1.0,0.0,0.68,0.89
+League One,2023-12-29,2023/2024,True,Cheltenham Town,Reading,2.0,2.0,1.63,1.33
+League One,2023-12-29,2023/2024,True,Exeter City,Portsmouth,0.0,0.0,2.01,0.99
+League One,2023-12-29,2023/2024,True,Fleetwood Town,Bolton Wanderers,0.0,2.0,0.2,1.14
+League One,2023-12-29,2023/2024,True,Leyton Orient,Wycombe Wanderers,0.0,0.0,0.44,0.13
+League One,2023-12-29,2023/2024,True,Lincoln City,Northampton Town,1.0,2.0,1.4,0.75
+League One,2023-12-29,2023/2024,True,Oxford United,Derby County,2.0,3.0,1.24,2.85
+League One,2023-12-29,2023/2024,True,Peterborough United,Barnsley,2.0,2.0,1.38,1.51
+League One,2023-12-29,2023/2024,True,Port Vale,Blackpool,3.0,0.0,1.74,0.92
+League One,2024-01-01,2023/2024,True,Barnsley,Wigan Athletic,1.0,1.0,1.44,1.25
+League One,2024-01-01,2023/2024,True,Blackpool,Lincoln City,2.0,0.0,0.64,0.35
+League One,2024-01-01,2023/2024,True,Bolton Wanderers,Burton Albion,1.0,0.0,1.59,0.93
+League One,2024-01-01,2023/2024,True,Cambridge United,Leyton Orient,0.0,2.0,0.89,0.55
+League One,2024-01-01,2023/2024,True,Carlisle United,Port Vale,2.0,1.0,2.04,0.57
+League One,2024-01-01,2023/2024,True,Charlton Athletic,Oxford United,1.0,2.0,0.87,0.89
+League One,2024-01-01,2023/2024,True,Derby County,Peterborough United,2.0,3.0,1.48,1.56
+League One,2024-01-01,2023/2024,True,Northampton Town,Cheltenham Town,1.0,0.0,1.71,0.74
+League One,2024-01-01,2023/2024,True,Portsmouth,Stevenage,2.0,1.0,1.79,0.98
+League One,2024-01-01,2023/2024,True,Reading,Exeter City,3.0,2.0,1.07,1.09
+League One,2024-01-01,2023/2024,True,Shrewsbury Town,Fleetwood Town,3.0,1.0,2.12,1.58
+League One,2024-01-01,2023/2024,True,Wycombe Wanderers,Bristol Rovers,3.0,2.0,2.86,2.67
+League One,2024-01-06,2023/2024,True,Fleetwood Town,Derby County,1.0,3.0,0.77,1.36
+League One,2024-01-06,2023/2024,True,Burton Albion,Wycombe Wanderers,1.0,1.0,0.47,1.99
+League One,2024-01-06,2023/2024,True,Cheltenham Town,Portsmouth,2.0,1.0,0.74,1.53
+League One,2024-01-06,2023/2024,True,Exeter City,Carlisle United,2.0,1.0,1.75,1.33
+League One,2024-01-06,2023/2024,True,Port Vale,Charlton Athletic,3.0,3.0,2.54,1.22
+League One,2024-01-13,2023/2024,True,Barnsley,Bristol Rovers,2.0,1.0,1.74,1.92
+League One,2024-01-13,2023/2024,True,Blackpool,Exeter City,2.0,0.0,1.85,0.7
+League One,2024-01-13,2023/2024,True,Cambridge United,Fleetwood Town,2.0,1.0,1.18,0.83
+League One,2024-01-13,2023/2024,True,Carlisle United,Oxford United,1.0,3.0,1.34,1.21
+League One,2024-01-13,2023/2024,True,Charlton Athletic,Peterborough United,1.0,2.0,1.47,1.62
+League One,2024-01-13,2023/2024,True,Northampton Town,Wigan Athletic,1.0,1.0,1.26,1.47
+League One,2024-01-13,2023/2024,True,Portsmouth,Leyton Orient,0.0,3.0,1.53,1.76
+League One,2024-01-13,2023/2024,True,Shrewsbury Town,Stevenage,0.0,1.0,0.31,0.71
+League One,2024-01-13,2023/2024,True,Wycombe Wanderers,Lincoln City,1.0,1.0,1.02,1.09
+League One,2024-01-15,2023/2024,True,Derby County,Burton Albion,3.0,2.0,1.8,0.81
+League One,2024-01-16,2023/2024,True,Barnsley,Carlisle United,2.0,1.0,1.18,1.48
+League One,2024-01-20,2023/2024,True,Bristol Rovers,Blackpool,1.0,2.0,1.28,0.72
+League One,2024-01-20,2023/2024,True,Burton Albion,Charlton Athletic,2.0,0.0,0.6,0.98
+League One,2024-01-20,2023/2024,True,Exeter City,Cambridge United,0.0,0.0,0.74,0.19
+League One,2024-01-20,2023/2024,True,Fleetwood Town,Portsmouth,0.0,1.0,1.08,1.1
+League One,2024-01-20,2023/2024,True,Leyton Orient,Bolton Wanderers,1.0,0.0,0.97,0.78
+League One,2024-01-20,2023/2024,True,Lincoln City,Derby County,0.0,0.0,0.88,1.41
+League One,2024-01-20,2023/2024,True,Peterborough United,Shrewsbury Town,2.0,1.0,2.73,0.55
+League One,2024-01-20,2023/2024,True,Wigan Athletic,Reading,1.0,0.0,0.57,1.77
+League One,2024-01-23,2023/2024,True,Bolton Wanderers,Cheltenham Town,1.0,0.0,0.71,1.3
+League One,2024-01-23,2023/2024,True,Bristol Rovers,Exeter City,0.0,1.0,0.95,0.99
+League One,2024-01-23,2023/2024,True,Charlton Athletic,Northampton Town,2.0,3.0,1.09,1.34
+League One,2024-01-23,2023/2024,True,Oxford United,Barnsley,0.0,1.0,1.01,0.42
+League One,2024-01-23,2023/2024,True,Wigan Athletic,Wycombe Wanderers,1.0,0.0,0.58,1.1
+League One,2024-01-23,2023/2024,True,Reading,Derby County,1.0,0.0,0.64,0.71
+League One,2024-01-27,2023/2024,True,Barnsley,Exeter City,1.0,2.0,1.34,0.66
+League One,2024-01-27,2023/2024,True,Blackpool,Charlton Athletic,1.0,1.0,2.25,0.73
+League One,2024-01-27,2023/2024,True,Bristol Rovers,Oxford United,3.0,1.0,1.12,0.47
+League One,2024-01-27,2023/2024,True,Cambridge United,Burton Albion,0.0,0.0,0.88,0.15
+League One,2024-01-27,2023/2024,True,Carlisle United,Bolton Wanderers,1.0,4.0,0.47,1.29
+League One,2024-01-27,2023/2024,True,Derby County,Cheltenham Town,2.0,1.0,0.65,0.63
+League One,2024-01-27,2023/2024,True,Lincoln City,Peterborough United,0.0,0.0,0.75,0.3
+League One,2024-01-27,2023/2024,True,Northampton Town,Shrewsbury Town,0.0,2.0,0.19,1.59
+League One,2024-01-27,2023/2024,True,Port Vale,Portsmouth,0.0,1.0,0.22,2.43
+League One,2024-01-27,2023/2024,True,Reading,Leyton Orient,1.0,1.0,1.53,1.4
+League One,2024-01-27,2023/2024,True,Wigan Athletic,Stevenage,2.0,3.0,1.6,1.15
+League One,2024-01-27,2023/2024,True,Wycombe Wanderers,Fleetwood Town,2.0,2.0,4.04,0.9
+League One,2024-01-30,2023/2024,True,Oxford United,Portsmouth,2.0,2.0,1.47,1.54
+League One,2024-02-03,2023/2024,True,Oxford United,Reading,1.0,1.0,1.12,0.27
+League One,2024-02-03,2023/2024,True,Bolton Wanderers,Barnsley,1.0,1.0,0.98,1.05
+League One,2024-02-03,2023/2024,True,Burton Albion,Lincoln City,0.0,1.0,0.9,1.32
+League One,2024-02-03,2023/2024,True,Charlton Athletic,Derby County,0.0,1.0,0.77,0.49
+League One,2024-02-03,2023/2024,True,Cheltenham Town,Wycombe Wanderers,1.0,3.0,1.33,1.62
+League One,2024-02-03,2023/2024,True,Exeter City,Bristol Rovers,0.0,1.0,0.75,0.27
+League One,2024-02-03,2023/2024,True,Fleetwood Town,Port Vale,3.0,0.0,2.0,0.46
+League One,2024-02-03,2023/2024,True,Leyton Orient,Carlisle United,3.0,2.0,1.86,0.99
+League One,2024-02-03,2023/2024,True,Peterborough United,Wigan Athletic,2.0,3.0,3.98,1.71
+League One,2024-02-03,2023/2024,True,Portsmouth,Northampton Town,4.0,1.0,2.47,0.87
+League One,2024-02-03,2023/2024,True,Shrewsbury Town,Cambridge United,1.0,2.0,0.64,0.93
+League One,2024-02-03,2023/2024,True,Stevenage,Blackpool,1.0,0.0,1.53,0.67
+League One,2024-02-06,2023/2024,True,Bristol Rovers,Fleetwood Town,0.0,2.0,1.36,0.99
+League One,2024-02-06,2023/2024,True,Exeter City,Peterborough United,2.0,1.0,0.62,1.95
+League One,2024-02-06,2023/2024,True,Port Vale,Leyton Orient,0.0,1.0,0.32,1.69
+League One,2024-02-06,2023/2024,True,Stevenage,Reading,0.0,1.0,1.24,0.53
+League One,2024-02-10,2023/2024,True,Barnsley,Leyton Orient,2.0,1.0,2.57,0.94
+League One,2024-02-10,2023/2024,True,Blackpool,Oxford United,1.0,1.0,1.06,1.38
+League One,2024-02-10,2023/2024,True,Bristol Rovers,Burton Albion,1.0,2.0,0.51,1.12
+League One,2024-02-10,2023/2024,True,Cambridge United,Cheltenham Town,0.0,1.0,1.83,0.94
+League One,2024-02-10,2023/2024,True,Carlisle United,Portsmouth,0.0,1.0,0.52,1.49
+League One,2024-02-10,2023/2024,True,Derby County,Shrewsbury Town,1.0,1.0,0.73,0.41
+League One,2024-02-10,2023/2024,True,Lincoln City,Fleetwood Town,2.0,1.0,1.74,0.74
+League One,2024-02-10,2023/2024,True,Northampton Town,Bolton Wanderers,1.0,1.0,0.72,0.52
+League One,2024-02-10,2023/2024,True,Port Vale,Stevenage,2.0,2.0,1.65,2.0
+League One,2024-02-10,2023/2024,True,Reading,Charlton Athletic,2.0,0.0,0.88,0.36
+League One,2024-02-10,2023/2024,True,Wigan Athletic,Exeter City,1.0,2.0,1.1,0.26
+League One,2024-02-10,2023/2024,True,Wycombe Wanderers,Peterborough United,5.0,2.0,1.29,1.39
+League One,2024-02-13,2023/2024,True,Bolton Wanderers,Wycombe Wanderers,2.0,1.0,0.74,2.33
+League One,2024-02-13,2023/2024,True,Charlton Athletic,Lincoln City,1.0,1.0,0.59,0.16
+League One,2024-02-13,2023/2024,True,Cheltenham Town,Blackpool,2.0,0.0,2.32,0.27
+League One,2024-02-13,2023/2024,True,Exeter City,Derby County,0.0,3.0,0.71,0.88
+League One,2024-02-13,2023/2024,True,Fleetwood Town,Reading,1.0,1.0,2.13,0.91
+League One,2024-02-13,2023/2024,True,Leyton Orient,Northampton Town,4.0,3.0,2.41,0.63
+League One,2024-02-13,2023/2024,True,Oxford United,Wigan Athletic,4.0,2.0,1.06,1.28
+League One,2024-02-13,2023/2024,True,Portsmouth,Cambridge United,3.0,1.0,1.6,0.49
+League One,2024-02-13,2023/2024,True,Shrewsbury Town,Barnsley,1.0,1.0,1.03,2.04
+League One,2024-02-13,2023/2024,True,Stevenage,Bristol Rovers,2.0,3.0,1.17,0.67
+League One,2024-02-17,2023/2024,True,Bolton Wanderers,Charlton Athletic,3.0,3.0,2.29,0.28
+League One,2024-02-17,2023/2024,True,Carlisle United,Cambridge United,0.0,4.0,0.82,1.76
+League One,2024-02-17,2023/2024,True,Cheltenham Town,Port Vale,3.0,2.0,1.47,0.5
+League One,2024-02-17,2023/2024,True,Derby County,Stevenage,1.0,0.0,0.23,0.27
+League One,2024-02-17,2023/2024,True,Fleetwood Town,Barnsley,1.0,2.0,0.85,1.51
+League One,2024-02-17,2023/2024,True,Leyton Orient,Burton Albion,1.0,2.0,1.74,0.53
+League One,2024-02-17,2023/2024,True,Lincoln City,Exeter City,1.0,0.0,1.59,0.39
+League One,2024-02-17,2023/2024,True,Northampton Town,Bristol Rovers,3.0,1.0,0.6,1.16
+League One,2024-02-17,2023/2024,True,Peterborough United,Blackpool,1.0,2.0,0.87,2.16
+League One,2024-02-17,2023/2024,True,Portsmouth,Reading,4.0,1.0,0.67,1.25
+League One,2024-02-17,2023/2024,True,Shrewsbury Town,Wigan Athletic,0.0,1.0,1.41,0.54
+League One,2024-02-17,2023/2024,True,Wycombe Wanderers,Oxford United,0.0,0.0,1.28,0.36
+League One,2024-02-20,2023/2024,True,Cambridge United,Bolton Wanderers,1.0,2.0,0.31,1.37
+League One,2024-02-20,2023/2024,True,Oxford United,Northampton Town,2.0,2.0,1.35,0.66
+League One,2024-02-20,2023/2024,True,Reading,Port Vale,2.0,0.0,2.38,0.35
+League One,2024-02-23,2023/2024,True,Wigan Athletic,Cheltenham Town,1.0,1.0,0.4,0.44
+League One,2024-02-24,2023/2024,True,Cambridge United,Peterborough United,0.0,1.0,0.42,1.39
+League One,2024-02-24,2023/2024,True,Barnsley,Derby County,2.0,1.0,0.37,0.43
+League One,2024-02-24,2023/2024,True,Blackpool,Bolton Wanderers,4.0,1.0,3.24,1.86
+League One,2024-02-24,2023/2024,True,Bristol Rovers,Carlisle United,2.0,1.0,1.0,0.72
+League One,2024-02-24,2023/2024,True,Burton Albion,Northampton Town,0.0,2.0,0.83,0.38
+League One,2024-02-24,2023/2024,True,Charlton Athletic,Portsmouth,0.0,0.0,0.81,0.67
+League One,2024-02-24,2023/2024,True,Exeter City,Fleetwood Town,1.0,1.0,0.48,1.33
+League One,2024-02-24,2023/2024,True,Oxford United,Leyton Orient,1.0,2.0,0.85,0.79
+League One,2024-02-24,2023/2024,True,Port Vale,Lincoln City,0.0,2.0,0.43,1.01
+League One,2024-02-24,2023/2024,True,Reading,Shrewsbury Town,2.0,3.0,1.1,0.52
+League One,2024-02-24,2023/2024,True,Stevenage,Wycombe Wanderers,1.0,0.0,1.23,0.69
+League One,2024-02-27,2023/2024,True,Burton Albion,Carlisle United,0.0,1.0,1.12,0.15
+League One,2024-02-27,2023/2024,True,Derby County,Charlton Athletic,1.0,2.0,0.66,1.6
+League One,2024-02-27,2023/2024,True,Leyton Orient,Blackpool,1.0,0.0,0.75,0.44
+League One,2024-02-27,2023/2024,True,Lincoln City,Shrewsbury Town,3.0,0.0,2.82,0.23
+League One,2024-02-27,2023/2024,True,Port Vale,Fleetwood Town,2.0,2.0,1.2,1.85
+League One,2024-02-27,2023/2024,True,Stevenage,Cambridge United,1.0,0.0,1.17,0.47
+League One,2024-02-27,2023/2024,True,Wigan Athletic,Bolton Wanderers,1.0,0.0,0.57,0.71
+League One,2024-02-27,2023/2024,True,Wycombe Wanderers,Cheltenham Town,2.0,0.0,2.39,0.35
+League One,2024-03-02,2023/2024,True,Bolton Wanderers,Cambridge United,2.0,0.0,1.88,0.24
+League One,2024-03-02,2023/2024,True,Carlisle United,Reading,1.0,3.0,0.59,1.11
+League One,2024-03-02,2023/2024,True,Cheltenham Town,Burton Albion,0.0,0.0,0.83,1.35
+League One,2024-03-02,2023/2024,True,Derby County,Port Vale,3.0,0.0,1.45,0.19
+League One,2024-03-02,2023/2024,True,Fleetwood Town,Wigan Athletic,4.0,2.0,1.0,0.56
+League One,2024-03-02,2023/2024,True,Leyton Orient,Bristol Rovers,0.0,1.0,0.75,0.55
+League One,2024-03-02,2023/2024,True,Lincoln City,Stevenage,0.0,0.0,0.62,0.36
+League One,2024-03-02,2023/2024,True,Northampton Town,Charlton Athletic,1.0,1.0,0.94,1.0
+League One,2024-03-02,2023/2024,True,Peterborough United,Exeter City,2.0,1.0,0.96,0.69
+League One,2024-03-02,2023/2024,True,Portsmouth,Oxford United,2.0,1.0,0.8,1.81
+League One,2024-03-02,2023/2024,True,Shrewsbury Town,Blackpool,0.0,2.0,0.63,1.2
+League One,2024-03-02,2023/2024,True,Wycombe Wanderers,Barnsley,2.0,4.0,1.27,0.95
+League One,2024-03-05,2023/2024,True,Barnsley,Bolton Wanderers,2.0,2.0,1.23,3.5
+League One,2024-03-05,2023/2024,True,Cheltenham Town,Charlton Athletic,1.0,3.0,1.84,2.66
+League One,2024-03-05,2023/2024,True,Peterborough United,Northampton Town,5.0,1.0,1.93,0.65
+League One,2024-03-09,2023/2024,True,Barnsley,Lincoln City,1.0,5.0,0.95,2.33
+League One,2024-03-09,2023/2024,True,Blackpool,Portsmouth,0.0,0.0,0.18,0.62
+League One,2024-03-09,2023/2024,True,Bristol Rovers,Derby County,0.0,3.0,0.44,3.26
+League One,2024-03-09,2023/2024,True,Burton Albion,Peterborough United,1.0,3.0,1.16,1.35
+League One,2024-03-09,2023/2024,True,Cambridge United,Northampton Town,1.0,1.0,0.86,0.35
+League One,2024-03-09,2023/2024,True,Charlton Athletic,Carlisle United,3.0,2.0,1.5,1.07
+League One,2024-03-09,2023/2024,True,Exeter City,Bolton Wanderers,2.0,2.0,1.22,0.85
+League One,2024-03-09,2023/2024,True,Oxford United,Cheltenham Town,2.0,1.0,0.53,0.45
+League One,2024-03-09,2023/2024,True,Port Vale,Shrewsbury Town,1.0,2.0,1.07,1.08
+League One,2024-03-09,2023/2024,True,Reading,Wycombe Wanderers,1.0,2.0,0.99,1.13
+League One,2024-03-09,2023/2024,True,Stevenage,Fleetwood Town,0.0,0.0,0.46,0.18
+League One,2024-03-09,2023/2024,True,Wigan Athletic,Leyton Orient,1.0,0.0,1.21,0.32
+League One,2024-03-12,2023/2024,True,Carlisle United,Barnsley,2.0,3.0,1.08,2.75
+League One,2024-03-12,2023/2024,True,Derby County,Reading,2.0,1.0,2.91,0.28
+League One,2024-03-12,2023/2024,True,Fleetwood Town,Bristol Rovers,0.0,0.0,1.39,1.05
+League One,2024-03-12,2023/2024,True,Leyton Orient,Port Vale,0.0,0.0,0.37,0.48
+League One,2024-03-12,2023/2024,True,Lincoln City,Cambridge United,6.0,0.0,2.94,1.23
+League One,2024-03-12,2023/2024,True,Northampton Town,Blackpool,0.0,1.0,0.3,2.36
+League One,2024-03-12,2023/2024,True,Portsmouth,Burton Albion,2.0,1.0,2.38,0.34
+League One,2024-03-12,2023/2024,True,Shrewsbury Town,Exeter City,0.0,3.0,0.25,1.17
+League One,2024-03-12,2023/2024,True,Wycombe Wanderers,Wigan Athletic,1.0,0.0,0.33,1.1
+League One,2024-03-12,2023/2024,True,Bolton Wanderers,Oxford United,5.0,0.0,1.77,0.33
+League One,2024-03-13,2023/2024,True,Peterborough United,Stevenage,3.0,1.0,1.32,0.87
+League One,2024-03-16,2023/2024,True,Barnsley,Cheltenham Town,0.0,0.0,1.29,0.32
+League One,2024-03-16,2023/2024,True,Derby County,Bolton Wanderers,1.0,0.0,0.55,0.43
+League One,2024-03-16,2023/2024,True,Exeter City,Burton Albion,1.0,0.0,1.07,1.22
+League One,2024-03-16,2023/2024,True,Fleetwood Town,Charlton Athletic,1.0,1.0,1.82,1.55
+League One,2024-03-16,2023/2024,True,Lincoln City,Bristol Rovers,5.0,0.0,1.96,1.45
+League One,2024-03-16,2023/2024,True,Peterborough United,Portsmouth,0.0,1.0,0.89,1.06
+League One,2024-03-16,2023/2024,True,Port Vale,Oxford United,0.0,2.0,0.35,0.97
+League One,2024-03-16,2023/2024,True,Reading,Cambridge United,4.0,0.0,0.65,0.86
+League One,2024-03-16,2023/2024,True,Shrewsbury Town,Carlisle United,1.0,0.0,1.32,0.64
+League One,2024-03-16,2023/2024,True,Stevenage,Leyton Orient,0.0,1.0,0.27,0.5
+League One,2024-03-16,2023/2024,True,Wigan Athletic,Blackpool,1.0,0.0,0.97,0.51
+League One,2024-03-16,2023/2024,True,Wycombe Wanderers,Northampton Town,2.0,0.0,0.57,0.25
+League One,2024-03-23,2023/2024,True,Burton Albion,Port Vale,0.0,1.0,0.5,1.19
+League One,2024-03-23,2023/2024,True,Carlisle United,Stevenage,2.0,2.0,1.48,1.66
+League One,2024-03-23,2023/2024,True,Northampton Town,Derby County,1.0,0.0,0.67,1.71
+League One,2024-03-29,2023/2024,True,Barnsley,Cambridge United,0.0,2.0,1.24,0.46
+League One,2024-03-29,2023/2024,True,Derby County,Blackpool,1.0,0.0,0.49,1.19
+League One,2024-03-29,2023/2024,True,Exeter City,Charlton Athletic,1.0,1.0,0.57,0.99
+League One,2024-03-29,2023/2024,True,Fleetwood Town,Cheltenham Town,1.0,2.0,1.45,1.17
+League One,2024-03-29,2023/2024,True,Lincoln City,Leyton Orient,1.0,0.0,0.38,0.75
+League One,2024-03-29,2023/2024,True,Peterborough United,Carlisle United,1.0,3.0,2.99,0.96
+League One,2024-03-29,2023/2024,True,Port Vale,Bristol Rovers,2.0,0.0,2.65,0.05
+League One,2024-03-29,2023/2024,True,Reading,Northampton Town,1.0,0.0,0.7,1.03
+League One,2024-03-29,2023/2024,True,Shrewsbury Town,Oxford United,1.0,1.0,0.73,1.35
+League One,2024-03-29,2023/2024,True,Stevenage,Bolton Wanderers,0.0,0.0,1.07,0.29
+League One,2024-03-29,2023/2024,True,Wigan Athletic,Burton Albion,1.0,1.0,1.12,2.45
+League One,2024-03-29,2023/2024,True,Wycombe Wanderers,Portsmouth,1.0,3.0,0.58,1.75
+League One,2024-04-01,2023/2024,True,Blackpool,Wycombe Wanderers,0.0,0.0,1.14,0.75
+League One,2024-04-01,2023/2024,True,Bolton Wanderers,Reading,5.0,2.0,2.73,0.88
+League One,2024-04-01,2023/2024,True,Bristol Rovers,Shrewsbury Town,0.0,0.0,1.06,0.42
+League One,2024-04-01,2023/2024,True,Burton Albion,Barnsley,1.0,3.0,0.79,1.65
+League One,2024-04-01,2023/2024,True,Cambridge United,Wigan Athletic,3.0,1.0,0.54,1.6
+League One,2024-04-01,2023/2024,True,Carlisle United,Lincoln City,1.0,3.0,1.21,0.85
+League One,2024-04-01,2023/2024,True,Charlton Athletic,Stevenage,0.0,0.0,0.6,0.44
+League One,2024-04-01,2023/2024,True,Cheltenham Town,Exeter City,1.0,2.0,1.43,1.58
+League One,2024-04-01,2023/2024,True,Leyton Orient,Peterborough United,1.0,2.0,0.74,2.37
+League One,2024-04-01,2023/2024,True,Northampton Town,Port Vale,2.0,0.0,1.17,0.93
+League One,2024-04-01,2023/2024,True,Oxford United,Fleetwood Town,4.0,0.0,2.37,0.57
+League One,2024-04-02,2023/2024,True,Portsmouth,Derby County,2.0,2.0,0.91,0.75
+League One,2024-04-06,2023/2024,True,Blackpool,Cambridge United,1.0,0.0,0.67,0.44
+League One,2024-04-06,2023/2024,True,Bristol Rovers,Bolton Wanderers,0.0,2.0,0.8,1.85
+League One,2024-04-06,2023/2024,True,Burton Albion,Oxford United,0.0,4.0,0.49,3.17
+League One,2024-04-06,2023/2024,True,Charlton Athletic,Barnsley,2.0,1.0,2.19,2.82
+League One,2024-04-06,2023/2024,True,Exeter City,Stevenage,1.0,0.0,0.98,0.73
+League One,2024-04-06,2023/2024,True,Leyton Orient,Cheltenham Town,3.0,1.0,1.51,1.9
+League One,2024-04-06,2023/2024,True,Northampton Town,Carlisle United,2.0,0.0,1.62,0.22
+League One,2024-04-06,2023/2024,True,Portsmouth,Shrewsbury Town,3.0,1.0,1.59,1.0
+League One,2024-04-06,2023/2024,True,Reading,Lincoln City,1.0,1.0,1.38,0.25
+League One,2024-04-06,2023/2024,True,Wigan Athletic,Port Vale,0.0,0.0,1.0,0.75
+League One,2024-04-09,2023/2024,True,Blackpool,Fleetwood Town,1.0,0.0,1.97,0.79
+League One,2024-04-09,2023/2024,True,Bristol Rovers,Reading,0.0,2.0,0.78,1.49
+League One,2024-04-09,2023/2024,True,Charlton Athletic,Wigan Athletic,2.0,2.0,1.88,1.11
+League One,2024-04-09,2023/2024,True,Cheltenham Town,Carlisle United,0.0,1.0,0.44,1.06
+League One,2024-04-09,2023/2024,True,Leyton Orient,Exeter City,2.0,2.0,0.29,1.55
+League One,2024-04-09,2023/2024,True,Stevenage,Barnsley,2.0,1.0,1.82,0.69
+League One,2024-04-10,2023/2024,True,Peterborough United,Port Vale,3.0,0.0,1.77,0.07
+League One,2024-04-10,2023/2024,True,Wycombe Wanderers,Derby County,0.0,0.0,0.51,1.73
+League One,2024-04-13,2023/2024,True,Barnsley,Reading,2.0,2.0,1.72,2.78
+League One,2024-04-13,2023/2024,True,Bolton Wanderers,Portsmouth,1.0,1.0,1.52,0.45
+League One,2024-04-13,2023/2024,True,Cambridge United,Charlton Athletic,1.0,1.0,0.5,1.33
+League One,2024-04-13,2023/2024,True,Carlisle United,Blackpool,0.0,1.0,0.59,1.61
+League One,2024-04-13,2023/2024,True,Cheltenham Town,Bristol Rovers,1.0,3.0,1.48,2.71
+League One,2024-04-13,2023/2024,True,Derby County,Leyton Orient,3.0,0.0,1.69,0.27
+League One,2024-04-13,2023/2024,True,Fleetwood Town,Northampton Town,2.0,0.0,2.0,0.39
+League One,2024-04-13,2023/2024,True,Lincoln City,Wigan Athletic,1.0,2.0,0.73,0.76
+League One,2024-04-13,2023/2024,True,Oxford United,Peterborough United,5.0,0.0,2.74,2.05
+League One,2024-04-13,2023/2024,True,Port Vale,Exeter City,2.0,4.0,0.65,1.66
+League One,2024-04-13,2023/2024,True,Shrewsbury Town,Wycombe Wanderers,0.0,2.0,0.34,0.79
+League One,2024-04-13,2023/2024,True,Stevenage,Burton Albion,1.0,2.0,1.77,0.41
+League One,2024-04-16,2023/2024,True,Bolton Wanderers,Shrewsbury Town,2.0,2.0,2.24,0.66
+League One,2024-04-16,2023/2024,True,Bristol Rovers,Cambridge United,1.0,0.0,2.0,0.88
+League One,2024-04-16,2023/2024,True,Burton Albion,Cheltenham Town,1.0,2.0,0.46,0.62
+League One,2024-04-16,2023/2024,True,Oxford United,Lincoln City,0.0,1.0,1.5,1.79
+League One,2024-04-16,2023/2024,True,Peterborough United,Fleetwood Town,4.0,1.0,2.79,2.1
+League One,2024-04-16,2023/2024,True,Port Vale,Wycombe Wanderers,1.0,2.0,1.51,1.15
+League One,2024-04-16,2023/2024,True,Portsmouth,Barnsley,3.0,2.0,1.61,1.92
+League One,2024-04-19,2023/2024,True,Oxford United,Stevenage,1.0,1.0,2.91,0.15
+League One,2024-04-20,2023/2024,True,Northampton Town,Exeter City,1.0,2.0,1.9,1.01
+League One,2024-04-20,2023/2024,True,Blackpool,Barnsley,3.0,2.0,1.49,0.76
+League One,2024-04-20,2023/2024,True,Bolton Wanderers,Port Vale,2.0,0.0,3.03,0.8
+League One,2024-04-20,2023/2024,True,Bristol Rovers,Peterborough United,0.0,2.0,0.53,1.82
+League One,2024-04-20,2023/2024,True,Burton Albion,Reading,3.0,2.0,1.22,1.44
+League One,2024-04-20,2023/2024,True,Cambridge United,Derby County,0.0,1.0,0.69,1.68
+League One,2024-04-20,2023/2024,True,Carlisle United,Wycombe Wanderers,1.0,3.0,0.94,2.5
+League One,2024-04-20,2023/2024,True,Charlton Athletic,Shrewsbury Town,1.0,1.0,1.39,2.15
+League One,2024-04-20,2023/2024,True,Cheltenham Town,Lincoln City,1.0,2.0,1.19,1.96
+League One,2024-04-20,2023/2024,True,Leyton Orient,Fleetwood Town,0.0,1.0,0.98,0.98
+League One,2024-04-20,2023/2024,True,Portsmouth,Wigan Athletic,1.0,2.0,1.73,0.98
+League One,2024-04-23,2023/2024,True,Cambridge United,Wycombe Wanderers,1.0,1.0,1.39,1.76
+League One,2024-04-23,2023/2024,True,Cheltenham Town,Peterborough United,2.0,0.0,2.66,0.72
+League One,2024-04-27,2023/2024,True,Barnsley,Northampton Town,1.0,1.0,0.83,0.61
+League One,2024-04-27,2023/2024,True,Derby County,Carlisle United,2.0,0.0,0.55,0.47
+League One,2024-04-27,2023/2024,True,Exeter City,Oxford United,1.0,2.0,0.46,2.01
+League One,2024-04-27,2023/2024,True,Fleetwood Town,Burton Albion,3.0,0.0,1.77,0.69
+League One,2024-04-27,2023/2024,True,Lincoln City,Portsmouth,0.0,2.0,1.74,1.86
+League One,2024-04-27,2023/2024,True,Peterborough United,Bolton Wanderers,3.0,3.0,2.97,1.97
+League One,2024-04-27,2023/2024,True,Port Vale,Cambridge United,0.0,0.0,0.77,0.4
+League One,2024-04-27,2023/2024,True,Reading,Blackpool,3.0,2.0,2.35,1.38
+League One,2024-04-27,2023/2024,True,Shrewsbury Town,Leyton Orient,1.0,3.0,2.04,2.23
+League One,2024-04-27,2023/2024,True,Stevenage,Cheltenham Town,2.0,1.0,2.89,1.7
+League One,2024-04-27,2023/2024,True,Wigan Athletic,Bristol Rovers,2.0,0.0,1.04,0.11
+League One,2024-04-27,2023/2024,True,Wycombe Wanderers,Charlton Athletic,1.0,0.0,1.34,1.06
+League One,2024-08-09,2024/2025,True,Barnsley,Mansfield Town,1.0,2.0,1.39,0.89
+League One,2024-08-10,2024/2025,True,Birmingham City,Reading,1.0,1.0,1.59,0.55
+League One,2024-08-10,2024/2025,True,Bristol Rovers,Northampton Town,1.0,0.0,1.07,0.24
+League One,2024-08-10,2024/2025,True,Burton Albion,Lincoln City,2.0,3.0,2.25,1.24
+League One,2024-08-10,2024/2025,True,Crawley Town,Blackpool,2.0,1.0,1.06,1.77
+League One,2024-08-10,2024/2025,True,Exeter City,Rotherham United,1.0,0.0,1.63,1.35
+League One,2024-08-10,2024/2025,True,Leyton Orient,Bolton Wanderers,1.0,2.0,1.04,1.0
+League One,2024-08-10,2024/2025,True,Peterborough United,Huddersfield Town,0.0,2.0,0.43,1.47
+League One,2024-08-10,2024/2025,True,Stevenage,Shrewsbury Town,1.0,0.0,2.35,0.35
+League One,2024-08-10,2024/2025,True,Stockport County,Cambridge United,2.0,0.0,1.46,0.62
+League One,2024-08-10,2024/2025,True,Wigan Athletic,Charlton Athletic,0.0,1.0,0.78,0.46
+League One,2024-08-10,2024/2025,True,Wrexham,Wycombe Wanderers,3.0,2.0,1.14,1.99
+League One,2024-08-17,2024/2025,True,Charlton Athletic,Leyton Orient,1.0,0.0,0.86,0.38
+League One,2024-08-17,2024/2025,True,Shrewsbury Town,Peterborough United,1.0,4.0,0.64,3.19
+League One,2024-08-17,2024/2025,True,Blackpool,Stockport County,0.0,3.0,0.58,1.11
+League One,2024-08-17,2024/2025,True,Cambridge United,Crawley Town,0.0,1.0,1.6,0.66
+League One,2024-08-17,2024/2025,True,Huddersfield Town,Stevenage,2.0,1.0,1.84,1.64
+League One,2024-08-17,2024/2025,True,Lincoln City,Barnsley,1.0,2.0,1.27,0.37
+League One,2024-08-17,2024/2025,True,Mansfield Town,Burton Albion,3.0,3.0,3.26,1.5
+League One,2024-08-17,2024/2025,True,Northampton Town,Exeter City,2.0,1.0,1.82,1.3
+League One,2024-08-17,2024/2025,True,Reading,Wigan Athletic,2.0,0.0,2.84,0.3
+League One,2024-08-17,2024/2025,True,Rotherham United,Bristol Rovers,0.0,0.0,2.97,0.8
+League One,2024-08-17,2024/2025,True,Wycombe Wanderers,Birmingham City,2.0,3.0,0.54,1.15
+League One,2024-08-18,2024/2025,True,Bolton Wanderers,Wrexham,0.0,0.0,1.73,0.26
+League One,2024-08-24,2024/2025,True,Burton Albion,Stevenage,0.0,0.0,0.61,0.6
+League One,2024-08-24,2024/2025,True,Stockport County,Bristol Rovers,2.0,0.0,2.35,1.04
+League One,2024-08-24,2024/2025,True,Barnsley,Northampton Town,2.0,2.0,1.64,1.04
+League One,2024-08-24,2024/2025,True,Cambridge United,Blackpool,4.0,4.0,1.61,2.11
+League One,2024-08-24,2024/2025,True,Charlton Athletic,Bolton Wanderers,2.0,0.0,0.61,0.56
+League One,2024-08-24,2024/2025,True,Exeter City,Peterborough United,1.0,2.0,1.05,2.76
+League One,2024-08-24,2024/2025,True,Huddersfield Town,Shrewsbury Town,1.0,0.0,2.01,0.56
+League One,2024-08-24,2024/2025,True,Leyton Orient,Birmingham City,1.0,2.0,0.66,1.22
+League One,2024-08-24,2024/2025,True,Lincoln City,Mansfield Town,4.0,1.0,1.37,1.06
+League One,2024-08-24,2024/2025,True,Wigan Athletic,Crawley Town,1.0,0.0,0.51,1.02
+League One,2024-08-24,2024/2025,True,Wrexham,Reading,3.0,0.0,1.61,1.01
+League One,2024-08-24,2024/2025,True,Wycombe Wanderers,Rotherham United,2.0,0.0,1.22,1.32
+League One,2024-08-31,2024/2025,True,Blackpool,Wycombe Wanderers,2.0,2.0,2.5,0.65
+League One,2024-08-31,2024/2025,True,Rotherham United,Huddersfield Town,2.0,1.0,2.0,1.7
+League One,2024-08-31,2024/2025,True,Birmingham City,Wigan Athletic,2.0,1.0,1.6,0.87
+League One,2024-08-31,2024/2025,True,Bolton Wanderers,Exeter City,0.0,2.0,1.2,0.52
+League One,2024-08-31,2024/2025,True,Bristol Rovers,Cambridge United,2.0,0.0,0.65,0.96
+League One,2024-08-31,2024/2025,True,Crawley Town,Barnsley,0.0,3.0,0.19,3.53
+League One,2024-08-31,2024/2025,True,Mansfield Town,Stockport County,1.0,1.0,0.15,2.46
+League One,2024-08-31,2024/2025,True,Northampton Town,Burton Albion,0.0,0.0,0.96,0.4
+League One,2024-08-31,2024/2025,True,Peterborough United,Wrexham,0.0,2.0,0.44,1.14
+League One,2024-08-31,2024/2025,True,Reading,Charlton Athletic,2.0,0.0,0.9,0.75
+League One,2024-08-31,2024/2025,True,Shrewsbury Town,Leyton Orient,3.0,0.0,1.53,0.2
+League One,2024-08-31,2024/2025,True,Stevenage,Lincoln City,0.0,1.0,0.27,0.89
+League One,2024-09-07,2024/2025,True,Barnsley,Bristol Rovers,2.0,1.0,1.68,1.67
+League One,2024-09-07,2024/2025,True,Charlton Athletic,Rotherham United,1.0,1.0,0.92,0.48
+League One,2024-09-07,2024/2025,True,Wrexham,Shrewsbury Town,3.0,0.0,1.78,0.59
+League One,2024-09-14,2024/2025,True,Mansfield Town,Cambridge United,2.0,1.0,1.33,1.29
+League One,2024-09-14,2024/2025,True,Northampton Town,Wycombe Wanderers,1.0,2.0,1.0,2.5
+League One,2024-09-14,2024/2025,True,Blackpool,Exeter City,2.0,1.0,1.77,0.57
+League One,2024-09-14,2024/2025,True,Bolton Wanderers,Huddersfield Town,0.0,4.0,0.13,2.92
+League One,2024-09-14,2024/2025,True,Bristol Rovers,Wigan Athletic,0.0,4.0,0.31,3.45
+League One,2024-09-14,2024/2025,True,Crawley Town,Stockport County,1.0,1.0,1.4,1.56
+League One,2024-09-14,2024/2025,True,Peterborough United,Lincoln City,1.0,1.0,0.53,0.98
+League One,2024-09-14,2024/2025,True,Reading,Leyton Orient,0.0,1.0,0.96,0.76
+League One,2024-09-14,2024/2025,True,Rotherham United,Burton Albion,2.0,2.0,2.23,0.7
+League One,2024-09-14,2024/2025,True,Shrewsbury Town,Charlton Athletic,0.0,1.0,1.27,0.9
+League One,2024-09-14,2024/2025,True,Stevenage,Barnsley,3.0,0.0,1.39,0.52
+League One,2024-09-16,2024/2025,True,Birmingham City,Wrexham,3.0,1.0,1.31,0.24
+League One,2024-09-21,2024/2025,True,Exeter City,Stevenage,2.0,0.0,1.36,0.77
+League One,2024-09-21,2024/2025,True,Lincoln City,Wigan Athletic,0.0,0.0,0.38,0.36
+League One,2024-09-21,2024/2025,True,Bolton Wanderers,Reading,5.0,2.0,3.51,2.38
+League One,2024-09-21,2024/2025,True,Burton Albion,Barnsley,1.0,2.0,0.33,1.32
+League One,2024-09-21,2024/2025,True,Charlton Athletic,Blackpool,1.0,2.0,2.19,1.14
+League One,2024-09-21,2024/2025,True,Huddersfield Town,Northampton Town,1.0,3.0,1.86,1.01
+League One,2024-09-21,2024/2025,True,Mansfield Town,Shrewsbury Town,2.0,1.0,2.08,1.33
+League One,2024-09-21,2024/2025,True,Peterborough United,Bristol Rovers,3.0,2.0,1.9,1.34
+League One,2024-09-21,2024/2025,True,Rotherham United,Birmingham City,0.0,2.0,0.79,2.53
+League One,2024-09-21,2024/2025,True,Stockport County,Leyton Orient,1.0,4.0,2.06,1.38
+League One,2024-09-21,2024/2025,True,Wrexham,Crawley Town,2.0,1.0,1.42,2.13
+League One,2024-09-21,2024/2025,True,Wycombe Wanderers,Cambridge United,2.0,1.0,1.46,0.27
+League One,2024-09-24,2024/2025,True,Huddersfield Town,Blackpool,0.0,2.0,0.72,1.25
+League One,2024-09-24,2024/2025,True,Leyton Orient,Peterborough United,2.0,2.0,0.92,1.16
+League One,2024-09-24,2024/2025,True,Wigan Athletic,Stevenage,0.0,0.0,0.27,0.25
+League One,2024-09-28,2024/2025,True,Crawley Town,Bolton Wanderers,0.0,2.0,0.29,0.92
+League One,2024-09-28,2024/2025,True,Reading,Huddersfield Town,2.0,1.0,0.46,2.04
+League One,2024-09-28,2024/2025,True,Birmingham City,Peterborough United,3.0,2.0,1.05,0.94
+League One,2024-09-28,2024/2025,True,Blackpool,Burton Albion,3.0,0.0,1.03,0.94
+League One,2024-09-28,2024/2025,True,Bristol Rovers,Wycombe Wanderers,1.0,2.0,0.39,2.02
+League One,2024-09-28,2024/2025,True,Cambridge United,Lincoln City,0.0,2.0,0.8,1.92
+League One,2024-09-28,2024/2025,True,Leyton Orient,Wrexham,0.0,0.0,1.14,1.29
+League One,2024-09-28,2024/2025,True,Northampton Town,Mansfield Town,0.0,2.0,1.67,2.37
+League One,2024-09-28,2024/2025,True,Shrewsbury Town,Rotherham United,1.0,1.0,0.72,1.55
+League One,2024-09-28,2024/2025,True,Stevenage,Charlton Athletic,1.0,0.0,0.51,0.3
+League One,2024-09-28,2024/2025,True,Wigan Athletic,Exeter City,0.0,0.0,1.49,0.19
+League One,2024-09-28,2024/2025,True,Barnsley,Stockport County,1.0,1.0,1.48,0.99
+League One,2024-10-01,2024/2025,True,Barnsley,Wycombe Wanderers,2.0,2.0,1.04,1.7
+League One,2024-10-01,2024/2025,True,Birmingham City,Huddersfield Town,1.0,0.0,3.39,0.76
+League One,2024-10-01,2024/2025,True,Blackpool,Lincoln City,1.0,1.0,1.74,0.65
+League One,2024-10-01,2024/2025,True,Bristol Rovers,Charlton Athletic,3.0,2.0,0.71,1.93
+League One,2024-10-01,2024/2025,True,Cambridge United,Rotherham United,0.0,1.0,1.09,1.0
+League One,2024-10-01,2024/2025,True,Crawley Town,Mansfield Town,0.0,2.0,0.48,1.08
+League One,2024-10-01,2024/2025,True,Leyton Orient,Exeter City,0.0,1.0,2.42,1.93
+League One,2024-10-01,2024/2025,True,Northampton Town,Bolton Wanderers,2.0,4.0,0.57,2.01
+League One,2024-10-01,2024/2025,True,Shrewsbury Town,Stockport County,0.0,2.0,0.63,1.66
+League One,2024-10-01,2024/2025,True,Stevenage,Wrexham,1.0,0.0,0.8,0.55
+League One,2024-10-01,2024/2025,True,Wigan Athletic,Peterborough United,3.0,0.0,0.69,1.2
+League One,2024-10-01,2024/2025,True,Reading,Burton Albion,3.0,1.0,0.73,1.17
+League One,2024-10-05,2024/2025,True,Huddersfield Town,Barnsley,2.0,0.0,1.35,0.31
+League One,2024-10-05,2024/2025,True,Peterborough United,Stevenage,2.0,1.0,0.95,1.11
+League One,2024-10-05,2024/2025,True,Bolton Wanderers,Shrewsbury Town,2.0,2.0,2.21,0.55
+League One,2024-10-05,2024/2025,True,Burton Albion,Bristol Rovers,1.0,3.0,0.7,1.64
+League One,2024-10-05,2024/2025,True,Charlton Athletic,Birmingham City,1.0,0.0,0.79,0.13
+League One,2024-10-05,2024/2025,True,Exeter City,Cambridge United,1.0,0.0,0.85,0.85
+League One,2024-10-05,2024/2025,True,Lincoln City,Leyton Orient,2.0,1.0,1.15,0.7
+League One,2024-10-05,2024/2025,True,Mansfield Town,Blackpool,2.0,0.0,1.13,0.51
+League One,2024-10-05,2024/2025,True,Rotherham United,Reading,2.0,1.0,1.63,0.96
+League One,2024-10-05,2024/2025,True,Stockport County,Wigan Athletic,0.0,0.0,1.0,0.25
+League One,2024-10-05,2024/2025,True,Wrexham,Northampton Town,4.0,1.0,1.7,1.07
+League One,2024-10-05,2024/2025,True,Wycombe Wanderers,Crawley Town,1.0,0.0,1.6,0.31
+League One,2024-10-12,2024/2025,True,Crawley Town,Shrewsbury Town,3.0,5.0,1.28,3.29
+League One,2024-10-12,2024/2025,True,Peterborough United,Rotherham United,3.0,3.0,2.91,2.21
+League One,2024-10-17,2024/2025,True,Shrewsbury Town,Exeter City,0.0,2.0,1.17,1.44
+League One,2024-10-19,2024/2025,True,Reading,Crawley Town,4.0,1.0,1.3,2.05
+League One,2024-10-19,2024/2025,True,Wycombe Wanderers,Peterborough United,3.0,1.0,2.2,1.84
+League One,2024-10-19,2024/2025,True,Blackpool,Barnsley,1.0,2.0,1.2,0.62
+League One,2024-10-19,2024/2025,True,Bolton Wanderers,Burton Albion,2.0,1.0,2.03,0.9
+League One,2024-10-19,2024/2025,True,Cambridge United,Wigan Athletic,2.0,0.0,1.28,0.63
+League One,2024-10-19,2024/2025,True,Charlton Athletic,Stockport County,1.0,1.0,1.3,1.05
+League One,2024-10-19,2024/2025,True,Huddersfield Town,Bristol Rovers,3.0,1.0,2.04,0.23
+League One,2024-10-19,2024/2025,True,Lincoln City,Birmingham City,1.0,3.0,1.08,0.68
+League One,2024-10-19,2024/2025,True,Mansfield Town,Stevenage,0.0,1.0,1.11,0.53
+League One,2024-10-19,2024/2025,True,Northampton Town,Leyton Orient,1.0,0.0,0.91,0.85
+League One,2024-10-19,2024/2025,True,Rotherham United,Wrexham,0.0,1.0,1.17,1.23
+League One,2024-10-22,2024/2025,True,Barnsley,Charlton Athletic,2.0,2.0,1.17,0.75
+League One,2024-10-22,2024/2025,True,Birmingham City,Bolton Wanderers,2.0,0.0,1.54,0.59
+League One,2024-10-22,2024/2025,True,Bristol Rovers,Shrewsbury Town,1.0,0.0,1.7,1.45
+League One,2024-10-22,2024/2025,True,Burton Albion,Wycombe Wanderers,2.0,3.0,1.13,1.44
+League One,2024-10-22,2024/2025,True,Crawley Town,Lincoln City,3.0,0.0,1.13,0.85
+League One,2024-10-22,2024/2025,True,Exeter City,Reading,1.0,2.0,2.0,0.85
+League One,2024-10-22,2024/2025,True,Leyton Orient,Rotherham United,1.0,0.0,0.95,1.0
+League One,2024-10-22,2024/2025,True,Peterborough United,Blackpool,5.0,1.0,2.22,1.77
+League One,2024-10-22,2024/2025,True,Stevenage,Cambridge United,0.0,2.0,0.24,0.96
+League One,2024-10-22,2024/2025,True,Stockport County,Northampton Town,1.0,1.0,1.92,0.49
+League One,2024-10-22,2024/2025,True,Wigan Athletic,Mansfield Town,1.0,2.0,1.76,0.27
+League One,2024-10-22,2024/2025,True,Wrexham,Huddersfield Town,0.0,0.0,0.37,0.87
+League One,2024-10-26,2024/2025,True,Mansfield Town,Birmingham City,1.0,1.0,1.11,1.85
+League One,2024-10-26,2024/2025,True,Reading,Bristol Rovers,1.0,0.0,1.42,1.06
+League One,2024-10-26,2024/2025,True,Bolton Wanderers,Peterborough United,1.0,0.0,3.01,0.48
+League One,2024-10-26,2024/2025,True,Cambridge United,Burton Albion,1.0,0.0,1.16,0.39
+League One,2024-10-26,2024/2025,True,Charlton Athletic,Wrexham,2.0,2.0,1.45,0.99
+League One,2024-10-26,2024/2025,True,Huddersfield Town,Exeter City,2.0,0.0,0.52,0.95
+League One,2024-10-26,2024/2025,True,Lincoln City,Stockport County,2.0,1.0,1.91,1.08
+League One,2024-10-26,2024/2025,True,Northampton Town,Crawley Town,3.0,0.0,1.06,0.65
+League One,2024-10-26,2024/2025,True,Rotherham United,Stevenage,2.0,0.0,0.71,0.22
+League One,2024-10-26,2024/2025,True,Shrewsbury Town,Barnsley,0.0,2.0,0.12,1.51
+League One,2024-10-26,2024/2025,True,Wycombe Wanderers,Leyton Orient,3.0,0.0,1.53,0.1
+League One,2024-10-28,2024/2025,True,Blackpool,Wigan Athletic,2.0,2.0,1.47,1.29
+League One,2024-10-29,2024/2025,True,Lincoln City,Northampton Town,2.0,1.0,1.22,0.67
+League One,2024-10-29,2024/2025,True,Stevenage,Bolton Wanderers,1.0,4.0,0.73,1.09
+League One,2024-10-29,2024/2025,True,Stockport County,Reading,4.0,1.0,2.09,0.39
+League One,2024-11-05,2024/2025,True,Burton Albion,Crawley Town,0.0,0.0,0.56,0.66
+League One,2024-11-05,2024/2025,True,Stockport County,Wycombe Wanderers,0.0,5.0,0.15,2.66
+League One,2024-11-08,2024/2025,True,Barnsley,Rotherham United,2.0,0.0,1.7,1.04
+League One,2024-11-09,2024/2025,True,Burton Albion,Shrewsbury Town,2.0,0.0,1.01,1.15
+League One,2024-11-09,2024/2025,True,Wrexham,Mansfield Town,1.0,0.0,1.05,1.28
+League One,2024-11-09,2024/2025,True,Birmingham City,Northampton Town,1.0,1.0,2.72,1.04
+League One,2024-11-09,2024/2025,True,Bristol Rovers,Lincoln City,1.0,1.0,0.32,0.8
+League One,2024-11-09,2024/2025,True,Crawley Town,Huddersfield Town,2.0,2.0,0.62,1.41
+League One,2024-11-09,2024/2025,True,Exeter City,Charlton Athletic,1.0,0.0,0.7,1.11
+League One,2024-11-09,2024/2025,True,Leyton Orient,Blackpool,3.0,0.0,2.23,1.12
+League One,2024-11-09,2024/2025,True,Peterborough United,Cambridge United,6.0,1.0,3.07,0.74
+League One,2024-11-09,2024/2025,True,Stevenage,Reading,1.0,1.0,0.62,1.62
+League One,2024-11-09,2024/2025,True,Stockport County,Bolton Wanderers,5.0,0.0,1.88,0.25
+League One,2024-11-09,2024/2025,True,Wigan Athletic,Wycombe Wanderers,0.0,1.0,1.93,0.62
+League One,2024-11-16,2024/2025,True,Exeter City,Lincoln City,0.0,0.0,0.31,0.84
+League One,2024-11-16,2024/2025,True,Blackpool,Northampton Town,0.0,0.0,1.34,0.57
+League One,2024-11-16,2024/2025,True,Bristol Rovers,Crawley Town,0.0,0.0,1.39,0.81
+League One,2024-11-16,2024/2025,True,Cambridge United,Barnsley,1.0,1.0,0.67,1.2
+League One,2024-11-16,2024/2025,True,Stockport County,Wrexham,1.0,0.0,1.67,0.81
+League One,2024-11-23,2024/2025,True,Bolton Wanderers,Blackpool,2.0,1.0,1.23,0.87
+League One,2024-11-23,2024/2025,True,Shrewsbury Town,Birmingham City,3.0,2.0,1.92,1.53
+League One,2024-11-23,2024/2025,True,Stevenage,Leyton Orient,0.0,0.0,0.48,0.21
+League One,2024-11-23,2024/2025,True,Barnsley,Wigan Athletic,0.0,1.0,1.16,0.5
+League One,2024-11-23,2024/2025,True,Burton Albion,Stockport County,0.0,3.0,0.36,2.27
+League One,2024-11-23,2024/2025,True,Crawley Town,Rotherham United,1.0,0.0,0.8,0.93
+League One,2024-11-23,2024/2025,True,Huddersfield Town,Charlton Athletic,2.0,1.0,1.63,1.41
+League One,2024-11-23,2024/2025,True,Lincoln City,Wycombe Wanderers,2.0,3.0,0.84,2.57
+League One,2024-11-23,2024/2025,True,Mansfield Town,Bristol Rovers,0.0,1.0,1.56,1.59
+League One,2024-11-23,2024/2025,True,Northampton Town,Cambridge United,0.0,0.0,0.45,1.17
+League One,2024-11-23,2024/2025,True,Peterborough United,Reading,1.0,2.0,2.28,2.15
+League One,2024-11-23,2024/2025,True,Wrexham,Exeter City,3.0,0.0,2.17,0.83
+League One,2024-11-26,2024/2025,True,Barnsley,Reading,2.0,2.0,2.13,1.56
+League One,2024-11-26,2024/2025,True,Bristol Rovers,Blackpool,0.0,2.0,0.23,1.74
+League One,2024-11-26,2024/2025,True,Burton Albion,Charlton Athletic,0.0,1.0,0.14,1.63
+League One,2024-11-26,2024/2025,True,Cambridge United,Bolton Wanderers,1.0,1.0,1.0,0.82
+League One,2024-11-26,2024/2025,True,Exeter City,Birmingham City,0.0,2.0,0.12,2.15
+League One,2024-11-26,2024/2025,True,Leyton Orient,Huddersfield Town,0.0,2.0,0.6,2.09
+League One,2024-11-26,2024/2025,True,Wigan Athletic,Northampton Town,2.0,1.0,1.98,1.05
+League One,2024-11-26,2024/2025,True,Wrexham,Lincoln City,1.0,0.0,0.93,0.92
+League One,2024-11-26,2024/2025,True,Wycombe Wanderers,Mansfield Town,1.0,0.0,0.47,0.54
+League One,2024-12-03,2024/2025,True,Bolton Wanderers,Mansfield Town,3.0,1.0,1.83,0.73
+League One,2024-12-03,2024/2025,True,Charlton Athletic,Crawley Town,1.0,2.0,0.63,0.46
+League One,2024-12-03,2024/2025,True,Exeter City,Wycombe Wanderers,2.0,2.0,1.22,1.11
+League One,2024-12-03,2024/2025,True,Leyton Orient,Bristol Rovers,3.0,0.0,1.26,0.42
+League One,2024-12-03,2024/2025,True,Stevenage,Northampton Town,2.0,0.0,1.45,0.04
+League One,2024-12-03,2024/2025,True,Wrexham,Barnsley,1.0,0.0,0.49,0.74
+League One,2024-12-03,2024/2025,True,Huddersfield Town,Wigan Athletic,1.0,0.0,0.84,0.42
+League One,2024-12-03,2024/2025,True,Reading,Cambridge United,3.0,0.0,1.5,1.23
+League One,2024-12-03,2024/2025,True,Rotherham United,Lincoln City,2.0,1.0,0.93,1.38
+League One,2024-12-04,2024/2025,True,Birmingham City,Stockport County,2.0,0.0,1.44,0.56
+League One,2024-12-04,2024/2025,True,Peterborough United,Burton Albion,0.0,1.0,0.44,0.74
+League One,2024-12-04,2024/2025,True,Shrewsbury Town,Blackpool,1.0,2.0,1.3,0.32
+League One,2024-12-07,2024/2025,True,Lincoln City,Charlton Athletic,0.0,0.0,0.72,0.41
+League One,2024-12-07,2024/2025,True,Wigan Athletic,Leyton Orient,0.0,2.0,0.26,2.11
+League One,2024-12-07,2024/2025,True,Barnsley,Birmingham City,1.0,2.0,0.84,0.37
+League One,2024-12-07,2024/2025,True,Burton Albion,Wrexham,0.0,1.0,0.33,1.82
+League One,2024-12-07,2024/2025,True,Cambridge United,Shrewsbury Town,4.0,1.0,1.64,1.42
+League One,2024-12-07,2024/2025,True,Mansfield Town,Huddersfield Town,1.0,2.0,0.97,1.92
+League One,2024-12-07,2024/2025,True,Stockport County,Exeter City,2.0,0.0,1.73,0.18
+League One,2024-12-07,2024/2025,True,Wycombe Wanderers,Reading,1.0,1.0,0.83,1.03
+League One,2024-12-09,2024/2025,True,Northampton Town,Peterborough United,2.0,1.0,1.26,1.94
+League One,2024-12-14,2024/2025,True,Bolton Wanderers,Wigan Athletic,0.0,2.0,1.11,2.71
+League One,2024-12-14,2024/2025,True,Leyton Orient,Burton Albion,0.0,0.0,1.18,0.34
+League One,2024-12-14,2024/2025,True,Birmingham City,Bristol Rovers,2.0,0.0,3.12,0.1
+League One,2024-12-14,2024/2025,True,Charlton Athletic,Mansfield Town,0.0,0.0,0.99,1.37
+League One,2024-12-14,2024/2025,True,Exeter City,Barnsley,1.0,2.0,0.69,1.65
+League One,2024-12-14,2024/2025,True,Huddersfield Town,Lincoln City,2.0,2.0,0.83,0.68
+League One,2024-12-14,2024/2025,True,Peterborough United,Crawley Town,4.0,3.0,2.24,2.35
+League One,2024-12-14,2024/2025,True,Reading,Blackpool,0.0,3.0,0.94,1.94
+League One,2024-12-14,2024/2025,True,Rotherham United,Northampton Town,3.0,0.0,2.2,0.3
+League One,2024-12-14,2024/2025,True,Shrewsbury Town,Wycombe Wanderers,1.0,4.0,0.36,0.74
+League One,2024-12-14,2024/2025,True,Stevenage,Stockport County,2.0,1.0,1.16,0.44
+League One,2024-12-14,2024/2025,True,Wrexham,Cambridge United,2.0,2.0,0.99,1.58
+League One,2024-12-20,2024/2025,True,Cambridge United,Huddersfield Town,0.0,4.0,0.74,2.23
+League One,2024-12-20,2024/2025,True,Stockport County,Peterborough United,2.0,1.0,1.61,0.46
+League One,2024-12-20,2024/2025,True,Wycombe Wanderers,Bolton Wanderers,0.0,0.0,1.29,0.33
+League One,2024-12-21,2024/2025,True,Bristol Rovers,Wrexham,1.0,1.0,0.39,1.03
+League One,2024-12-21,2024/2025,True,Lincoln City,Reading,2.0,0.0,2.0,0.19
+League One,2024-12-21,2024/2025,True,Barnsley,Leyton Orient,0.0,4.0,0.75,2.78
+League One,2024-12-21,2024/2025,True,Blackpool,Stevenage,0.0,0.0,0.71,0.85
+League One,2024-12-21,2024/2025,True,Burton Albion,Exeter City,1.0,2.0,0.6,0.63
+League One,2024-12-21,2024/2025,True,Mansfield Town,Rotherham United,1.0,0.0,0.99,0.48
+League One,2024-12-21,2024/2025,True,Northampton Town,Charlton Athletic,0.0,5.0,0.23,1.68
+League One,2024-12-21,2024/2025,True,Wigan Athletic,Shrewsbury Town,2.0,2.0,2.17,0.4
+League One,2024-12-23,2024/2025,True,Crawley Town,Birmingham City,0.0,1.0,0.15,0.8
+League One,2024-12-26,2024/2025,True,Leyton Orient,Crawley Town,3.0,0.0,3.3,0.61
+League One,2024-12-26,2024/2025,True,Birmingham City,Burton Albion,2.0,0.0,1.3,1.16
+League One,2024-12-26,2024/2025,True,Bolton Wanderers,Barnsley,1.0,2.0,1.07,1.29
+League One,2024-12-26,2024/2025,True,Charlton Athletic,Cambridge United,2.0,1.0,1.09,1.88
+League One,2024-12-26,2024/2025,True,Exeter City,Bristol Rovers,3.0,1.0,1.58,2.16
+League One,2024-12-26,2024/2025,True,Huddersfield Town,Stockport County,1.0,0.0,0.49,0.86
+League One,2024-12-26,2024/2025,True,Peterborough United,Mansfield Town,0.0,3.0,0.22,2.13
+League One,2024-12-26,2024/2025,True,Reading,Northampton Town,4.0,1.0,1.28,0.44
+League One,2024-12-26,2024/2025,True,Rotherham United,Wigan Athletic,0.0,1.0,0.78,0.86
+League One,2024-12-26,2024/2025,True,Shrewsbury Town,Lincoln City,1.0,0.0,1.31,1.18
+League One,2024-12-26,2024/2025,True,Stevenage,Wycombe Wanderers,0.0,3.0,0.22,1.39
+League One,2024-12-26,2024/2025,True,Wrexham,Blackpool,2.0,1.0,1.71,0.82
+League One,2024-12-29,2024/2025,True,Charlton Athletic,Wycombe Wanderers,2.0,1.0,1.37,0.41
+League One,2024-12-29,2024/2025,True,Rotherham United,Stockport County,1.0,1.0,0.48,1.13
+League One,2024-12-29,2024/2025,True,Birmingham City,Blackpool,0.0,0.0,0.74,0.89
+League One,2024-12-29,2024/2025,True,Bolton Wanderers,Lincoln City,3.0,0.0,0.99,0.45
+League One,2024-12-29,2024/2025,True,Exeter City,Crawley Town,4.0,4.0,1.55,1.94
+League One,2024-12-29,2024/2025,True,Huddersfield Town,Burton Albion,1.0,1.0,3.18,0.83
+League One,2024-12-29,2024/2025,True,Leyton Orient,Cambridge United,2.0,0.0,2.15,0.48
+League One,2024-12-29,2024/2025,True,Peterborough United,Barnsley,1.0,3.0,1.25,1.73
+League One,2024-12-29,2024/2025,True,Reading,Mansfield Town,2.0,1.0,1.24,0.87
+League One,2024-12-29,2024/2025,True,Shrewsbury Town,Northampton Town,1.0,1.0,0.79,1.24
+League One,2024-12-29,2024/2025,True,Stevenage,Bristol Rovers,3.0,0.0,1.68,0.76
+League One,2024-12-29,2024/2025,True,Wrexham,Wigan Athletic,2.0,1.0,0.36,1.18
+League One,2025-01-01,2024/2025,True,Barnsley,Wrexham,2.0,1.0,0.58,2.21
+League One,2025-01-01,2024/2025,True,Blackpool,Shrewsbury Town,1.0,1.0,1.3,0.41
+League One,2025-01-01,2024/2025,True,Bristol Rovers,Leyton Orient,2.0,3.0,2.41,1.6
+League One,2025-01-01,2024/2025,True,Burton Albion,Peterborough United,2.0,2.0,1.39,1.44
+League One,2025-01-01,2024/2025,True,Cambridge United,Reading,1.0,3.0,2.03,1.88
+League One,2025-01-01,2024/2025,True,Lincoln City,Rotherham United,0.0,1.0,0.21,1.13
+League One,2025-01-01,2024/2025,True,Mansfield Town,Bolton Wanderers,2.0,1.0,0.82,1.55
+League One,2025-01-01,2024/2025,True,Northampton Town,Stevenage,0.0,0.0,0.48,0.85
+League One,2025-01-01,2024/2025,True,Stockport County,Birmingham City,1.0,1.0,0.94,0.94
+League One,2025-01-01,2024/2025,True,Wycombe Wanderers,Exeter City,2.0,1.0,1.63,0.94
+League One,2025-01-04,2024/2025,True,Burton Albion,Northampton Town,0.0,1.0,0.79,0.76
+League One,2025-01-04,2024/2025,True,Cambridge United,Bristol Rovers,0.0,1.0,1.59,0.68
+League One,2025-01-04,2024/2025,True,Barnsley,Crawley Town,3.0,0.0,2.53,1.54
+League One,2025-01-04,2024/2025,True,Charlton Athletic,Reading,0.0,0.0,1.25,1.67
+League One,2025-01-04,2024/2025,True,Exeter City,Bolton Wanderers,1.0,2.0,0.41,1.45
+League One,2025-01-04,2024/2025,True,Huddersfield Town,Rotherham United,0.0,0.0,2.05,1.02
+League One,2025-01-04,2024/2025,True,Leyton Orient,Shrewsbury Town,1.0,0.0,1.14,0.41
+League One,2025-01-04,2024/2025,True,Lincoln City,Stevenage,0.0,0.0,0.55,0.9
+League One,2025-01-04,2024/2025,True,Stockport County,Mansfield Town,1.0,2.0,0.97,1.21
+League One,2025-01-04,2024/2025,True,Wigan Athletic,Birmingham City,0.0,3.0,0.8,1.28
+League One,2025-01-04,2024/2025,True,Wrexham,Peterborough United,1.0,0.0,0.92,1.34
+League One,2025-01-04,2024/2025,True,Wycombe Wanderers,Blackpool,1.0,1.0,1.58,0.93
+League One,2025-01-07,2024/2025,True,Wycombe Wanderers,Huddersfield Town,0.0,1.0,1.09,0.32
+League One,2025-01-11,2024/2025,True,Rotherham United,Bolton Wanderers,3.0,1.0,2.93,2.06
+League One,2025-01-16,2024/2025,True,Shrewsbury Town,Wrexham,2.0,1.0,1.37,1.8
+League One,2025-01-18,2024/2025,True,Blackpool,Huddersfield Town,2.0,2.0,1.01,0.96
+League One,2025-01-18,2024/2025,True,Peterborough United,Leyton Orient,0.0,0.0,0.84,0.54
+League One,2025-01-18,2024/2025,True,Northampton Town,Lincoln City,0.0,1.0,0.31,0.56
+League One,2025-01-18,2024/2025,True,Birmingham City,Exeter City,1.0,0.0,0.77,0.0
+League One,2025-01-18,2024/2025,True,Bolton Wanderers,Cambridge United,2.0,2.0,2.21,0.74
+League One,2025-01-18,2024/2025,True,Bristol Rovers,Barnsley,3.0,1.0,2.08,3.01
+League One,2025-01-18,2024/2025,True,Crawley Town,Burton Albion,1.0,1.0,1.3,0.28
+League One,2025-01-18,2024/2025,True,Mansfield Town,Wycombe Wanderers,1.0,2.0,1.53,2.36
+League One,2025-01-18,2024/2025,True,Reading,Stockport County,1.0,3.0,1.65,3.32
+League One,2025-01-18,2024/2025,True,Rotherham United,Charlton Athletic,4.0,2.0,2.3,1.21
+League One,2025-01-18,2024/2025,True,Stevenage,Wigan Athletic,1.0,2.0,1.16,1.02
+League One,2025-01-21,2024/2025,True,Bolton Wanderers,Charlton Athletic,1.0,2.0,1.89,0.78
+League One,2025-01-21,2024/2025,True,Peterborough United,Exeter City,1.0,1.0,2.16,1.23
+League One,2025-01-21,2024/2025,True,Wigan Athletic,Burton Albion,1.0,2.0,1.3,1.93
+League One,2025-01-23,2024/2025,True,Wrexham,Birmingham City,1.0,1.0,1.29,0.26
+League One,2025-01-25,2024/2025,True,Cambridge United,Mansfield Town,3.0,2.0,2.48,2.08
+League One,2025-01-25,2024/2025,True,Huddersfield Town,Bolton Wanderers,0.0,1.0,0.64,0.91
+League One,2025-01-25,2024/2025,True,Barnsley,Stevenage,0.0,1.0,0.09,1.71
+League One,2025-01-25,2024/2025,True,Burton Albion,Rotherham United,4.0,2.0,1.42,1.54
+League One,2025-01-25,2024/2025,True,Charlton Athletic,Shrewsbury Town,1.0,0.0,1.04,0.59
+League One,2025-01-25,2024/2025,True,Exeter City,Blackpool,1.0,3.0,0.79,2.26
+League One,2025-01-25,2024/2025,True,Leyton Orient,Reading,2.0,0.0,0.99,0.16
+League One,2025-01-25,2024/2025,True,Lincoln City,Peterborough United,5.0,1.0,2.22,0.68
+League One,2025-01-25,2024/2025,True,Stockport County,Crawley Town,2.0,0.0,2.37,0.19
+League One,2025-01-25,2024/2025,True,Wigan Athletic,Bristol Rovers,2.0,0.0,1.13,0.76
+League One,2025-01-25,2024/2025,True,Wycombe Wanderers,Northampton Town,0.0,0.0,1.52,0.36
+League One,2025-01-28,2024/2025,True,Bolton Wanderers,Northampton Town,3.0,1.0,0.84,0.42
+League One,2025-01-28,2024/2025,True,Burton Albion,Reading,3.0,2.0,2.48,1.97
+League One,2025-01-28,2024/2025,True,Charlton Athletic,Bristol Rovers,2.0,0.0,2.2,0.18
+League One,2025-01-28,2024/2025,True,Exeter City,Leyton Orient,2.0,6.0,1.08,2.44
+League One,2025-01-28,2024/2025,True,Lincoln City,Blackpool,0.0,2.0,1.56,1.2
+League One,2025-01-28,2024/2025,True,Mansfield Town,Crawley Town,0.0,1.0,0.96,1.89
+League One,2025-01-28,2024/2025,True,Peterborough United,Wigan Athletic,1.0,0.0,0.54,0.37
+League One,2025-01-28,2024/2025,True,Rotherham United,Cambridge United,2.0,1.0,1.26,0.58
+League One,2025-01-28,2024/2025,True,Stockport County,Shrewsbury Town,1.0,0.0,0.57,0.56
+League One,2025-01-28,2024/2025,True,Wrexham,Stevenage,2.0,3.0,1.06,1.68
+League One,2025-01-28,2024/2025,True,Wycombe Wanderers,Barnsley,2.0,1.0,2.63,0.86
+League One,2025-01-28,2024/2025,True,Huddersfield Town,Birmingham City,0.0,1.0,0.38,0.83
+League One,2025-02-01,2024/2025,True,Barnsley,Burton Albion,0.0,0.0,1.06,0.5
+League One,2025-02-01,2024/2025,True,Stevenage,Exeter City,4.0,1.0,2.84,1.51
+League One,2025-02-01,2024/2025,True,Birmingham City,Rotherham United,2.0,1.0,2.66,0.8
+League One,2025-02-01,2024/2025,True,Blackpool,Charlton Athletic,2.0,2.0,1.17,1.19
+League One,2025-02-01,2024/2025,True,Cambridge United,Wycombe Wanderers,1.0,1.0,1.37,0.8
+League One,2025-02-01,2024/2025,True,Crawley Town,Wrexham,1.0,2.0,0.93,1.23
+League One,2025-02-01,2024/2025,True,Leyton Orient,Stockport County,0.0,1.0,0.4,1.04
+League One,2025-02-01,2024/2025,True,Northampton Town,Huddersfield Town,3.0,2.0,1.11,1.23
+League One,2025-02-01,2024/2025,True,Reading,Bolton Wanderers,1.0,0.0,1.28,1.23
+League One,2025-02-01,2024/2025,True,Shrewsbury Town,Mansfield Town,2.0,1.0,0.75,2.54
+League One,2025-02-01,2024/2025,True,Wigan Athletic,Lincoln City,1.0,1.0,0.79,1.15
+League One,2025-02-02,2024/2025,True,Bristol Rovers,Peterborough United,3.0,1.0,2.2,2.33
+League One,2025-02-07,2024/2025,True,Mansfield Town,Northampton Town,0.0,1.0,1.29,1.26
+League One,2025-02-08,2024/2025,True,Charlton Athletic,Stevenage,2.0,0.0,2.15,0.08
+League One,2025-02-08,2024/2025,True,Stockport County,Barnsley,2.0,1.0,1.6,1.11
+League One,2025-02-08,2024/2025,True,Bolton Wanderers,Crawley Town,4.0,3.0,1.32,0.91
+League One,2025-02-08,2024/2025,True,Burton Albion,Blackpool,1.0,1.0,1.05,1.05
+League One,2025-02-08,2024/2025,True,Huddersfield Town,Reading,0.0,0.0,0.7,0.48
+League One,2025-02-08,2024/2025,True,Lincoln City,Cambridge United,1.0,1.0,1.36,0.38
+League One,2025-02-08,2024/2025,True,Rotherham United,Shrewsbury Town,1.0,2.0,0.99,1.52
+League One,2025-02-11,2024/2025,True,Birmingham City,Cambridge United,4.0,0.0,3.72,0.1
+League One,2025-02-11,2024/2025,True,Blackpool,Rotherham United,0.0,0.0,0.93,0.77
+League One,2025-02-11,2024/2025,True,Bristol Rovers,Stockport County,1.0,1.0,0.77,1.36
+League One,2025-02-11,2024/2025,True,Charlton Athletic,Peterborough United,2.0,1.0,2.37,0.95
+League One,2025-02-11,2024/2025,True,Crawley Town,Stevenage,3.0,1.0,2.56,1.15
+League One,2025-02-11,2024/2025,True,Leyton Orient,Mansfield Town,3.0,0.0,0.56,0.35
+League One,2025-02-11,2024/2025,True,Reading,Shrewsbury Town,1.0,1.0,0.82,1.58
+League One,2025-02-15,2024/2025,True,Cambridge United,Exeter City,0.0,1.0,0.68,0.56
+League One,2025-02-15,2024/2025,True,Northampton Town,Wrexham,0.0,2.0,0.49,1.72
+League One,2025-02-15,2024/2025,True,Barnsley,Huddersfield Town,1.0,2.0,0.45,2.23
+League One,2025-02-15,2024/2025,True,Birmingham City,Charlton Athletic,1.0,0.0,0.64,0.35
+League One,2025-02-15,2024/2025,True,Blackpool,Mansfield Town,3.0,3.0,1.04,1.51
+League One,2025-02-15,2024/2025,True,Bristol Rovers,Burton Albion,3.0,1.0,1.28,0.84
+League One,2025-02-15,2024/2025,True,Crawley Town,Wycombe Wanderers,1.0,1.0,0.41,1.04
+League One,2025-02-15,2024/2025,True,Leyton Orient,Lincoln City,3.0,2.0,2.18,1.76
+League One,2025-02-15,2024/2025,True,Reading,Rotherham United,2.0,1.0,2.61,1.89
+League One,2025-02-15,2024/2025,True,Shrewsbury Town,Bolton Wanderers,2.0,3.0,2.15,0.89
+League One,2025-02-15,2024/2025,True,Stevenage,Peterborough United,1.0,1.0,0.71,0.34
+League One,2025-02-15,2024/2025,True,Wigan Athletic,Stockport County,0.0,2.0,0.95,0.91
+League One,2025-02-18,2024/2025,True,Crawley Town,Wigan Athletic,1.0,1.0,0.79,1.46
+League One,2025-02-18,2024/2025,True,Mansfield Town,Lincoln City,0.0,3.0,0.43,1.71
+League One,2025-02-18,2024/2025,True,Shrewsbury Town,Huddersfield Town,0.0,1.0,1.18,1.05
+League One,2025-02-18,2024/2025,True,Stevenage,Burton Albion,0.0,1.0,1.86,1.22
+League One,2025-02-18,2024/2025,True,Wrexham,Leyton Orient,1.0,2.0,1.37,0.78
+League One,2025-02-18,2024/2025,True,Wycombe Wanderers,Bristol Rovers,2.0,0.0,0.95,0.07
+League One,2025-02-22,2024/2025,True,Reading,Birmingham City,0.0,0.0,0.42,1.93
+League One,2025-02-22,2024/2025,True,Rotherham United,Barnsley,0.0,1.0,0.64,1.28
+League One,2025-02-22,2024/2025,True,Blackpool,Crawley Town,3.0,1.0,2.75,1.75
+League One,2025-02-22,2024/2025,True,Bolton Wanderers,Leyton Orient,2.0,1.0,1.93,1.53
+League One,2025-02-22,2024/2025,True,Cambridge United,Stockport County,2.0,0.0,0.27,2.64
+League One,2025-02-22,2024/2025,True,Charlton Athletic,Exeter City,3.0,0.0,1.38,0.29
+League One,2025-02-22,2024/2025,True,Huddersfield Town,Peterborough United,0.0,1.0,0.84,1.09
+League One,2025-02-22,2024/2025,True,Lincoln City,Burton Albion,0.0,1.0,0.22,0.55
+League One,2025-02-22,2024/2025,True,Northampton Town,Bristol Rovers,2.0,1.0,0.65,0.69
+League One,2025-02-22,2024/2025,True,Shrewsbury Town,Stevenage,0.0,1.0,1.6,0.63
+League One,2025-02-22,2024/2025,True,Wycombe Wanderers,Wigan Athletic,0.0,0.0,0.96,0.27
+League One,2025-02-23,2024/2025,True,Mansfield Town,Wrexham,1.0,2.0,0.68,1.21
+League One,2025-02-25,2024/2025,True,Birmingham City,Leyton Orient,2.0,0.0,2.92,0.1
+League One,2025-02-25,2024/2025,True,Northampton Town,Barnsley,1.0,2.0,1.48,0.61
+League One,2025-02-25,2024/2025,True,Wigan Athletic,Huddersfield Town,2.0,1.0,0.93,0.82
+League One,2025-03-01,2024/2025,True,Birmingham City,Wycombe Wanderers,1.0,0.0,0.93,1.19
+League One,2025-03-01,2024/2025,True,Wrexham,Bolton Wanderers,0.0,0.0,2.15,1.11
+League One,2025-03-01,2024/2025,True,Barnsley,Lincoln City,4.0,3.0,0.96,1.53
+League One,2025-03-01,2024/2025,True,Bristol Rovers,Rotherham United,2.0,3.0,1.11,2.62
+League One,2025-03-01,2024/2025,True,Burton Albion,Mansfield Town,1.0,1.0,0.23,2.38
+League One,2025-03-01,2024/2025,True,Crawley Town,Cambridge United,0.0,2.0,0.81,0.75
+League One,2025-03-01,2024/2025,True,Exeter City,Northampton Town,1.0,1.0,0.47,0.95
+League One,2025-03-01,2024/2025,True,Leyton Orient,Charlton Athletic,1.0,2.0,1.46,2.61
+League One,2025-03-01,2024/2025,True,Peterborough United,Shrewsbury Town,3.0,1.0,3.44,1.24
+League One,2025-03-01,2024/2025,True,Stevenage,Huddersfield Town,1.0,2.0,1.39,1.12
+League One,2025-03-01,2024/2025,True,Stockport County,Blackpool,2.0,1.0,1.23,0.89
+League One,2025-03-01,2024/2025,True,Wigan Athletic,Reading,1.0,2.0,0.41,2.08
+League One,2025-03-04,2024/2025,True,Blackpool,Peterborough United,0.0,0.0,0.9,0.76
+League One,2025-03-04,2024/2025,True,Bolton Wanderers,Birmingham City,3.0,1.0,1.15,0.43
+League One,2025-03-04,2024/2025,True,Cambridge United,Stevenage,0.0,1.0,0.3,1.82
+League One,2025-03-04,2024/2025,True,Charlton Athletic,Barnsley,1.0,0.0,0.74,0.38
+League One,2025-03-04,2024/2025,True,Huddersfield Town,Wrexham,0.0,1.0,0.63,1.72
+League One,2025-03-04,2024/2025,True,Lincoln City,Crawley Town,4.0,1.0,2.24,0.93
+League One,2025-03-04,2024/2025,True,Mansfield Town,Wigan Athletic,0.0,0.0,1.09,0.34
+League One,2025-03-04,2024/2025,True,Northampton Town,Stockport County,1.0,1.0,0.26,0.38
+League One,2025-03-04,2024/2025,True,Rotherham United,Leyton Orient,1.0,0.0,0.78,1.47
+League One,2025-03-04,2024/2025,True,Shrewsbury Town,Bristol Rovers,0.0,0.0,1.13,1.18
+League One,2025-03-04,2024/2025,True,Reading,Exeter City,0.0,0.0,0.5,1.31
+League One,2025-03-04,2024/2025,True,Wycombe Wanderers,Burton Albion,2.0,0.0,2.11,0.81
+League One,2025-03-08,2024/2025,True,Crawley Town,Reading,1.0,1.0,0.61,0.56
+League One,2025-03-08,2024/2025,True,Stockport County,Charlton Athletic,0.0,0.0,0.93,0.78
+League One,2025-03-08,2024/2025,True,Barnsley,Blackpool,0.0,3.0,1.33,3.23
+League One,2025-03-08,2024/2025,True,Birmingham City,Lincoln City,1.0,0.0,1.9,0.49
+League One,2025-03-08,2024/2025,True,Bristol Rovers,Huddersfield Town,1.0,0.0,0.95,1.19
+League One,2025-03-08,2024/2025,True,Burton Albion,Bolton Wanderers,1.0,2.0,1.02,0.88
+League One,2025-03-08,2024/2025,True,Exeter City,Shrewsbury Town,2.0,0.0,2.35,0.5
+League One,2025-03-08,2024/2025,True,Leyton Orient,Northampton Town,1.0,2.0,0.4,0.86
+League One,2025-03-08,2024/2025,True,Peterborough United,Wycombe Wanderers,1.0,1.0,2.06,1.32
+League One,2025-03-08,2024/2025,True,Stevenage,Mansfield Town,1.0,1.0,1.27,0.96
+League One,2025-03-08,2024/2025,True,Wigan Athletic,Cambridge United,1.0,0.0,1.33,0.56
+League One,2025-03-08,2024/2025,True,Wrexham,Rotherham United,1.0,0.0,0.59,0.75
+League One,2025-03-11,2024/2025,True,Birmingham City,Stevenage,2.0,1.0,1.41,0.47
+League One,2025-03-11,2024/2025,True,Blackpool,Cambridge United,2.0,1.0,1.19,0.96
+League One,2025-03-11,2024/2025,True,Bristol Rovers,Bolton Wanderers,3.0,2.0,2.45,1.82
+League One,2025-03-11,2024/2025,True,Crawley Town,Charlton Athletic,0.0,1.0,0.41,1.87
+League One,2025-03-11,2024/2025,True,Exeter City,Mansfield Town,2.0,0.0,1.7,0.22
+League One,2025-03-11,2024/2025,True,Reading,Wrexham,2.0,0.0,1.62,1.09
+League One,2025-03-15,2024/2025,True,Bolton Wanderers,Stockport County,0.0,1.0,1.59,0.97
+League One,2025-03-15,2024/2025,True,Cambridge United,Peterborough United,0.0,1.0,1.41,0.53
+League One,2025-03-15,2024/2025,True,Blackpool,Leyton Orient,1.0,2.0,4.45,2.28
+League One,2025-03-15,2024/2025,True,Charlton Athletic,Wigan Athletic,2.0,1.0,1.23,0.65
+League One,2025-03-15,2024/2025,True,Huddersfield Town,Crawley Town,5.0,1.0,2.26,0.87
+League One,2025-03-15,2024/2025,True,Lincoln City,Bristol Rovers,5.0,0.0,2.56,0.29
+League One,2025-03-15,2024/2025,True,Mansfield Town,Barnsley,2.0,1.0,1.25,0.83
+League One,2025-03-15,2024/2025,True,Northampton Town,Birmingham City,1.0,1.0,0.91,1.16
+League One,2025-03-15,2024/2025,True,Reading,Stevenage,1.0,1.0,0.54,1.41
+League One,2025-03-15,2024/2025,True,Rotherham United,Exeter City,1.0,1.0,2.33,1.43
+League One,2025-03-15,2024/2025,True,Shrewsbury Town,Burton Albion,0.0,2.0,0.8,2.61
+League One,2025-03-15,2024/2025,True,Wycombe Wanderers,Wrexham,0.0,1.0,0.91,0.39
+League One,2025-03-18,2024/2025,True,Rotherham United,Wycombe Wanderers,2.0,3.0,1.94,1.51
+League One,2025-03-22,2024/2025,True,Barnsley,Cambridge United,1.0,1.0,1.65,0.44
+League One,2025-03-22,2024/2025,True,Crawley Town,Bristol Rovers,1.0,0.0,1.93,0.47
+League One,2025-03-22,2024/2025,True,Lincoln City,Exeter City,0.0,0.0,1.38,0.11
+League One,2025-03-22,2024/2025,True,Northampton Town,Blackpool,0.0,2.0,0.52,1.42
+League One,2025-03-22,2024/2025,True,Peterborough United,Charlton Athletic,3.0,0.0,2.32,1.93
+League One,2025-03-22,2024/2025,True,Wrexham,Stockport County,1.0,0.0,1.25,0.86
+League One,2025-03-27,2024/2025,True,Leyton Orient,Stevenage,1.0,0.0,0.21,0.67
+League One,2025-03-29,2024/2025,True,Charlton Athletic,Huddersfield Town,4.0,0.0,1.04,0.67
+League One,2025-03-29,2024/2025,True,Stockport County,Burton Albion,2.0,1.0,2.02,1.49
+League One,2025-03-29,2024/2025,True,Birmingham City,Shrewsbury Town,4.0,1.0,3.27,0.37
+League One,2025-03-29,2024/2025,True,Blackpool,Bolton Wanderers,2.0,1.0,0.95,1.13
+League One,2025-03-29,2024/2025,True,Bristol Rovers,Mansfield Town,1.0,2.0,1.08,2.87
+League One,2025-03-29,2024/2025,True,Cambridge United,Northampton Town,1.0,1.0,0.13,0.81
+League One,2025-03-29,2024/2025,True,Exeter City,Wrexham,0.0,2.0,0.48,1.76
+League One,2025-03-29,2024/2025,True,Reading,Peterborough United,3.0,1.0,2.09,2.06
+League One,2025-03-29,2024/2025,True,Rotherham United,Crawley Town,0.0,4.0,0.64,1.53
+League One,2025-03-29,2024/2025,True,Wigan Athletic,Barnsley,1.0,1.0,1.98,0.39
+League One,2025-03-29,2024/2025,True,Wycombe Wanderers,Lincoln City,1.0,0.0,1.54,0.34
+League One,2025-04-01,2024/2025,True,Barnsley,Exeter City,1.0,2.0,1.63,1.37
+League One,2025-04-01,2024/2025,True,Blackpool,Reading,3.0,0.0,2.0,0.34
+League One,2025-04-01,2024/2025,True,Burton Albion,Leyton Orient,2.0,1.0,2.16,1.93
+League One,2025-04-01,2024/2025,True,Cambridge United,Wrexham,2.0,2.0,1.68,1.33
+League One,2025-04-01,2024/2025,True,Crawley Town,Peterborough United,3.0,4.0,1.87,2.45
+League One,2025-04-01,2024/2025,True,Lincoln City,Huddersfield Town,1.0,0.0,1.05,0.4
+League One,2025-04-01,2024/2025,True,Mansfield Town,Charlton Athletic,1.0,2.0,0.39,1.12
+League One,2025-04-01,2024/2025,True,Northampton Town,Rotherham United,0.0,2.0,0.81,2.91
+League One,2025-04-01,2024/2025,True,Stockport County,Stevenage,3.0,0.0,1.88,1.24
+League One,2025-04-01,2024/2025,True,Wigan Athletic,Bolton Wanderers,0.0,1.0,0.62,0.62
+League One,2025-04-01,2024/2025,True,Wycombe Wanderers,Shrewsbury Town,0.0,0.0,3.05,0.11
+League One,2025-04-01,2024/2025,True,Bristol Rovers,Birmingham City,1.0,2.0,2.02,1.09
+League One,2025-04-05,2024/2025,True,Reading,Wycombe Wanderers,1.0,0.0,0.95,1.07
+League One,2025-04-05,2024/2025,True,Wrexham,Burton Albion,3.0,0.0,2.61,0.46
+League One,2025-04-05,2024/2025,True,Birmingham City,Barnsley,6.0,2.0,3.95,0.56
+League One,2025-04-05,2024/2025,True,Bolton Wanderers,Bristol Rovers,1.0,0.0,0.33,0.13
+League One,2025-04-05,2024/2025,True,Charlton Athletic,Lincoln City,2.0,2.0,1.47,0.49
+League One,2025-04-05,2024/2025,True,Exeter City,Stockport County,0.0,2.0,0.65,2.53
+League One,2025-04-05,2024/2025,True,Huddersfield Town,Mansfield Town,2.0,1.0,0.43,1.25
+League One,2025-04-05,2024/2025,True,Leyton Orient,Wigan Athletic,0.0,0.0,1.41,0.05
+League One,2025-04-05,2024/2025,True,Peterborough United,Northampton Town,0.0,4.0,0.38,3.52
+League One,2025-04-05,2024/2025,True,Rotherham United,Blackpool,2.0,1.0,2.02,1.19
+League One,2025-04-05,2024/2025,True,Shrewsbury Town,Cambridge United,0.0,1.0,1.04,0.97
+League One,2025-04-05,2024/2025,True,Stevenage,Crawley Town,3.0,1.0,0.65,0.46
+League One,2025-04-08,2024/2025,True,Bolton Wanderers,Rotherham United,0.0,1.0,2.97,0.24
+League One,2025-04-08,2024/2025,True,Exeter City,Wigan Athletic,1.0,1.0,0.46,0.99
+League One,2025-04-08,2024/2025,True,Huddersfield Town,Wycombe Wanderers,0.0,1.0,0.6,1.04
+League One,2025-04-08,2024/2025,True,Mansfield Town,Leyton Orient,2.0,3.0,1.58,0.4
+League One,2025-04-08,2024/2025,True,Peterborough United,Birmingham City,1.0,2.0,0.38,1.31
+League One,2025-04-08,2024/2025,True,Shrewsbury Town,Reading,1.0,3.0,1.45,1.3
+League One,2025-04-12,2024/2025,True,Wigan Athletic,Wrexham,0.0,0.0,0.39,0.29
+League One,2025-04-12,2024/2025,True,Wycombe Wanderers,Stevenage,1.0,0.0,1.32,0.49
+League One,2025-04-12,2024/2025,True,Barnsley,Bolton Wanderers,4.0,1.0,1.37,2.57
+League One,2025-04-12,2024/2025,True,Bristol Rovers,Exeter City,1.0,2.0,0.97,0.63
+League One,2025-04-12,2024/2025,True,Burton Albion,Huddersfield Town,3.0,0.0,2.17,0.13
+League One,2025-04-12,2024/2025,True,Cambridge United,Charlton Athletic,0.0,1.0,1.12,0.64
+League One,2025-04-12,2024/2025,True,Crawley Town,Leyton Orient,1.0,3.0,1.42,2.14
+League One,2025-04-12,2024/2025,True,Lincoln City,Shrewsbury Town,1.0,1.0,1.82,1.21
+League One,2025-04-12,2024/2025,True,Northampton Town,Reading,0.0,0.0,0.51,1.04
+League One,2025-04-12,2024/2025,True,Stockport County,Rotherham United,3.0,1.0,1.89,0.31
+League One,2025-04-18,2024/2025,True,Exeter City,Burton Albion,0.0,0.0,0.94,0.19
+League One,2025-04-18,2024/2025,True,Birmingham City,Crawley Town,0.0,0.0,2.19,0.84
+League One,2025-04-18,2024/2025,True,Bolton Wanderers,Wycombe Wanderers,0.0,2.0,0.35,0.88
+League One,2025-04-18,2024/2025,True,Charlton Athletic,Northampton Town,2.0,1.0,1.57,1.52
+League One,2025-04-18,2024/2025,True,Huddersfield Town,Cambridge United,1.0,2.0,1.76,0.7
+League One,2025-04-18,2024/2025,True,Leyton Orient,Barnsley,4.0,3.0,2.22,1.49
+League One,2025-04-18,2024/2025,True,Peterborough United,Stockport County,1.0,1.0,0.66,0.72
+League One,2025-04-18,2024/2025,True,Reading,Lincoln City,0.0,1.0,0.38,0.79
+League One,2025-04-18,2024/2025,True,Rotherham United,Mansfield Town,3.0,3.0,1.07,2.66
+League One,2025-04-18,2024/2025,True,Shrewsbury Town,Wigan Athletic,0.0,1.0,0.4,1.16
+League One,2025-04-18,2024/2025,True,Stevenage,Blackpool,1.0,3.0,0.41,1.42
+League One,2025-04-18,2024/2025,True,Wrexham,Bristol Rovers,1.0,1.0,0.88,0.7
+League One,2025-04-21,2024/2025,True,Barnsley,Peterborough United,1.0,1.0,0.81,0.73
+League One,2025-04-21,2024/2025,True,Blackpool,Wrexham,1.0,2.0,0.32,1.29
+League One,2025-04-21,2024/2025,True,Bristol Rovers,Stevenage,0.0,1.0,0.52,1.67
+League One,2025-04-21,2024/2025,True,Burton Albion,Birmingham City,1.0,2.0,0.41,0.52
+League One,2025-04-21,2024/2025,True,Cambridge United,Leyton Orient,1.0,2.0,1.11,0.85
+League One,2025-04-21,2024/2025,True,Crawley Town,Exeter City,3.0,1.0,2.62,0.51
+League One,2025-04-21,2024/2025,True,Lincoln City,Bolton Wanderers,4.0,2.0,1.67,0.66
+League One,2025-04-21,2024/2025,True,Mansfield Town,Reading,1.0,5.0,0.91,2.32
+League One,2025-04-21,2024/2025,True,Northampton Town,Shrewsbury Town,4.0,1.0,1.07,2.02
+League One,2025-04-21,2024/2025,True,Stockport County,Huddersfield Town,2.0,1.0,2.05,1.45
+League One,2025-04-21,2024/2025,True,Wigan Athletic,Rotherham United,1.0,0.0,1.28,0.91
+League One,2025-04-21,2024/2025,True,Wycombe Wanderers,Charlton Athletic,0.0,4.0,0.84,1.6
+League One,2025-04-24,2024/2025,True,Stevenage,Birmingham City,0.0,1.0,1.16,0.55
+League One,2025-04-26,2024/2025,True,Bristol Rovers,Reading,0.0,2.0,1.08,1.01
+League One,2025-04-26,2024/2025,True,Leyton Orient,Wycombe Wanderers,1.0,0.0,1.72,0.61
+League One,2025-04-26,2024/2025,True,Barnsley,Shrewsbury Town,1.0,2.0,1.53,1.42
+League One,2025-04-26,2024/2025,True,Burton Albion,Cambridge United,2.0,1.0,0.19,0.5
+League One,2025-04-26,2024/2025,True,Crawley Town,Northampton Town,3.0,0.0,2.55,0.3
+League One,2025-04-26,2024/2025,True,Exeter City,Huddersfield Town,3.0,1.0,1.44,0.68
+League One,2025-04-26,2024/2025,True,Peterborough United,Bolton Wanderers,1.0,1.0,2.9,2.76
+League One,2025-04-26,2024/2025,True,Stockport County,Lincoln City,3.0,2.0,2.47,0.88
+League One,2025-04-26,2024/2025,True,Wigan Athletic,Blackpool,1.0,1.0,0.53,1.84
+League One,2025-04-26,2024/2025,True,Wrexham,Charlton Athletic,3.0,0.0,0.88,1.27
+League One,2025-04-27,2024/2025,True,Stevenage,Rotherham United,1.0,1.0,1.59,1.17
+League One,2025-04-27,2024/2025,True,Birmingham City,Mansfield Town,4.0,0.0,2.19,0.34
+League One,2025-04-29,2024/2025,True,Burton Albion,Wigan Athletic,1.0,1.0,1.03,0.74
+League One,2025-04-30,2024/2025,True,Blackpool,Birmingham City,0.0,2.0,0.38,1.9
+League One,2025-04-30,2024/2025,True,Mansfield Town,Peterborough United,4.0,2.0,2.06,0.82
+League One,2025-05-03,2024/2025,True,Blackpool,Bristol Rovers,4.0,1.0,2.34,0.97
+League One,2025-05-03,2024/2025,True,Bolton Wanderers,Stevenage,1.0,1.0,2.19,0.94
+League One,2025-05-03,2024/2025,True,Cambridge United,Birmingham City,1.0,2.0,0.56,0.73
+League One,2025-05-03,2024/2025,True,Charlton Athletic,Burton Albion,3.0,1.0,1.89,1.35
+League One,2025-05-03,2024/2025,True,Huddersfield Town,Leyton Orient,1.0,4.0,1.36,2.02
+League One,2025-05-03,2024/2025,True,Lincoln City,Wrexham,0.0,2.0,1.61,1.36
+League One,2025-05-03,2024/2025,True,Mansfield Town,Exeter City,3.0,0.0,2.98,1.42
+League One,2025-05-03,2024/2025,True,Northampton Town,Wigan Athletic,1.0,1.0,0.21,1.03
+League One,2025-05-03,2024/2025,True,Reading,Barnsley,2.0,4.0,1.25,1.8
+League One,2025-05-03,2024/2025,True,Rotherham United,Peterborough United,2.0,1.0,1.72,0.64
+League One,2025-05-03,2024/2025,True,Shrewsbury Town,Crawley Town,1.0,2.0,1.27,1.64
+League One,2025-05-03,2024/2025,True,Wycombe Wanderers,Stockport County,1.0,3.0,1.83,2.18
+League One,2025-08-01,2025/2026,True,Luton Town,AFC Wimbledon,1.0,0.0,0.53,0.03
+League One,2025-08-02,2025/2026,True,Cardiff City,Peterborough United,2.0,1.0,1.48,1.0
+League One,2025-08-02,2025/2026,True,Blackpool,Stevenage,2.0,3.0,1.11,1.94
+League One,2025-08-02,2025/2026,True,Bradford City,Wycombe Wanderers,2.0,1.0,1.65,2.0
+League One,2025-08-02,2025/2026,True,Burton Albion,Mansfield Town,2.0,1.0,0.91,1.6
+League One,2025-08-02,2025/2026,True,Doncaster Rovers,Exeter City,1.0,0.0,2.42,0.39
+League One,2025-08-02,2025/2026,True,Huddersfield Town,Leyton Orient,3.0,0.0,2.67,1.02
+League One,2025-08-02,2025/2026,True,Lincoln City,Reading,2.0,0.0,1.56,0.35
+League One,2025-08-02,2025/2026,True,Plymouth Argyle,Barnsley,1.0,3.0,1.3,1.21
+League One,2025-08-02,2025/2026,True,Rotherham United,Port Vale,2.0,1.0,0.91,1.79
+League One,2025-08-02,2025/2026,True,Wigan Athletic,Northampton Town,3.0,1.0,2.39,0.85
+League One,2025-08-03,2025/2026,True,Stockport County,Bolton Wanderers,2.0,0.0,0.91,0.81
+League One,2025-08-07,2025/2026,True,Port Vale,Cardiff City,0.0,0.0,0.7,0.53
+League One,2025-08-09,2025/2026,True,Peterborough United,Luton Town,0.0,2.0,0.29,1.44
+League One,2025-08-09,2025/2026,True,Reading,Huddersfield Town,0.0,2.0,0.88,1.1
+League One,2025-08-09,2025/2026,True,AFC Wimbledon,Lincoln City,2.0,0.0,2.01,0.32
+League One,2025-08-09,2025/2026,True,Barnsley,Burton Albion,3.0,2.0,2.55,1.96
+League One,2025-08-09,2025/2026,True,Bolton Wanderers,Plymouth Argyle,2.0,0.0,1.62,0.24
+League One,2025-08-09,2025/2026,True,Exeter City,Blackpool,4.0,1.0,2.92,0.72
+League One,2025-08-09,2025/2026,True,Leyton Orient,Wigan Athletic,2.0,0.0,0.78,0.18
+League One,2025-08-09,2025/2026,True,Mansfield Town,Doncaster Rovers,1.0,2.0,0.36,1.38
+League One,2025-08-09,2025/2026,True,Northampton Town,Bradford City,0.0,0.0,0.17,1.07
+League One,2025-08-09,2025/2026,True,Stevenage,Rotherham United,1.0,0.0,1.21,0.29
+League One,2025-08-09,2025/2026,True,Wycombe Wanderers,Stockport County,1.0,2.0,1.39,1.22
+League One,2025-08-16,2025/2026,True,Burton Albion,Port Vale,0.0,0.0,1.37,0.79
+League One,2025-08-16,2025/2026,True,Exeter City,Mansfield Town,1.0,2.0,1.55,1.07
+League One,2025-08-16,2025/2026,True,Barnsley,Bolton Wanderers,1.0,1.0,0.76,1.55
+League One,2025-08-16,2025/2026,True,Blackpool,Huddersfield Town,3.0,2.0,0.8,0.63
+League One,2025-08-16,2025/2026,True,Bradford City,Luton Town,2.0,1.0,2.09,0.37
+League One,2025-08-16,2025/2026,True,Cardiff City,Rotherham United,3.0,0.0,2.11,0.03
+League One,2025-08-16,2025/2026,True,Doncaster Rovers,Wycombe Wanderers,1.0,1.0,1.02,0.42
+League One,2025-08-16,2025/2026,True,Leyton Orient,Stockport County,2.0,2.0,1.63,0.8
+League One,2025-08-16,2025/2026,True,Lincoln City,Plymouth Argyle,3.0,2.0,2.58,1.2
+League One,2025-08-16,2025/2026,True,Reading,AFC Wimbledon,1.0,2.0,0.97,0.73
+League One,2025-08-16,2025/2026,True,Stevenage,Northampton Town,2.0,0.0,1.27,0.78
+League One,2025-08-16,2025/2026,True,Wigan Athletic,Peterborough United,2.0,0.0,1.26,1.06
+League One,2025-08-19,2025/2026,True,AFC Wimbledon,Cardiff City,0.0,1.0,0.6,1.5
+League One,2025-08-19,2025/2026,True,Huddersfield Town,Doncaster Rovers,2.0,0.0,1.63,0.84
+League One,2025-08-19,2025/2026,True,Luton Town,Wigan Athletic,1.0,0.0,0.92,1.0
+League One,2025-08-19,2025/2026,True,Mansfield Town,Blackpool,2.0,0.0,1.81,0.3
+League One,2025-08-19,2025/2026,True,Northampton Town,Lincoln City,0.0,1.0,1.02,0.17
+League One,2025-08-19,2025/2026,True,Peterborough United,Barnsley,0.0,1.0,0.54,1.77
+League One,2025-08-19,2025/2026,True,Plymouth Argyle,Leyton Orient,0.0,1.0,0.66,1.09
+League One,2025-08-19,2025/2026,True,Port Vale,Stevenage,1.0,2.0,1.1,1.28
+League One,2025-08-19,2025/2026,True,Stockport County,Bradford City,1.0,2.0,1.37,1.34
+League One,2025-08-19,2025/2026,True,Wycombe Wanderers,Exeter City,0.0,1.0,1.48,0.21
+League One,2025-08-20,2025/2026,True,Bolton Wanderers,Reading,1.0,1.0,1.11,0.34
+League One,2025-08-23,2025/2026,True,Luton Town,Cardiff City,0.0,1.0,1.5,1.77
+League One,2025-08-23,2025/2026,True,Rotherham United,Wigan Athletic,2.0,2.0,1.38,3.06
+League One,2025-08-23,2025/2026,True,AFC Wimbledon,Barnsley,2.0,0.0,1.69,1.46
+League One,2025-08-23,2025/2026,True,Bolton Wanderers,Lincoln City,1.0,1.0,1.69,0.66
+League One,2025-08-23,2025/2026,True,Huddersfield Town,Stevenage,1.0,0.0,1.42,0.51
+League One,2025-08-23,2025/2026,True,Mansfield Town,Leyton Orient,4.0,1.0,2.42,0.77
+League One,2025-08-23,2025/2026,True,Northampton Town,Exeter City,2.0,0.0,1.08,0.15
+League One,2025-08-23,2025/2026,True,Peterborough United,Bradford City,1.0,1.0,0.87,1.47
+League One,2025-08-23,2025/2026,True,Plymouth Argyle,Blackpool,1.0,0.0,1.87,0.66
+League One,2025-08-23,2025/2026,True,Port Vale,Doncaster Rovers,0.0,1.0,1.46,0.79
+League One,2025-08-23,2025/2026,True,Stockport County,Burton Albion,2.0,1.0,1.0,2.99
+League One,2025-08-23,2025/2026,True,Wycombe Wanderers,Reading,2.0,2.0,1.51,1.15
+League One,2025-08-30,2025/2026,True,Cardiff City,Plymouth Argyle,4.0,0.0,1.52,0.37
+League One,2025-08-30,2025/2026,True,Doncaster Rovers,Rotherham United,1.0,0.0,1.03,0.69
+League One,2025-08-30,2025/2026,True,Barnsley,Huddersfield Town,3.0,1.0,1.25,1.32
+League One,2025-08-30,2025/2026,True,Blackpool,Bolton Wanderers,1.0,1.0,0.41,1.29
+League One,2025-08-30,2025/2026,True,Bradford City,AFC Wimbledon,3.0,2.0,2.85,1.18
+League One,2025-08-30,2025/2026,True,Burton Albion,Luton Town,0.0,3.0,0.87,1.82
+League One,2025-08-30,2025/2026,True,Exeter City,Peterborough United,3.0,0.0,0.78,0.2
+League One,2025-08-30,2025/2026,True,Leyton Orient,Northampton Town,0.0,1.0,0.33,1.37
+League One,2025-08-30,2025/2026,True,Reading,Port Vale,1.0,0.0,0.62,1.04
+League One,2025-08-30,2025/2026,True,Stevenage,Wycombe Wanderers,1.0,0.0,1.0,0.67
+League One,2025-08-30,2025/2026,True,Wigan Athletic,Stockport County,1.0,1.0,1.9,0.61
+League One,2025-08-30,2025/2026,True,Lincoln City,Mansfield Town,1.0,1.0,1.39,1.46
+League One,2025-09-06,2025/2026,True,Bolton Wanderers,AFC Wimbledon,3.0,0.0,2.42,1.18
+League One,2025-09-06,2025/2026,True,Doncaster Rovers,Bradford City,3.0,1.0,1.38,1.17
+League One,2025-09-06,2025/2026,True,Huddersfield Town,Peterborough United,3.0,2.0,2.32,1.02
+League One,2025-09-06,2025/2026,True,Lincoln City,Wigan Athletic,2.0,2.0,2.13,2.83
+League One,2025-09-06,2025/2026,True,Plymouth Argyle,Stockport County,4.0,2.0,1.52,1.29
+League One,2025-09-06,2025/2026,True,Port Vale,Leyton Orient,2.0,3.0,2.43,1.69
+League One,2025-09-06,2025/2026,True,Rotherham United,Exeter City,1.0,0.0,1.25,0.41
+League One,2025-09-06,2025/2026,True,Wycombe Wanderers,Mansfield Town,2.0,0.0,1.76,0.64
+League One,2025-09-13,2025/2026,True,Bradford City,Huddersfield Town,3.0,1.0,1.96,0.85
+League One,2025-09-13,2025/2026,True,Northampton Town,Blackpool,1.0,0.0,0.52,1.38
+League One,2025-09-13,2025/2026,True,AFC Wimbledon,Rotherham United,2.0,1.0,1.83,1.04
+League One,2025-09-13,2025/2026,True,Barnsley,Reading,3.0,2.0,1.83,1.04
+League One,2025-09-13,2025/2026,True,Burton Albion,Lincoln City,0.0,1.0,0.76,0.92
+League One,2025-09-13,2025/2026,True,Exeter City,Port Vale,0.0,2.0,0.82,0.51
+League One,2025-09-13,2025/2026,True,Leyton Orient,Bolton Wanderers,1.0,1.0,1.12,1.1
+League One,2025-09-13,2025/2026,True,Luton Town,Plymouth Argyle,2.0,3.0,3.16,0.95
+League One,2025-09-13,2025/2026,True,Mansfield Town,Stevenage,1.0,1.0,0.39,0.89
+League One,2025-09-13,2025/2026,True,Peterborough United,Wycombe Wanderers,2.0,1.0,2.18,1.35
+League One,2025-09-13,2025/2026,True,Stockport County,Cardiff City,1.0,1.0,2.02,0.51
+League One,2025-09-13,2025/2026,True,Wigan Athletic,Doncaster Rovers,3.0,0.0,1.77,0.64
+League One,2025-09-20,2025/2026,True,Blackpool,Barnsley,1.0,0.0,0.59,0.98
+League One,2025-09-20,2025/2026,True,Bolton Wanderers,Wigan Athletic,4.0,1.0,1.39,0.89
+League One,2025-09-20,2025/2026,True,Lincoln City,Luton Town,3.0,1.0,1.5,0.4
+League One,2025-09-20,2025/2026,True,Cardiff City,Bradford City,1.0,3.0,2.03,2.18
+League One,2025-09-20,2025/2026,True,Doncaster Rovers,AFC Wimbledon,1.0,2.0,0.61,1.3
+League One,2025-09-20,2025/2026,True,Huddersfield Town,Burton Albion,0.0,0.0,1.36,0.52
+League One,2025-09-20,2025/2026,True,Plymouth Argyle,Peterborough United,0.0,1.0,1.57,2.19
+League One,2025-09-20,2025/2026,True,Port Vale,Mansfield Town,2.0,1.0,2.47,0.08
+League One,2025-09-20,2025/2026,True,Reading,Leyton Orient,2.0,1.0,1.58,1.48
+League One,2025-09-20,2025/2026,True,Rotherham United,Stockport County,0.0,1.0,0.57,1.64
+League One,2025-09-20,2025/2026,True,Stevenage,Exeter City,2.0,1.0,1.23,2.74
+League One,2025-09-20,2025/2026,True,Wycombe Wanderers,Northampton Town,2.0,0.0,1.6,0.41
+League One,2025-09-27,2025/2026,True,AFC Wimbledon,Wycombe Wanderers,2.0,1.0,0.79,0.99
+League One,2025-09-27,2025/2026,True,Leyton Orient,Stevenage,2.0,3.0,0.98,0.77
+League One,2025-09-27,2025/2026,True,Barnsley,Port Vale,0.0,2.0,0.56,2.34
+League One,2025-09-27,2025/2026,True,Bradford City,Blackpool,1.0,0.0,0.68,0.52
+League One,2025-09-27,2025/2026,True,Burton Albion,Plymouth Argyle,0.0,4.0,0.71,2.17
+League One,2025-09-27,2025/2026,True,Exeter City,Huddersfield Town,0.0,1.0,1.04,2.36
+League One,2025-09-27,2025/2026,True,Luton Town,Doncaster Rovers,1.0,0.0,1.35,0.53
+League One,2025-09-27,2025/2026,True,Mansfield Town,Rotherham United,2.0,1.0,1.78,1.57
+League One,2025-09-27,2025/2026,True,Northampton Town,Bolton Wanderers,2.0,0.0,1.36,1.84
+League One,2025-09-27,2025/2026,True,Peterborough United,Lincoln City,0.0,3.0,1.1,1.07
+League One,2025-09-27,2025/2026,True,Stockport County,Reading,1.0,1.0,2.32,0.97
+League One,2025-09-27,2025/2026,True,Wigan Athletic,Cardiff City,0.0,2.0,0.91,1.75
+League One,2025-09-30,2025/2026,True,Blackpool,Luton Town,2.0,2.0,0.85,1.63
+League One,2025-09-30,2025/2026,True,Cardiff City,Burton Albion,0.0,1.0,2.62,0.68
+League One,2025-10-02,2025/2026,True,Rotherham United,Bradford City,2.0,2.0,1.55,2.76
+League One,2025-10-04,2025/2026,True,Doncaster Rovers,Burton Albion,1.0,1.0,2.69,1.1
+League One,2025-10-04,2025/2026,True,Wycombe Wanderers,Barnsley,2.0,2.0,1.67,1.21
+League One,2025-10-04,2025/2026,True,Blackpool,AFC Wimbledon,0.0,2.0,0.1,2.61
+League One,2025-10-04,2025/2026,True,Bolton Wanderers,Peterborough United,2.0,1.0,0.92,0.99
+League One,2025-10-04,2025/2026,True,Cardiff City,Leyton Orient,4.0,3.0,2.73,4.09
+League One,2025-10-04,2025/2026,True,Huddersfield Town,Stockport County,1.0,2.0,0.99,1.84
+League One,2025-10-04,2025/2026,True,Lincoln City,Exeter City,0.0,1.0,1.23,0.3
+League One,2025-10-04,2025/2026,True,Plymouth Argyle,Wigan Athletic,1.0,1.0,1.38,0.97
+League One,2025-10-04,2025/2026,True,Port Vale,Northampton Town,0.0,0.0,0.66,0.44
+League One,2025-10-04,2025/2026,True,Reading,Mansfield Town,1.0,1.0,0.92,0.8
+League One,2025-10-04,2025/2026,True,Stevenage,Luton Town,2.0,0.0,0.59,0.9
+League One,2025-10-11,2025/2026,True,Northampton Town,Rotherham United,1.0,2.0,0.84,0.97
+League One,2025-10-11,2025/2026,True,AFC Wimbledon,Port Vale,1.0,1.0,0.73,1.86
+League One,2025-10-11,2025/2026,True,Burton Albion,Bolton Wanderers,3.0,0.0,2.89,1.91
+League One,2025-10-11,2025/2026,True,Exeter City,Reading,1.0,1.0,0.35,1.04
+League One,2025-10-11,2025/2026,True,Leyton Orient,Doncaster Rovers,4.0,0.0,2.45,1.15
+League One,2025-10-11,2025/2026,True,Stockport County,Blackpool,1.0,0.0,1.92,0.6
+League One,2025-10-11,2025/2026,True,Wigan Athletic,Wycombe Wanderers,0.0,1.0,1.0,0.64
+League One,2025-10-16,2025/2026,True,Huddersfield Town,Bolton Wanderers,1.0,2.0,0.35,2.28
+League One,2025-10-18,2025/2026,True,Burton Albion,Peterborough United,0.0,1.0,1.06,0.48
+League One,2025-10-18,2025/2026,True,Lincoln City,Stevenage,1.0,0.0,2.11,0.18
+League One,2025-10-18,2025/2026,True,Blackpool,Wycombe Wanderers,1.0,1.0,0.48,1.22
+League One,2025-10-18,2025/2026,True,Bradford City,Barnsley,2.0,2.0,3.35,0.47
+League One,2025-10-18,2025/2026,True,Cardiff City,Reading,2.0,1.0,1.49,2.36
+League One,2025-10-18,2025/2026,True,Doncaster Rovers,Northampton Town,1.0,2.0,1.18,2.76
+League One,2025-10-18,2025/2026,True,Luton Town,Mansfield Town,0.0,2.0,1.89,1.75
+League One,2025-10-18,2025/2026,True,Plymouth Argyle,AFC Wimbledon,1.0,2.0,0.69,0.69
+League One,2025-10-18,2025/2026,True,Rotherham United,Leyton Orient,1.0,0.0,0.49,1.3
+League One,2025-10-18,2025/2026,True,Wigan Athletic,Port Vale,1.0,0.0,0.67,1.4
+League One,2025-10-18,2025/2026,True,Stockport County,Exeter City,1.0,0.0,0.98,0.69
+League One,2025-10-21,2025/2026,True,Reading,Northampton Town,1.0,0.0,0.95,0.33
+League One,2025-10-23,2025/2026,True,Exeter City,Plymouth Argyle,2.0,0.0,1.58,0.57
+League One,2025-10-25,2025/2026,True,Bolton Wanderers,Cardiff City,1.0,0.0,0.88,0.21
+League One,2025-10-25,2025/2026,True,Mansfield Town,Wigan Athletic,1.0,1.0,1.3,0.42
+League One,2025-10-25,2025/2026,True,AFC Wimbledon,Burton Albion,0.0,1.0,1.27,0.9
+League One,2025-10-25,2025/2026,True,Barnsley,Rotherham United,0.0,1.0,1.98,0.15
+League One,2025-10-25,2025/2026,True,Leyton Orient,Lincoln City,1.0,0.0,0.53,0.83
+League One,2025-10-25,2025/2026,True,Northampton Town,Luton Town,0.0,1.0,1.0,2.68
+League One,2025-10-25,2025/2026,True,Peterborough United,Blackpool,1.0,2.0,1.62,0.79
+League One,2025-10-25,2025/2026,True,Reading,Doncaster Rovers,1.0,1.0,0.71,1.38
+League One,2025-10-25,2025/2026,True,Stevenage,Bradford City,1.0,1.0,0.72,0.37
+League One,2025-10-25,2025/2026,True,Wycombe Wanderers,Huddersfield Town,3.0,0.0,2.21,0.26
+League One,2025-10-27,2025/2026,True,Port Vale,Stockport County,0.0,3.0,1.23,2.11
+League One,2025-10-28,2025/2026,True,Bradford City,Lincoln City,0.0,0.0,0.97,1.24
+League One,2025-10-28,2025/2026,True,Mansfield Town,Plymouth Argyle,2.0,0.0,2.09,1.61
+League One,2025-11-04,2025/2026,True,Rotherham United,Burton Albion,2.0,2.0,0.61,1.51
+League One,2025-11-06,2025/2026,True,Reading,Stevenage,1.0,0.0,1.05,0.81
+League One,2025-11-08,2025/2026,True,Northampton Town,Mansfield Town,2.0,1.0,1.79,1.18
+League One,2025-11-08,2025/2026,True,Wycombe Wanderers,Leyton Orient,4.0,1.0,2.13,2.13
+League One,2025-11-08,2025/2026,True,Blackpool,Cardiff City,3.0,1.0,2.16,2.18
+League One,2025-11-08,2025/2026,True,Bolton Wanderers,Port Vale,4.0,0.0,0.9,0.51
+League One,2025-11-08,2025/2026,True,Bradford City,Burton Albion,1.0,2.0,1.59,1.33
+League One,2025-11-08,2025/2026,True,Doncaster Rovers,Barnsley,1.0,2.0,1.85,0.49
+League One,2025-11-08,2025/2026,True,Exeter City,Wigan Athletic,1.0,1.0,1.12,2.42
+League One,2025-11-08,2025/2026,True,Huddersfield Town,Plymouth Argyle,3.0,1.0,3.22,0.69
+League One,2025-11-08,2025/2026,True,Peterborough United,AFC Wimbledon,5.0,0.0,4.18,0.94
+League One,2025-11-08,2025/2026,True,Rotherham United,Lincoln City,3.0,0.0,1.07,1.35
+League One,2025-11-08,2025/2026,True,Stockport County,Luton Town,0.0,3.0,2.58,1.69
+League One,2025-11-15,2025/2026,True,Burton Albion,Blackpool,1.0,0.0,0.64,0.71
+League One,2025-11-15,2025/2026,True,Leyton Orient,Exeter City,2.0,1.0,1.66,1.71
+League One,2025-11-15,2025/2026,True,Lincoln City,Doncaster Rovers,2.0,1.0,1.26,2.49
+League One,2025-11-15,2025/2026,True,Luton Town,Rotherham United,0.0,0.0,0.54,0.04
+League One,2025-11-15,2025/2026,True,Port Vale,Wycombe Wanderers,0.0,0.0,1.23,2.05
+League One,2025-11-20,2025/2026,True,Peterborough United,Stockport County,3.0,0.0,1.01,0.69
+League One,2025-11-22,2025/2026,True,Port Vale,Plymouth Argyle,0.0,1.0,1.14,0.43
+League One,2025-11-22,2025/2026,True,AFC Wimbledon,Wigan Athletic,1.0,2.0,0.73,1.93
+League One,2025-11-22,2025/2026,True,Barnsley,Luton Town,5.0,0.0,2.84,0.57
+League One,2025-11-22,2025/2026,True,Bolton Wanderers,Bradford City,0.0,0.0,1.01,0.66
+League One,2025-11-22,2025/2026,True,Leyton Orient,Blackpool,1.0,1.0,0.95,1.62
+League One,2025-11-22,2025/2026,True,Mansfield Town,Huddersfield Town,1.0,3.0,0.7,1.9
+League One,2025-11-22,2025/2026,True,Northampton Town,Cardiff City,1.0,3.0,1.41,0.78
+League One,2025-11-22,2025/2026,True,Reading,Rotherham United,1.0,1.0,1.23,0.58
+League One,2025-11-22,2025/2026,True,Stevenage,Doncaster Rovers,0.0,0.0,0.17,0.85
+League One,2025-11-22,2025/2026,True,Wycombe Wanderers,Lincoln City,3.0,2.0,1.27,1.89
+League One,2025-11-25,2025/2026,True,Luton Town,Huddersfield Town,2.0,1.0,1.78,0.57
+League One,2025-11-25,2025/2026,True,Peterborough United,Stevenage,0.0,1.0,0.61,1.38
+League One,2025-11-29,2025/2026,True,Blackpool,Reading,0.0,3.0,1.12,3.39
+League One,2025-11-29,2025/2026,True,Stockport County,Barnsley,1.0,1.0,1.34,1.03
+League One,2025-11-29,2025/2026,True,Bradford City,Exeter City,1.0,0.0,0.85,1.35
+League One,2025-11-29,2025/2026,True,Burton Albion,Leyton Orient,0.0,4.0,0.53,0.89
+League One,2025-11-29,2025/2026,True,Cardiff City,Mansfield Town,3.0,0.0,3.3,1.07
+League One,2025-11-29,2025/2026,True,Doncaster Rovers,Peterborough United,2.0,1.0,1.84,0.67
+League One,2025-11-29,2025/2026,True,Huddersfield Town,AFC Wimbledon,3.0,3.0,3.25,1.51
+League One,2025-11-29,2025/2026,True,Lincoln City,Port Vale,1.0,0.0,0.74,0.54
+League One,2025-11-29,2025/2026,True,Luton Town,Bolton Wanderers,1.0,1.0,1.68,0.78
+League One,2025-11-29,2025/2026,True,Plymouth Argyle,Northampton Town,0.0,3.0,1.17,1.73
+League One,2025-11-29,2025/2026,True,Rotherham United,Wycombe Wanderers,1.0,1.0,1.64,1.4
+League One,2025-11-29,2025/2026,True,Wigan Athletic,Stevenage,0.0,0.0,0.88,0.61
+League One,2025-12-02,2025/2026,True,Wigan Athletic,Burton Albion,1.0,0.0,1.51,0.66
+League One,2025-12-06,2025/2026,True,Cardiff City,Huddersfield Town,3.0,2.0,1.37,1.47
+League One,2025-12-06,2025/2026,True,Plymouth Argyle,Bradford City,0.0,1.0,1.07,1.34
+League One,2025-12-09,2025/2026,True,Doncaster Rovers,Stockport County,0.0,2.0,0.35,0.69
+League One,2025-12-09,2025/2026,True,Exeter City,AFC Wimbledon,1.0,0.0,0.72,0.64
+League One,2025-12-09,2025/2026,True,Leyton Orient,Luton Town,1.0,1.0,1.77,1.58
+League One,2025-12-09,2025/2026,True,Lincoln City,Barnsley,3.0,1.0,1.61,1.53
+League One,2025-12-09,2025/2026,True,Mansfield Town,Bolton Wanderers,0.0,1.0,0.26,1.47
+League One,2025-12-09,2025/2026,True,Northampton Town,Huddersfield Town,1.0,1.0,0.16,1.41
+League One,2025-12-09,2025/2026,True,Wycombe Wanderers,Plymouth Argyle,0.0,1.0,1.6,0.38
+League One,2025-12-09,2025/2026,True,Reading,Peterborough United,1.0,2.0,1.66,0.71
+League One,2025-12-09,2025/2026,True,Stevenage,Cardiff City,0.0,1.0,0.12,1.01
+League One,2025-12-10,2025/2026,True,Rotherham United,Blackpool,0.0,3.0,2.07,1.15
+League One,2025-12-13,2025/2026,True,AFC Wimbledon,Mansfield Town,0.0,0.0,0.22,0.47
+League One,2025-12-13,2025/2026,True,Huddersfield Town,Wigan Athletic,1.0,1.0,0.68,0.66
+League One,2025-12-13,2025/2026,True,Barnsley,Leyton Orient,3.0,2.0,2.54,2.04
+League One,2025-12-13,2025/2026,True,Blackpool,Lincoln City,2.0,2.0,2.52,0.52
+League One,2025-12-13,2025/2026,True,Bolton Wanderers,Exeter City,2.0,1.0,2.31,0.51
+League One,2025-12-13,2025/2026,True,Bradford City,Reading,2.0,0.0,1.22,0.83
+League One,2025-12-13,2025/2026,True,Burton Albion,Wycombe Wanderers,0.0,0.0,1.14,0.88
+League One,2025-12-13,2025/2026,True,Cardiff City,Doncaster Rovers,4.0,3.0,1.68,2.16
+League One,2025-12-13,2025/2026,True,Luton Town,Port Vale,2.0,2.0,1.26,1.68
+League One,2025-12-13,2025/2026,True,Peterborough United,Northampton Town,2.0,1.0,3.36,0.89
+League One,2025-12-13,2025/2026,True,Plymouth Argyle,Rotherham United,1.0,0.0,1.02,1.38
+League One,2025-12-13,2025/2026,True,Stockport County,Stevenage,1.0,3.0,1.38,0.7
+League One,2025-12-18,2025/2026,True,Reading,Luton Town,3.0,2.0,1.19,0.99
+League One,2025-12-19,2025/2026,True,Northampton Town,AFC Wimbledon,3.0,1.0,0.88,1.55
+League One,2025-12-20,2025/2026,True,Stevenage,Burton Albion,2.0,2.0,1.02,1.18
+League One,2025-12-20,2025/2026,True,Wigan Athletic,Blackpool,0.0,2.0,2.31,0.92
+League One,2025-12-20,2025/2026,True,Doncaster Rovers,Plymouth Argyle,1.0,5.0,1.02,2.38
+League One,2025-12-20,2025/2026,True,Exeter City,Barnsley,3.0,0.0,2.01,0.53
+League One,2025-12-20,2025/2026,True,Leyton Orient,Bradford City,2.0,1.0,1.67,1.41
+League One,2025-12-20,2025/2026,True,Lincoln City,Cardiff City,2.0,1.0,1.26,1.8
+League One,2025-12-20,2025/2026,True,Mansfield Town,Stockport County,1.0,2.0,1.43,1.04
+League One,2025-12-20,2025/2026,True,Port Vale,Peterborough United,0.0,1.0,1.17,1.65
+League One,2025-12-20,2025/2026,True,Rotherham United,Huddersfield Town,1.0,3.0,0.14,1.55
+League One,2025-12-20,2025/2026,True,Wycombe Wanderers,Bolton Wanderers,2.0,1.0,0.38,1.65
+League One,2025-12-26,2025/2026,True,AFC Wimbledon,Stevenage,0.0,0.0,0.22,0.55
+League One,2025-12-26,2025/2026,True,Barnsley,Mansfield Town,2.0,3.0,0.82,1.82
+League One,2025-12-26,2025/2026,True,Blackpool,Doncaster Rovers,1.0,0.0,1.59,0.63
+League One,2025-12-26,2025/2026,True,Bolton Wanderers,Rotherham United,2.0,1.0,2.12,1.53
+League One,2025-12-26,2025/2026,True,Bradford City,Wigan Athletic,2.0,1.0,0.85,1.1
+League One,2025-12-26,2025/2026,True,Burton Albion,Northampton Town,5.0,1.0,2.85,1.48
+League One,2025-12-26,2025/2026,True,Cardiff City,Exeter City,1.0,0.0,1.54,0.5
+League One,2025-12-26,2025/2026,True,Huddersfield Town,Port Vale,5.0,0.0,2.18,0.59
+League One,2025-12-26,2025/2026,True,Luton Town,Wycombe Wanderers,4.0,0.0,2.34,0.28
+League One,2025-12-26,2025/2026,True,Peterborough United,Leyton Orient,1.0,0.0,1.37,0.43
+League One,2025-12-26,2025/2026,True,Plymouth Argyle,Reading,1.0,4.0,1.08,3.66
+League One,2025-12-26,2025/2026,True,Stockport County,Lincoln City,1.0,2.0,1.61,1.95
+League One,2025-12-29,2025/2026,True,AFC Wimbledon,Exeter City,0.0,1.0,0.88,0.81
+League One,2025-12-29,2025/2026,True,Barnsley,Lincoln City,0.0,2.0,0.82,0.57
+League One,2025-12-29,2025/2026,True,Blackpool,Rotherham United,4.0,0.0,1.38,1.25
+League One,2025-12-29,2025/2026,True,Bolton Wanderers,Mansfield Town,0.0,1.0,2.24,0.89
+League One,2025-12-29,2025/2026,True,Bradford City,Port Vale,1.0,0.0,0.7,0.41
+League One,2025-12-29,2025/2026,True,Burton Albion,Wigan Athletic,0.0,2.0,1.44,1.5
+League One,2025-12-29,2025/2026,True,Cardiff City,Stevenage,2.0,1.0,1.97,0.33
+League One,2025-12-29,2025/2026,True,Huddersfield Town,Northampton Town,2.0,0.0,2.32,0.22
+League One,2025-12-29,2025/2026,True,Luton Town,Leyton Orient,3.0,0.0,2.81,1.12
+League One,2025-12-29,2025/2026,True,Peterborough United,Reading,1.0,1.0,2.2,0.71
+League One,2025-12-29,2025/2026,True,Plymouth Argyle,Wycombe Wanderers,1.0,1.0,1.27,1.59
+League One,2025-12-29,2025/2026,True,Stockport County,Doncaster Rovers,4.0,2.0,1.89,1.68
+League One,2026-01-01,2025/2026,True,Doncaster Rovers,Bolton Wanderers,1.0,1.0,1.55,0.87
+League One,2026-01-01,2025/2026,True,Exeter City,Luton Town,1.0,0.0,1.29,0.3
+League One,2026-01-01,2025/2026,True,Leyton Orient,AFC Wimbledon,1.0,3.0,0.24,1.22
+League One,2026-01-01,2025/2026,True,Lincoln City,Huddersfield Town,1.0,1.0,1.93,1.21
+League One,2026-01-01,2025/2026,True,Mansfield Town,Bradford City,3.0,0.0,2.12,1.44
+League One,2026-01-01,2025/2026,True,Northampton Town,Stockport County,0.0,0.0,0.71,0.35
+League One,2026-01-01,2025/2026,True,Port Vale,Blackpool,5.0,1.0,2.56,0.35
+League One,2026-01-01,2025/2026,True,Reading,Burton Albion,2.0,0.0,1.76,0.31
+League One,2026-01-01,2025/2026,True,Rotherham United,Peterborough United,0.0,2.0,1.0,2.17
+League One,2026-01-01,2025/2026,True,Stevenage,Plymouth Argyle,1.0,1.0,0.7,1.2
+League One,2026-01-01,2025/2026,True,Wigan Athletic,Barnsley,1.0,1.0,1.51,0.58
+League One,2026-01-01,2025/2026,True,Wycombe Wanderers,Cardiff City,1.0,1.0,1.35,2.45
+League One,2026-01-04,2025/2026,True,Bolton Wanderers,Northampton Town,0.0,0.0,1.44,0.37
+League One,2026-01-04,2025/2026,True,Lincoln City,Peterborough United,5.0,2.0,2.6,2.11
+League One,2026-01-04,2025/2026,True,Blackpool,Bradford City,1.0,2.0,1.18,0.57
+League One,2026-01-04,2025/2026,True,Cardiff City,Wigan Athletic,1.0,0.0,1.19,0.13
+League One,2026-01-04,2025/2026,True,Huddersfield Town,Exeter City,2.0,2.0,1.91,1.25
+League One,2026-01-04,2025/2026,True,Plymouth Argyle,Burton Albion,3.0,0.0,2.38,0.54
+League One,2026-01-04,2025/2026,True,Reading,Stockport County,1.0,0.0,0.89,1.25
+League One,2026-01-04,2025/2026,True,Wycombe Wanderers,AFC Wimbledon,2.0,0.0,1.95,0.23
+League One,2026-01-10,2025/2026,True,Luton Town,Stevenage,2.0,1.0,2.34,1.44
+League One,2026-01-10,2025/2026,True,Stockport County,Huddersfield Town,1.0,0.0,0.8,0.33
+League One,2026-01-10,2025/2026,True,Leyton Orient,Cardiff City,1.0,1.0,1.33,1.25
+League One,2026-01-10,2025/2026,True,Peterborough United,Bolton Wanderers,3.0,1.0,1.02,2.12
+League One,2026-01-17,2025/2026,True,Bradford City,Cardiff City,1.0,2.0,1.23,0.52
+League One,2026-01-17,2025/2026,True,Wigan Athletic,Bolton Wanderers,0.0,1.0,0.39,1.7
+League One,2026-01-17,2025/2026,True,AFC Wimbledon,Doncaster Rovers,0.0,1.0,0.77,0.87
+League One,2026-01-17,2025/2026,True,Barnsley,Blackpool,2.0,1.0,1.09,1.06
+League One,2026-01-17,2025/2026,True,Burton Albion,Huddersfield Town,3.0,1.0,1.1,1.99
+League One,2026-01-17,2025/2026,True,Exeter City,Stevenage,3.0,0.0,2.64,0.36
+League One,2026-01-17,2025/2026,True,Leyton Orient,Reading,3.0,1.0,2.08,0.36
+League One,2026-01-17,2025/2026,True,Luton Town,Lincoln City,2.0,2.0,1.8,1.04
+League One,2026-01-17,2025/2026,True,Mansfield Town,Port Vale,3.0,0.0,2.29,0.74
+League One,2026-01-17,2025/2026,True,Northampton Town,Wycombe Wanderers,1.0,2.0,0.94,1.26
+League One,2026-01-17,2025/2026,True,Peterborough United,Plymouth Argyle,0.0,1.0,0.19,4.04
+League One,2026-01-17,2025/2026,True,Stockport County,Rotherham United,3.0,2.0,2.53,0.83
+League One,2026-01-20,2025/2026,True,Stevenage,Bolton Wanderers,0.0,0.0,0.99,0.37
+League One,2026-01-22,2025/2026,True,Lincoln City,Burton Albion,2.0,1.0,1.1,1.23
+League One,2026-01-24,2025/2026,True,Cardiff City,Stockport County,1.0,1.0,1.32,1.46
+League One,2026-01-24,2025/2026,True,Huddersfield Town,Bradford City,1.0,0.0,1.44,0.14
+League One,2026-01-24,2025/2026,True,Plymouth Argyle,Luton Town,1.0,0.0,2.2,1.3
+League One,2026-01-24,2025/2026,True,Blackpool,Northampton Town,2.0,0.0,3.07,0.83
+League One,2026-01-24,2025/2026,True,Bolton Wanderers,Leyton Orient,2.0,1.0,2.06,0.57
+League One,2026-01-24,2025/2026,True,Doncaster Rovers,Wigan Athletic,3.0,3.0,3.04,1.61
+League One,2026-01-24,2025/2026,True,Port Vale,Exeter City,1.0,3.0,1.36,1.79
+League One,2026-01-24,2025/2026,True,Reading,Barnsley,2.0,2.0,1.38,1.03
+League One,2026-01-24,2025/2026,True,Rotherham United,AFC Wimbledon,1.0,1.0,3.04,0.94
+League One,2026-01-24,2025/2026,True,Stevenage,Mansfield Town,1.0,1.0,0.6,0.99
+League One,2026-01-24,2025/2026,True,Wycombe Wanderers,Peterborough United,0.0,2.0,1.7,2.51
+League One,2026-01-27,2025/2026,True,Blackpool,Stockport County,1.0,2.0,0.58,1.58
+League One,2026-01-27,2025/2026,True,Bolton Wanderers,Burton Albion,2.0,1.0,2.63,0.32
+League One,2026-01-27,2025/2026,True,Cardiff City,Barnsley,4.0,0.0,2.24,0.39
+League One,2026-01-27,2025/2026,True,Huddersfield Town,Luton Town,1.0,0.0,0.55,0.58
+League One,2026-01-27,2025/2026,True,Lincoln City,Bradford City,3.0,0.0,1.58,0.03
+League One,2026-01-27,2025/2026,True,Plymouth Argyle,Mansfield Town,1.0,1.0,1.44,0.52
+League One,2026-01-27,2025/2026,True,Rotherham United,Northampton Town,2.0,1.0,2.04,0.91
+League One,2026-01-27,2025/2026,True,Stevenage,Peterborough United,1.0,0.0,2.18,0.15
+League One,2026-01-27,2025/2026,True,Wycombe Wanderers,Wigan Athletic,2.0,0.0,1.46,0.27
+League One,2026-01-27,2025/2026,True,Doncaster Rovers,Leyton Orient,3.0,0.0,3.21,0.43
+League One,2026-01-27,2025/2026,True,Reading,Exeter City,2.0,2.0,1.14,0.92
+League One,2026-01-31,2025/2026,True,AFC Wimbledon,Bolton Wanderers,0.0,1.0,0.97,1.37
+League One,2026-01-31,2025/2026,True,Bradford City,Doncaster Rovers,1.0,0.0,0.88,0.85
+League One,2026-01-31,2025/2026,True,Northampton Town,Reading,0.0,2.0,1.78,1.37
+League One,2026-01-31,2025/2026,True,Barnsley,Stevenage,3.0,1.0,1.48,1.29
+League One,2026-01-31,2025/2026,True,Burton Albion,Cardiff City,2.0,2.0,1.41,0.44
+League One,2026-01-31,2025/2026,True,Exeter City,Rotherham United,0.0,4.0,1.11,1.8
+League One,2026-01-31,2025/2026,True,Leyton Orient,Port Vale,0.0,1.0,0.91,0.51
+League One,2026-01-31,2025/2026,True,Luton Town,Blackpool,1.0,0.0,1.22,0.19
+League One,2026-01-31,2025/2026,True,Mansfield Town,Wycombe Wanderers,0.0,0.0,0.28,1.31
+League One,2026-01-31,2025/2026,True,Peterborough United,Huddersfield Town,2.0,3.0,1.5,1.05
+League One,2026-01-31,2025/2026,True,Stockport County,Plymouth Argyle,2.0,1.0,0.92,1.6
+League One,2026-01-31,2025/2026,True,Wigan Athletic,Lincoln City,0.0,1.0,0.56,1.03
+League One,2026-02-03,2025/2026,True,Port Vale,AFC Wimbledon,0.0,1.0,0.7,0.8
+League One,2026-02-03,2025/2026,True,Barnsley,Northampton Town,2.0,2.0,2.93,2.04
+League One,2026-02-03,2025/2026,True,Burton Albion,Doncaster Rovers,1.0,2.0,0.81,2.84
+League One,2026-02-07,2025/2026,True,Luton Town,Bradford City,2.0,1.0,1.22,1.71
+League One,2026-02-07,2025/2026,True,Port Vale,Burton Albion,2.0,2.0,1.72,2.0
