@@ -115,40 +115,40 @@
   }
  ],
  "price_example": {
-  "Date": "2026-10-31",
-  "Home": "Coventry",
-  "Away": "Sunderland",
-  "home_att": 1.1374,
-  "home_def": 1.839,
-  "away_att": 1.1669,
-  "away_def": 1.5612,
-  "def_avg": 1.4995,
-  "HA": 0.108394,
+  "Date": "2026-11-07",
+  "Home": "Leeds",
+  "Away": "Tottenham",
+  "home_att": 1.3514,
+  "home_def": 1.4261,
+  "away_att": 1.514,
+  "away_def": 1.3416,
+  "def_avg": 1.4962,
+  "HA": 0.109112,
   "rho": -0.042024,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.1842,
-    "away_goals": 1.4311,
-    "home": 0.3121,
-    "draw": 0.2606,
-    "away": 0.4272
+    "home_goals": 1.2118,
+    "away_goals": 1.4431,
+    "home": 0.3171,
+    "draw": 0.2587,
+    "away": 0.4242
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.3259,
-    "away_goals": 1.2894,
-    "home": 0.3771,
-    "draw": 0.263,
-    "away": 0.36
+    "home_goals": 1.3566,
+    "away_goals": 1.2983,
+    "home": 0.3832,
+    "draw": 0.2606,
+    "away": 0.3562
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.3259,
-    "away_goals": 1.2894,
-    "home": 0.3718,
-    "draw": 0.2735,
-    "away": 0.3547
+    "home_goals": 1.3566,
+    "away_goals": 1.2983,
+    "home": 0.378,
+    "draw": 0.271,
+    "away": 0.351
    }
   ]
  }
