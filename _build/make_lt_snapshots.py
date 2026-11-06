@@ -32,6 +32,7 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "code" / "lt"))
@@ -48,6 +49,7 @@ OUT = ROOT / "snapshots" / "lt"
 WINDOW_CAP = 38  # one season
 WINDOW_MIN = 5
 TC_COLS = ["Date", "Home", "Away", "AH.Line", "AH.Home.Odds", "AH.Away.Odds", "Goal.Line", "Goal.O.Odds", "Goal.U.Odds"]
+UNDERSTAT_DOWN = 75  # exit code when Understat can't be scraped; the workflow skips the update on it
 SAMPLE_LEAGUE = "EPL"  # league whose matches are shown as source samples on the page
 # Fixed sample matches (Understat date, totalcorner names), chosen because Understat and
 # totalcorner spell some of the teams differently (Man Utd, Man City)
@@ -153,10 +155,9 @@ def price_example(fixture, ratings, HA, rho):
             "def_avg": r(ds_avg, 4), "HA": r(HA), "rho": r(rho), "steps": steps}
 
 
-def build(us_league, cfg, tc_dir, cache):
+def build(us_league, cfg, tc_dir, us):
     key = us_league.lower()
     as_of = pd.Timestamp(date.today())
-    us = understat_matches(us_league, cache)
 
     # Current season: the latest one Understat has fixtures or results for
     season = us["season"].max()
@@ -258,7 +259,14 @@ def main():
     args = ap.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
 
-    index = [build(lg, understat.LEAGUES[lg], args.tc, args.us_cache) for lg in args.leagues]
+    # Scrape every league before building any, so an Understat outage leaves all the snapshots as they were
+    try:
+        us = {lg: understat_matches(lg, args.us_cache) for lg in args.leagues}
+    except requests.RequestException as e:
+        print(f"Understat unreachable, snapshots left unchanged: {e}", file=sys.stderr)
+        sys.exit(UNDERSTAT_DOWN)
+
+    index = [build(lg, understat.LEAGUES[lg], args.tc, us[lg]) for lg in args.leagues]
     # The build date lives only in index.json, so the league files change only when the data does
     if set(args.leagues) == set(understat.LEAGUES):
         (OUT / "index.json").write_text(json.dumps({"updated": date.today().isoformat(), "leagues": index}, indent=1),
