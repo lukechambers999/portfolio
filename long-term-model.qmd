@@ -43,6 +43,14 @@ window_txt = f"{windows[0]}" if len(windows) == 1 else f"{windows[0]} to {window
 odds_wgts = sorted({m["defaults"]["asian_wgt"] for m in metas})
 odds_txt = f"{odds_wgts[0]:.0%}" if len(odds_wgts) == 1 else f"{odds_wgts[0]:.0%} to {odds_wgts[-1]:.0%}"
 n_promotions = sum(m["promotion"]["n"] for m in metas)
+# Understat's pre-2020/21 seasons are only there once _build/freeze_understat.py has saved them
+if min(m["history_from"] for m in metas) < "2020-08-01":
+    older_txt = ("Seasons before that, back to 2015/16, use **Understat**'s goals and xG, since FotMob has "
+                 "no xG for them. The two xG models differ slightly, so those older seasons are on a "
+                 "slightly different xG scale.")
+else:
+    older_txt = ("FotMob has no xG before 2020/21, and the 2020/21 and 2021/22 seasons are left out as "
+                 "COVID-affected, so the fitted parameters use matches from 2022/23 on.")
 promo_for = sorted((1 - m["promotion"]["for"]) * 100 for m in metas)
 promo_conc = sorted((m["promotion"]["conc"] - 1) * 100 for m in metas)
 ha = sorted(m["HA"] * 100 for m in metas)
@@ -177,9 +185,9 @@ fixtures are refreshed every day.
 Two data sources are scraped independently and reconciled by mapping
 differing team names and creating a unique matchid for each fixture.
 
--   **Understat** provides goals and expected goals (xG) from historical
-    matches and this season's remaining fixtures. It includes data back
-    to the 2015/16 season.
+-   **FotMob** provides goals and expected goals (Opta's xG model) for
+    every match since the 2020/21 season, and this season's remaining
+    fixtures. `{python} older_txt`
 -   **totalcorner.com** provides pre-match Asian handicap and goal lines
     for historical fixtures, this includes the top flight and the
     division below. These come from the daily scrape that also feeds the
@@ -190,7 +198,7 @@ differing team names and creating a unique matchid for each fixture.
 
 ```{python}
 samples = json.loads((SNAP / "lt" / "samples.json").read_text(encoding="utf-8"))
-us_sample = pd.DataFrame(samples["understat"])
+us_sample = pd.DataFrame(samples["fotmob"])
 tc_sample = pd.DataFrame(samples["totalcorner"])
 for df in (us_sample, tc_sample):
     df["Date"] = pd.to_datetime(df["Date"]).dt.strftime("%d %b")
@@ -198,9 +206,9 @@ sample_league = samples["league"]
 ```
 
 Five `{python} sample_league` matches from each source are shown below.
-Understat's team names are shown as Understat spells them.
+FotMob's team names are shown as FotMob spells them.
 
-**Understat** (goals and xG):
+**FotMob** (goals and xG):
 
 ```{python}
 table(us_sample.set_axis(["Date", "Home", "Away", "Home goals", "Away goals", "Home xG", "Away xG"], axis=1),
@@ -227,7 +235,11 @@ table(joined.set_axis(["Date", "Home", "Away", "Home goals", "Away goals", "Home
 ```
 
 ```{python}
-code_link("code/lt/understat.py", "Understat scrape and team-name matching")
+code_link("code/lt/fotmob.py", "FotMob scrape and team-name matching")
+```
+
+```{python}
+code_link("code/lt/understat.py", "Understat scrape for the seasons before 2020/21")
 ```
 
 ```{python}

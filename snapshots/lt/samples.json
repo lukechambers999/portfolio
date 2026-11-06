@@ -1,23 +1,23 @@
 {
  "league": "Premier League",
- "understat": [
+ "fotmob": [
   {
    "Date": "2026-09-19",
-   "Home": "Tottenham",
+   "Home": "Tottenham Hotspur",
    "Away": "Aston Villa",
    "goals_h": 2.0,
    "goals_a": 3.0,
-   "xG_h": 1.7218,
-   "xG_a": 1.7092
+   "xG_h": 1.56,
+   "xG_a": 1.26
   },
   {
    "Date": "2026-09-20",
-   "Home": "Bournemouth",
+   "Home": "AFC Bournemouth",
    "Away": "Liverpool",
    "goals_h": 0.0,
    "goals_a": 1.0,
-   "xG_h": 0.9447,
-   "xG_a": 1.2912
+   "xG_h": 0.79,
+   "xG_a": 1.65
   },
   {
    "Date": "2026-09-20",
@@ -25,17 +25,17 @@
    "Away": "Manchester United",
    "goals_h": 1.0,
    "goals_a": 1.0,
-   "xG_h": 1.7172,
-   "xG_a": 2.1245
+   "xG_h": 1.62,
+   "xG_a": 1.6
   },
   {
    "Date": "2026-09-20",
-   "Home": "Leeds",
+   "Home": "Leeds United",
    "Away": "Crystal Palace",
    "goals_h": 0.0,
    "goals_a": 0.0,
-   "xG_h": 1.0855,
-   "xG_a": 1.1291
+   "xG_h": 1.31,
+   "xG_a": 1.06
   },
   {
    "Date": "2026-09-20",
@@ -43,8 +43,8 @@
    "Away": "Sunderland",
    "goals_h": 5.0,
    "goals_a": 3.0,
-   "xG_h": 2.6686,
-   "xG_a": 3.1066
+   "xG_h": 2.82,
+   "xG_a": 3.57
   }
  ],
  "totalcorner": [
@@ -118,37 +118,37 @@
   "Date": "2026-11-07",
   "Home": "Leeds",
   "Away": "Tottenham",
-  "home_att": 1.3514,
-  "home_def": 1.4261,
-  "away_att": 1.514,
-  "away_def": 1.3416,
-  "def_avg": 1.4962,
-  "HA": 0.109112,
-  "rho": -0.042024,
+  "home_att": 1.2963,
+  "home_def": 1.3709,
+  "away_att": 1.3335,
+  "away_def": 1.3866,
+  "def_avg": 1.4587,
+  "HA": 0.096556,
+  "rho": 0.039769,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.2118,
-    "away_goals": 1.4431,
-    "home": 0.3171,
-    "draw": 0.2587,
-    "away": 0.4242
+    "home_goals": 1.2322,
+    "away_goals": 1.2532,
+    "home": 0.3595,
+    "draw": 0.271,
+    "away": 0.3695
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.3566,
-    "away_goals": 1.2983,
-    "home": 0.3832,
-    "draw": 0.2606,
-    "away": 0.3562
+    "home_goals": 1.3522,
+    "away_goals": 1.1332,
+    "home": 0.4177,
+    "draw": 0.269,
+    "away": 0.3133
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.3566,
-    "away_goals": 1.2983,
-    "home": 0.378,
-    "draw": 0.271,
-    "away": 0.351
+    "home_goals": 1.3522,
+    "away_goals": 1.1332,
+    "home": 0.4228,
+    "draw": 0.2588,
+    "away": 0.3184
    }
   ]
  }

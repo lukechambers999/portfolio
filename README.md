@@ -24,8 +24,9 @@ which holds two projects:
 | `code/lt/` | Season Outrights Model code (adapted from `portfolio/LT_model.ipynb`), linked from that page |
 | `lt_app/` | The in-browser app: `model.js` mirrors `code/lt/`, `app.js` is the UI |
 | `snapshots/lt/` | Per-league JSON the app runs on (`index.json` lists the leagues; `samples.json` holds the latest Premier League rows from each source and a worked match-price example) |
-| `_build/make_lt_snapshots.py` | Regenerates `snapshots/lt/` for the top-5 leagues: scrapes Understat, joins the totalcorner lines, fits HA, rho, the default window/weights and the promotion factors |
-| `.github/workflows/update_lt_data.yml` | Daily Action: pulls the totalcorner CSVs from Google Drive, runs the build, commits `snapshots/lt/` if it changed and republishes |
+| `_build/make_lt_snapshots.py` | Regenerates `snapshots/lt/` for the top-5 leagues: scrapes FotMob (adding the frozen pre-2020/21 Understat seasons in `data/understat/`), joins the totalcorner lines, fits HA, rho, the default window/weights and the promotion factors |
+| `_build/freeze_understat.py` | One-off: saves Understat's 2015/16 to 2019/20 seasons (before FotMob's xG starts) to `data/understat/` |
+| `.github/workflows/update_lt_data.yml` | Daily Action: pulls the totalcorner CSVs from Google Drive, runs the build, commits `snapshots/lt/` and the FotMob xG caches in `data/fotmob/` if they changed and republishes |
 
 ## Editing
 
@@ -51,10 +52,12 @@ To build locally, pull the ten top-flight and second-division CSVs and run:
 ```sh
 .venv/Scripts/pip install -r _build/requirements_lt.txt
 rclone copy gdrive:/TC_Scraper/totalcorner_data_finished_master/ tc_data/ --include "{EnglandPremierLeague,EnglandChampionship,SpainLaLiga,SpainSegunda,ItalySerieA,ItalySerieB,GermanyBundesligaI,GermanyBundesligaII,FranceLigue1,FranceLigue2}.csv"
-.venv/Scripts/python _build/make_lt_snapshots.py --tc tc_data [--us-cache <dir>] [--leagues EPL Serie_A]
+.venv/Scripts/python _build/make_lt_snapshots.py --tc tc_data [--leagues EPL Serie_A]
 ```
 
-`--us-cache` saves the Understat scrapes so repeat runs skip them. If the build
-stops with "too little history" for a team, its Understat spelling needs adding
-to `NAME_CONV` in `code/lt/understat.py`. In the browser console on the page,
+FotMob match xG is cached in `data/fotmob/fotmob_xg_<id>.json`, so a run only
+fetches matches it hasn't seen. If `data/understat/` is missing, the history starts
+in 2020/21; `_build/freeze_understat.py` fills it in. If the build stops with
+"too little history" for a team, its FotMob spelling needs adding to `NAME_CONV`
+in `code/lt/fotmob.py`. In the browser console on the page,
 `ltCheck()` reports the largest difference between the JS and Python outputs.

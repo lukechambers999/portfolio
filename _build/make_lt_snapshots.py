@@ -3,10 +3,16 @@ Builds the JSON snapshots in ../snapshots/lt/ that the Long-term model page runs
 one per top-5 league, from live data.
 
 Run from the repo root:
-  .venv/Scripts/python _build/make_lt_snapshots.py --tc <dir> [--us-cache <dir>] [--leagues EPL Serie_A]
+  .venv/Scripts/python _build/make_lt_snapshots.py --tc <dir> [--leagues EPL Serie_A]
 
 Sources:
-  Understat (scraped here)      - every match's goals and xG since 2015/16, and this season's fixtures
+  FotMob (scraped here)         - Opta goals and xG for every match since 2020/21, and this season's
+                                  fixtures. Match xG is cached in data/fotmob/fotmob_xg_<id>.json, so a
+                                  run only fetches new results; the cleaned matches go to fotmob_<league>.csv
+  data/understat/<League>.csv   - Understat goals and xG for 2015/16 to 2019/20, before FotMob's xG
+                                  starts, saved once by _build/freeze_understat.py. Optional: without
+                                  it the history starts in 2020/21. The two xG models differ a little,
+                                  so the older seasons' xG is on a slightly different scale.
   <tc>/<League>.csv             - totalcorner_data_finished_master CSVs from Google Drive
                                   (gdrive:/TC_Scraper/totalcorner_data_finished_master/), for the
                                   pre-match Asian handicap and goal line, top flight and division below
@@ -44,14 +50,18 @@ from tables import current_table, expected_table  # noqa: E402
 from asian_lines import add_asian_goals  # noqa: E402
 from promotion import season_year, find_promotions, promotion_factors, apply_promotion_adjustment  # noqa: E402
 import understat  # noqa: E402
+import fotmob  # noqa: E402
 
 OUT = ROOT / "snapshots" / "lt"
+FOTMOB_DIR = ROOT / "data" / "fotmob"
+UNDERSTAT_DIR = ROOT / "data" / "understat"
+FOTMOB_IDS = {"EPL": 47, "La_Liga": 87, "Serie_A": 55, "Bundesliga": 54, "Ligue_1": 53}
 WINDOW_CAP = 38  # one season
 WINDOW_MIN = 5
 TC_COLS = ["Date", "Home", "Away", "AH.Line", "AH.Home.Odds", "AH.Away.Odds", "Goal.Line", "Goal.O.Odds", "Goal.U.Odds"]
-UNDERSTAT_DOWN = 75  # exit code when Understat can't be scraped; the workflow skips the update on it
+SOURCE_DOWN = 75  # exit code when FotMob can't be scraped; the workflow skips the update on it
 SAMPLE_LEAGUE = "EPL"  # league whose matches are shown as source samples on the page
-# Fixed sample matches (Understat date, totalcorner names), chosen because Understat and
+# Fixed sample matches (FotMob date, totalcorner names), chosen because FotMob and
 # totalcorner spell some of the teams differently (Man Utd, Man City)
 SAMPLE_MATCHIDS = [
     "2026-09-19-Tottenham-Aston Villa",
@@ -75,7 +85,7 @@ def load_tc(tc_dir, league_file):
     return tc[["Date", "Home", "Away", "League", *TC_COLS[3:], "AsianHomeGoals", "AsianAwayGoals"]]
 
 
-# Joins each Understat match to its totalcorner lines: same teams, kick-off dates within two days
+# Joins each match to its totalcorner lines: same teams, kick-off dates within two days
 # (the two sites can put a late kick-off either side of midnight)
 def attach_lines(matches, tc):
     lines = tc.dropna(subset=["AsianHomeGoals", "AsianAwayGoals"]).sort_values("Date")
@@ -84,22 +94,26 @@ def attach_lines(matches, tc):
     return merged.sort_values(["Date", "Home"]).reset_index(drop=True)
 
 
-# Understat matches for one league, scraped or read from a local cache
-def understat_matches(us_league, cache):
+# Every match for one league: Understat for the seasons before FotMob's xG starts (if they've been
+# saved), then FotMob from its first xG season on, including this season's remaining fixtures
+def league_matches(us_league):
     today = date.today()
     last_season = today.year if today.month >= 7 else today.year - 1
-    path = cache / f"{us_league}.pkl" if cache else None
-    if path and path.exists():
-        raw = pd.read_pickle(path)
-    else:
-        raw = understat.scrape_league(us_league, last_season)
-        if path:
-            cache.mkdir(parents=True, exist_ok=True)
-            raw.to_pickle(path)
-    return understat.clean(raw)
+    fm_id = FOTMOB_IDS[us_league]
+    fm_cfg = fotmob.LEAGUES[fm_id]
+    fm = fotmob.clean(fotmob.scrape_league(fm_id, last_season, cache=FOTMOB_DIR / f"fotmob_xg_{fm_id}.json"))
+    fm.to_csv(FOTMOB_DIR / f"fotmob_{fm_cfg['name'].lower().replace(' ', '_')}.csv", index=False)
+    fm = fm.drop(columns="league")
+
+    frozen = UNDERSTAT_DIR / f"{us_league}.csv"
+    if not frozen.exists():
+        return fm
+    us = pd.read_csv(frozen, parse_dates=["Date"])
+    us = us[us["season"].str[:4].astype(int) < fm_cfg["first_season"]]
+    return pd.concat([us, fm], ignore_index=True)
 
 
-# Second-division matches with Asian goals only (Understat has no second-division goals or xG)
+# Second-division matches with Asian goals only (no second-division goals or xG are scraped)
 def load_below(tc_dir, cfg, as_of):
     tc = load_tc(tc_dir, cfg["league_tc_below"]).dropna(subset=["AsianHomeGoals", "AsianAwayGoals"])
     tc = tc[tc["Date"] <= as_of].copy()
@@ -121,19 +135,19 @@ def promotion_adjusted_history(past_all, below, cfg, current):
 
 
 # The fixed sample matches as each source has them, for the page's Data section.
-# Understat rows keep Understat's own team spellings, to show the name matching.
+# FotMob rows keep FotMob's own team spellings, to show the name matching.
 def write_samples(past_all, cfg, price_example):
     s = past_all[past_all["matchid"].isin(SAMPLE_MATCHIDS)].dropna(subset=["AsianHomeGoals", "AsianAwayGoals"]).copy()
     if len(s) != len(SAMPLE_MATCHIDS):
         raise SystemExit(f"sample matches missing: {sorted(set(SAMPLE_MATCHIDS) - set(s['matchid']))}")
     s["Date"] = s["Date"].dt.strftime("%Y-%m-%d")
-    us_names = {tc: us for us, tc in understat.NAME_CONV.items()}
-    us = s.assign(Home=s["Home"].map(lambda t: us_names.get(t, t)), Away=s["Away"].map(lambda t: us_names.get(t, t)))
+    fm_names = {tc: fm for fm, tc in fotmob.NAME_CONV.items()}
+    fm = s.assign(Home=s["Home"].map(lambda t: fm_names.get(t, t)), Away=s["Away"].map(lambda t: fm_names.get(t, t)))
     num = lambda df, cols: [{c: (r(v, 4) if isinstance(v, float) else v) for c, v in row.items()}
                             for row in df[cols].to_dict("records")]
     data = {
         "league": cfg["name"],
-        "understat": num(us, ["Date", "Home", "Away", "goals_h", "goals_a", "xG_h", "xG_a"]),
+        "fotmob": num(fm, ["Date", "Home", "Away", "goals_h", "goals_a", "xG_h", "xG_a"]),
         "totalcorner": num(s, ["Date", "Home", "Away", *TC_COLS[3:], "AsianHomeGoals", "AsianAwayGoals"]),
         "price_example": price_example,
     }
@@ -159,7 +173,7 @@ def build(us_league, cfg, tc_dir, us):
     key = us_league.lower()
     as_of = pd.Timestamp(date.today())
 
-    # Current season: the latest one Understat has fixtures or results for
+    # Current season: the latest one FotMob has fixtures or results for
     season = us["season"].max()
     current = us[us["season"] == season]
     teams = sorted(set(current["Home"]) | set(current["Away"]))
@@ -196,7 +210,7 @@ def build(us_league, cfg, tc_dir, us):
     counts = history.groupby("Team").size().reindex(teams, fill_value=0)
     short = counts[counts < WINDOW_MIN]
     if len(short):
-        raise SystemExit(f"{key}: too little history for {short.to_dict()} - check team names in understat.NAME_CONV")
+        raise SystemExit(f"{key}: too little history for {short.to_dict()} - check team names in fotmob.NAME_CONV")
     window_max = int(min(WINDOW_CAP, counts.min()))
     n_best = min(n_best, window_max)
 
@@ -254,19 +268,18 @@ def build(us_league, cfg, tc_dir, us):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tc", type=Path, required=True, help="folder holding the totalcorner_data_finished_master CSVs")
-    ap.add_argument("--us-cache", type=Path, help="reuse / save Understat scrapes here instead of always scraping")
     ap.add_argument("--leagues", nargs="+", default=list(understat.LEAGUES), choices=list(understat.LEAGUES))
     args = ap.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
 
-    # Scrape every league before building any, so an Understat outage leaves all the snapshots as they were
+    # Scrape every league before building any, so a FotMob outage leaves all the snapshots as they were
     try:
-        us = {lg: understat_matches(lg, args.us_cache) for lg in args.leagues}
+        matches = {lg: league_matches(lg) for lg in args.leagues}
     except requests.RequestException as e:
-        print(f"Understat unreachable, snapshots left unchanged: {e}", file=sys.stderr)
-        sys.exit(UNDERSTAT_DOWN)
+        print(f"FotMob unreachable, snapshots left unchanged: {e}", file=sys.stderr)
+        sys.exit(SOURCE_DOWN)
 
-    index = [build(lg, understat.LEAGUES[lg], args.tc, us[lg]) for lg in args.leagues]
+    index = [build(lg, understat.LEAGUES[lg], args.tc, matches[lg]) for lg in args.leagues]
     # The build date lives only in index.json, so the league files change only when the data does
     if set(args.leagues) == set(understat.LEAGUES):
         (OUT / "index.json").write_text(json.dumps({"updated": date.today().isoformat(), "leagues": index}, indent=1),

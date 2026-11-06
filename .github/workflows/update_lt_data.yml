@@ -2,9 +2,10 @@ name: Update Season Outrights Model data
 
 # Daily: pulls the top-5 league totalcorner CSVs from Google Drive (written by
 # tc_scraper's master_daily_pipeline, which is dispatched around 04:00 UTC and
-# finishes by about 05:30), scrapes Understat, rebuilds snapshots/lt/ and, if
-# anything changed, commits it and republishes the site. If Understat is down
-# the run skips with a warning instead of failing.
+# finishes by about 05:30), scrapes new FotMob results, rebuilds snapshots/lt/
+# and, if anything changed, commits it (with the FotMob xG caches in data/fotmob/)
+# and republishes the site. If FotMob is down the run skips with a warning
+# instead of failing.
 
 on:
   schedule:
@@ -51,12 +52,12 @@ jobs:
 
       - name: Build snapshots
         run: |
-          # Exit code 75 means Understat is down: nothing was written, so the commit step
+          # Exit code 75 means FotMob is down: nothing was written, so the commit step
           # finds no changes and the site keeps its last snapshots
           status=0
           python _build/make_lt_snapshots.py --tc tc_data || status=$?
           if [ "$status" -eq 75 ]; then
-            echo "::warning::Understat unreachable - skipped today's update, kept the last snapshots"
+            echo "::warning::FotMob unreachable - skipped today's update, kept the last snapshots"
             exit 0
           fi
           exit "$status"
@@ -72,7 +73,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898+github-actions[bot]@users.noreply.github.com"
-          git add snapshots/lt/
+          git add snapshots/lt/ data/fotmob/
           git commit -m "Update Season Outrights Model data ($(date -u +%F))"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
