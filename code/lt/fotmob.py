@@ -20,7 +20,37 @@ DELAY = 0.5  # seconds between match requests
 
 # FotMob league id -> league name, and the first season FotMob has xG for
 LEAGUES = {
+    47: {'name': 'Premier League', 'first_season': 2020},
+    87: {'name': 'La Liga', 'first_season': 2020},
+    55: {'name': 'Serie A', 'first_season': 2020},
+    54: {'name': 'Bundesliga', 'first_season': 2020},
+    53: {'name': 'Ligue 1', 'first_season': 2020},
     108: {'name': 'League One', 'first_season': 2022},
+}
+
+# FotMob name -> totalcorner name, where they differ (top-5 leagues, 2020/21 on; League One not yet done).
+# Found by pairing each FotMob fixture with the totalcorner fixture on the same date.
+NAME_CONV = {
+    # England
+    'AFC Bournemouth': 'Bournemouth', 'Brighton & Hove Albion': 'Brighton', 'Coventry City': 'Coventry',
+    'Hull City': 'Hull', 'Ipswich Town': 'Ipswich', 'Leeds United': 'Leeds', 'Leicester City': 'Leicester',
+    'Luton Town': 'Luton', 'Manchester City': 'Man City', 'Manchester United': 'Man Utd',
+    'Newcastle United': 'Newcastle', 'Norwich City': 'Norwich', 'Nottingham Forest': 'Nottm Forest',
+    'Sheffield United': 'Sheff Utd', 'Tottenham Hotspur': 'Tottenham', 'West Bromwich Albion': 'West Brom',
+    'West Ham United': 'West Ham', 'Wolverhampton Wanderers': 'Wolverhampton',
+    # Spain
+    'Almería': 'Almeria', 'Atlético Madrid': 'Atletico Madrid', 'Cádiz': 'Cadiz',
+    'Deportivo A Coruña': 'Deportivo A Coruna', 'Deportivo Alavés': 'CD Alaves', 'Leganés': 'Leganes',
+    'Málaga': 'Malaga', 'Real Valladolid': 'Valladolid', 'SD Huesca': 'Huesca',
+    # Italy
+    'Hellas Verona': 'Verona', 'Inter': 'Inter Milan', 'Milan': 'AC Milan',
+    # Germany
+    '1. FC Köln': 'Cologne', 'Bayern München': 'Bayern Munich', 'Borussia Mönchengladbach': 'Borussia M\'gladbach',
+    'FC Heidenheim': 'Heidenheim', 'Freiburg': 'SC Freiburg', 'Greuther Fürth': 'Greuther Furth',
+    'Hamburger SV': 'Hamburg', 'Hertha BSC': 'Hertha Berlin', 'Hoffenheim': 'TSG Hoffenheim', 'Mainz 05': 'Mainz',
+    'Schalke 04': 'Schalke', 'St. Pauli': 'St Pauli',
+    # France
+    'Nîmes': 'Nimes', 'Paris Saint-Germain': 'PSG', 'Saint-Étienne': 'St Etienne',
 }
 
 
@@ -82,10 +112,13 @@ def scrape_league(league_id, last_season, cache=None):
     return df
 
 
-# Converts types into the same shape as understat.clean()
+# Converts types into the same shape as understat.clean() and harmonises team names with totalcorner
 def clean(fixtures_data):
     df = fixtures_data.copy()
-    df['Date'] = pd.to_datetime(df['Date']).dt.tz_localize(None).dt.normalize()
+    df['Home'] = df['Home'].replace(NAME_CONV)
+    df['Away'] = df['Away'].replace(NAME_CONV)
+    # utcTime comes both with and without milliseconds
+    df['Date'] = pd.to_datetime(df['Date'], format='ISO8601').dt.tz_localize(None).dt.normalize()
     for col in ['goals_h', 'goals_a', 'xG_h', 'xG_a']:
         df[col] = pd.to_numeric(df[col], errors='coerce')
     return df[['league', 'Date', 'season', 'isResult', 'Home', 'Away', 'goals_h', 'goals_a', 'xG_h', 'xG_a']]

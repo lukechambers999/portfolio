@@ -1,0 +1,2661 @@
+league,Date,season,isResult,Home,Away,goals_h,goals_a,xG_h,xG_a
+La Liga,2020-09-12,2020/2021,True,Eibar,Celta Vigo,0.0,0.0,0.43,0.65
+La Liga,2020-09-12,2020/2021,True,Granada,Athletic Club,2.0,0.0,0.42,0.51
+La Liga,2020-09-12,2020/2021,True,Cadiz,Osasuna,0.0,2.0,0.7,0.8
+La Liga,2020-09-13,2020/2021,True,CD Alaves,Real Betis,0.0,1.0,1.23,0.45
+La Liga,2020-09-13,2020/2021,True,Valladolid,Real Sociedad,1.0,1.0,0.84,0.33
+La Liga,2020-09-13,2020/2021,True,Villarreal,Huesca,1.0,1.0,2.59,0.63
+La Liga,2020-09-13,2020/2021,True,Valencia,Levante,4.0,2.0,1.94,2.03
+La Liga,2020-09-19,2020/2021,True,Villarreal,Eibar,2.0,1.0,2.94,1.54
+La Liga,2020-09-19,2020/2021,True,Getafe,Osasuna,1.0,0.0,0.57,0.48
+La Liga,2020-09-19,2020/2021,True,Celta Vigo,Valencia,2.0,1.0,1.99,0.5
+La Liga,2020-09-20,2020/2021,True,Huesca,Cadiz,0.0,2.0,0.29,1.22
+La Liga,2020-09-20,2020/2021,True,Granada,CD Alaves,2.0,1.0,2.24,0.67
+La Liga,2020-09-20,2020/2021,True,Real Betis,Valladolid,2.0,0.0,1.6,0.36
+La Liga,2020-09-20,2020/2021,True,Real Sociedad,Real Madrid,0.0,0.0,0.65,0.9
+La Liga,2020-09-26,2020/2021,True,CD Alaves,Getafe,0.0,0.0,1.32,1.14
+La Liga,2020-09-26,2020/2021,True,Valencia,Huesca,1.0,1.0,0.58,0.93
+La Liga,2020-09-26,2020/2021,True,Elche,Real Sociedad,0.0,3.0,1.04,3.33
+La Liga,2020-09-26,2020/2021,True,Real Betis,Real Madrid,2.0,3.0,1.19,3.8
+La Liga,2020-09-27,2020/2021,True,Osasuna,Levante,1.0,3.0,0.71,3.05
+La Liga,2020-09-27,2020/2021,True,Eibar,Athletic Club,1.0,2.0,0.62,0.59
+La Liga,2020-09-27,2020/2021,True,Atletico Madrid,Granada,6.0,1.0,3.31,1.58
+La Liga,2020-09-27,2020/2021,True,Cadiz,Sevilla,1.0,3.0,1.13,2.37
+La Liga,2020-09-27,2020/2021,True,Valladolid,Celta Vigo,1.0,1.0,1.52,1.25
+La Liga,2020-09-27,2020/2021,True,Barcelona,Villarreal,4.0,0.0,2.66,0.23
+La Liga,2020-09-29,2020/2021,True,Real Sociedad,Valencia,0.0,1.0,0.54,0.93
+La Liga,2020-09-29,2020/2021,True,Getafe,Real Betis,3.0,0.0,0.79,0.43
+La Liga,2020-09-30,2020/2021,True,Huesca,Atletico Madrid,0.0,0.0,0.91,1.61
+La Liga,2020-09-30,2020/2021,True,Villarreal,CD Alaves,3.0,1.0,2.33,1.14
+La Liga,2020-09-30,2020/2021,True,Eibar,Elche,0.0,1.0,1.25,0.35
+La Liga,2020-09-30,2020/2021,True,Real Madrid,Valladolid,1.0,0.0,2.29,0.6
+La Liga,2020-10-01,2020/2021,True,Athletic Club,Cadiz,0.0,1.0,0.57,0.23
+La Liga,2020-10-01,2020/2021,True,Sevilla,Levante,1.0,0.0,1.07,0.15
+La Liga,2020-10-01,2020/2021,True,Celta Vigo,Barcelona,0.0,3.0,0.52,0.66
+La Liga,2020-10-03,2020/2021,True,Valladolid,Eibar,1.0,2.0,1.14,1.71
+La Liga,2020-10-03,2020/2021,True,Atletico Madrid,Villarreal,0.0,0.0,0.66,0.25
+La Liga,2020-10-03,2020/2021,True,Elche,Huesca,0.0,0.0,0.13,1.63
+La Liga,2020-10-03,2020/2021,True,Real Sociedad,Getafe,3.0,0.0,2.24,0.32
+La Liga,2020-10-03,2020/2021,True,Valencia,Real Betis,0.0,2.0,0.49,1.99
+La Liga,2020-10-04,2020/2021,True,Osasuna,Celta Vigo,2.0,0.0,1.27,0.5
+La Liga,2020-10-04,2020/2021,True,CD Alaves,Athletic Club,1.0,0.0,0.62,0.56
+La Liga,2020-10-04,2020/2021,True,Levante,Real Madrid,0.0,2.0,0.52,2.17
+La Liga,2020-10-04,2020/2021,True,Cadiz,Granada,1.0,1.0,1.05,0.58
+La Liga,2020-10-04,2020/2021,True,Barcelona,Sevilla,1.0,1.0,1.01,1.52
+La Liga,2020-10-17,2020/2021,True,Granada,Sevilla,1.0,0.0,1.38,0.56
+La Liga,2020-10-17,2020/2021,True,Celta Vigo,Atletico Madrid,0.0,2.0,1.94,1.41
+La Liga,2020-10-17,2020/2021,True,Real Madrid,Cadiz,0.0,1.0,0.97,1.65
+La Liga,2020-10-17,2020/2021,True,Getafe,Barcelona,1.0,0.0,1.63,0.74
+La Liga,2020-10-18,2020/2021,True,Eibar,Osasuna,0.0,0.0,0.35,1.04
+La Liga,2020-10-18,2020/2021,True,Athletic Club,Levante,2.0,0.0,2.32,0.31
+La Liga,2020-10-18,2020/2021,True,Villarreal,Valencia,2.0,1.0,1.49,0.56
+La Liga,2020-10-18,2020/2021,True,CD Alaves,Elche,0.0,2.0,1.74,0.76
+La Liga,2020-10-18,2020/2021,True,Huesca,Valladolid,2.0,2.0,1.12,0.99
+La Liga,2020-10-18,2020/2021,True,Real Betis,Real Sociedad,0.0,3.0,0.37,1.75
+La Liga,2020-10-23,2020/2021,True,Elche,Valencia,2.0,1.0,0.15,1.62
+La Liga,2020-10-24,2020/2021,True,Barcelona,Real Madrid,1.0,3.0,1.76,3.01
+La Liga,2020-10-24,2020/2021,True,Osasuna,Athletic Club,1.0,0.0,1.18,0.68
+La Liga,2020-10-24,2020/2021,True,Sevilla,Eibar,0.0,1.0,1.87,0.22
+La Liga,2020-10-24,2020/2021,True,Atletico Madrid,Real Betis,2.0,0.0,1.38,1.07
+La Liga,2020-10-25,2020/2021,True,Valladolid,CD Alaves,0.0,2.0,0.33,2.61
+La Liga,2020-10-25,2020/2021,True,Cadiz,Villarreal,0.0,0.0,0.24,0.78
+La Liga,2020-10-25,2020/2021,True,Getafe,Granada,0.0,1.0,0.94,1.09
+La Liga,2020-10-25,2020/2021,True,Real Sociedad,Huesca,4.0,1.0,2.48,0.49
+La Liga,2020-10-26,2020/2021,True,Levante,Celta Vigo,1.0,1.0,1.25,0.84
+La Liga,2020-10-30,2020/2021,True,Eibar,Cadiz,0.0,2.0,0.55,0.99
+La Liga,2020-10-31,2020/2021,True,Real Madrid,Huesca,4.0,1.0,2.28,1.0
+La Liga,2020-10-31,2020/2021,True,Athletic Club,Sevilla,2.0,1.0,1.22,1.13
+La Liga,2020-10-31,2020/2021,True,Osasuna,Atletico Madrid,1.0,3.0,1.12,2.8
+La Liga,2020-10-31,2020/2021,True,CD Alaves,Barcelona,1.0,1.0,1.16,1.95
+La Liga,2020-11-01,2020/2021,True,Real Betis,Elche,3.0,1.0,3.23,0.69
+La Liga,2020-11-01,2020/2021,True,Celta Vigo,Real Sociedad,1.0,4.0,1.6,2.05
+La Liga,2020-11-01,2020/2021,True,Granada,Levante,1.0,1.0,0.24,0.92
+La Liga,2020-11-01,2020/2021,True,Valencia,Getafe,2.0,2.0,1.41,2.49
+La Liga,2020-11-02,2020/2021,True,Villarreal,Valladolid,2.0,0.0,1.82,0.75
+La Liga,2020-11-06,2020/2021,True,Elche,Celta Vigo,1.0,1.0,1.54,2.08
+La Liga,2020-11-07,2020/2021,True,Huesca,Eibar,1.0,1.0,2.26,0.88
+La Liga,2020-11-07,2020/2021,True,Barcelona,Real Betis,5.0,2.0,3.68,1.11
+La Liga,2020-11-07,2020/2021,True,Sevilla,Osasuna,1.0,0.0,1.12,0.69
+La Liga,2020-11-07,2020/2021,True,Atletico Madrid,Cadiz,4.0,0.0,2.14,0.42
+La Liga,2020-11-08,2020/2021,True,Getafe,Villarreal,1.0,3.0,0.67,2.31
+La Liga,2020-11-08,2020/2021,True,Real Sociedad,Granada,2.0,0.0,3.39,0.82
+La Liga,2020-11-08,2020/2021,True,Levante,CD Alaves,1.0,1.0,2.11,0.77
+La Liga,2020-11-08,2020/2021,True,Valladolid,Athletic Club,2.0,1.0,2.14,1.7
+La Liga,2020-11-08,2020/2021,True,Valencia,Real Madrid,4.0,1.0,2.51,1.32
+La Liga,2020-11-20,2020/2021,True,Osasuna,Huesca,1.0,1.0,0.99,0.67
+La Liga,2020-11-21,2020/2021,True,Levante,Elche,1.0,1.0,0.75,0.64
+La Liga,2020-11-21,2020/2021,True,Villarreal,Real Madrid,1.0,1.0,1.72,0.57
+La Liga,2020-11-21,2020/2021,True,Sevilla,Celta Vigo,4.0,2.0,2.62,2.08
+La Liga,2020-11-21,2020/2021,True,Atletico Madrid,Barcelona,1.0,0.0,0.47,0.92
+La Liga,2020-11-22,2020/2021,True,Eibar,Getafe,0.0,0.0,1.3,0.39
+La Liga,2020-11-22,2020/2021,True,Cadiz,Real Sociedad,0.0,1.0,0.08,1.28
+La Liga,2020-11-22,2020/2021,True,Granada,Valladolid,1.0,3.0,1.59,1.27
+La Liga,2020-11-22,2020/2021,True,CD Alaves,Valencia,2.0,2.0,1.72,1.87
+La Liga,2020-11-23,2020/2021,True,Athletic Club,Real Betis,4.0,0.0,2.49,0.41
+La Liga,2020-11-27,2020/2021,True,Valladolid,Levante,1.0,1.0,1.57,1.12
+La Liga,2020-11-28,2020/2021,True,Elche,Cadiz,1.0,1.0,0.13,0.54
+La Liga,2020-11-28,2020/2021,True,Valencia,Atletico Madrid,0.0,1.0,0.18,0.9
+La Liga,2020-11-28,2020/2021,True,Huesca,Sevilla,0.0,1.0,0.24,1.84
+La Liga,2020-11-28,2020/2021,True,Real Madrid,CD Alaves,1.0,2.0,1.79,2.18
+La Liga,2020-11-29,2020/2021,True,Barcelona,Osasuna,4.0,0.0,3.67,1.51
+La Liga,2020-11-29,2020/2021,True,Getafe,Athletic Club,1.0,1.0,0.54,0.26
+La Liga,2020-11-29,2020/2021,True,Celta Vigo,Granada,3.0,1.0,4.28,1.62
+La Liga,2020-11-29,2020/2021,True,Real Sociedad,Villarreal,1.0,1.0,2.01,1.2
+La Liga,2020-11-30,2020/2021,True,Real Betis,Eibar,0.0,2.0,0.71,2.95
+La Liga,2020-12-04,2020/2021,True,Athletic Club,Celta Vigo,0.0,2.0,0.49,1.22
+La Liga,2020-12-05,2020/2021,True,Levante,Getafe,3.0,0.0,2.24,0.51
+La Liga,2020-12-05,2020/2021,True,Sevilla,Real Madrid,0.0,1.0,0.69,1.53
+La Liga,2020-12-05,2020/2021,True,Atletico Madrid,Valladolid,2.0,0.0,1.25,0.76
+La Liga,2020-12-05,2020/2021,True,Cadiz,Barcelona,2.0,1.0,2.52,1.5
+La Liga,2020-12-06,2020/2021,True,Granada,Huesca,3.0,3.0,1.49,1.48
+La Liga,2020-12-06,2020/2021,True,Osasuna,Real Betis,0.0,2.0,0.43,1.4
+La Liga,2020-12-06,2020/2021,True,Villarreal,Elche,0.0,0.0,0.59,0.07
+La Liga,2020-12-06,2020/2021,True,CD Alaves,Real Sociedad,0.0,0.0,0.27,1.44
+La Liga,2020-12-07,2020/2021,True,Eibar,Valencia,0.0,0.0,1.31,0.55
+La Liga,2020-12-11,2020/2021,True,Valladolid,Osasuna,3.0,2.0,1.96,1.94
+La Liga,2020-12-12,2020/2021,True,Valencia,Athletic Club,2.0,2.0,1.58,1.94
+La Liga,2020-12-12,2020/2021,True,Getafe,Sevilla,0.0,1.0,0.55,0.47
+La Liga,2020-12-12,2020/2021,True,Huesca,CD Alaves,1.0,0.0,0.42,0.19
+La Liga,2020-12-12,2020/2021,True,Real Madrid,Atletico Madrid,2.0,0.0,0.9,0.68
+La Liga,2020-12-13,2020/2021,True,Real Sociedad,Eibar,1.0,1.0,1.17,1.66
+La Liga,2020-12-13,2020/2021,True,Real Betis,Villarreal,1.0,1.0,0.58,1.17
+La Liga,2020-12-13,2020/2021,True,Elche,Granada,0.0,1.0,0.59,1.62
+La Liga,2020-12-13,2020/2021,True,Barcelona,Levante,1.0,0.0,2.14,0.95
+La Liga,2020-12-14,2020/2021,True,Celta Vigo,Cadiz,4.0,0.0,1.52,0.63
+La Liga,2020-12-15,2020/2021,True,Real Madrid,Athletic Club,3.0,1.0,2.27,0.83
+La Liga,2020-12-16,2020/2021,True,Barcelona,Real Sociedad,2.0,1.0,2.67,1.8
+La Liga,2020-12-18,2020/2021,True,Athletic Club,Huesca,2.0,0.0,1.46,0.2
+La Liga,2020-12-19,2020/2021,True,Atletico Madrid,Elche,3.0,1.0,2.21,0.59
+La Liga,2020-12-19,2020/2021,True,Barcelona,Valencia,2.0,2.0,2.31,1.61
+La Liga,2020-12-19,2020/2021,True,Levante,Real Sociedad,2.0,1.0,1.81,1.8
+La Liga,2020-12-19,2020/2021,True,Osasuna,Villarreal,1.0,3.0,0.98,2.35
+La Liga,2020-12-19,2020/2021,True,Sevilla,Valladolid,1.0,1.0,1.73,1.06
+La Liga,2020-12-20,2020/2021,True,Celta Vigo,CD Alaves,2.0,0.0,1.56,0.67
+La Liga,2020-12-20,2020/2021,True,Granada,Real Betis,2.0,0.0,1.42,0.81
+La Liga,2020-12-20,2020/2021,True,Cadiz,Getafe,0.0,2.0,0.4,1.01
+La Liga,2020-12-20,2020/2021,True,Eibar,Real Madrid,1.0,3.0,0.68,2.16
+La Liga,2020-12-22,2020/2021,True,Elche,Osasuna,2.0,2.0,1.19,1.65
+La Liga,2020-12-22,2020/2021,True,Valencia,Sevilla,0.0,1.0,0.56,1.84
+La Liga,2020-12-22,2020/2021,True,Real Sociedad,Atletico Madrid,0.0,2.0,0.27,0.51
+La Liga,2020-12-22,2020/2021,True,Huesca,Levante,1.0,1.0,1.78,0.71
+La Liga,2020-12-22,2020/2021,True,Valladolid,Barcelona,0.0,3.0,0.75,3.02
+La Liga,2020-12-22,2020/2021,True,Villarreal,Athletic Club,1.0,1.0,1.44,0.84
+La Liga,2020-12-23,2020/2021,True,Getafe,Celta Vigo,1.0,1.0,0.27,0.83
+La Liga,2020-12-23,2020/2021,True,Real Madrid,Granada,2.0,0.0,1.76,0.76
+La Liga,2020-12-23,2020/2021,True,CD Alaves,Eibar,2.0,1.0,1.91,0.97
+La Liga,2020-12-23,2020/2021,True,Real Betis,Cadiz,1.0,0.0,0.38,0.34
+La Liga,2020-12-29,2020/2021,True,Sevilla,Villarreal,2.0,0.0,2.22,0.58
+La Liga,2020-12-29,2020/2021,True,Barcelona,Eibar,1.0,1.0,2.17,0.57
+La Liga,2020-12-29,2020/2021,True,Cadiz,Valladolid,0.0,0.0,0.72,0.53
+La Liga,2020-12-29,2020/2021,True,Levante,Real Betis,4.0,3.0,1.78,2.84
+La Liga,2020-12-30,2020/2021,True,Granada,Valencia,2.0,1.0,2.22,1.48
+La Liga,2020-12-30,2020/2021,True,Atletico Madrid,Getafe,1.0,0.0,1.13,0.85
+La Liga,2020-12-30,2020/2021,True,Celta Vigo,Huesca,2.0,1.0,2.34,1.35
+La Liga,2020-12-30,2020/2021,True,Elche,Real Madrid,1.0,1.0,1.04,1.58
+La Liga,2020-12-31,2020/2021,True,Athletic Club,Real Sociedad,0.0,1.0,0.19,1.64
+La Liga,2020-12-31,2020/2021,True,Osasuna,CD Alaves,1.0,1.0,0.41,1.63
+La Liga,2021-01-02,2020/2021,True,Villarreal,Levante,2.0,1.0,1.61,0.53
+La Liga,2021-01-02,2020/2021,True,Real Betis,Sevilla,1.0,1.0,2.1,0.22
+La Liga,2021-01-02,2020/2021,True,Getafe,Valladolid,0.0,1.0,0.78,1.17
+La Liga,2021-01-02,2020/2021,True,Real Madrid,Celta Vigo,2.0,0.0,1.02,0.74
+La Liga,2021-01-03,2020/2021,True,Athletic Club,Elche,1.0,0.0,1.44,0.18
+La Liga,2021-01-03,2020/2021,True,CD Alaves,Atletico Madrid,1.0,2.0,0.34,2.18
+La Liga,2021-01-03,2020/2021,True,Eibar,Granada,2.0,0.0,1.88,0.92
+La Liga,2021-01-03,2020/2021,True,Real Sociedad,Osasuna,1.0,1.0,0.89,0.77
+La Liga,2021-01-03,2020/2021,True,Huesca,Barcelona,0.0,1.0,0.8,3.05
+La Liga,2021-01-04,2020/2021,True,Valencia,Cadiz,1.0,1.0,0.75,0.82
+La Liga,2021-01-06,2020/2021,True,Athletic Club,Barcelona,2.0,3.0,0.63,1.61
+La Liga,2021-01-08,2020/2021,True,Celta Vigo,Villarreal,0.0,4.0,0.37,2.69
+La Liga,2021-01-09,2020/2021,True,Sevilla,Real Sociedad,3.0,2.0,2.56,0.83
+La Liga,2021-01-09,2020/2021,True,Granada,Barcelona,0.0,4.0,0.54,0.95
+La Liga,2021-01-09,2020/2021,True,Osasuna,Real Madrid,0.0,0.0,0.64,0.44
+La Liga,2021-01-10,2020/2021,True,Levante,Eibar,2.0,1.0,0.98,1.14
+La Liga,2021-01-10,2020/2021,True,Cadiz,CD Alaves,3.0,1.0,2.6,0.91
+La Liga,2021-01-10,2020/2021,True,Valladolid,Valencia,0.0,1.0,0.69,1.23
+La Liga,2021-01-11,2020/2021,True,Elche,Getafe,1.0,3.0,1.06,3.11
+La Liga,2021-01-11,2020/2021,True,Huesca,Real Betis,0.0,2.0,1.25,2.41
+La Liga,2021-01-12,2020/2021,True,Granada,Osasuna,2.0,0.0,0.79,0.75
+La Liga,2021-01-12,2020/2021,True,Atletico Madrid,Sevilla,2.0,0.0,0.44,1.9
+La Liga,2021-01-19,2020/2021,True,Cadiz,Levante,2.0,2.0,0.8,1.87
+La Liga,2021-01-19,2020/2021,True,Valladolid,Elche,2.0,2.0,1.0,0.57
+La Liga,2021-01-19,2020/2021,True,CD Alaves,Sevilla,1.0,2.0,1.65,1.16
+La Liga,2021-01-20,2020/2021,True,Getafe,Huesca,1.0,0.0,0.74,0.81
+La Liga,2021-01-20,2020/2021,True,Real Betis,Celta Vigo,2.0,1.0,0.76,1.27
+La Liga,2021-01-20,2020/2021,True,Villarreal,Granada,2.0,2.0,2.42,0.2
+La Liga,2021-01-21,2020/2021,True,Valencia,Osasuna,1.0,1.0,0.51,1.58
+La Liga,2021-01-21,2020/2021,True,Eibar,Atletico Madrid,1.0,2.0,1.49,1.24
+La Liga,2021-01-22,2020/2021,True,Levante,Valladolid,2.0,2.0,0.97,0.64
+La Liga,2021-01-23,2020/2021,True,Huesca,Villarreal,0.0,0.0,0.19,0.51
+La Liga,2021-01-23,2020/2021,True,Sevilla,Cadiz,3.0,0.0,2.27,0.73
+La Liga,2021-01-23,2020/2021,True,Real Sociedad,Real Betis,2.0,2.0,2.18,0.59
+La Liga,2021-01-23,2020/2021,True,CD Alaves,Real Madrid,1.0,4.0,0.69,1.45
+La Liga,2021-01-24,2020/2021,True,Osasuna,Granada,3.0,1.0,1.7,0.67
+La Liga,2021-01-24,2020/2021,True,Elche,Barcelona,0.0,2.0,0.53,2.56
+La Liga,2021-01-24,2020/2021,True,Celta Vigo,Eibar,1.0,1.0,1.57,0.89
+La Liga,2021-01-24,2020/2021,True,Atletico Madrid,Valencia,3.0,1.0,1.81,0.3
+La Liga,2021-01-25,2020/2021,True,Athletic Club,Getafe,5.0,1.0,2.04,1.26
+La Liga,2021-01-29,2020/2021,True,Valladolid,Huesca,1.0,3.0,1.79,1.25
+La Liga,2021-01-30,2020/2021,True,Eibar,Sevilla,0.0,2.0,0.9,1.49
+La Liga,2021-01-30,2020/2021,True,Real Madrid,Levante,1.0,2.0,1.33,1.78
+La Liga,2021-01-30,2020/2021,True,Valencia,Elche,1.0,0.0,2.76,0.37
+La Liga,2021-01-30,2020/2021,True,Villarreal,Real Sociedad,1.0,1.0,0.24,1.31
+La Liga,2021-01-31,2020/2021,True,Getafe,CD Alaves,0.0,0.0,0.38,0.21
+La Liga,2021-01-31,2020/2021,True,Cadiz,Atletico Madrid,2.0,4.0,1.22,1.93
+La Liga,2021-01-31,2020/2021,True,Granada,Celta Vigo,0.0,0.0,0.35,0.59
+La Liga,2021-01-31,2020/2021,True,Barcelona,Athletic Club,2.0,1.0,1.99,0.33
+La Liga,2021-02-01,2020/2021,True,Real Betis,Osasuna,1.0,0.0,1.57,1.36
+La Liga,2021-02-05,2020/2021,True,CD Alaves,Valladolid,1.0,0.0,1.52,0.08
+La Liga,2021-02-06,2020/2021,True,Levante,Granada,2.0,2.0,1.44,1.32
+La Liga,2021-02-06,2020/2021,True,Huesca,Real Madrid,1.0,2.0,0.98,3.43
+La Liga,2021-02-06,2020/2021,True,Elche,Villarreal,2.0,2.0,1.29,1.42
+La Liga,2021-02-06,2020/2021,True,Sevilla,Getafe,3.0,0.0,2.24,0.19
+La Liga,2021-02-07,2020/2021,True,Real Sociedad,Cadiz,4.0,1.0,4.61,0.46
+La Liga,2021-02-07,2020/2021,True,Athletic Club,Valencia,1.0,1.0,1.18,0.88
+La Liga,2021-02-07,2020/2021,True,Osasuna,Eibar,2.0,1.0,1.69,1.22
+La Liga,2021-02-07,2020/2021,True,Real Betis,Barcelona,2.0,3.0,1.79,1.32
+La Liga,2021-02-08,2020/2021,True,Atletico Madrid,Celta Vigo,2.0,2.0,1.15,1.46
+La Liga,2021-02-09,2020/2021,True,Real Madrid,Getafe,2.0,0.0,1.6,0.09
+La Liga,2021-02-12,2020/2021,True,Celta Vigo,Elche,3.0,1.0,2.11,1.11
+La Liga,2021-02-13,2020/2021,True,Granada,Atletico Madrid,1.0,2.0,0.72,0.73
+La Liga,2021-02-13,2020/2021,True,Sevilla,Huesca,1.0,0.0,1.59,1.34
+La Liga,2021-02-13,2020/2021,True,Eibar,Valladolid,1.0,1.0,2.5,1.03
+La Liga,2021-02-13,2020/2021,True,Barcelona,CD Alaves,5.0,1.0,2.38,0.7
+La Liga,2021-02-14,2020/2021,True,Getafe,Real Sociedad,0.0,1.0,0.36,1.0
+La Liga,2021-02-14,2020/2021,True,Real Madrid,Valencia,2.0,0.0,0.82,0.12
+La Liga,2021-02-14,2020/2021,True,Levante,Osasuna,0.0,1.0,1.58,0.67
+La Liga,2021-02-14,2020/2021,True,Villarreal,Real Betis,1.0,2.0,1.28,0.99
+La Liga,2021-02-15,2020/2021,True,Cadiz,Athletic Club,0.0,4.0,0.52,2.25
+La Liga,2021-02-17,2020/2021,True,Levante,Atletico Madrid,1.0,1.0,0.63,1.14
+La Liga,2021-02-19,2020/2021,True,Real Betis,Getafe,1.0,0.0,2.63,0.36
+La Liga,2021-02-20,2020/2021,True,Elche,Eibar,1.0,0.0,0.42,1.77
+La Liga,2021-02-20,2020/2021,True,Atletico Madrid,Levante,0.0,2.0,2.25,0.78
+La Liga,2021-02-20,2020/2021,True,Valencia,Celta Vigo,2.0,0.0,1.15,0.71
+La Liga,2021-02-20,2020/2021,True,Valladolid,Real Madrid,0.0,1.0,1.06,0.78
+La Liga,2021-02-21,2020/2021,True,Barcelona,Cadiz,1.0,1.0,2.21,1.4
+La Liga,2021-02-21,2020/2021,True,Real Sociedad,CD Alaves,4.0,0.0,2.42,0.75
+La Liga,2021-02-21,2020/2021,True,Huesca,Granada,3.0,2.0,2.37,1.03
+La Liga,2021-02-21,2020/2021,True,Athletic Club,Villarreal,1.0,1.0,2.57,0.09
+La Liga,2021-02-22,2020/2021,True,Osasuna,Sevilla,0.0,2.0,0.52,0.69
+La Liga,2021-02-24,2020/2021,True,Barcelona,Elche,3.0,0.0,2.7,0.33
+La Liga,2021-02-26,2020/2021,True,Levante,Athletic Club,1.0,1.0,1.22,1.89
+La Liga,2021-02-27,2020/2021,True,Eibar,Huesca,1.0,1.0,1.6,0.52
+La Liga,2021-02-27,2020/2021,True,Sevilla,Barcelona,0.0,2.0,0.16,1.64
+La Liga,2021-02-27,2020/2021,True,CD Alaves,Osasuna,0.0,1.0,0.41,1.5
+La Liga,2021-02-27,2020/2021,True,Getafe,Valencia,3.0,0.0,0.94,0.26
+La Liga,2021-02-28,2020/2021,True,Celta Vigo,Valladolid,1.0,1.0,0.9,0.7
+La Liga,2021-02-28,2020/2021,True,Cadiz,Real Betis,0.0,1.0,0.21,0.43
+La Liga,2021-02-28,2020/2021,True,Granada,Elche,2.0,1.0,1.06,1.34
+La Liga,2021-02-28,2020/2021,True,Villarreal,Atletico Madrid,0.0,2.0,1.78,0.64
+La Liga,2021-03-01,2020/2021,True,Real Madrid,Real Sociedad,1.0,1.0,2.2,0.8
+La Liga,2021-03-05,2020/2021,True,Valencia,Villarreal,2.0,1.0,1.9,2.0
+La Liga,2021-03-06,2020/2021,True,Valladolid,Getafe,2.0,1.0,1.18,0.88
+La Liga,2021-03-06,2020/2021,True,Elche,Sevilla,2.0,1.0,0.94,1.17
+La Liga,2021-03-06,2020/2021,True,Cadiz,Eibar,1.0,0.0,1.57,1.76
+La Liga,2021-03-06,2020/2021,True,Osasuna,Barcelona,0.0,2.0,0.8,0.76
+La Liga,2021-03-07,2020/2021,True,Huesca,Celta Vigo,3.0,4.0,2.29,0.87
+La Liga,2021-03-07,2020/2021,True,Atletico Madrid,Real Madrid,1.0,1.0,1.42,1.62
+La Liga,2021-03-07,2020/2021,True,Real Sociedad,Levante,1.0,0.0,4.86,0.23
+La Liga,2021-03-07,2020/2021,True,Athletic Club,Granada,2.0,1.0,1.34,2.04
+La Liga,2021-03-08,2020/2021,True,Real Betis,CD Alaves,3.0,2.0,2.02,0.8
+La Liga,2021-03-10,2020/2021,True,Atletico Madrid,Athletic Club,2.0,1.0,1.54,0.64
+La Liga,2021-03-12,2020/2021,True,Levante,Valencia,1.0,0.0,0.78,0.74
+La Liga,2021-03-13,2020/2021,True,CD Alaves,Cadiz,1.0,1.0,1.47,1.53
+La Liga,2021-03-13,2020/2021,True,Real Madrid,Elche,2.0,1.0,1.58,0.46
+La Liga,2021-03-13,2020/2021,True,Osasuna,Valladolid,0.0,0.0,0.6,1.01
+La Liga,2021-03-13,2020/2021,True,Getafe,Atletico Madrid,0.0,0.0,0.7,1.62
+La Liga,2021-03-14,2020/2021,True,Celta Vigo,Athletic Club,0.0,0.0,1.23,0.67
+La Liga,2021-03-14,2020/2021,True,Granada,Real Sociedad,1.0,0.0,0.36,0.36
+La Liga,2021-03-14,2020/2021,True,Eibar,Villarreal,1.0,3.0,1.43,2.78
+La Liga,2021-03-14,2020/2021,True,Sevilla,Real Betis,1.0,0.0,0.57,0.7
+La Liga,2021-03-15,2020/2021,True,Barcelona,Huesca,4.0,1.0,1.13,2.23
+La Liga,2021-03-17,2020/2021,True,Sevilla,Elche,2.0,0.0,1.55,0.69
+La Liga,2021-03-19,2020/2021,True,Real Betis,Levante,2.0,0.0,2.19,0.58
+La Liga,2021-03-20,2020/2021,True,Athletic Club,Eibar,1.0,1.0,1.59,0.57
+La Liga,2021-03-20,2020/2021,True,Celta Vigo,Real Madrid,1.0,3.0,0.56,2.55
+La Liga,2021-03-20,2020/2021,True,Huesca,Osasuna,0.0,0.0,0.84,0.58
+La Liga,2021-03-20,2020/2021,True,Valladolid,Sevilla,1.0,1.0,0.89,0.97
+La Liga,2021-03-21,2020/2021,True,Getafe,Elche,1.0,1.0,1.89,1.49
+La Liga,2021-03-21,2020/2021,True,Valencia,Granada,2.0,1.0,1.87,1.17
+La Liga,2021-03-21,2020/2021,True,Villarreal,Cadiz,2.0,1.0,2.21,0.95
+La Liga,2021-03-21,2020/2021,True,Atletico Madrid,CD Alaves,1.0,0.0,0.54,1.23
+La Liga,2021-03-21,2020/2021,True,Real Sociedad,Barcelona,1.0,6.0,0.91,2.82
+La Liga,2021-04-02,2020/2021,True,Levante,Huesca,0.0,2.0,0.58,0.77
+La Liga,2021-04-03,2020/2021,True,Granada,Villarreal,0.0,3.0,1.36,3.26
+La Liga,2021-04-03,2020/2021,True,Real Madrid,Eibar,2.0,0.0,1.86,0.37
+La Liga,2021-04-03,2020/2021,True,Osasuna,Getafe,0.0,0.0,0.21,0.33
+La Liga,2021-04-04,2020/2021,True,CD Alaves,Celta Vigo,1.0,3.0,2.14,2.01
+La Liga,2021-04-04,2020/2021,True,Elche,Real Betis,1.0,1.0,1.05,2.03
+La Liga,2021-04-04,2020/2021,True,Cadiz,Valencia,2.0,1.0,0.55,1.24
+La Liga,2021-04-04,2020/2021,True,Sevilla,Atletico Madrid,1.0,0.0,2.01,0.75
+La Liga,2021-04-05,2020/2021,True,Barcelona,Valladolid,1.0,0.0,1.6,0.4
+La Liga,2021-04-07,2020/2021,True,Real Sociedad,Athletic Club,1.0,1.0,0.91,0.73
+La Liga,2021-04-09,2020/2021,True,Huesca,Elche,3.0,1.0,1.16,1.02
+La Liga,2021-04-10,2020/2021,True,Getafe,Cadiz,0.0,1.0,2.1,0.69
+La Liga,2021-04-10,2020/2021,True,Athletic Club,CD Alaves,0.0,0.0,1.81,0.55
+La Liga,2021-04-10,2020/2021,True,Eibar,Levante,0.0,1.0,0.45,0.28
+La Liga,2021-04-10,2020/2021,True,Real Madrid,Barcelona,2.0,1.0,1.61,1.35
+La Liga,2021-04-11,2020/2021,True,Villarreal,Osasuna,1.0,2.0,1.59,1.26
+La Liga,2021-04-11,2020/2021,True,Valencia,Real Sociedad,2.0,2.0,2.29,1.04
+La Liga,2021-04-11,2020/2021,True,Valladolid,Granada,1.0,2.0,1.21,1.47
+La Liga,2021-04-11,2020/2021,True,Real Betis,Atletico Madrid,1.0,1.0,0.81,1.31
+La Liga,2021-04-12,2020/2021,True,Celta Vigo,Sevilla,3.0,4.0,2.64,1.57
+La Liga,2021-04-18,2020/2021,True,Osasuna,Elche,2.0,0.0,0.55,0.74
+La Liga,2021-04-18,2020/2021,True,Real Sociedad,Sevilla,1.0,2.0,0.26,3.64
+La Liga,2021-04-18,2020/2021,True,Atletico Madrid,Eibar,5.0,0.0,1.93,0.0
+La Liga,2021-04-18,2020/2021,True,CD Alaves,Huesca,1.0,0.0,0.45,0.95
+La Liga,2021-04-18,2020/2021,True,Cadiz,Celta Vigo,0.0,0.0,0.44,0.47
+La Liga,2021-04-18,2020/2021,True,Real Betis,Valencia,2.0,2.0,0.69,1.65
+La Liga,2021-04-18,2020/2021,True,Getafe,Real Madrid,0.0,0.0,1.85,0.48
+La Liga,2021-04-18,2020/2021,True,Levante,Villarreal,1.0,5.0,1.04,1.53
+La Liga,2021-04-21,2020/2021,True,Levante,Sevilla,0.0,1.0,0.3,1.96
+La Liga,2021-04-21,2020/2021,True,Osasuna,Valencia,3.0,1.0,3.8,1.12
+La Liga,2021-04-21,2020/2021,True,Real Betis,Athletic Club,0.0,0.0,0.24,0.8
+La Liga,2021-04-21,2020/2021,True,CD Alaves,Villarreal,2.0,1.0,1.73,1.49
+La Liga,2021-04-21,2020/2021,True,Elche,Valladolid,1.0,1.0,1.53,1.13
+La Liga,2021-04-21,2020/2021,True,Cadiz,Real Madrid,0.0,3.0,1.03,3.24
+La Liga,2021-04-22,2020/2021,True,Atletico Madrid,Huesca,2.0,0.0,2.17,1.89
+La Liga,2021-04-22,2020/2021,True,Granada,Eibar,4.0,1.0,1.45,1.73
+La Liga,2021-04-22,2020/2021,True,Real Sociedad,Celta Vigo,2.0,1.0,2.33,0.61
+La Liga,2021-04-22,2020/2021,True,Barcelona,Getafe,5.0,2.0,1.66,1.48
+La Liga,2021-04-24,2020/2021,True,Elche,Levante,1.0,0.0,0.45,0.28
+La Liga,2021-04-24,2020/2021,True,Valladolid,Cadiz,1.0,1.0,2.94,1.13
+La Liga,2021-04-24,2020/2021,True,Valencia,CD Alaves,1.0,1.0,1.01,1.06
+La Liga,2021-04-24,2020/2021,True,Real Madrid,Real Betis,0.0,0.0,1.0,0.92
+La Liga,2021-04-25,2020/2021,True,Huesca,Getafe,0.0,2.0,0.83,0.68
+La Liga,2021-04-25,2020/2021,True,Villarreal,Barcelona,1.0,2.0,0.86,2.82
+La Liga,2021-04-25,2020/2021,True,Celta Vigo,Osasuna,2.0,1.0,0.71,1.43
+La Liga,2021-04-25,2020/2021,True,Sevilla,Granada,2.0,1.0,1.27,0.95
+La Liga,2021-04-25,2020/2021,True,Athletic Club,Atletico Madrid,2.0,1.0,1.2,0.82
+La Liga,2021-04-26,2020/2021,True,Eibar,Real Sociedad,0.0,1.0,1.2,0.74
+La Liga,2021-04-28,2020/2021,True,Athletic Club,Valladolid,2.0,2.0,1.57,0.81
+La Liga,2021-04-29,2020/2021,True,Barcelona,Granada,1.0,2.0,1.41,0.69
+La Liga,2021-04-30,2020/2021,True,Celta Vigo,Levante,2.0,0.0,2.26,1.25
+La Liga,2021-05-01,2020/2021,True,Eibar,CD Alaves,3.0,0.0,1.51,0.23
+La Liga,2021-05-01,2020/2021,True,Elche,Atletico Madrid,0.0,1.0,1.2,0.91
+La Liga,2021-05-01,2020/2021,True,Huesca,Real Sociedad,1.0,0.0,0.57,0.32
+La Liga,2021-05-01,2020/2021,True,Real Madrid,Osasuna,2.0,0.0,1.71,0.07
+La Liga,2021-05-02,2020/2021,True,Valladolid,Real Betis,1.0,1.0,1.23,2.16
+La Liga,2021-05-02,2020/2021,True,Villarreal,Getafe,1.0,0.0,0.18,0.58
+La Liga,2021-05-02,2020/2021,True,Granada,Cadiz,0.0,1.0,1.02,1.17
+La Liga,2021-05-02,2020/2021,True,Valencia,Barcelona,2.0,3.0,1.44,3.0
+La Liga,2021-05-03,2020/2021,True,Sevilla,Athletic Club,0.0,1.0,1.07,0.74
+La Liga,2021-05-07,2020/2021,True,Real Sociedad,Elche,2.0,0.0,2.4,0.2
+La Liga,2021-05-08,2020/2021,True,CD Alaves,Levante,2.0,2.0,1.25,0.82
+La Liga,2021-05-08,2020/2021,True,Barcelona,Atletico Madrid,0.0,0.0,0.93,0.77
+La Liga,2021-05-08,2020/2021,True,Cadiz,Huesca,2.0,1.0,0.95,0.72
+La Liga,2021-05-08,2020/2021,True,Athletic Club,Osasuna,2.0,2.0,1.63,1.3
+La Liga,2021-05-09,2020/2021,True,Getafe,Eibar,0.0,1.0,0.82,1.17
+La Liga,2021-05-09,2020/2021,True,Valencia,Valladolid,3.0,0.0,1.31,0.97
+La Liga,2021-05-09,2020/2021,True,Villarreal,Celta Vigo,2.0,4.0,3.03,2.05
+La Liga,2021-05-09,2020/2021,True,Real Madrid,Sevilla,2.0,2.0,0.88,1.21
+La Liga,2021-05-10,2020/2021,True,Real Betis,Granada,2.0,1.0,1.76,1.47
+La Liga,2021-05-11,2020/2021,True,Osasuna,Cadiz,3.0,2.0,2.12,1.78
+La Liga,2021-05-11,2020/2021,True,Elche,CD Alaves,0.0,2.0,0.83,1.64
+La Liga,2021-05-11,2020/2021,True,Levante,Barcelona,3.0,3.0,1.07,2.73
+La Liga,2021-05-12,2020/2021,True,Sevilla,Valencia,1.0,0.0,0.87,0.39
+La Liga,2021-05-12,2020/2021,True,Celta Vigo,Getafe,1.0,0.0,0.48,1.33
+La Liga,2021-05-12,2020/2021,True,Huesca,Athletic Club,1.0,0.0,1.02,0.23
+La Liga,2021-05-12,2020/2021,True,Atletico Madrid,Real Sociedad,2.0,1.0,1.45,1.77
+La Liga,2021-05-13,2020/2021,True,Valladolid,Villarreal,0.0,2.0,0.98,0.59
+La Liga,2021-05-13,2020/2021,True,Eibar,Real Betis,1.0,1.0,1.23,0.76
+La Liga,2021-05-13,2020/2021,True,Granada,Real Madrid,1.0,4.0,1.89,1.29
+La Liga,2021-05-16,2020/2021,True,Athletic Club,Real Madrid,0.0,1.0,0.73,0.98
+La Liga,2021-05-16,2020/2021,True,Atletico Madrid,Osasuna,2.0,1.0,2.6,0.33
+La Liga,2021-05-16,2020/2021,True,Barcelona,Celta Vigo,1.0,2.0,2.47,0.66
+La Liga,2021-05-16,2020/2021,True,Cadiz,Elche,1.0,3.0,1.11,2.46
+La Liga,2021-05-16,2020/2021,True,CD Alaves,Granada,4.0,2.0,2.59,0.77
+La Liga,2021-05-16,2020/2021,True,Getafe,Levante,2.0,1.0,0.53,0.48
+La Liga,2021-05-16,2020/2021,True,Real Betis,Huesca,1.0,0.0,1.27,0.28
+La Liga,2021-05-16,2020/2021,True,Real Sociedad,Valladolid,4.0,1.0,1.82,1.67
+La Liga,2021-05-16,2020/2021,True,Valencia,Eibar,4.0,1.0,1.25,2.26
+La Liga,2021-05-16,2020/2021,True,Villarreal,Sevilla,4.0,0.0,1.18,1.82
+La Liga,2021-05-21,2020/2021,True,Levante,Cadiz,2.0,2.0,1.55,0.48
+La Liga,2021-05-22,2020/2021,True,Celta Vigo,Real Betis,2.0,3.0,1.3,2.25
+La Liga,2021-05-22,2020/2021,True,Eibar,Barcelona,0.0,1.0,1.75,0.31
+La Liga,2021-05-22,2020/2021,True,Elche,Athletic Club,2.0,0.0,1.03,0.49
+La Liga,2021-05-22,2020/2021,True,Osasuna,Real Sociedad,0.0,1.0,0.37,1.99
+La Liga,2021-05-22,2020/2021,True,Real Madrid,Villarreal,2.0,1.0,1.17,0.6
+La Liga,2021-05-22,2020/2021,True,Valladolid,Atletico Madrid,1.0,2.0,1.14,1.41
+La Liga,2021-05-22,2020/2021,True,Huesca,Valencia,0.0,0.0,1.37,0.47
+La Liga,2021-05-23,2020/2021,True,Granada,Getafe,0.0,0.0,0.41,0.64
+La Liga,2021-05-23,2020/2021,True,Sevilla,CD Alaves,1.0,0.0,0.42,1.12
+La Liga,2021-08-13,2021/2022,True,Valencia,Getafe,1.0,0.0,1.45,1.44
+La Liga,2021-08-14,2021/2022,True,Cadiz,Levante,1.0,1.0,0.59,0.95
+La Liga,2021-08-14,2021/2022,True,Mallorca,Real Betis,1.0,1.0,0.52,0.59
+La Liga,2021-08-14,2021/2022,True,CD Alaves,Real Madrid,1.0,4.0,1.7,1.82
+La Liga,2021-08-14,2021/2022,True,Osasuna,Espanyol,0.0,0.0,0.86,0.55
+La Liga,2021-08-15,2021/2022,True,Celta Vigo,Atletico Madrid,1.0,2.0,2.43,1.48
+La Liga,2021-08-15,2021/2022,True,Barcelona,Real Sociedad,4.0,2.0,2.8,0.85
+La Liga,2021-08-15,2021/2022,True,Sevilla,Rayo Vallecano,3.0,0.0,3.68,0.4
+La Liga,2021-08-16,2021/2022,True,Villarreal,Granada,0.0,0.0,1.1,0.28
+La Liga,2021-08-16,2021/2022,True,Elche,Athletic Club,0.0,0.0,1.07,0.62
+La Liga,2021-08-20,2021/2022,True,Real Betis,Cadiz,1.0,1.0,1.19,1.59
+La Liga,2021-08-21,2021/2022,True,CD Alaves,Mallorca,0.0,1.0,0.51,0.7
+La Liga,2021-08-21,2021/2022,True,Espanyol,Villarreal,0.0,0.0,1.34,0.56
+La Liga,2021-08-21,2021/2022,True,Granada,Valencia,1.0,1.0,1.06,1.55
+La Liga,2021-08-21,2021/2022,True,Athletic Club,Barcelona,1.0,1.0,1.37,1.05
+La Liga,2021-08-22,2021/2022,True,Real Sociedad,Rayo Vallecano,1.0,0.0,2.0,0.52
+La Liga,2021-08-22,2021/2022,True,Atletico Madrid,Elche,1.0,0.0,1.07,0.17
+La Liga,2021-08-22,2021/2022,True,Levante,Real Madrid,3.0,3.0,1.85,1.61
+La Liga,2021-08-23,2021/2022,True,Getafe,Sevilla,0.0,1.0,0.46,1.15
+La Liga,2021-08-23,2021/2022,True,Osasuna,Celta Vigo,0.0,0.0,2.03,0.14
+La Liga,2021-08-27,2021/2022,True,Mallorca,Espanyol,1.0,0.0,1.05,0.46
+La Liga,2021-08-27,2021/2022,True,Valencia,CD Alaves,3.0,0.0,1.63,0.43
+La Liga,2021-08-28,2021/2022,True,Celta Vigo,Athletic Club,0.0,1.0,1.15,1.44
+La Liga,2021-08-28,2021/2022,True,Elche,Sevilla,1.0,1.0,0.61,1.34
+La Liga,2021-08-28,2021/2022,True,Real Sociedad,Levante,1.0,0.0,1.05,0.37
+La Liga,2021-08-28,2021/2022,True,Real Betis,Real Madrid,0.0,1.0,0.63,0.94
+La Liga,2021-08-29,2021/2022,True,Barcelona,Getafe,2.0,1.0,1.09,0.38
+La Liga,2021-08-29,2021/2022,True,Cadiz,Osasuna,2.0,3.0,1.64,2.6
+La Liga,2021-08-29,2021/2022,True,Rayo Vallecano,Granada,4.0,0.0,2.2,0.54
+La Liga,2021-08-29,2021/2022,True,Atletico Madrid,Villarreal,2.0,2.0,1.68,0.33
+La Liga,2021-09-11,2021/2022,True,Levante,Rayo Vallecano,1.0,1.0,1.07,2.21
+La Liga,2021-09-11,2021/2022,True,Athletic Club,Mallorca,2.0,0.0,1.85,0.19
+La Liga,2021-09-12,2021/2022,True,Espanyol,Atletico Madrid,1.0,2.0,0.42,0.76
+La Liga,2021-09-12,2021/2022,True,Osasuna,Valencia,1.0,4.0,0.58,0.88
+La Liga,2021-09-12,2021/2022,True,Cadiz,Real Sociedad,0.0,2.0,0.33,1.96
+La Liga,2021-09-12,2021/2022,True,Real Madrid,Celta Vigo,5.0,2.0,3.24,1.75
+La Liga,2021-09-13,2021/2022,True,Getafe,Elche,0.0,1.0,0.34,0.8
+La Liga,2021-09-13,2021/2022,True,Granada,Real Betis,1.0,2.0,0.6,2.4
+La Liga,2021-09-17,2021/2022,True,Celta Vigo,Cadiz,1.0,2.0,1.01,1.09
+La Liga,2021-09-18,2021/2022,True,Rayo Vallecano,Getafe,3.0,0.0,2.26,1.14
+La Liga,2021-09-18,2021/2022,True,Atletico Madrid,Athletic Club,0.0,0.0,0.9,1.01
+La Liga,2021-09-18,2021/2022,True,Elche,Levante,1.0,1.0,0.44,1.18
+La Liga,2021-09-18,2021/2022,True,CD Alaves,Osasuna,0.0,2.0,0.46,1.39
+La Liga,2021-09-19,2021/2022,True,Mallorca,Villarreal,0.0,0.0,0.46,1.61
+La Liga,2021-09-19,2021/2022,True,Real Sociedad,Sevilla,0.0,0.0,1.25,0.55
+La Liga,2021-09-19,2021/2022,True,Real Betis,Espanyol,2.0,2.0,1.95,1.15
+La Liga,2021-09-19,2021/2022,True,Valencia,Real Madrid,1.0,2.0,0.86,1.34
+La Liga,2021-09-20,2021/2022,True,Barcelona,Granada,1.0,1.0,1.78,0.83
+La Liga,2021-09-21,2021/2022,True,Getafe,Atletico Madrid,1.0,2.0,0.3,1.13
+La Liga,2021-09-21,2021/2022,True,Athletic Club,Rayo Vallecano,1.0,2.0,0.79,0.99
+La Liga,2021-09-21,2021/2022,True,Levante,Celta Vigo,0.0,2.0,1.71,0.68
+La Liga,2021-09-22,2021/2022,True,Espanyol,CD Alaves,1.0,0.0,1.77,0.5
+La Liga,2021-09-22,2021/2022,True,Sevilla,Valencia,3.0,1.0,1.02,0.38
+La Liga,2021-09-22,2021/2022,True,Real Madrid,Mallorca,6.0,1.0,3.25,1.44
+La Liga,2021-09-22,2021/2022,True,Villarreal,Elche,4.0,1.0,3.14,1.16
+La Liga,2021-09-23,2021/2022,True,Granada,Real Sociedad,2.0,3.0,1.33,1.75
+La Liga,2021-09-23,2021/2022,True,Osasuna,Real Betis,1.0,3.0,0.98,2.45
+La Liga,2021-09-23,2021/2022,True,Cadiz,Barcelona,0.0,0.0,1.26,0.45
+La Liga,2021-09-25,2021/2022,True,CD Alaves,Atletico Madrid,1.0,0.0,0.73,0.69
+La Liga,2021-09-25,2021/2022,True,Valencia,Athletic Club,1.0,1.0,0.9,0.8
+La Liga,2021-09-25,2021/2022,True,Sevilla,Espanyol,2.0,0.0,1.82,0.67
+La Liga,2021-09-25,2021/2022,True,Real Madrid,Villarreal,0.0,0.0,1.19,0.54
+La Liga,2021-09-26,2021/2022,True,Mallorca,Osasuna,2.0,3.0,2.51,0.96
+La Liga,2021-09-26,2021/2022,True,Barcelona,Levante,3.0,0.0,2.95,0.77
+La Liga,2021-09-26,2021/2022,True,Rayo Vallecano,Cadiz,3.0,1.0,1.28,0.98
+La Liga,2021-09-26,2021/2022,True,Real Sociedad,Elche,1.0,0.0,2.41,0.5
+La Liga,2021-09-26,2021/2022,True,Real Betis,Getafe,2.0,0.0,1.9,0.61
+La Liga,2021-09-27,2021/2022,True,Celta Vigo,Granada,1.0,0.0,1.3,0.79
+La Liga,2021-10-01,2021/2022,True,Athletic Club,CD Alaves,1.0,0.0,1.99,0.9
+La Liga,2021-10-02,2021/2022,True,Osasuna,Rayo Vallecano,1.0,0.0,0.52,0.27
+La Liga,2021-10-02,2021/2022,True,Mallorca,Levante,1.0,0.0,0.61,1.24
+La Liga,2021-10-02,2021/2022,True,Cadiz,Valencia,0.0,0.0,0.17,1.13
+La Liga,2021-10-02,2021/2022,True,Atletico Madrid,Barcelona,2.0,0.0,1.15,0.72
+La Liga,2021-10-03,2021/2022,True,Elche,Celta Vigo,1.0,0.0,1.29,0.56
+La Liga,2021-10-03,2021/2022,True,Espanyol,Real Madrid,2.0,1.0,1.17,1.62
+La Liga,2021-10-03,2021/2022,True,Getafe,Real Sociedad,1.0,1.0,0.71,0.69
+La Liga,2021-10-03,2021/2022,True,Villarreal,Real Betis,2.0,0.0,2.57,0.5
+La Liga,2021-10-03,2021/2022,True,Granada,Sevilla,1.0,0.0,0.09,1.29
+La Liga,2021-10-16,2021/2022,True,Levante,Getafe,0.0,0.0,0.88,0.73
+La Liga,2021-10-16,2021/2022,True,Real Sociedad,Mallorca,1.0,0.0,0.45,0.23
+La Liga,2021-10-17,2021/2022,True,Rayo Vallecano,Elche,2.0,1.0,1.2,0.43
+La Liga,2021-10-17,2021/2022,True,Celta Vigo,Sevilla,0.0,1.0,1.21,1.07
+La Liga,2021-10-17,2021/2022,True,Villarreal,Osasuna,1.0,2.0,0.48,0.64
+La Liga,2021-10-17,2021/2022,True,Barcelona,Valencia,3.0,1.0,1.89,0.45
+La Liga,2021-10-18,2021/2022,True,CD Alaves,Real Betis,0.0,1.0,0.97,1.49
+La Liga,2021-10-18,2021/2022,True,Espanyol,Cadiz,2.0,0.0,1.43,0.4
+La Liga,2021-10-22,2021/2022,True,Osasuna,Granada,1.0,1.0,0.96,0.47
+La Liga,2021-10-23,2021/2022,True,Valencia,Mallorca,2.0,2.0,1.77,0.62
+La Liga,2021-10-23,2021/2022,True,Cadiz,CD Alaves,0.0,2.0,1.52,1.34
+La Liga,2021-10-23,2021/2022,True,Elche,Espanyol,2.0,2.0,0.91,0.78
+La Liga,2021-10-23,2021/2022,True,Athletic Club,Villarreal,2.0,1.0,2.76,0.46
+La Liga,2021-10-24,2021/2022,True,Sevilla,Levante,5.0,3.0,1.58,1.92
+La Liga,2021-10-24,2021/2022,True,Barcelona,Real Madrid,1.0,2.0,1.59,1.46
+La Liga,2021-10-24,2021/2022,True,Real Betis,Rayo Vallecano,3.0,2.0,1.59,0.99
+La Liga,2021-10-24,2021/2022,True,Atletico Madrid,Real Sociedad,2.0,2.0,1.68,0.79
+La Liga,2021-10-25,2021/2022,True,Getafe,Celta Vigo,0.0,3.0,0.47,1.66
+La Liga,2021-10-26,2021/2022,True,CD Alaves,Elche,1.0,0.0,1.88,0.29
+La Liga,2021-10-26,2021/2022,True,Espanyol,Athletic Club,1.0,1.0,1.28,3.75
+La Liga,2021-10-26,2021/2022,True,Villarreal,Cadiz,3.0,3.0,1.69,1.37
+La Liga,2021-10-27,2021/2022,True,Mallorca,Sevilla,1.0,1.0,1.52,0.81
+La Liga,2021-10-27,2021/2022,True,Rayo Vallecano,Barcelona,1.0,0.0,0.81,2.55
+La Liga,2021-10-27,2021/2022,True,Real Betis,Valencia,4.0,1.0,2.04,1.6
+La Liga,2021-10-27,2021/2022,True,Real Madrid,Osasuna,0.0,0.0,0.66,0.53
+La Liga,2021-10-28,2021/2022,True,Celta Vigo,Real Sociedad,0.0,2.0,1.39,1.76
+La Liga,2021-10-28,2021/2022,True,Granada,Getafe,1.0,1.0,2.09,0.44
+La Liga,2021-10-28,2021/2022,True,Levante,Atletico Madrid,2.0,2.0,2.07,0.94
+La Liga,2021-10-30,2021/2022,True,Elche,Real Madrid,1.0,2.0,1.06,1.12
+La Liga,2021-10-30,2021/2022,True,Sevilla,Osasuna,2.0,0.0,2.09,0.55
+La Liga,2021-10-30,2021/2022,True,Valencia,Villarreal,2.0,0.0,1.46,0.86
+La Liga,2021-10-30,2021/2022,True,Barcelona,CD Alaves,1.0,1.0,1.32,0.87
+La Liga,2021-10-31,2021/2022,True,Cadiz,Mallorca,1.0,1.0,1.8,0.93
+La Liga,2021-10-31,2021/2022,True,Atletico Madrid,Real Betis,3.0,0.0,2.32,0.49
+La Liga,2021-10-31,2021/2022,True,Getafe,Espanyol,2.0,1.0,0.94,0.57
+La Liga,2021-10-31,2021/2022,True,Real Sociedad,Athletic Club,1.0,1.0,1.09,1.05
+La Liga,2021-11-01,2021/2022,True,Rayo Vallecano,Celta Vigo,0.0,0.0,0.59,0.58
+La Liga,2021-11-01,2021/2022,True,Levante,Granada,0.0,3.0,1.07,0.96
+La Liga,2021-11-05,2021/2022,True,Athletic Club,Cadiz,0.0,1.0,0.53,0.46
+La Liga,2021-11-06,2021/2022,True,Espanyol,Granada,2.0,0.0,1.61,2.48
+La Liga,2021-11-06,2021/2022,True,Celta Vigo,Barcelona,3.0,3.0,1.47,0.87
+La Liga,2021-11-06,2021/2022,True,CD Alaves,Levante,2.0,1.0,1.54,0.81
+La Liga,2021-11-06,2021/2022,True,Real Madrid,Rayo Vallecano,2.0,1.0,2.12,1.47
+La Liga,2021-11-07,2021/2022,True,Villarreal,Getafe,1.0,0.0,1.42,0.21
+La Liga,2021-11-07,2021/2022,True,Valencia,Atletico Madrid,3.0,3.0,1.12,2.48
+La Liga,2021-11-07,2021/2022,True,Mallorca,Elche,2.0,2.0,2.28,0.8
+La Liga,2021-11-07,2021/2022,True,Osasuna,Real Sociedad,0.0,2.0,0.38,1.45
+La Liga,2021-11-07,2021/2022,True,Real Betis,Sevilla,0.0,2.0,0.33,1.71
+La Liga,2021-11-19,2021/2022,True,Levante,Athletic Club,0.0,0.0,0.55,0.55
+La Liga,2021-11-20,2021/2022,True,Celta Vigo,Villarreal,1.0,1.0,0.97,2.98
+La Liga,2021-11-20,2021/2022,True,Sevilla,CD Alaves,2.0,2.0,1.77,1.13
+La Liga,2021-11-20,2021/2022,True,Atletico Madrid,Osasuna,1.0,0.0,1.03,0.49
+La Liga,2021-11-20,2021/2022,True,Barcelona,Espanyol,1.0,0.0,1.45,1.02
+La Liga,2021-11-21,2021/2022,True,Getafe,Cadiz,4.0,0.0,1.5,0.45
+La Liga,2021-11-21,2021/2022,True,Granada,Real Madrid,1.0,4.0,0.68,3.7
+La Liga,2021-11-21,2021/2022,True,Elche,Real Betis,0.0,3.0,0.79,1.87
+La Liga,2021-11-21,2021/2022,True,Real Sociedad,Valencia,0.0,0.0,0.33,0.71
+La Liga,2021-11-22,2021/2022,True,Rayo Vallecano,Mallorca,3.0,1.0,2.42,0.69
+La Liga,2021-11-26,2021/2022,True,Athletic Club,Granada,2.0,2.0,1.14,1.13
+La Liga,2021-11-27,2021/2022,True,CD Alaves,Celta Vigo,1.0,2.0,0.86,1.17
+La Liga,2021-11-27,2021/2022,True,Valencia,Rayo Vallecano,1.0,1.0,1.55,1.21
+La Liga,2021-11-27,2021/2022,True,Mallorca,Getafe,0.0,0.0,0.41,0.84
+La Liga,2021-11-27,2021/2022,True,Villarreal,Barcelona,1.0,3.0,1.12,3.18
+La Liga,2021-11-28,2021/2022,True,Real Betis,Levante,3.0,1.0,2.65,0.34
+La Liga,2021-11-28,2021/2022,True,Espanyol,Real Sociedad,1.0,0.0,0.39,1.71
+La Liga,2021-11-28,2021/2022,True,Cadiz,Atletico Madrid,1.0,4.0,0.99,3.83
+La Liga,2021-11-28,2021/2022,True,Real Madrid,Sevilla,2.0,1.0,1.18,0.74
+La Liga,2021-11-29,2021/2022,True,Osasuna,Elche,1.0,1.0,1.9,1.18
+La Liga,2021-12-01,2021/2022,True,Real Madrid,Athletic Club,1.0,0.0,1.91,2.42
+La Liga,2021-12-03,2021/2022,True,Granada,CD Alaves,2.0,1.0,1.01,2.13
+La Liga,2021-12-04,2021/2022,True,Sevilla,Villarreal,1.0,0.0,0.41,1.89
+La Liga,2021-12-04,2021/2022,True,Barcelona,Real Betis,0.0,1.0,0.96,0.6
+La Liga,2021-12-04,2021/2022,True,Atletico Madrid,Mallorca,1.0,2.0,1.58,0.58
+La Liga,2021-12-04,2021/2022,True,Real Sociedad,Real Madrid,0.0,2.0,0.71,1.59
+La Liga,2021-12-05,2021/2022,True,Rayo Vallecano,Espanyol,1.0,0.0,0.44,0.59
+La Liga,2021-12-05,2021/2022,True,Elche,Cadiz,3.0,1.0,2.39,1.76
+La Liga,2021-12-05,2021/2022,True,Levante,Osasuna,0.0,0.0,0.47,0.3
+La Liga,2021-12-05,2021/2022,True,Celta Vigo,Valencia,1.0,2.0,0.88,1.3
+La Liga,2021-12-06,2021/2022,True,Getafe,Athletic Club,0.0,0.0,1.23,0.5
+La Liga,2021-12-10,2021/2022,True,Mallorca,Celta Vigo,0.0,0.0,0.79,1.03
+La Liga,2021-12-11,2021/2022,True,Espanyol,Levante,4.0,3.0,2.31,3.24
+La Liga,2021-12-11,2021/2022,True,CD Alaves,Getafe,1.0,1.0,0.66,1.03
+La Liga,2021-12-11,2021/2022,True,Valencia,Elche,2.0,1.0,1.95,0.99
+La Liga,2021-12-11,2021/2022,True,Athletic Club,Sevilla,0.0,1.0,1.38,0.22
+La Liga,2021-12-12,2021/2022,True,Villarreal,Rayo Vallecano,2.0,0.0,2.4,1.54
+La Liga,2021-12-12,2021/2022,True,Osasuna,Barcelona,2.0,2.0,0.3,0.94
+La Liga,2021-12-12,2021/2022,True,Real Betis,Real Sociedad,4.0,0.0,1.55,0.96
+La Liga,2021-12-12,2021/2022,True,Real Madrid,Atletico Madrid,2.0,0.0,0.43,0.72
+La Liga,2021-12-13,2021/2022,True,Cadiz,Granada,1.0,1.0,0.69,1.05
+La Liga,2021-12-17,2021/2022,True,Celta Vigo,Espanyol,3.0,1.0,1.15,0.44
+La Liga,2021-12-18,2021/2022,True,Rayo Vallecano,CD Alaves,2.0,0.0,1.88,0.22
+La Liga,2021-12-18,2021/2022,True,Real Sociedad,Villarreal,1.0,3.0,0.9,2.88
+La Liga,2021-12-18,2021/2022,True,Barcelona,Elche,3.0,2.0,2.72,1.34
+La Liga,2021-12-18,2021/2022,True,Sevilla,Atletico Madrid,2.0,1.0,0.51,0.99
+La Liga,2021-12-19,2021/2022,True,Granada,Mallorca,4.0,1.0,1.91,0.94
+La Liga,2021-12-19,2021/2022,True,Athletic Club,Real Betis,3.0,2.0,1.32,2.08
+La Liga,2021-12-19,2021/2022,True,Getafe,Osasuna,1.0,0.0,1.09,0.59
+La Liga,2021-12-19,2021/2022,True,Real Madrid,Cadiz,0.0,0.0,2.02,0.21
+La Liga,2021-12-20,2021/2022,True,Levante,Valencia,3.0,4.0,2.86,2.0
+La Liga,2021-12-21,2021/2022,True,Villarreal,CD Alaves,5.0,2.0,3.45,0.76
+La Liga,2021-12-21,2021/2022,True,Sevilla,Barcelona,1.0,1.0,0.31,1.87
+La Liga,2021-12-22,2021/2022,True,Granada,Atletico Madrid,2.0,1.0,0.64,1.47
+La Liga,2021-12-22,2021/2022,True,Athletic Club,Real Madrid,1.0,2.0,0.97,1.09
+La Liga,2021-12-31,2021/2022,True,Valencia,Espanyol,1.0,2.0,0.75,2.04
+La Liga,2022-01-02,2021/2022,True,Getafe,Real Madrid,1.0,0.0,0.86,0.68
+La Liga,2022-01-02,2021/2022,True,Atletico Madrid,Rayo Vallecano,2.0,0.0,1.69,0.07
+La Liga,2022-01-02,2021/2022,True,Elche,Granada,0.0,0.0,1.19,1.22
+La Liga,2022-01-02,2021/2022,True,CD Alaves,Real Sociedad,1.0,1.0,1.74,0.88
+La Liga,2022-01-02,2021/2022,True,Real Betis,Celta Vigo,0.0,2.0,1.38,2.57
+La Liga,2022-01-02,2021/2022,True,Mallorca,Barcelona,0.0,1.0,0.76,1.31
+La Liga,2022-01-03,2021/2022,True,Villarreal,Levante,5.0,0.0,3.36,0.44
+La Liga,2022-01-03,2021/2022,True,Osasuna,Athletic Club,1.0,3.0,0.89,1.37
+La Liga,2022-01-03,2021/2022,True,Cadiz,Sevilla,0.0,1.0,0.23,0.93
+La Liga,2022-01-08,2021/2022,True,Levante,Mallorca,2.0,0.0,1.18,1.24
+La Liga,2022-01-08,2021/2022,True,Real Sociedad,Celta Vigo,1.0,0.0,1.68,0.42
+La Liga,2022-01-08,2021/2022,True,Granada,Barcelona,1.0,1.0,0.93,0.65
+La Liga,2022-01-08,2021/2022,True,Real Madrid,Valencia,4.0,1.0,3.9,1.28
+La Liga,2022-01-09,2021/2022,True,Rayo Vallecano,Real Betis,1.0,1.0,1.27,1.43
+La Liga,2022-01-09,2021/2022,True,Sevilla,Getafe,1.0,0.0,0.65,0.13
+La Liga,2022-01-09,2021/2022,True,CD Alaves,Athletic Club,0.0,0.0,0.55,0.83
+La Liga,2022-01-09,2021/2022,True,Osasuna,Cadiz,2.0,0.0,2.22,0.23
+La Liga,2022-01-09,2021/2022,True,Villarreal,Atletico Madrid,2.0,2.0,2.15,0.73
+La Liga,2022-01-10,2021/2022,True,Espanyol,Elche,1.0,2.0,1.28,1.01
+La Liga,2022-01-16,2021/2022,True,Elche,Villarreal,1.0,0.0,0.19,0.57
+La Liga,2022-01-18,2021/2022,True,Real Betis,CD Alaves,4.0,0.0,2.41,0.34
+La Liga,2022-01-18,2021/2022,True,Cadiz,Espanyol,2.0,2.0,0.94,1.68
+La Liga,2022-01-19,2021/2022,True,Celta Vigo,Osasuna,2.0,0.0,1.19,0.68
+La Liga,2022-01-19,2021/2022,True,Valencia,Sevilla,1.0,1.0,0.52,0.88
+La Liga,2022-01-20,2021/2022,True,Getafe,Granada,4.0,2.0,0.89,0.75
+La Liga,2022-01-21,2021/2022,True,Espanyol,Real Betis,1.0,4.0,1.43,2.79
+La Liga,2022-01-22,2021/2022,True,Levante,Cadiz,0.0,2.0,1.02,0.75
+La Liga,2022-01-22,2021/2022,True,Villarreal,Mallorca,3.0,0.0,1.88,1.24
+La Liga,2022-01-22,2021/2022,True,Sevilla,Celta Vigo,2.0,2.0,1.08,0.7
+La Liga,2022-01-22,2021/2022,True,Atletico Madrid,Valencia,3.0,2.0,2.48,0.71
+La Liga,2022-01-23,2021/2022,True,Granada,Osasuna,0.0,2.0,0.71,2.07
+La Liga,2022-01-23,2021/2022,True,Real Madrid,Elche,2.0,2.0,3.45,0.64
+La Liga,2022-01-23,2021/2022,True,Rayo Vallecano,Athletic Club,0.0,1.0,2.14,0.66
+La Liga,2022-01-23,2021/2022,True,Real Sociedad,Getafe,0.0,0.0,0.76,0.28
+La Liga,2022-01-23,2021/2022,True,CD Alaves,Barcelona,0.0,1.0,0.62,1.47
+La Liga,2022-02-04,2021/2022,True,Getafe,Levante,3.0,0.0,1.07,0.5
+La Liga,2022-02-05,2021/2022,True,Elche,CD Alaves,3.0,1.0,0.92,0.87
+La Liga,2022-02-05,2021/2022,True,Mallorca,Cadiz,2.0,1.0,2.34,0.8
+La Liga,2022-02-05,2021/2022,True,Celta Vigo,Rayo Vallecano,2.0,0.0,0.73,0.78
+La Liga,2022-02-05,2021/2022,True,Osasuna,Sevilla,0.0,0.0,0.38,1.34
+La Liga,2022-02-06,2021/2022,True,Valencia,Real Sociedad,0.0,0.0,1.16,0.41
+La Liga,2022-02-06,2021/2022,True,Barcelona,Atletico Madrid,4.0,2.0,0.95,1.36
+La Liga,2022-02-06,2021/2022,True,Real Betis,Villarreal,0.0,2.0,0.61,0.97
+La Liga,2022-02-06,2021/2022,True,Real Madrid,Granada,1.0,0.0,2.13,0.57
+La Liga,2022-02-07,2021/2022,True,Athletic Club,Espanyol,2.0,1.0,0.81,0.55
+La Liga,2022-02-11,2021/2022,True,Sevilla,Elche,2.0,0.0,0.75,0.3
+La Liga,2022-02-12,2021/2022,True,Cadiz,Celta Vigo,0.0,0.0,0.67,1.0
+La Liga,2022-02-12,2021/2022,True,Villarreal,Real Madrid,0.0,0.0,0.47,1.72
+La Liga,2022-02-12,2021/2022,True,Rayo Vallecano,Osasuna,0.0,3.0,1.02,1.58
+La Liga,2022-02-12,2021/2022,True,Atletico Madrid,Getafe,4.0,3.0,2.53,2.15
+La Liga,2022-02-13,2021/2022,True,CD Alaves,Valencia,2.0,1.0,1.81,1.26
+La Liga,2022-02-13,2021/2022,True,Levante,Real Betis,2.0,4.0,1.73,2.71
+La Liga,2022-02-13,2021/2022,True,Real Sociedad,Granada,2.0,0.0,2.96,1.17
+La Liga,2022-02-13,2021/2022,True,Espanyol,Barcelona,2.0,2.0,1.06,1.48
+La Liga,2022-02-14,2021/2022,True,Mallorca,Athletic Club,3.0,2.0,1.95,1.79
+La Liga,2022-02-16,2021/2022,True,Atletico Madrid,Levante,0.0,1.0,1.3,0.57
+La Liga,2022-02-18,2021/2022,True,Elche,Rayo Vallecano,2.0,1.0,2.45,0.71
+La Liga,2022-02-19,2021/2022,True,Granada,Villarreal,1.0,4.0,2.33,5.34
+La Liga,2022-02-19,2021/2022,True,Osasuna,Atletico Madrid,0.0,3.0,0.61,1.06
+La Liga,2022-02-19,2021/2022,True,Cadiz,Getafe,1.0,1.0,0.51,0.92
+La Liga,2022-02-19,2021/2022,True,Real Madrid,CD Alaves,3.0,0.0,2.9,0.58
+La Liga,2022-02-20,2021/2022,True,Espanyol,Sevilla,1.0,1.0,1.54,0.48
+La Liga,2022-02-20,2021/2022,True,Valencia,Barcelona,1.0,4.0,0.8,1.99
+La Liga,2022-02-20,2021/2022,True,Real Betis,Mallorca,2.0,1.0,1.54,0.42
+La Liga,2022-02-20,2021/2022,True,Athletic Club,Real Sociedad,4.0,0.0,2.95,0.37
+La Liga,2022-02-21,2021/2022,True,Celta Vigo,Levante,1.0,1.0,1.25,1.73
+La Liga,2022-02-25,2021/2022,True,Levante,Elche,3.0,0.0,2.05,0.56
+La Liga,2022-02-26,2021/2022,True,Mallorca,Valencia,0.0,1.0,1.79,0.77
+La Liga,2022-02-26,2021/2022,True,Getafe,CD Alaves,2.0,2.0,1.07,1.01
+La Liga,2022-02-26,2021/2022,True,Rayo Vallecano,Real Madrid,0.0,1.0,0.92,2.11
+La Liga,2022-02-26,2021/2022,True,Atletico Madrid,Celta Vigo,2.0,0.0,0.6,0.8
+La Liga,2022-02-27,2021/2022,True,Villarreal,Espanyol,5.0,1.0,4.4,0.79
+La Liga,2022-02-27,2021/2022,True,Sevilla,Real Betis,2.0,1.0,1.44,1.12
+La Liga,2022-02-27,2021/2022,True,Real Sociedad,Osasuna,1.0,0.0,1.03,0.44
+La Liga,2022-02-27,2021/2022,True,Barcelona,Athletic Club,4.0,0.0,3.13,0.29
+La Liga,2022-02-28,2021/2022,True,Granada,Cadiz,0.0,0.0,0.2,0.71
+La Liga,2022-03-02,2021/2022,True,Mallorca,Real Sociedad,0.0,2.0,0.55,1.59
+La Liga,2022-03-04,2021/2022,True,CD Alaves,Sevilla,0.0,0.0,1.41,1.17
+La Liga,2022-03-05,2021/2022,True,Osasuna,Villarreal,1.0,0.0,0.79,0.49
+La Liga,2022-03-05,2021/2022,True,Espanyol,Getafe,2.0,0.0,0.09,0.39
+La Liga,2022-03-05,2021/2022,True,Valencia,Granada,3.0,1.0,1.61,0.43
+La Liga,2022-03-05,2021/2022,True,Real Madrid,Real Sociedad,4.0,1.0,1.99,0.79
+La Liga,2022-03-06,2021/2022,True,Cadiz,Rayo Vallecano,2.0,0.0,1.15,1.13
+La Liga,2022-03-06,2021/2022,True,Elche,Barcelona,1.0,2.0,1.22,4.12
+La Liga,2022-03-06,2021/2022,True,Celta Vigo,Mallorca,4.0,3.0,2.75,1.59
+La Liga,2022-03-06,2021/2022,True,Real Betis,Atletico Madrid,1.0,3.0,1.02,2.84
+La Liga,2022-03-07,2021/2022,True,Athletic Club,Levante,3.0,1.0,3.15,0.52
+La Liga,2022-03-11,2021/2022,True,Atletico Madrid,Cadiz,2.0,1.0,0.36,0.83
+La Liga,2022-03-12,2021/2022,True,Levante,Espanyol,1.0,1.0,1.07,0.38
+La Liga,2022-03-12,2021/2022,True,Granada,Elche,0.0,1.0,1.39,1.19
+La Liga,2022-03-12,2021/2022,True,Villarreal,Celta Vigo,1.0,0.0,1.26,0.83
+La Liga,2022-03-12,2021/2022,True,Getafe,Valencia,0.0,0.0,0.91,0.25
+La Liga,2022-03-13,2021/2022,True,Rayo Vallecano,Sevilla,1.0,1.0,0.37,0.28
+La Liga,2022-03-13,2021/2022,True,Real Betis,Athletic Club,1.0,0.0,0.68,0.51
+La Liga,2022-03-13,2021/2022,True,Real Sociedad,CD Alaves,1.0,0.0,2.31,0.78
+La Liga,2022-03-13,2021/2022,True,Barcelona,Osasuna,4.0,0.0,3.67,0.17
+La Liga,2022-03-14,2021/2022,True,Mallorca,Real Madrid,0.0,3.0,1.38,1.85
+La Liga,2022-03-18,2021/2022,True,Athletic Club,Getafe,1.0,1.0,2.0,0.37
+La Liga,2022-03-19,2021/2022,True,CD Alaves,Granada,2.0,3.0,1.65,2.15
+La Liga,2022-03-19,2021/2022,True,Elche,Valencia,0.0,1.0,0.59,0.91
+La Liga,2022-03-19,2021/2022,True,Osasuna,Levante,3.0,1.0,2.32,0.99
+La Liga,2022-03-19,2021/2022,True,Rayo Vallecano,Atletico Madrid,0.0,1.0,1.57,1.37
+La Liga,2022-03-20,2021/2022,True,Espanyol,Mallorca,1.0,0.0,1.31,0.59
+La Liga,2022-03-20,2021/2022,True,Cadiz,Villarreal,1.0,0.0,1.73,0.16
+La Liga,2022-03-20,2021/2022,True,Celta Vigo,Real Betis,0.0,0.0,0.87,0.51
+La Liga,2022-03-20,2021/2022,True,Sevilla,Real Sociedad,0.0,0.0,0.32,1.1
+La Liga,2022-03-20,2021/2022,True,Real Madrid,Barcelona,0.0,4.0,0.83,3.46
+La Liga,2022-04-02,2021/2022,True,Getafe,Mallorca,1.0,0.0,1.75,0.42
+La Liga,2022-04-02,2021/2022,True,Levante,Villarreal,2.0,0.0,2.04,1.22
+La Liga,2022-04-02,2021/2022,True,Celta Vigo,Real Madrid,1.0,2.0,1.65,2.88
+La Liga,2022-04-02,2021/2022,True,Atletico Madrid,CD Alaves,4.0,1.0,2.74,0.53
+La Liga,2022-04-03,2021/2022,True,Athletic Club,Elche,2.0,1.0,1.9,0.5
+La Liga,2022-04-03,2021/2022,True,Real Betis,Osasuna,4.0,1.0,4.6,0.36
+La Liga,2022-04-03,2021/2022,True,Granada,Rayo Vallecano,2.0,2.0,2.06,0.84
+La Liga,2022-04-03,2021/2022,True,Valencia,Cadiz,0.0,0.0,0.16,0.1
+La Liga,2022-04-03,2021/2022,True,Barcelona,Sevilla,1.0,0.0,1.94,0.64
+La Liga,2022-04-04,2021/2022,True,Real Sociedad,Espanyol,1.0,0.0,2.15,0.43
+La Liga,2022-04-08,2021/2022,True,Sevilla,Granada,4.0,2.0,2.86,0.86
+La Liga,2022-04-09,2021/2022,True,Cadiz,Real Betis,1.0,2.0,1.26,1.33
+La Liga,2022-04-09,2021/2022,True,Mallorca,Atletico Madrid,1.0,0.0,1.11,0.54
+La Liga,2022-04-09,2021/2022,True,Villarreal,Athletic Club,1.0,1.0,1.27,1.98
+La Liga,2022-04-09,2021/2022,True,Real Madrid,Getafe,2.0,0.0,1.56,0.38
+La Liga,2022-04-10,2021/2022,True,Osasuna,CD Alaves,1.0,0.0,2.1,0.46
+La Liga,2022-04-10,2021/2022,True,Espanyol,Celta Vigo,1.0,0.0,1.28,0.85
+La Liga,2022-04-10,2021/2022,True,Elche,Real Sociedad,1.0,2.0,0.64,2.19
+La Liga,2022-04-10,2021/2022,True,Levante,Barcelona,2.0,3.0,3.38,1.22
+La Liga,2022-04-11,2021/2022,True,Rayo Vallecano,Valencia,1.0,1.0,0.64,0.47
+La Liga,2022-04-15,2021/2022,True,Real Sociedad,Real Betis,0.0,0.0,0.9,0.46
+La Liga,2022-04-16,2021/2022,True,Elche,Mallorca,3.0,0.0,1.57,1.55
+La Liga,2022-04-16,2021/2022,True,CD Alaves,Rayo Vallecano,1.0,0.0,0.53,1.01
+La Liga,2022-04-16,2021/2022,True,Valencia,Osasuna,1.0,2.0,1.3,1.08
+La Liga,2022-04-16,2021/2022,True,Getafe,Villarreal,1.0,2.0,0.99,2.67
+La Liga,2022-04-17,2021/2022,True,Granada,Levante,1.0,4.0,1.09,4.36
+La Liga,2022-04-17,2021/2022,True,Atletico Madrid,Espanyol,2.0,1.0,1.26,0.72
+La Liga,2022-04-17,2021/2022,True,Athletic Club,Celta Vigo,0.0,2.0,0.48,0.36
+La Liga,2022-04-17,2021/2022,True,Sevilla,Real Madrid,2.0,3.0,0.86,1.63
+La Liga,2022-04-18,2021/2022,True,Barcelona,Cadiz,0.0,1.0,1.22,1.65
+La Liga,2022-04-19,2021/2022,True,Mallorca,CD Alaves,2.0,1.0,0.82,0.65
+La Liga,2022-04-19,2021/2022,True,Real Betis,Elche,0.0,1.0,1.22,0.62
+La Liga,2022-04-19,2021/2022,True,Villarreal,Valencia,2.0,0.0,2.46,0.32
+La Liga,2022-04-20,2021/2022,True,Atletico Madrid,Granada,0.0,0.0,1.12,0.16
+La Liga,2022-04-20,2021/2022,True,Celta Vigo,Getafe,0.0,2.0,0.36,1.13
+La Liga,2022-04-20,2021/2022,True,Osasuna,Real Madrid,1.0,3.0,1.08,4.59
+La Liga,2022-04-21,2021/2022,True,Espanyol,Rayo Vallecano,0.0,1.0,0.37,0.6
+La Liga,2022-04-21,2021/2022,True,Levante,Sevilla,2.0,3.0,2.76,1.84
+La Liga,2022-04-21,2021/2022,True,Cadiz,Athletic Club,2.0,3.0,3.17,1.7
+La Liga,2022-04-21,2021/2022,True,Real Sociedad,Barcelona,0.0,1.0,0.99,1.17
+La Liga,2022-04-24,2021/2022,True,Barcelona,Rayo Vallecano,0.0,1.0,1.75,0.32
+La Liga,2022-04-29,2021/2022,True,Sevilla,Cadiz,1.0,1.0,0.76,0.91
+La Liga,2022-04-30,2021/2022,True,CD Alaves,Villarreal,2.0,1.0,2.44,1.31
+La Liga,2022-04-30,2021/2022,True,Real Madrid,Espanyol,4.0,0.0,1.7,1.36
+La Liga,2022-04-30,2021/2022,True,Valencia,Levante,1.0,1.0,0.5,1.3
+La Liga,2022-04-30,2021/2022,True,Athletic Club,Atletico Madrid,2.0,0.0,1.29,0.67
+La Liga,2022-05-01,2021/2022,True,Elche,Osasuna,1.0,1.0,0.61,1.14
+La Liga,2022-05-01,2021/2022,True,Granada,Celta Vigo,1.0,1.0,0.9,1.13
+La Liga,2022-05-01,2021/2022,True,Rayo Vallecano,Real Sociedad,1.0,1.0,1.4,0.67
+La Liga,2022-05-01,2021/2022,True,Barcelona,Mallorca,2.0,1.0,1.19,0.96
+La Liga,2022-05-02,2021/2022,True,Getafe,Real Betis,0.0,0.0,0.75,0.25
+La Liga,2022-05-06,2021/2022,True,Levante,Real Sociedad,2.0,1.0,2.1,3.11
+La Liga,2022-05-07,2021/2022,True,Mallorca,Granada,2.0,6.0,1.51,1.69
+La Liga,2022-05-07,2021/2022,True,Athletic Club,Valencia,0.0,0.0,1.29,0.11
+La Liga,2022-05-07,2021/2022,True,Cadiz,Elche,3.0,0.0,1.8,0.05
+La Liga,2022-05-07,2021/2022,True,Celta Vigo,CD Alaves,4.0,0.0,1.85,0.54
+La Liga,2022-05-07,2021/2022,True,Real Betis,Barcelona,1.0,2.0,0.69,1.16
+La Liga,2022-05-08,2021/2022,True,Getafe,Rayo Vallecano,0.0,0.0,0.61,0.71
+La Liga,2022-05-08,2021/2022,True,Villarreal,Sevilla,1.0,1.0,2.23,0.77
+La Liga,2022-05-08,2021/2022,True,Espanyol,Osasuna,1.0,1.0,0.65,0.64
+La Liga,2022-05-08,2021/2022,True,Atletico Madrid,Real Madrid,1.0,0.0,2.31,1.07
+La Liga,2022-05-10,2021/2022,True,Valencia,Real Betis,0.0,3.0,1.26,1.56
+La Liga,2022-05-10,2021/2022,True,Granada,Athletic Club,1.0,0.0,0.87,0.32
+La Liga,2022-05-10,2021/2022,True,Barcelona,Celta Vigo,3.0,1.0,1.07,0.74
+La Liga,2022-05-11,2021/2022,True,CD Alaves,Espanyol,2.0,1.0,2.61,0.96
+La Liga,2022-05-11,2021/2022,True,Osasuna,Getafe,1.0,1.0,0.58,0.29
+La Liga,2022-05-11,2021/2022,True,Sevilla,Mallorca,0.0,0.0,1.5,0.59
+La Liga,2022-05-11,2021/2022,True,Elche,Atletico Madrid,0.0,2.0,0.22,1.91
+La Liga,2022-05-12,2021/2022,True,Real Sociedad,Cadiz,3.0,0.0,3.01,0.76
+La Liga,2022-05-12,2021/2022,True,Rayo Vallecano,Villarreal,1.0,5.0,1.77,2.55
+La Liga,2022-05-12,2021/2022,True,Real Madrid,Levante,6.0,0.0,3.48,0.99
+La Liga,2022-05-14,2021/2022,True,Espanyol,Valencia,1.0,1.0,0.69,1.63
+La Liga,2022-05-15,2021/2022,True,Athletic Club,Osasuna,2.0,0.0,1.34,0.9
+La Liga,2022-05-15,2021/2022,True,Atletico Madrid,Sevilla,1.0,1.0,1.2,0.75
+La Liga,2022-05-15,2021/2022,True,Cadiz,Real Madrid,1.0,1.0,2.69,1.65
+La Liga,2022-05-15,2021/2022,True,Celta Vigo,Elche,1.0,0.0,2.1,0.46
+La Liga,2022-05-15,2021/2022,True,Getafe,Barcelona,0.0,0.0,0.31,0.17
+La Liga,2022-05-15,2021/2022,True,Levante,CD Alaves,3.0,1.0,1.96,0.53
+La Liga,2022-05-15,2021/2022,True,Mallorca,Rayo Vallecano,2.0,1.0,0.81,1.35
+La Liga,2022-05-15,2021/2022,True,Real Betis,Granada,2.0,0.0,2.35,1.13
+La Liga,2022-05-15,2021/2022,True,Villarreal,Real Sociedad,1.0,2.0,0.72,2.14
+La Liga,2022-05-20,2021/2022,True,Rayo Vallecano,Levante,2.0,4.0,2.49,2.52
+La Liga,2022-05-20,2021/2022,True,Real Madrid,Real Betis,0.0,0.0,1.2,0.89
+La Liga,2022-05-21,2021/2022,True,Valencia,Celta Vigo,2.0,0.0,1.62,0.94
+La Liga,2022-05-22,2021/2022,True,Elche,Getafe,3.0,1.0,2.88,1.34
+La Liga,2022-05-22,2021/2022,True,CD Alaves,Cadiz,0.0,1.0,0.43,1.81
+La Liga,2022-05-22,2021/2022,True,Granada,Espanyol,0.0,0.0,1.68,0.3
+La Liga,2022-05-22,2021/2022,True,Osasuna,Mallorca,0.0,2.0,0.81,1.18
+La Liga,2022-05-22,2021/2022,True,Barcelona,Villarreal,0.0,2.0,0.57,0.8
+La Liga,2022-05-22,2021/2022,True,Real Sociedad,Atletico Madrid,1.0,2.0,2.57,0.7
+La Liga,2022-05-22,2021/2022,True,Sevilla,Athletic Club,1.0,0.0,1.24,0.99
+La Liga,2022-08-12,2022/2023,True,Osasuna,Sevilla,2.0,1.0,1.52,0.85
+La Liga,2022-08-13,2022/2023,True,Celta Vigo,Espanyol,2.0,2.0,0.41,1.14
+La Liga,2022-08-13,2022/2023,True,Valladolid,Villarreal,0.0,3.0,1.02,1.5
+La Liga,2022-08-13,2022/2023,True,Barcelona,Rayo Vallecano,0.0,0.0,1.93,0.5
+La Liga,2022-08-14,2022/2023,True,Cadiz,Real Sociedad,0.0,1.0,0.24,1.52
+La Liga,2022-08-14,2022/2023,True,Valencia,Girona,1.0,0.0,1.62,0.12
+La Liga,2022-08-14,2022/2023,True,Almeria,Real Madrid,1.0,2.0,0.71,2.12
+La Liga,2022-08-15,2022/2023,True,Athletic Club,Mallorca,0.0,0.0,1.59,0.36
+La Liga,2022-08-15,2022/2023,True,Getafe,Atletico Madrid,0.0,3.0,0.7,1.18
+La Liga,2022-08-15,2022/2023,True,Real Betis,Elche,3.0,0.0,3.16,0.43
+La Liga,2022-08-19,2022/2023,True,Espanyol,Rayo Vallecano,0.0,2.0,0.87,1.4
+La Liga,2022-08-19,2022/2023,True,Sevilla,Valladolid,1.0,1.0,2.04,0.5
+La Liga,2022-08-20,2022/2023,True,Osasuna,Cadiz,2.0,0.0,2.8,0.99
+La Liga,2022-08-20,2022/2023,True,Mallorca,Real Betis,1.0,2.0,0.59,2.15
+La Liga,2022-08-20,2022/2023,True,Celta Vigo,Real Madrid,1.0,4.0,1.41,3.8
+La Liga,2022-08-21,2022/2023,True,Athletic Club,Valencia,1.0,0.0,1.05,0.73
+La Liga,2022-08-21,2022/2023,True,Atletico Madrid,Villarreal,0.0,2.0,1.58,1.78
+La Liga,2022-08-21,2022/2023,True,Real Sociedad,Barcelona,1.0,4.0,0.86,2.1
+La Liga,2022-08-22,2022/2023,True,Elche,Almeria,1.0,1.0,1.04,0.75
+La Liga,2022-08-22,2022/2023,True,Girona,Getafe,3.0,1.0,1.08,0.66
+La Liga,2022-08-26,2022/2023,True,Girona,Celta Vigo,0.0,1.0,0.97,1.0
+La Liga,2022-08-26,2022/2023,True,Real Betis,Osasuna,1.0,0.0,0.51,1.33
+La Liga,2022-08-27,2022/2023,True,Elche,Real Sociedad,0.0,1.0,0.68,1.77
+La Liga,2022-08-27,2022/2023,True,Rayo Vallecano,Mallorca,0.0,2.0,0.74,0.82
+La Liga,2022-08-27,2022/2023,True,Almeria,Sevilla,2.0,1.0,2.3,0.99
+La Liga,2022-08-28,2022/2023,True,Getafe,Villarreal,0.0,0.0,0.3,1.08
+La Liga,2022-08-28,2022/2023,True,Barcelona,Valladolid,4.0,0.0,2.67,0.78
+La Liga,2022-08-28,2022/2023,True,Espanyol,Real Madrid,1.0,3.0,1.3,2.09
+La Liga,2022-08-29,2022/2023,True,Cadiz,Athletic Club,0.0,4.0,0.37,2.49
+La Liga,2022-08-29,2022/2023,True,Valencia,Atletico Madrid,0.0,1.0,0.51,1.57
+La Liga,2022-09-02,2022/2023,True,Celta Vigo,Cadiz,3.0,0.0,0.72,0.27
+La Liga,2022-09-03,2022/2023,True,Mallorca,Girona,1.0,1.0,0.68,1.19
+La Liga,2022-09-03,2022/2023,True,Real Madrid,Real Betis,2.0,1.0,2.89,0.53
+La Liga,2022-09-03,2022/2023,True,Real Sociedad,Atletico Madrid,1.0,1.0,1.47,1.47
+La Liga,2022-09-03,2022/2023,True,Sevilla,Barcelona,0.0,3.0,1.03,3.98
+La Liga,2022-09-04,2022/2023,True,Osasuna,Rayo Vallecano,2.0,1.0,1.98,0.17
+La Liga,2022-09-04,2022/2023,True,Athletic Club,Espanyol,0.0,1.0,1.17,0.61
+La Liga,2022-09-04,2022/2023,True,Villarreal,Elche,4.0,0.0,3.61,0.56
+La Liga,2022-09-04,2022/2023,True,Valencia,Getafe,5.0,1.0,2.3,0.22
+La Liga,2022-09-05,2022/2023,True,Valladolid,Almeria,1.0,0.0,1.17,0.54
+La Liga,2022-09-09,2022/2023,True,Girona,Valladolid,2.0,1.0,1.69,0.65
+La Liga,2022-09-10,2022/2023,True,Rayo Vallecano,Valencia,2.0,1.0,1.59,1.8
+La Liga,2022-09-10,2022/2023,True,Espanyol,Sevilla,2.0,3.0,2.47,2.04
+La Liga,2022-09-10,2022/2023,True,Cadiz,Barcelona,0.0,4.0,0.39,3.45
+La Liga,2022-09-10,2022/2023,True,Atletico Madrid,Celta Vigo,4.0,1.0,0.72,1.72
+La Liga,2022-09-11,2022/2023,True,Real Madrid,Mallorca,4.0,1.0,2.31,0.5
+La Liga,2022-09-11,2022/2023,True,Elche,Athletic Club,1.0,4.0,0.88,2.66
+La Liga,2022-09-11,2022/2023,True,Getafe,Real Sociedad,2.0,1.0,1.14,1.25
+La Liga,2022-09-11,2022/2023,True,Real Betis,Villarreal,1.0,0.0,1.9,1.7
+La Liga,2022-09-12,2022/2023,True,Almeria,Osasuna,0.0,1.0,0.23,1.98
+La Liga,2022-09-16,2022/2023,True,Valladolid,Cadiz,0.0,1.0,1.5,0.31
+La Liga,2022-09-17,2022/2023,True,Mallorca,Almeria,1.0,0.0,0.6,0.39
+La Liga,2022-09-17,2022/2023,True,Barcelona,Elche,3.0,0.0,4.09,0.03
+La Liga,2022-09-17,2022/2023,True,Valencia,Celta Vigo,3.0,0.0,1.72,0.48
+La Liga,2022-09-17,2022/2023,True,Athletic Club,Rayo Vallecano,3.0,2.0,1.97,0.73
+La Liga,2022-09-18,2022/2023,True,Osasuna,Getafe,0.0,2.0,0.52,0.89
+La Liga,2022-09-18,2022/2023,True,Villarreal,Sevilla,1.0,1.0,1.46,0.58
+La Liga,2022-09-18,2022/2023,True,Real Betis,Girona,2.0,1.0,1.57,1.29
+La Liga,2022-09-18,2022/2023,True,Real Sociedad,Espanyol,2.0,1.0,1.91,0.83
+La Liga,2022-09-18,2022/2023,True,Atletico Madrid,Real Madrid,1.0,2.0,1.04,0.88
+La Liga,2022-09-30,2022/2023,True,Athletic Club,Almeria,4.0,0.0,2.06,0.73
+La Liga,2022-10-01,2022/2023,True,Cadiz,Villarreal,0.0,0.0,0.68,1.64
+La Liga,2022-10-01,2022/2023,True,Getafe,Valladolid,2.0,3.0,3.0,1.55
+La Liga,2022-10-01,2022/2023,True,Sevilla,Atletico Madrid,0.0,2.0,0.54,2.36
+La Liga,2022-10-01,2022/2023,True,Mallorca,Barcelona,0.0,1.0,1.16,0.73
+La Liga,2022-10-02,2022/2023,True,Espanyol,Valencia,2.0,2.0,0.77,1.06
+La Liga,2022-10-02,2022/2023,True,Celta Vigo,Real Betis,1.0,0.0,0.86,0.88
+La Liga,2022-10-02,2022/2023,True,Girona,Real Sociedad,3.0,5.0,1.07,2.08
+La Liga,2022-10-02,2022/2023,True,Real Madrid,Osasuna,1.0,1.0,2.53,0.53
+La Liga,2022-10-03,2022/2023,True,Rayo Vallecano,Elche,2.0,1.0,0.87,1.14
+La Liga,2022-10-07,2022/2023,True,Osasuna,Valencia,1.0,2.0,1.57,2.13
+La Liga,2022-10-08,2022/2023,True,Almeria,Rayo Vallecano,3.0,1.0,1.19,0.85
+La Liga,2022-10-08,2022/2023,True,Atletico Madrid,Girona,2.0,1.0,1.93,0.81
+La Liga,2022-10-08,2022/2023,True,Sevilla,Athletic Club,1.0,1.0,0.97,1.73
+La Liga,2022-10-08,2022/2023,True,Getafe,Real Madrid,0.0,1.0,0.31,1.41
+La Liga,2022-10-09,2022/2023,True,Valladolid,Real Betis,0.0,0.0,0.6,0.54
+La Liga,2022-10-09,2022/2023,True,Cadiz,Espanyol,2.0,2.0,1.27,1.27
+La Liga,2022-10-09,2022/2023,True,Real Sociedad,Villarreal,1.0,0.0,1.32,0.21
+La Liga,2022-10-09,2022/2023,True,Barcelona,Celta Vigo,1.0,0.0,2.01,1.57
+La Liga,2022-10-10,2022/2023,True,Elche,Mallorca,1.0,1.0,0.53,2.72
+La Liga,2022-10-14,2022/2023,True,Rayo Vallecano,Getafe,0.0,0.0,1.64,0.47
+La Liga,2022-10-15,2022/2023,True,Girona,Cadiz,1.0,1.0,2.34,1.07
+La Liga,2022-10-15,2022/2023,True,Valencia,Elche,2.0,2.0,2.69,1.69
+La Liga,2022-10-15,2022/2023,True,Mallorca,Sevilla,0.0,1.0,0.71,0.16
+La Liga,2022-10-15,2022/2023,True,Athletic Club,Atletico Madrid,0.0,1.0,1.23,0.35
+La Liga,2022-10-16,2022/2023,True,Celta Vigo,Real Sociedad,1.0,2.0,0.52,0.81
+La Liga,2022-10-16,2022/2023,True,Real Madrid,Barcelona,3.0,1.0,1.14,2.16
+La Liga,2022-10-16,2022/2023,True,Espanyol,Valladolid,1.0,0.0,1.38,0.72
+La Liga,2022-10-16,2022/2023,True,Real Betis,Almeria,3.0,1.0,2.48,0.8
+La Liga,2022-10-17,2022/2023,True,Villarreal,Osasuna,2.0,0.0,1.55,0.48
+La Liga,2022-10-18,2022/2023,True,Sevilla,Valencia,1.0,1.0,1.15,1.86
+La Liga,2022-10-18,2022/2023,True,Getafe,Athletic Club,2.0,2.0,0.86,0.96
+La Liga,2022-10-18,2022/2023,True,Atletico Madrid,Rayo Vallecano,1.0,1.0,1.1,1.89
+La Liga,2022-10-19,2022/2023,True,Cadiz,Real Betis,0.0,0.0,0.93,0.94
+La Liga,2022-10-19,2022/2023,True,Valladolid,Celta Vigo,4.0,1.0,1.48,2.68
+La Liga,2022-10-19,2022/2023,True,Real Sociedad,Mallorca,1.0,0.0,1.22,0.9
+La Liga,2022-10-19,2022/2023,True,Elche,Real Madrid,0.0,3.0,0.76,1.51
+La Liga,2022-10-20,2022/2023,True,Almeria,Girona,3.0,2.0,1.82,2.86
+La Liga,2022-10-20,2022/2023,True,Osasuna,Espanyol,1.0,0.0,1.05,1.14
+La Liga,2022-10-20,2022/2023,True,Barcelona,Villarreal,3.0,0.0,2.08,0.42
+La Liga,2022-10-22,2022/2023,True,Rayo Vallecano,Cadiz,5.0,1.0,3.79,0.23
+La Liga,2022-10-22,2022/2023,True,Valladolid,Real Sociedad,1.0,0.0,0.79,0.86
+La Liga,2022-10-22,2022/2023,True,Valencia,Mallorca,1.0,2.0,1.16,1.46
+La Liga,2022-10-22,2022/2023,True,Real Madrid,Sevilla,3.0,1.0,3.01,0.54
+La Liga,2022-10-23,2022/2023,True,Espanyol,Elche,2.0,2.0,2.21,0.48
+La Liga,2022-10-23,2022/2023,True,Real Betis,Atletico Madrid,1.0,2.0,1.46,0.83
+La Liga,2022-10-23,2022/2023,True,Girona,Osasuna,1.0,1.0,0.42,0.56
+La Liga,2022-10-23,2022/2023,True,Villarreal,Almeria,2.0,1.0,1.02,1.02
+La Liga,2022-10-23,2022/2023,True,Barcelona,Athletic Club,4.0,0.0,1.42,0.48
+La Liga,2022-10-24,2022/2023,True,Celta Vigo,Getafe,1.0,1.0,0.76,0.19
+La Liga,2022-10-28,2022/2023,True,Mallorca,Espanyol,1.0,1.0,1.41,0.26
+La Liga,2022-10-29,2022/2023,True,Almeria,Celta Vigo,3.0,1.0,2.36,0.26
+La Liga,2022-10-29,2022/2023,True,Cadiz,Atletico Madrid,3.0,2.0,1.12,1.25
+La Liga,2022-10-29,2022/2023,True,Sevilla,Rayo Vallecano,0.0,1.0,1.24,0.74
+La Liga,2022-10-29,2022/2023,True,Valencia,Barcelona,0.0,1.0,0.16,1.61
+La Liga,2022-10-30,2022/2023,True,Osasuna,Valladolid,2.0,0.0,2.49,0.46
+La Liga,2022-10-30,2022/2023,True,Real Madrid,Girona,1.0,1.0,2.59,1.42
+La Liga,2022-10-30,2022/2023,True,Athletic Club,Villarreal,1.0,0.0,1.67,0.3
+La Liga,2022-10-30,2022/2023,True,Real Sociedad,Real Betis,0.0,2.0,0.9,1.33
+La Liga,2022-10-31,2022/2023,True,Elche,Getafe,0.0,1.0,1.34,0.36
+La Liga,2022-11-04,2022/2023,True,Girona,Athletic Club,2.0,1.0,1.06,0.7
+La Liga,2022-11-05,2022/2023,True,Getafe,Cadiz,0.0,0.0,0.65,1.4
+La Liga,2022-11-05,2022/2023,True,Valladolid,Elche,2.0,1.0,1.93,0.25
+La Liga,2022-11-05,2022/2023,True,Celta Vigo,Osasuna,1.0,2.0,0.74,0.44
+La Liga,2022-11-05,2022/2023,True,Barcelona,Almeria,2.0,0.0,4.04,0.46
+La Liga,2022-11-06,2022/2023,True,Atletico Madrid,Espanyol,1.0,1.0,1.9,0.72
+La Liga,2022-11-06,2022/2023,True,Real Sociedad,Valencia,1.0,1.0,1.06,0.89
+La Liga,2022-11-06,2022/2023,True,Villarreal,Mallorca,0.0,2.0,0.5,0.43
+La Liga,2022-11-06,2022/2023,True,Real Betis,Sevilla,1.0,1.0,0.95,1.53
+La Liga,2022-11-07,2022/2023,True,Rayo Vallecano,Real Madrid,3.0,2.0,1.55,2.39
+La Liga,2022-11-08,2022/2023,True,Elche,Girona,1.0,2.0,0.6,2.39
+La Liga,2022-11-08,2022/2023,True,Athletic Club,Valladolid,3.0,0.0,2.1,0.46
+La Liga,2022-11-08,2022/2023,True,Osasuna,Barcelona,1.0,2.0,1.06,0.78
+La Liga,2022-11-09,2022/2023,True,Almeria,Getafe,1.0,0.0,0.55,0.4
+La Liga,2022-11-09,2022/2023,True,Sevilla,Real Sociedad,1.0,2.0,0.62,1.67
+La Liga,2022-11-09,2022/2023,True,Espanyol,Villarreal,0.0,1.0,1.08,0.72
+La Liga,2022-11-09,2022/2023,True,Mallorca,Atletico Madrid,1.0,0.0,1.33,1.33
+La Liga,2022-11-10,2022/2023,True,Rayo Vallecano,Celta Vigo,0.0,0.0,0.37,0.94
+La Liga,2022-11-10,2022/2023,True,Valencia,Real Betis,3.0,0.0,2.03,0.25
+La Liga,2022-11-10,2022/2023,True,Real Madrid,Cadiz,2.0,1.0,2.0,0.94
+La Liga,2022-12-29,2022/2023,True,Girona,Rayo Vallecano,2.0,2.0,2.44,1.03
+La Liga,2022-12-29,2022/2023,True,Real Betis,Athletic Club,0.0,0.0,0.46,0.44
+La Liga,2022-12-29,2022/2023,True,Atletico Madrid,Elche,2.0,0.0,1.78,0.43
+La Liga,2022-12-30,2022/2023,True,Getafe,Mallorca,2.0,0.0,1.19,0.58
+La Liga,2022-12-30,2022/2023,True,Cadiz,Almeria,1.0,1.0,1.31,2.32
+La Liga,2022-12-30,2022/2023,True,Celta Vigo,Sevilla,1.0,1.0,2.02,0.66
+La Liga,2022-12-30,2022/2023,True,Valladolid,Real Madrid,0.0,2.0,0.58,2.34
+La Liga,2022-12-31,2022/2023,True,Barcelona,Espanyol,1.0,1.0,2.33,0.88
+La Liga,2022-12-31,2022/2023,True,Real Sociedad,Osasuna,2.0,0.0,1.39,0.38
+La Liga,2022-12-31,2022/2023,True,Villarreal,Valencia,2.0,1.0,2.53,1.46
+La Liga,2023-01-06,2022/2023,True,Elche,Celta Vigo,0.0,1.0,1.04,2.03
+La Liga,2023-01-06,2022/2023,True,Valencia,Cadiz,0.0,1.0,0.44,0.44
+La Liga,2023-01-07,2022/2023,True,Villarreal,Real Madrid,2.0,1.0,3.05,2.26
+La Liga,2023-01-07,2022/2023,True,Mallorca,Valladolid,1.0,0.0,1.28,0.61
+La Liga,2023-01-07,2022/2023,True,Espanyol,Girona,2.0,2.0,1.47,1.25
+La Liga,2023-01-08,2022/2023,True,Almeria,Real Sociedad,0.0,2.0,0.57,1.7
+La Liga,2023-01-08,2022/2023,True,Rayo Vallecano,Real Betis,1.0,2.0,1.61,0.93
+La Liga,2023-01-08,2022/2023,True,Sevilla,Getafe,2.0,1.0,1.2,0.72
+La Liga,2023-01-08,2022/2023,True,Atletico Madrid,Barcelona,0.0,1.0,1.84,0.66
+La Liga,2023-01-09,2022/2023,True,Athletic Club,Osasuna,0.0,0.0,1.02,0.36
+La Liga,2023-01-13,2022/2023,True,Celta Vigo,Villarreal,1.0,1.0,2.16,0.14
+La Liga,2023-01-14,2022/2023,True,Valladolid,Rayo Vallecano,0.0,1.0,0.57,1.24
+La Liga,2023-01-14,2022/2023,True,Girona,Sevilla,2.0,1.0,2.24,1.12
+La Liga,2023-01-14,2022/2023,True,Osasuna,Mallorca,1.0,0.0,1.64,0.48
+La Liga,2023-01-14,2022/2023,True,Real Sociedad,Athletic Club,3.0,1.0,1.95,0.31
+La Liga,2023-01-15,2022/2023,True,Getafe,Espanyol,1.0,2.0,0.45,0.77
+La Liga,2023-01-15,2022/2023,True,Almeria,Atletico Madrid,1.0,1.0,1.47,2.46
+La Liga,2023-01-16,2022/2023,True,Cadiz,Elche,1.0,1.0,1.64,0.63
+La Liga,2023-01-20,2022/2023,True,Mallorca,Celta Vigo,1.0,0.0,0.54,0.53
+La Liga,2023-01-21,2022/2023,True,Rayo Vallecano,Real Sociedad,0.0,2.0,0.87,1.66
+La Liga,2023-01-21,2022/2023,True,Espanyol,Real Betis,1.0,0.0,2.3,0.87
+La Liga,2023-01-21,2022/2023,True,Atletico Madrid,Valladolid,3.0,0.0,3.4,0.52
+La Liga,2023-01-21,2022/2023,True,Sevilla,Cadiz,1.0,0.0,1.69,0.09
+La Liga,2023-01-22,2022/2023,True,Villarreal,Girona,1.0,0.0,2.48,0.57
+La Liga,2023-01-22,2022/2023,True,Elche,Osasuna,1.0,1.0,1.18,0.51
+La Liga,2023-01-22,2022/2023,True,Barcelona,Getafe,1.0,0.0,0.73,1.08
+La Liga,2023-01-22,2022/2023,True,Athletic Club,Real Madrid,0.0,2.0,1.17,1.11
+La Liga,2023-01-23,2022/2023,True,Valencia,Almeria,2.0,2.0,1.92,1.5
+La Liga,2023-01-27,2022/2023,True,Almeria,Espanyol,3.0,1.0,2.11,0.81
+La Liga,2023-01-28,2022/2023,True,Cadiz,Mallorca,2.0,0.0,1.93,0.41
+La Liga,2023-01-28,2022/2023,True,Girona,Barcelona,0.0,1.0,1.06,1.1
+La Liga,2023-01-28,2022/2023,True,Sevilla,Elche,3.0,0.0,3.25,0.4
+La Liga,2023-01-28,2022/2023,True,Getafe,Real Betis,0.0,1.0,0.27,1.73
+La Liga,2023-01-29,2022/2023,True,Valladolid,Valencia,1.0,0.0,1.48,1.27
+La Liga,2023-01-29,2022/2023,True,Osasuna,Atletico Madrid,0.0,1.0,0.88,1.61
+La Liga,2023-01-29,2022/2023,True,Celta Vigo,Athletic Club,1.0,0.0,0.7,0.36
+La Liga,2023-01-29,2022/2023,True,Real Madrid,Real Sociedad,0.0,0.0,1.28,0.4
+La Liga,2023-01-30,2022/2023,True,Villarreal,Rayo Vallecano,0.0,1.0,0.84,1.02
+La Liga,2023-02-01,2022/2023,True,Real Betis,Barcelona,1.0,2.0,0.43,1.87
+La Liga,2023-02-02,2022/2023,True,Real Madrid,Valencia,2.0,0.0,2.27,0.19
+La Liga,2023-02-03,2022/2023,True,Athletic Club,Cadiz,4.0,1.0,1.82,1.57
+La Liga,2023-02-04,2022/2023,True,Espanyol,Osasuna,1.0,1.0,1.64,0.95
+La Liga,2023-02-04,2022/2023,True,Elche,Villarreal,3.0,1.0,3.0,1.54
+La Liga,2023-02-04,2022/2023,True,Atletico Madrid,Getafe,1.0,1.0,0.74,1.19
+La Liga,2023-02-04,2022/2023,True,Real Betis,Celta Vigo,3.0,4.0,3.46,1.86
+La Liga,2023-02-05,2022/2023,True,Mallorca,Real Madrid,1.0,0.0,0.23,0.93
+La Liga,2023-02-05,2022/2023,True,Girona,Valencia,1.0,0.0,2.32,0.96
+La Liga,2023-02-05,2022/2023,True,Real Sociedad,Valladolid,0.0,1.0,1.24,0.7
+La Liga,2023-02-05,2022/2023,True,Barcelona,Sevilla,3.0,0.0,2.67,0.12
+La Liga,2023-02-06,2022/2023,True,Rayo Vallecano,Almeria,2.0,0.0,1.08,1.21
+La Liga,2023-02-10,2022/2023,True,Cadiz,Girona,2.0,0.0,0.75,0.23
+La Liga,2023-02-11,2022/2023,True,Almeria,Real Betis,2.0,3.0,2.32,2.51
+La Liga,2023-02-11,2022/2023,True,Sevilla,Mallorca,2.0,0.0,2.12,0.33
+La Liga,2023-02-11,2022/2023,True,Valencia,Athletic Club,1.0,2.0,1.62,1.5
+La Liga,2023-02-12,2022/2023,True,Getafe,Rayo Vallecano,1.0,1.0,1.41,2.24
+La Liga,2023-02-12,2022/2023,True,Celta Vigo,Atletico Madrid,0.0,1.0,0.94,0.92
+La Liga,2023-02-12,2022/2023,True,Valladolid,Osasuna,0.0,0.0,1.64,0.72
+La Liga,2023-02-12,2022/2023,True,Villarreal,Barcelona,0.0,1.0,1.15,1.65
+La Liga,2023-02-13,2022/2023,True,Espanyol,Real Sociedad,2.0,3.0,1.17,1.41
+La Liga,2023-02-15,2022/2023,True,Real Madrid,Elche,4.0,0.0,4.08,0.55
+La Liga,2023-02-17,2022/2023,True,Girona,Almeria,6.0,2.0,2.97,1.8
+La Liga,2023-02-18,2022/2023,True,Real Sociedad,Celta Vigo,1.0,1.0,1.41,1.39
+La Liga,2023-02-18,2022/2023,True,Real Betis,Valladolid,2.0,1.0,2.37,1.0
+La Liga,2023-02-18,2022/2023,True,Mallorca,Villarreal,4.0,2.0,2.25,1.2
+La Liga,2023-02-18,2022/2023,True,Osasuna,Real Madrid,0.0,2.0,0.51,1.31
+La Liga,2023-02-19,2022/2023,True,Elche,Espanyol,0.0,1.0,1.84,1.3
+La Liga,2023-02-19,2022/2023,True,Rayo Vallecano,Sevilla,1.0,1.0,1.32,0.46
+La Liga,2023-02-19,2022/2023,True,Atletico Madrid,Athletic Club,1.0,0.0,1.15,0.78
+La Liga,2023-02-19,2022/2023,True,Barcelona,Cadiz,2.0,0.0,2.2,1.0
+La Liga,2023-02-20,2022/2023,True,Getafe,Valencia,1.0,0.0,1.91,1.01
+La Liga,2023-02-24,2022/2023,True,Elche,Real Betis,2.0,3.0,1.0,4.18
+La Liga,2023-02-25,2022/2023,True,Espanyol,Mallorca,2.0,1.0,1.41,0.75
+La Liga,2023-02-25,2022/2023,True,Cadiz,Rayo Vallecano,1.0,0.0,0.76,0.61
+La Liga,2023-02-25,2022/2023,True,Real Madrid,Atletico Madrid,1.0,1.0,1.61,0.32
+La Liga,2023-02-25,2022/2023,True,Valencia,Real Sociedad,1.0,0.0,0.48,0.7
+La Liga,2023-02-26,2022/2023,True,Athletic Club,Girona,2.0,3.0,1.58,1.25
+La Liga,2023-02-26,2022/2023,True,Celta Vigo,Valladolid,3.0,0.0,1.77,0.51
+La Liga,2023-02-26,2022/2023,True,Almeria,Barcelona,1.0,0.0,0.96,1.44
+La Liga,2023-02-26,2022/2023,True,Sevilla,Osasuna,2.0,3.0,2.11,1.09
+La Liga,2023-02-27,2022/2023,True,Villarreal,Getafe,2.0,1.0,1.55,0.59
+La Liga,2023-03-03,2022/2023,True,Real Sociedad,Cadiz,0.0,0.0,1.21,0.63
+La Liga,2023-03-04,2022/2023,True,Getafe,Girona,3.0,2.0,1.53,0.84
+La Liga,2023-03-04,2022/2023,True,Almeria,Villarreal,0.0,2.0,0.39,2.08
+La Liga,2023-03-04,2022/2023,True,Mallorca,Elche,0.0,1.0,0.87,0.9
+La Liga,2023-03-04,2022/2023,True,Atletico Madrid,Sevilla,6.0,1.0,3.27,1.5
+La Liga,2023-03-05,2022/2023,True,Valladolid,Espanyol,2.0,1.0,1.44,1.25
+La Liga,2023-03-05,2022/2023,True,Barcelona,Valencia,1.0,0.0,1.91,0.95
+La Liga,2023-03-05,2022/2023,True,Rayo Vallecano,Athletic Club,0.0,0.0,1.13,1.28
+La Liga,2023-03-05,2022/2023,True,Real Betis,Real Madrid,0.0,0.0,0.45,1.47
+La Liga,2023-03-06,2022/2023,True,Osasuna,Celta Vigo,0.0,0.0,0.79,1.07
+La Liga,2023-03-10,2022/2023,True,Cadiz,Getafe,2.0,2.0,1.79,2.75
+La Liga,2023-03-11,2022/2023,True,Real Madrid,Espanyol,3.0,1.0,1.71,1.17
+La Liga,2023-03-11,2022/2023,True,Elche,Valladolid,1.0,1.0,1.98,0.22
+La Liga,2023-03-11,2022/2023,True,Celta Vigo,Rayo Vallecano,3.0,0.0,2.43,1.06
+La Liga,2023-03-11,2022/2023,True,Valencia,Osasuna,1.0,0.0,1.66,0.32
+La Liga,2023-03-12,2022/2023,True,Mallorca,Real Sociedad,1.0,1.0,1.38,0.51
+La Liga,2023-03-12,2022/2023,True,Sevilla,Almeria,2.0,1.0,3.04,1.15
+La Liga,2023-03-12,2022/2023,True,Villarreal,Real Betis,1.0,1.0,1.69,1.02
+La Liga,2023-03-12,2022/2023,True,Athletic Club,Barcelona,0.0,1.0,0.87,0.9
+La Liga,2023-03-13,2022/2023,True,Girona,Atletico Madrid,0.0,1.0,0.4,2.12
+La Liga,2023-03-17,2022/2023,True,Valladolid,Athletic Club,1.0,3.0,1.08,2.58
+La Liga,2023-03-18,2022/2023,True,Almeria,Cadiz,1.0,1.0,2.53,1.36
+La Liga,2023-03-18,2022/2023,True,Rayo Vallecano,Girona,2.0,2.0,1.95,1.8
+La Liga,2023-03-18,2022/2023,True,Espanyol,Celta Vigo,1.0,3.0,1.4,1.6
+La Liga,2023-03-18,2022/2023,True,Atletico Madrid,Valencia,3.0,0.0,2.02,0.97
+La Liga,2023-03-19,2022/2023,True,Real Betis,Mallorca,1.0,0.0,0.76,0.18
+La Liga,2023-03-19,2022/2023,True,Osasuna,Villarreal,0.0,3.0,0.93,1.79
+La Liga,2023-03-19,2022/2023,True,Real Sociedad,Elche,2.0,0.0,1.96,0.1
+La Liga,2023-03-19,2022/2023,True,Getafe,Sevilla,2.0,0.0,1.75,1.0
+La Liga,2023-03-19,2022/2023,True,Barcelona,Real Madrid,2.0,1.0,1.61,0.55
+La Liga,2023-03-31,2022/2023,True,Mallorca,Osasuna,0.0,0.0,0.47,0.51
+La Liga,2023-04-01,2022/2023,True,Girona,Espanyol,2.0,1.0,1.71,1.0
+La Liga,2023-04-01,2022/2023,True,Athletic Club,Getafe,0.0,0.0,0.94,0.76
+La Liga,2023-04-01,2022/2023,True,Cadiz,Sevilla,0.0,2.0,1.12,1.1
+La Liga,2023-04-01,2022/2023,True,Elche,Barcelona,0.0,4.0,0.81,1.74
+La Liga,2023-04-02,2022/2023,True,Celta Vigo,Almeria,2.0,2.0,2.03,1.0
+La Liga,2023-04-02,2022/2023,True,Real Madrid,Valladolid,6.0,0.0,4.55,0.82
+La Liga,2023-04-02,2022/2023,True,Villarreal,Real Sociedad,2.0,0.0,2.71,0.98
+La Liga,2023-04-02,2022/2023,True,Atletico Madrid,Real Betis,1.0,0.0,1.66,0.57
+La Liga,2023-04-03,2022/2023,True,Valencia,Rayo Vallecano,1.0,1.0,2.36,0.85
+La Liga,2023-04-07,2022/2023,True,Sevilla,Celta Vigo,2.0,2.0,0.42,0.56
+La Liga,2023-04-08,2022/2023,True,Osasuna,Elche,2.0,1.0,1.18,0.72
+La Liga,2023-04-08,2022/2023,True,Espanyol,Athletic Club,1.0,2.0,0.87,2.33
+La Liga,2023-04-08,2022/2023,True,Real Sociedad,Getafe,2.0,0.0,2.15,0.32
+La Liga,2023-04-08,2022/2023,True,Real Madrid,Villarreal,2.0,3.0,2.46,1.5
+La Liga,2023-04-09,2022/2023,True,Valladolid,Mallorca,3.0,3.0,1.23,1.79
+La Liga,2023-04-09,2022/2023,True,Real Betis,Cadiz,0.0,2.0,1.23,2.99
+La Liga,2023-04-09,2022/2023,True,Almeria,Valencia,2.0,1.0,0.9,1.26
+La Liga,2023-04-09,2022/2023,True,Rayo Vallecano,Atletico Madrid,1.0,2.0,0.68,1.9
+La Liga,2023-04-10,2022/2023,True,Barcelona,Girona,0.0,0.0,1.31,0.6
+La Liga,2023-04-14,2022/2023,True,Rayo Vallecano,Osasuna,2.0,1.0,0.9,0.64
+La Liga,2023-04-15,2022/2023,True,Villarreal,Valladolid,1.0,2.0,1.99,2.16
+La Liga,2023-04-15,2022/2023,True,Athletic Club,Real Sociedad,2.0,0.0,0.79,1.39
+La Liga,2023-04-15,2022/2023,True,Real Betis,Espanyol,3.0,1.0,2.05,0.77
+La Liga,2023-04-15,2022/2023,True,Cadiz,Real Madrid,0.0,2.0,0.67,3.52
+La Liga,2023-04-16,2022/2023,True,Girona,Elche,2.0,0.0,1.4,0.8
+La Liga,2023-04-16,2022/2023,True,Getafe,Barcelona,0.0,0.0,0.52,1.59
+La Liga,2023-04-16,2022/2023,True,Atletico Madrid,Almeria,2.0,1.0,2.33,0.17
+La Liga,2023-04-16,2022/2023,True,Valencia,Sevilla,0.0,2.0,0.37,0.36
+La Liga,2023-04-17,2022/2023,True,Celta Vigo,Mallorca,0.0,1.0,0.81,1.02
+La Liga,2023-04-21,2022/2023,True,Espanyol,Cadiz,0.0,0.0,1.39,1.47
+La Liga,2023-04-22,2022/2023,True,Osasuna,Real Betis,3.0,2.0,1.55,2.17
+La Liga,2023-04-22,2022/2023,True,Almeria,Athletic Club,1.0,2.0,0.78,1.73
+La Liga,2023-04-22,2022/2023,True,Real Sociedad,Rayo Vallecano,2.0,1.0,0.75,0.49
+La Liga,2023-04-22,2022/2023,True,Valladolid,Girona,1.0,0.0,1.11,1.0
+La Liga,2023-04-22,2022/2023,True,Real Madrid,Celta Vigo,2.0,0.0,1.47,0.98
+La Liga,2023-04-23,2022/2023,True,Elche,Valencia,0.0,2.0,0.63,0.97
+La Liga,2023-04-23,2022/2023,True,Barcelona,Atletico Madrid,1.0,0.0,2.17,1.3
+La Liga,2023-04-23,2022/2023,True,Mallorca,Getafe,3.0,1.0,1.51,0.1
+La Liga,2023-04-23,2022/2023,True,Sevilla,Villarreal,2.0,1.0,0.9,2.46
+La Liga,2023-04-25,2022/2023,True,Cadiz,Osasuna,0.0,1.0,1.46,1.02
+La Liga,2023-04-25,2022/2023,True,Girona,Real Madrid,4.0,2.0,2.31,1.79
+La Liga,2023-04-25,2022/2023,True,Real Betis,Real Sociedad,0.0,0.0,0.96,0.96
+La Liga,2023-04-26,2022/2023,True,Atletico Madrid,Mallorca,3.0,1.0,2.66,0.91
+La Liga,2023-04-26,2022/2023,True,Getafe,Almeria,1.0,2.0,1.61,1.95
+La Liga,2023-04-26,2022/2023,True,Celta Vigo,Elche,1.0,0.0,1.27,1.15
+La Liga,2023-04-26,2022/2023,True,Rayo Vallecano,Barcelona,2.0,1.0,0.73,0.87
+La Liga,2023-04-27,2022/2023,True,Valencia,Valladolid,2.0,1.0,0.93,0.9
+La Liga,2023-04-27,2022/2023,True,Villarreal,Espanyol,4.0,2.0,3.9,0.94
+La Liga,2023-04-27,2022/2023,True,Athletic Club,Sevilla,0.0,1.0,0.34,1.04
+La Liga,2023-04-28,2022/2023,True,Osasuna,Real Sociedad,0.0,2.0,1.43,1.4
+La Liga,2023-04-29,2022/2023,True,Elche,Rayo Vallecano,4.0,0.0,2.77,0.85
+La Liga,2023-04-29,2022/2023,True,Real Madrid,Almeria,4.0,2.0,2.83,1.34
+La Liga,2023-04-29,2022/2023,True,Barcelona,Real Betis,4.0,0.0,2.98,0.24
+La Liga,2023-04-30,2022/2023,True,Cadiz,Valencia,2.0,1.0,1.76,1.32
+La Liga,2023-04-30,2022/2023,True,Villarreal,Celta Vigo,3.0,1.0,2.4,0.87
+La Liga,2023-04-30,2022/2023,True,Espanyol,Getafe,1.0,0.0,2.4,0.51
+La Liga,2023-04-30,2022/2023,True,Valladolid,Atletico Madrid,2.0,5.0,1.77,1.97
+La Liga,2023-05-01,2022/2023,True,Mallorca,Athletic Club,1.0,1.0,0.97,1.76
+La Liga,2023-05-01,2022/2023,True,Sevilla,Girona,0.0,2.0,2.19,0.78
+La Liga,2023-05-02,2022/2023,True,Almeria,Elche,2.0,1.0,1.72,0.98
+La Liga,2023-05-02,2022/2023,True,Barcelona,Osasuna,1.0,0.0,2.8,0.42
+La Liga,2023-05-02,2022/2023,True,Real Sociedad,Real Madrid,2.0,0.0,1.95,0.81
+La Liga,2023-05-03,2022/2023,True,Valencia,Villarreal,1.0,1.0,1.17,0.66
+La Liga,2023-05-03,2022/2023,True,Atletico Madrid,Cadiz,5.0,1.0,3.03,0.05
+La Liga,2023-05-03,2022/2023,True,Getafe,Celta Vigo,1.0,0.0,2.69,0.28
+La Liga,2023-05-04,2022/2023,True,Girona,Mallorca,2.0,1.0,1.69,1.44
+La Liga,2023-05-04,2022/2023,True,Sevilla,Espanyol,3.0,2.0,2.68,1.01
+La Liga,2023-05-04,2022/2023,True,Athletic Club,Real Betis,0.0,1.0,1.63,1.21
+La Liga,2023-05-04,2022/2023,True,Rayo Vallecano,Valladolid,2.0,1.0,1.41,0.56
+La Liga,2023-05-12,2022/2023,True,Mallorca,Cadiz,1.0,0.0,1.32,0.76
+La Liga,2023-05-13,2022/2023,True,Real Sociedad,Girona,2.0,2.0,2.77,1.24
+La Liga,2023-05-13,2022/2023,True,Osasuna,Almeria,3.0,1.0,1.9,0.49
+La Liga,2023-05-13,2022/2023,True,Villarreal,Athletic Club,5.0,1.0,3.26,3.17
+La Liga,2023-05-13,2022/2023,True,Real Madrid,Getafe,1.0,0.0,0.86,0.75
+La Liga,2023-05-14,2022/2023,True,Celta Vigo,Valencia,1.0,2.0,0.75,1.3
+La Liga,2023-05-14,2022/2023,True,Elche,Atletico Madrid,1.0,0.0,1.42,1.52
+La Liga,2023-05-14,2022/2023,True,Valladolid,Sevilla,0.0,3.0,2.02,2.46
+La Liga,2023-05-14,2022/2023,True,Espanyol,Barcelona,2.0,4.0,2.84,3.09
+La Liga,2023-05-15,2022/2023,True,Real Betis,Rayo Vallecano,3.0,1.0,1.59,1.31
+La Liga,2023-05-19,2022/2023,True,Cadiz,Valladolid,2.0,0.0,2.23,0.69
+La Liga,2023-05-20,2022/2023,True,Girona,Villarreal,1.0,2.0,1.23,1.95
+La Liga,2023-05-20,2022/2023,True,Athletic Club,Celta Vigo,2.0,1.0,1.05,0.46
+La Liga,2023-05-20,2022/2023,True,Almeria,Mallorca,3.0,0.0,1.83,0.75
+La Liga,2023-05-20,2022/2023,True,Getafe,Elche,1.0,1.0,1.51,1.22
+La Liga,2023-05-20,2022/2023,True,Barcelona,Real Sociedad,1.0,2.0,1.56,2.0
+La Liga,2023-05-21,2022/2023,True,Rayo Vallecano,Espanyol,1.0,2.0,2.02,1.64
+La Liga,2023-05-21,2022/2023,True,Atletico Madrid,Osasuna,3.0,0.0,1.92,0.79
+La Liga,2023-05-21,2022/2023,True,Valencia,Real Madrid,1.0,0.0,1.0,1.38
+La Liga,2023-05-21,2022/2023,True,Sevilla,Real Betis,0.0,0.0,1.13,0.12
+La Liga,2023-05-23,2022/2023,True,Celta Vigo,Girona,1.0,1.0,1.19,1.24
+La Liga,2023-05-23,2022/2023,True,Real Sociedad,Almeria,1.0,0.0,1.85,0.11
+La Liga,2023-05-23,2022/2023,True,Valladolid,Barcelona,3.0,1.0,2.32,1.77
+La Liga,2023-05-24,2022/2023,True,Elche,Sevilla,1.0,1.0,1.5,0.69
+La Liga,2023-05-24,2022/2023,True,Real Madrid,Rayo Vallecano,2.0,1.0,1.29,0.68
+La Liga,2023-05-24,2022/2023,True,Villarreal,Cadiz,2.0,0.0,2.4,1.73
+La Liga,2023-05-24,2022/2023,True,Espanyol,Atletico Madrid,3.0,3.0,3.08,2.28
+La Liga,2023-05-24,2022/2023,True,Real Betis,Getafe,0.0,1.0,1.16,0.5
+La Liga,2023-05-25,2022/2023,True,Mallorca,Valencia,1.0,0.0,0.54,1.96
+La Liga,2023-05-25,2022/2023,True,Osasuna,Athletic Club,2.0,0.0,0.82,0.79
+La Liga,2023-05-27,2022/2023,True,Sevilla,Real Madrid,1.0,2.0,1.2,0.77
+La Liga,2023-05-28,2022/2023,True,Almeria,Valladolid,0.0,0.0,1.68,0.47
+La Liga,2023-05-28,2022/2023,True,Athletic Club,Elche,0.0,1.0,2.59,0.9
+La Liga,2023-05-28,2022/2023,True,Atletico Madrid,Real Sociedad,2.0,1.0,0.69,1.19
+La Liga,2023-05-28,2022/2023,True,Barcelona,Mallorca,3.0,0.0,3.64,0.09
+La Liga,2023-05-28,2022/2023,True,Cadiz,Celta Vigo,1.0,0.0,1.75,0.62
+La Liga,2023-05-28,2022/2023,True,Getafe,Osasuna,2.0,1.0,2.51,0.49
+La Liga,2023-05-28,2022/2023,True,Girona,Real Betis,1.0,2.0,1.08,2.6
+La Liga,2023-05-28,2022/2023,True,Rayo Vallecano,Villarreal,2.0,1.0,1.36,0.43
+La Liga,2023-05-28,2022/2023,True,Valencia,Espanyol,2.0,2.0,2.62,1.21
+La Liga,2023-06-04,2022/2023,True,Mallorca,Rayo Vallecano,3.0,0.0,2.25,1.12
+La Liga,2023-06-04,2022/2023,True,Osasuna,Girona,2.0,1.0,1.8,0.92
+La Liga,2023-06-04,2022/2023,True,Real Madrid,Athletic Club,1.0,1.0,1.76,2.36
+La Liga,2023-06-04,2022/2023,True,Real Sociedad,Sevilla,2.0,1.0,1.8,0.43
+La Liga,2023-06-04,2022/2023,True,Villarreal,Atletico Madrid,2.0,2.0,1.59,1.81
+La Liga,2023-06-04,2022/2023,True,Celta Vigo,Barcelona,2.0,1.0,0.66,1.25
+La Liga,2023-06-04,2022/2023,True,Elche,Cadiz,1.0,1.0,1.58,2.55
+La Liga,2023-06-04,2022/2023,True,Espanyol,Almeria,3.0,3.0,0.59,1.79
+La Liga,2023-06-04,2022/2023,True,Real Betis,Valencia,1.0,1.0,0.63,1.17
+La Liga,2023-06-04,2022/2023,True,Valladolid,Getafe,0.0,0.0,0.87,0.49
+La Liga,2023-08-11,2023/2024,True,Almeria,Rayo Vallecano,0.0,2.0,1.39,2.07
+La Liga,2023-08-11,2023/2024,True,Sevilla,Valencia,1.0,2.0,0.72,1.12
+La Liga,2023-08-12,2023/2024,True,Real Sociedad,Girona,1.0,1.0,1.07,0.81
+La Liga,2023-08-12,2023/2024,True,Las Palmas,Mallorca,1.0,1.0,0.93,1.8
+La Liga,2023-08-12,2023/2024,True,Athletic Club,Real Madrid,0.0,2.0,0.45,0.99
+La Liga,2023-08-13,2023/2024,True,Celta Vigo,Osasuna,0.0,2.0,1.0,0.95
+La Liga,2023-08-13,2023/2024,True,Villarreal,Real Betis,1.0,2.0,0.96,1.07
+La Liga,2023-08-13,2023/2024,True,Getafe,Barcelona,0.0,0.0,0.57,1.49
+La Liga,2023-08-14,2023/2024,True,Cadiz,CD Alaves,1.0,0.0,0.66,0.25
+La Liga,2023-08-14,2023/2024,True,Atletico Madrid,Granada,3.0,1.0,2.42,0.94
+La Liga,2023-08-18,2023/2024,True,Mallorca,Villarreal,0.0,1.0,0.38,1.95
+La Liga,2023-08-18,2023/2024,True,Valencia,Las Palmas,1.0,0.0,1.54,0.52
+La Liga,2023-08-19,2023/2024,True,Real Sociedad,Celta Vigo,1.0,1.0,0.71,1.13
+La Liga,2023-08-19,2023/2024,True,Almeria,Real Madrid,1.0,3.0,1.34,2.06
+La Liga,2023-08-19,2023/2024,True,Osasuna,Athletic Club,0.0,2.0,1.31,1.56
+La Liga,2023-08-20,2023/2024,True,Girona,Getafe,3.0,0.0,1.42,0.7
+La Liga,2023-08-20,2023/2024,True,Barcelona,Cadiz,2.0,0.0,3.48,1.15
+La Liga,2023-08-20,2023/2024,True,Real Betis,Atletico Madrid,0.0,0.0,0.75,0.47
+La Liga,2023-08-21,2023/2024,True,CD Alaves,Sevilla,4.0,3.0,1.85,0.64
+La Liga,2023-08-21,2023/2024,True,Granada,Rayo Vallecano,0.0,2.0,1.19,2.14
+La Liga,2023-08-25,2023/2024,True,Las Palmas,Real Sociedad,0.0,0.0,0.91,1.0
+La Liga,2023-08-25,2023/2024,True,Celta Vigo,Real Madrid,0.0,1.0,1.24,1.36
+La Liga,2023-08-26,2023/2024,True,Cadiz,Almeria,1.0,1.0,1.58,0.26
+La Liga,2023-08-26,2023/2024,True,Granada,Mallorca,3.0,2.0,1.43,2.62
+La Liga,2023-08-26,2023/2024,True,Sevilla,Girona,1.0,2.0,1.73,1.69
+La Liga,2023-08-27,2023/2024,True,Villarreal,Barcelona,3.0,4.0,1.86,3.07
+La Liga,2023-08-27,2023/2024,True,Valencia,Osasuna,1.0,2.0,1.69,1.23
+La Liga,2023-08-27,2023/2024,True,Athletic Club,Real Betis,4.0,2.0,2.87,0.44
+La Liga,2023-08-28,2023/2024,True,Getafe,CD Alaves,1.0,0.0,2.26,0.69
+La Liga,2023-08-28,2023/2024,True,Rayo Vallecano,Atletico Madrid,0.0,7.0,0.57,3.45
+La Liga,2023-09-01,2023/2024,True,Cadiz,Villarreal,3.0,1.0,2.09,0.32
+La Liga,2023-09-01,2023/2024,True,Almeria,Celta Vigo,2.0,3.0,2.98,1.54
+La Liga,2023-09-02,2023/2024,True,Real Sociedad,Granada,5.0,3.0,2.32,0.75
+La Liga,2023-09-02,2023/2024,True,Real Madrid,Getafe,2.0,1.0,2.79,0.39
+La Liga,2023-09-02,2023/2024,True,CD Alaves,Valencia,1.0,0.0,1.3,0.76
+La Liga,2023-09-02,2023/2024,True,Real Betis,Rayo Vallecano,1.0,0.0,1.08,1.52
+La Liga,2023-09-03,2023/2024,True,Girona,Las Palmas,1.0,0.0,1.03,1.06
+La Liga,2023-09-03,2023/2024,True,Mallorca,Athletic Club,0.0,0.0,0.4,0.62
+La Liga,2023-09-03,2023/2024,True,Osasuna,Barcelona,1.0,2.0,0.77,2.0
+La Liga,2023-09-15,2023/2024,True,Rayo Vallecano,CD Alaves,2.0,0.0,2.58,0.67
+La Liga,2023-09-16,2023/2024,True,Athletic Club,Cadiz,3.0,0.0,2.87,0.29
+La Liga,2023-09-16,2023/2024,True,Valencia,Atletico Madrid,3.0,0.0,1.26,0.6
+La Liga,2023-09-16,2023/2024,True,Celta Vigo,Mallorca,0.0,1.0,1.29,0.8
+La Liga,2023-09-16,2023/2024,True,Barcelona,Real Betis,5.0,0.0,2.42,0.85
+La Liga,2023-09-17,2023/2024,True,Getafe,Osasuna,3.0,2.0,0.5,1.13
+La Liga,2023-09-17,2023/2024,True,Villarreal,Almeria,2.0,1.0,0.9,1.51
+La Liga,2023-09-17,2023/2024,True,Sevilla,Las Palmas,1.0,0.0,1.7,1.05
+La Liga,2023-09-17,2023/2024,True,Real Madrid,Real Sociedad,2.0,1.0,2.0,1.59
+La Liga,2023-09-18,2023/2024,True,Granada,Girona,2.0,4.0,1.62,2.77
+La Liga,2023-09-22,2023/2024,True,CD Alaves,Athletic Club,0.0,2.0,1.15,1.73
+La Liga,2023-09-23,2023/2024,True,Girona,Mallorca,5.0,3.0,3.2,1.81
+La Liga,2023-09-23,2023/2024,True,Osasuna,Sevilla,0.0,0.0,1.42,0.75
+La Liga,2023-09-23,2023/2024,True,Barcelona,Celta Vigo,3.0,2.0,1.59,1.54
+La Liga,2023-09-23,2023/2024,True,Almeria,Valencia,2.0,2.0,2.67,0.76
+La Liga,2023-09-24,2023/2024,True,Real Sociedad,Getafe,4.0,3.0,2.03,1.42
+La Liga,2023-09-24,2023/2024,True,Rayo Vallecano,Villarreal,1.0,1.0,1.21,1.64
+La Liga,2023-09-24,2023/2024,True,Las Palmas,Granada,1.0,0.0,0.6,0.04
+La Liga,2023-09-24,2023/2024,True,Real Betis,Cadiz,1.0,1.0,1.86,0.22
+La Liga,2023-09-24,2023/2024,True,Atletico Madrid,Real Madrid,3.0,1.0,1.37,1.01
+La Liga,2023-09-26,2023/2024,True,Sevilla,Almeria,5.0,1.0,2.22,1.78
+La Liga,2023-09-26,2023/2024,True,Mallorca,Barcelona,2.0,2.0,0.79,1.89
+La Liga,2023-09-27,2023/2024,True,Athletic Club,Getafe,2.0,2.0,0.74,1.36
+La Liga,2023-09-27,2023/2024,True,Real Madrid,Las Palmas,2.0,0.0,1.76,0.72
+La Liga,2023-09-27,2023/2024,True,Villarreal,Girona,1.0,2.0,1.91,2.15
+La Liga,2023-09-27,2023/2024,True,Cadiz,Rayo Vallecano,0.0,0.0,0.59,0.26
+La Liga,2023-09-27,2023/2024,True,Valencia,Real Sociedad,0.0,1.0,0.39,0.18
+La Liga,2023-09-28,2023/2024,True,Celta Vigo,CD Alaves,1.0,1.0,0.6,2.6
+La Liga,2023-09-28,2023/2024,True,Granada,Real Betis,1.0,1.0,1.78,0.88
+La Liga,2023-09-28,2023/2024,True,Osasuna,Atletico Madrid,0.0,2.0,0.97,1.5
+La Liga,2023-09-29,2023/2024,True,Barcelona,Sevilla,1.0,0.0,2.43,1.11
+La Liga,2023-09-30,2023/2024,True,Getafe,Villarreal,0.0,0.0,0.95,0.14
+La Liga,2023-09-30,2023/2024,True,Rayo Vallecano,Mallorca,2.0,2.0,2.3,1.47
+La Liga,2023-09-30,2023/2024,True,Girona,Real Madrid,0.0,3.0,1.59,2.38
+La Liga,2023-09-30,2023/2024,True,Real Sociedad,Athletic Club,3.0,0.0,1.45,1.82
+La Liga,2023-10-01,2023/2024,True,Almeria,Granada,3.0,3.0,2.92,2.89
+La Liga,2023-10-01,2023/2024,True,CD Alaves,Osasuna,0.0,2.0,1.5,1.12
+La Liga,2023-10-01,2023/2024,True,Atletico Madrid,Cadiz,3.0,2.0,2.76,0.84
+La Liga,2023-10-01,2023/2024,True,Real Betis,Valencia,3.0,0.0,1.71,0.66
+La Liga,2023-10-02,2023/2024,True,Las Palmas,Celta Vigo,2.0,1.0,1.7,1.54
+La Liga,2023-10-06,2023/2024,True,Athletic Club,Almeria,3.0,0.0,1.92,0.1
+La Liga,2023-10-07,2023/2024,True,Cadiz,Girona,0.0,1.0,0.43,1.21
+La Liga,2023-10-07,2023/2024,True,Real Madrid,Osasuna,4.0,0.0,3.46,0.46
+La Liga,2023-10-07,2023/2024,True,Mallorca,Valencia,1.0,1.0,0.58,0.55
+La Liga,2023-10-07,2023/2024,True,Sevilla,Rayo Vallecano,2.0,2.0,1.03,1.05
+La Liga,2023-10-08,2023/2024,True,Villarreal,Las Palmas,1.0,2.0,0.99,1.12
+La Liga,2023-10-08,2023/2024,True,Atletico Madrid,Real Sociedad,2.0,1.0,2.36,1.21
+La Liga,2023-10-08,2023/2024,True,Celta Vigo,Getafe,2.0,2.0,3.09,0.7
+La Liga,2023-10-08,2023/2024,True,CD Alaves,Real Betis,1.0,1.0,1.35,0.94
+La Liga,2023-10-08,2023/2024,True,Granada,Barcelona,2.0,2.0,0.81,3.25
+La Liga,2023-10-20,2023/2024,True,Osasuna,Granada,2.0,0.0,2.14,0.65
+La Liga,2023-10-21,2023/2024,True,Real Sociedad,Mallorca,1.0,0.0,1.35,1.95
+La Liga,2023-10-21,2023/2024,True,Getafe,Real Betis,1.0,1.0,1.52,1.14
+La Liga,2023-10-21,2023/2024,True,Sevilla,Real Madrid,1.0,1.0,1.54,1.69
+La Liga,2023-10-21,2023/2024,True,Celta Vigo,Atletico Madrid,0.0,3.0,0.93,1.78
+La Liga,2023-10-22,2023/2024,True,Las Palmas,Rayo Vallecano,0.0,1.0,1.33,1.35
+La Liga,2023-10-22,2023/2024,True,Girona,Almeria,5.0,2.0,1.88,0.99
+La Liga,2023-10-22,2023/2024,True,Villarreal,CD Alaves,1.0,1.0,1.53,1.66
+La Liga,2023-10-22,2023/2024,True,Barcelona,Athletic Club,1.0,0.0,1.34,0.44
+La Liga,2023-10-23,2023/2024,True,Valencia,Cadiz,2.0,0.0,1.51,0.63
+La Liga,2023-10-27,2023/2024,True,Girona,Celta Vigo,1.0,0.0,0.63,0.2
+La Liga,2023-10-28,2023/2024,True,Almeria,Las Palmas,1.0,2.0,0.29,0.93
+La Liga,2023-10-28,2023/2024,True,Barcelona,Real Madrid,1.0,2.0,1.55,1.07
+La Liga,2023-10-28,2023/2024,True,Mallorca,Getafe,0.0,0.0,0.94,0.23
+La Liga,2023-10-28,2023/2024,True,Cadiz,Sevilla,2.0,2.0,1.11,1.21
+La Liga,2023-10-29,2023/2024,True,Real Betis,Osasuna,2.0,1.0,1.23,0.4
+La Liga,2023-10-29,2023/2024,True,Rayo Vallecano,Real Sociedad,2.0,2.0,1.03,2.03
+La Liga,2023-10-29,2023/2024,True,Athletic Club,Valencia,2.0,2.0,1.86,1.86
+La Liga,2023-10-29,2023/2024,True,Atletico Madrid,CD Alaves,2.0,1.0,1.29,0.49
+La Liga,2023-10-30,2023/2024,True,Granada,Villarreal,2.0,3.0,2.09,1.55
+La Liga,2023-11-03,2023/2024,True,Las Palmas,Atletico Madrid,2.0,1.0,0.41,1.24
+La Liga,2023-11-04,2023/2024,True,Osasuna,Girona,2.0,4.0,1.42,2.23
+La Liga,2023-11-04,2023/2024,True,Real Betis,Mallorca,2.0,0.0,2.26,0.61
+La Liga,2023-11-04,2023/2024,True,Celta Vigo,Sevilla,1.0,1.0,2.1,0.89
+La Liga,2023-11-04,2023/2024,True,Real Sociedad,Barcelona,0.0,1.0,0.95,1.23
+La Liga,2023-11-05,2023/2024,True,CD Alaves,Almeria,1.0,0.0,2.43,0.48
+La Liga,2023-11-05,2023/2024,True,Valencia,Granada,1.0,0.0,1.22,0.48
+La Liga,2023-11-05,2023/2024,True,Villarreal,Athletic Club,2.0,3.0,2.11,2.28
+La Liga,2023-11-05,2023/2024,True,Real Madrid,Rayo Vallecano,0.0,0.0,2.19,0.1
+La Liga,2023-11-06,2023/2024,True,Getafe,Cadiz,1.0,0.0,1.19,0.54
+La Liga,2023-11-10,2023/2024,True,Athletic Club,Celta Vigo,4.0,3.0,4.6,2.24
+La Liga,2023-11-11,2023/2024,True,Rayo Vallecano,Girona,1.0,2.0,1.74,4.69
+La Liga,2023-11-11,2023/2024,True,Almeria,Real Sociedad,1.0,3.0,0.44,2.41
+La Liga,2023-11-11,2023/2024,True,Granada,Getafe,1.0,1.0,1.69,2.27
+La Liga,2023-11-11,2023/2024,True,Osasuna,Las Palmas,1.0,1.0,0.97,0.45
+La Liga,2023-11-11,2023/2024,True,Real Madrid,Valencia,5.0,1.0,1.75,1.71
+La Liga,2023-11-12,2023/2024,True,Barcelona,CD Alaves,2.0,1.0,1.56,1.69
+La Liga,2023-11-12,2023/2024,True,Sevilla,Real Betis,1.0,1.0,0.68,1.79
+La Liga,2023-11-12,2023/2024,True,Atletico Madrid,Villarreal,3.0,1.0,3.92,0.86
+La Liga,2023-11-24,2023/2024,True,CD Alaves,Granada,3.0,1.0,0.83,1.14
+La Liga,2023-11-25,2023/2024,True,Rayo Vallecano,Barcelona,1.0,1.0,0.74,1.04
+La Liga,2023-11-25,2023/2024,True,Valencia,Celta Vigo,0.0,0.0,0.52,0.77
+La Liga,2023-11-25,2023/2024,True,Getafe,Almeria,2.0,1.0,1.17,1.87
+La Liga,2023-11-25,2023/2024,True,Atletico Madrid,Mallorca,1.0,0.0,1.74,1.08
+La Liga,2023-11-26,2023/2024,True,Villarreal,Osasuna,3.0,1.0,2.52,1.02
+La Liga,2023-11-26,2023/2024,True,Real Sociedad,Sevilla,2.0,1.0,0.7,0.59
+La Liga,2023-11-26,2023/2024,True,Cadiz,Real Madrid,0.0,3.0,1.21,1.6
+La Liga,2023-11-26,2023/2024,True,Real Betis,Las Palmas,1.0,0.0,1.44,0.63
+La Liga,2023-11-27,2023/2024,True,Girona,Athletic Club,1.0,1.0,1.31,1.48
+La Liga,2023-11-29,2023/2024,True,Mallorca,Cadiz,1.0,1.0,1.08,0.31
+La Liga,2023-12-01,2023/2024,True,Las Palmas,Getafe,2.0,0.0,1.54,0.95
+La Liga,2023-12-02,2023/2024,True,Girona,Valencia,2.0,1.0,1.64,0.98
+La Liga,2023-12-02,2023/2024,True,Athletic Club,Rayo Vallecano,4.0,0.0,1.33,0.51
+La Liga,2023-12-02,2023/2024,True,Real Madrid,Granada,2.0,0.0,1.81,0.1
+La Liga,2023-12-02,2023/2024,True,Osasuna,Real Sociedad,1.0,1.0,0.69,1.77
+La Liga,2023-12-03,2023/2024,True,Mallorca,CD Alaves,0.0,0.0,0.82,0.35
+La Liga,2023-12-03,2023/2024,True,Almeria,Real Betis,0.0,0.0,2.51,0.5
+La Liga,2023-12-03,2023/2024,True,Sevilla,Villarreal,1.0,1.0,1.81,1.23
+La Liga,2023-12-03,2023/2024,True,Barcelona,Atletico Madrid,1.0,0.0,2.55,0.62
+La Liga,2023-12-04,2023/2024,True,Celta Vigo,Cadiz,1.0,1.0,2.44,0.26
+La Liga,2023-12-08,2023/2024,True,Getafe,Valencia,1.0,0.0,0.74,0.14
+La Liga,2023-12-09,2023/2024,True,CD Alaves,Las Palmas,0.0,1.0,1.92,0.38
+La Liga,2023-12-09,2023/2024,True,Real Betis,Real Madrid,1.0,1.0,1.39,1.03
+La Liga,2023-12-09,2023/2024,True,Villarreal,Real Sociedad,0.0,3.0,2.29,1.47
+La Liga,2023-12-09,2023/2024,True,Mallorca,Sevilla,1.0,0.0,0.48,0.63
+La Liga,2023-12-10,2023/2024,True,Atletico Madrid,Almeria,2.0,1.0,2.17,1.36
+La Liga,2023-12-10,2023/2024,True,Cadiz,Osasuna,1.0,1.0,0.87,1.68
+La Liga,2023-12-10,2023/2024,True,Barcelona,Girona,2.0,4.0,3.74,2.48
+La Liga,2023-12-11,2023/2024,True,Granada,Athletic Club,1.0,1.0,0.7,1.05
+La Liga,2023-12-11,2023/2024,True,Rayo Vallecano,Celta Vigo,0.0,0.0,1.27,0.15
+La Liga,2023-12-15,2023/2024,True,Osasuna,Rayo Vallecano,1.0,0.0,1.18,0.7
+La Liga,2023-12-16,2023/2024,True,Celta Vigo,Granada,1.0,0.0,1.37,0.53
+La Liga,2023-12-16,2023/2024,True,Athletic Club,Atletico Madrid,2.0,0.0,2.42,0.39
+La Liga,2023-12-16,2023/2024,True,Sevilla,Getafe,0.0,3.0,0.97,2.39
+La Liga,2023-12-16,2023/2024,True,Valencia,Barcelona,1.0,1.0,0.54,3.24
+La Liga,2023-12-17,2023/2024,True,Almeria,Mallorca,0.0,0.0,0.3,1.88
+La Liga,2023-12-17,2023/2024,True,Real Sociedad,Real Betis,0.0,0.0,1.06,1.11
+La Liga,2023-12-17,2023/2024,True,Las Palmas,Cadiz,1.0,1.0,0.7,1.64
+La Liga,2023-12-17,2023/2024,True,Real Madrid,Villarreal,4.0,1.0,2.32,0.75
+La Liga,2023-12-18,2023/2024,True,Girona,CD Alaves,3.0,0.0,1.71,0.66
+La Liga,2023-12-19,2023/2024,True,Rayo Vallecano,Valencia,0.0,1.0,0.31,0.26
+La Liga,2023-12-19,2023/2024,True,Atletico Madrid,Getafe,3.0,3.0,2.04,2.05
+La Liga,2023-12-19,2023/2024,True,Granada,Sevilla,0.0,3.0,0.94,0.49
+La Liga,2023-12-20,2023/2024,True,Barcelona,Almeria,3.0,2.0,3.54,1.61
+La Liga,2023-12-20,2023/2024,True,Athletic Club,Las Palmas,1.0,0.0,3.56,0.33
+La Liga,2023-12-20,2023/2024,True,Villarreal,Celta Vigo,3.0,2.0,2.37,1.28
+La Liga,2023-12-21,2023/2024,True,Cadiz,Real Sociedad,0.0,0.0,1.01,0.49
+La Liga,2023-12-21,2023/2024,True,Real Betis,Girona,1.0,1.0,1.55,1.7
+La Liga,2023-12-21,2023/2024,True,CD Alaves,Real Madrid,0.0,1.0,0.59,0.59
+La Liga,2023-12-21,2023/2024,True,Mallorca,Osasuna,3.0,2.0,1.13,1.7
+La Liga,2023-12-23,2023/2024,True,Atletico Madrid,Sevilla,1.0,0.0,0.93,0.32
+La Liga,2024-01-02,2023/2024,True,Getafe,Rayo Vallecano,0.0,2.0,0.39,1.92
+La Liga,2024-01-02,2023/2024,True,Real Sociedad,CD Alaves,1.0,1.0,1.25,0.97
+La Liga,2024-01-02,2023/2024,True,Valencia,Villarreal,3.0,1.0,2.8,0.53
+La Liga,2024-01-03,2023/2024,True,Granada,Cadiz,2.0,0.0,2.97,0.81
+La Liga,2024-01-03,2023/2024,True,Celta Vigo,Real Betis,2.0,1.0,2.73,1.47
+La Liga,2024-01-03,2023/2024,True,Real Madrid,Mallorca,1.0,0.0,1.71,0.57
+La Liga,2024-01-03,2023/2024,True,Girona,Atletico Madrid,4.0,3.0,2.42,2.3
+La Liga,2024-01-04,2023/2024,True,Osasuna,Almeria,1.0,0.0,1.27,0.21
+La Liga,2024-01-04,2023/2024,True,Sevilla,Athletic Club,0.0,2.0,0.69,1.35
+La Liga,2024-01-04,2023/2024,True,Las Palmas,Barcelona,1.0,2.0,0.67,2.51
+La Liga,2024-01-12,2023/2024,True,Sevilla,CD Alaves,2.0,3.0,2.2,1.99
+La Liga,2024-01-13,2023/2024,True,Las Palmas,Villarreal,3.0,0.0,0.78,2.01
+La Liga,2024-01-13,2023/2024,True,Mallorca,Celta Vigo,1.0,1.0,1.82,0.65
+La Liga,2024-01-13,2023/2024,True,Athletic Club,Real Sociedad,2.0,1.0,1.62,1.29
+La Liga,2024-01-13,2023/2024,True,Real Betis,Granada,1.0,0.0,1.8,0.5
+La Liga,2024-01-14,2023/2024,True,Almeria,Girona,0.0,0.0,1.75,0.25
+La Liga,2024-01-14,2023/2024,True,Cadiz,Valencia,1.0,4.0,1.19,1.93
+La Liga,2024-01-19,2023/2024,True,CD Alaves,Cadiz,1.0,0.0,2.04,0.35
+La Liga,2024-01-20,2023/2024,True,Rayo Vallecano,Las Palmas,0.0,2.0,1.57,0.71
+La Liga,2024-01-20,2023/2024,True,Villarreal,Mallorca,1.0,1.0,1.92,0.42
+La Liga,2024-01-20,2023/2024,True,Valencia,Athletic Club,1.0,0.0,0.89,0.49
+La Liga,2024-01-20,2023/2024,True,Celta Vigo,Real Sociedad,0.0,1.0,0.26,0.76
+La Liga,2024-01-21,2023/2024,True,Osasuna,Getafe,3.0,2.0,1.18,1.43
+La Liga,2024-01-21,2023/2024,True,Real Madrid,Almeria,3.0,2.0,2.24,0.89
+La Liga,2024-01-21,2023/2024,True,Real Betis,Barcelona,2.0,4.0,1.14,2.96
+La Liga,2024-01-21,2023/2024,True,Girona,Sevilla,5.0,1.0,2.29,0.66
+La Liga,2024-01-22,2023/2024,True,Granada,Atletico Madrid,0.0,1.0,0.65,1.19
+La Liga,2024-01-26,2023/2024,True,Almeria,CD Alaves,0.0,3.0,1.46,1.87
+La Liga,2024-01-27,2023/2024,True,Real Sociedad,Rayo Vallecano,0.0,0.0,0.19,0.11
+La Liga,2024-01-27,2023/2024,True,Las Palmas,Real Madrid,1.0,2.0,0.73,2.3
+La Liga,2024-01-27,2023/2024,True,Barcelona,Villarreal,3.0,5.0,2.21,2.18
+La Liga,2024-01-27,2023/2024,True,Mallorca,Real Betis,0.0,1.0,1.46,0.37
+La Liga,2024-01-28,2023/2024,True,Celta Vigo,Girona,0.0,1.0,0.62,0.96
+La Liga,2024-01-28,2023/2024,True,Cadiz,Athletic Club,0.0,0.0,0.36,0.24
+La Liga,2024-01-28,2023/2024,True,Sevilla,Osasuna,1.0,1.0,0.83,1.39
+La Liga,2024-01-28,2023/2024,True,Atletico Madrid,Valencia,2.0,0.0,2.38,0.53
+La Liga,2024-01-29,2023/2024,True,Getafe,Granada,2.0,0.0,1.32,1.97
+La Liga,2024-01-31,2023/2024,True,Barcelona,Osasuna,1.0,0.0,1.86,1.02
+La Liga,2024-01-31,2023/2024,True,Atletico Madrid,Rayo Vallecano,2.0,1.0,1.05,0.44
+La Liga,2024-02-01,2023/2024,True,Getafe,Real Madrid,0.0,2.0,0.83,2.02
+La Liga,2024-02-02,2023/2024,True,Athletic Club,Mallorca,4.0,0.0,1.91,0.37
+La Liga,2024-02-03,2023/2024,True,Valencia,Almeria,2.0,1.0,1.44,1.94
+La Liga,2024-02-03,2023/2024,True,Granada,Las Palmas,1.0,1.0,0.15,1.0
+La Liga,2024-02-03,2023/2024,True,CD Alaves,Barcelona,1.0,3.0,0.98,1.21
+La Liga,2024-02-03,2023/2024,True,Girona,Real Sociedad,0.0,0.0,0.72,0.6
+La Liga,2024-02-04,2023/2024,True,Villarreal,Cadiz,0.0,0.0,1.15,0.7
+La Liga,2024-02-04,2023/2024,True,Osasuna,Celta Vigo,0.0,3.0,1.14,1.1
+La Liga,2024-02-04,2023/2024,True,Real Betis,Getafe,1.0,1.0,1.6,1.51
+La Liga,2024-02-04,2023/2024,True,Real Madrid,Atletico Madrid,1.0,1.0,1.87,1.17
+La Liga,2024-02-05,2023/2024,True,Rayo Vallecano,Sevilla,1.0,2.0,1.81,1.3
+La Liga,2024-02-09,2023/2024,True,Cadiz,Real Betis,0.0,2.0,0.85,1.03
+La Liga,2024-02-10,2023/2024,True,CD Alaves,Villarreal,1.0,1.0,1.79,1.24
+La Liga,2024-02-10,2023/2024,True,Real Sociedad,Osasuna,0.0,1.0,1.55,0.48
+La Liga,2024-02-10,2023/2024,True,Real Madrid,Girona,4.0,0.0,3.21,0.28
+La Liga,2024-02-10,2023/2024,True,Las Palmas,Valencia,2.0,0.0,1.29,0.45
+La Liga,2024-02-11,2023/2024,True,Getafe,Celta Vigo,3.0,2.0,2.15,1.19
+La Liga,2024-02-11,2023/2024,True,Mallorca,Rayo Vallecano,2.0,1.0,0.91,1.61
+La Liga,2024-02-11,2023/2024,True,Sevilla,Atletico Madrid,1.0,0.0,1.03,1.55
+La Liga,2024-02-11,2023/2024,True,Barcelona,Granada,3.0,3.0,2.27,1.43
+La Liga,2024-02-12,2023/2024,True,Almeria,Athletic Club,0.0,0.0,0.88,0.66
+La Liga,2024-02-16,2023/2024,True,Villarreal,Getafe,1.0,1.0,1.25,0.82
+La Liga,2024-02-17,2023/2024,True,Atletico Madrid,Las Palmas,5.0,0.0,3.47,0.72
+La Liga,2024-02-17,2023/2024,True,Osasuna,Cadiz,2.0,0.0,1.96,0.54
+La Liga,2024-02-17,2023/2024,True,Celta Vigo,Barcelona,1.0,2.0,0.75,1.53
+La Liga,2024-02-17,2023/2024,True,Valencia,Sevilla,0.0,0.0,1.05,0.04
+La Liga,2024-02-18,2023/2024,True,Rayo Vallecano,Real Madrid,1.0,1.0,1.16,1.12
+La Liga,2024-02-18,2023/2024,True,Granada,Almeria,1.0,1.0,1.99,1.41
+La Liga,2024-02-18,2023/2024,True,Mallorca,Real Sociedad,1.0,2.0,0.13,1.13
+La Liga,2024-02-18,2023/2024,True,Real Betis,CD Alaves,0.0,0.0,0.81,0.49
+La Liga,2024-02-19,2023/2024,True,Athletic Club,Girona,3.0,2.0,1.78,2.1
+La Liga,2024-02-23,2023/2024,True,Real Sociedad,Villarreal,1.0,3.0,1.48,1.09
+La Liga,2024-02-24,2023/2024,True,Barcelona,Getafe,4.0,0.0,3.17,0.49
+La Liga,2024-02-24,2023/2024,True,CD Alaves,Mallorca,1.0,1.0,0.47,2.27
+La Liga,2024-02-24,2023/2024,True,Almeria,Atletico Madrid,2.0,2.0,0.48,1.55
+La Liga,2024-02-25,2023/2024,True,Cadiz,Celta Vigo,2.0,2.0,2.25,0.68
+La Liga,2024-02-25,2023/2024,True,Real Betis,Athletic Club,3.0,1.0,1.23,0.18
+La Liga,2024-02-25,2023/2024,True,Las Palmas,Osasuna,1.0,1.0,0.68,0.76
+La Liga,2024-02-25,2023/2024,True,Real Madrid,Sevilla,1.0,0.0,0.99,0.9
+La Liga,2024-02-26,2023/2024,True,Girona,Rayo Vallecano,3.0,0.0,2.17,0.55
+La Liga,2024-03-01,2023/2024,True,Celta Vigo,Almeria,1.0,0.0,1.48,0.11
+La Liga,2024-03-02,2023/2024,True,Sevilla,Real Sociedad,3.0,2.0,1.99,1.49
+La Liga,2024-03-02,2023/2024,True,Rayo Vallecano,Cadiz,1.0,1.0,0.71,1.0
+La Liga,2024-03-02,2023/2024,True,Getafe,Las Palmas,3.0,3.0,2.29,1.6
+La Liga,2024-03-02,2023/2024,True,Valencia,Real Madrid,2.0,2.0,1.15,2.21
+La Liga,2024-03-03,2023/2024,True,Villarreal,Granada,5.0,1.0,2.06,0.51
+La Liga,2024-03-03,2023/2024,True,Atletico Madrid,Real Betis,2.0,1.0,3.04,0.58
+La Liga,2024-03-03,2023/2024,True,Mallorca,Girona,1.0,0.0,,
+La Liga,2024-03-03,2023/2024,True,Athletic Club,Barcelona,0.0,0.0,0.37,0.72
+La Liga,2024-03-04,2023/2024,True,Osasuna,CD Alaves,1.0,0.0,0.98,1.03
+La Liga,2024-03-08,2023/2024,True,Barcelona,Mallorca,1.0,0.0,2.02,0.58
+La Liga,2024-03-09,2023/2024,True,Valencia,Getafe,1.0,0.0,0.81,1.27
+La Liga,2024-03-09,2023/2024,True,Cadiz,Atletico Madrid,2.0,0.0,1.11,0.88
+La Liga,2024-03-09,2023/2024,True,Granada,Real Sociedad,2.0,3.0,1.77,2.23
+La Liga,2024-03-09,2023/2024,True,Girona,Osasuna,2.0,0.0,1.95,0.23
+La Liga,2024-03-10,2023/2024,True,CD Alaves,Rayo Vallecano,1.0,0.0,0.61,0.64
+La Liga,2024-03-10,2023/2024,True,Las Palmas,Athletic Club,0.0,2.0,1.25,1.11
+La Liga,2024-03-10,2023/2024,True,Real Madrid,Celta Vigo,4.0,0.0,3.5,0.77
+La Liga,2024-03-10,2023/2024,True,Real Betis,Villarreal,2.0,3.0,1.03,1.43
+La Liga,2024-03-11,2023/2024,True,Almeria,Sevilla,2.0,2.0,1.99,2.47
+La Liga,2024-03-15,2023/2024,True,Real Sociedad,Cadiz,2.0,0.0,1.96,0.81
+La Liga,2024-03-16,2023/2024,True,Mallorca,Granada,1.0,0.0,1.6,0.42
+La Liga,2024-03-16,2023/2024,True,Osasuna,Real Madrid,2.0,4.0,0.72,2.88
+La Liga,2024-03-16,2023/2024,True,Getafe,Girona,1.0,0.0,1.25,1.81
+La Liga,2024-03-16,2023/2024,True,Athletic Club,CD Alaves,2.0,0.0,1.74,1.32
+La Liga,2024-03-17,2023/2024,True,Sevilla,Celta Vigo,1.0,2.0,1.71,1.56
+La Liga,2024-03-17,2023/2024,True,Las Palmas,Almeria,0.0,1.0,0.94,0.77
+La Liga,2024-03-17,2023/2024,True,Villarreal,Valencia,1.0,0.0,2.04,1.13
+La Liga,2024-03-17,2023/2024,True,Rayo Vallecano,Real Betis,2.0,0.0,0.77,0.82
+La Liga,2024-03-17,2023/2024,True,Atletico Madrid,Barcelona,0.0,3.0,0.78,1.54
+La Liga,2024-03-29,2023/2024,True,Cadiz,Granada,1.0,0.0,1.55,0.52
+La Liga,2024-03-30,2023/2024,True,Getafe,Sevilla,0.0,1.0,1.63,0.76
+La Liga,2024-03-30,2023/2024,True,Almeria,Osasuna,0.0,3.0,0.85,1.03
+La Liga,2024-03-30,2023/2024,True,Valencia,Mallorca,0.0,0.0,1.49,0.87
+La Liga,2024-03-30,2023/2024,True,Barcelona,Las Palmas,1.0,0.0,1.75,0.29
+La Liga,2024-03-31,2023/2024,True,Celta Vigo,Rayo Vallecano,0.0,0.0,0.78,0.58
+La Liga,2024-03-31,2023/2024,True,Girona,Real Betis,3.0,2.0,2.66,0.55
+La Liga,2024-03-31,2023/2024,True,CD Alaves,Real Sociedad,0.0,1.0,0.25,0.95
+La Liga,2024-03-31,2023/2024,True,Real Madrid,Athletic Club,2.0,0.0,1.12,0.27
+La Liga,2024-04-01,2023/2024,True,Villarreal,Atletico Madrid,1.0,2.0,0.81,1.32
+La Liga,2024-04-04,2023/2024,True,Granada,Valencia,0.0,1.0,0.62,0.35
+La Liga,2024-04-12,2023/2024,True,Real Betis,Celta Vigo,2.0,1.0,1.26,1.6
+La Liga,2024-04-13,2023/2024,True,Atletico Madrid,Girona,3.0,1.0,2.4,2.39
+La Liga,2024-04-13,2023/2024,True,Rayo Vallecano,Getafe,0.0,0.0,0.98,0.25
+La Liga,2024-04-13,2023/2024,True,Mallorca,Real Madrid,0.0,1.0,0.59,1.6
+La Liga,2024-04-13,2023/2024,True,Cadiz,Barcelona,0.0,1.0,1.01,0.88
+La Liga,2024-04-14,2023/2024,True,Las Palmas,Sevilla,0.0,2.0,0.07,2.08
+La Liga,2024-04-14,2023/2024,True,Granada,CD Alaves,2.0,0.0,1.45,0.34
+La Liga,2024-04-14,2023/2024,True,Athletic Club,Villarreal,1.0,1.0,0.65,2.1
+La Liga,2024-04-14,2023/2024,True,Real Sociedad,Almeria,2.0,2.0,1.45,1.58
+La Liga,2024-04-15,2023/2024,True,Osasuna,Valencia,0.0,1.0,1.93,0.22
+La Liga,2024-04-19,2023/2024,True,Athletic Club,Granada,1.0,1.0,1.5,0.15
+La Liga,2024-04-20,2023/2024,True,Celta Vigo,Las Palmas,4.0,1.0,3.99,0.98
+La Liga,2024-04-20,2023/2024,True,Rayo Vallecano,Osasuna,2.0,1.0,0.53,0.53
+La Liga,2024-04-20,2023/2024,True,Valencia,Real Betis,1.0,2.0,1.14,1.28
+La Liga,2024-04-20,2023/2024,True,Girona,Cadiz,4.0,1.0,2.07,1.87
+La Liga,2024-04-21,2023/2024,True,Getafe,Real Sociedad,1.0,1.0,0.54,1.19
+La Liga,2024-04-21,2023/2024,True,Almeria,Villarreal,1.0,2.0,1.84,1.62
+La Liga,2024-04-21,2023/2024,True,CD Alaves,Atletico Madrid,2.0,0.0,0.39,0.91
+La Liga,2024-04-21,2023/2024,True,Real Madrid,Barcelona,3.0,2.0,2.34,1.37
+La Liga,2024-04-22,2023/2024,True,Sevilla,Mallorca,2.0,1.0,1.09,0.75
+La Liga,2024-04-26,2023/2024,True,Real Sociedad,Real Madrid,0.0,1.0,0.59,0.39
+La Liga,2024-04-27,2023/2024,True,Las Palmas,Girona,0.0,2.0,1.63,1.89
+La Liga,2024-04-27,2023/2024,True,Almeria,Getafe,1.0,3.0,2.36,1.66
+La Liga,2024-04-27,2023/2024,True,CD Alaves,Celta Vigo,3.0,0.0,2.35,0.22
+La Liga,2024-04-27,2023/2024,True,Atletico Madrid,Athletic Club,3.0,1.0,0.84,1.01
+La Liga,2024-04-28,2023/2024,True,Cadiz,Mallorca,1.0,1.0,0.35,0.86
+La Liga,2024-04-28,2023/2024,True,Granada,Osasuna,3.0,0.0,2.62,0.83
+La Liga,2024-04-28,2023/2024,True,Villarreal,Rayo Vallecano,3.0,0.0,1.42,1.04
+La Liga,2024-04-28,2023/2024,True,Real Betis,Sevilla,1.0,1.0,1.98,1.36
+La Liga,2024-04-29,2023/2024,True,Barcelona,Valencia,4.0,2.0,2.21,2.13
+La Liga,2024-05-03,2023/2024,True,Getafe,Athletic Club,0.0,2.0,4.64,0.62
+La Liga,2024-05-04,2023/2024,True,Real Sociedad,Las Palmas,2.0,0.0,0.58,0.52
+La Liga,2024-05-04,2023/2024,True,Real Madrid,Cadiz,3.0,0.0,2.33,0.96
+La Liga,2024-05-04,2023/2024,True,Girona,Barcelona,4.0,2.0,1.86,2.56
+La Liga,2024-05-04,2023/2024,True,Mallorca,Atletico Madrid,0.0,1.0,0.24,0.72
+La Liga,2024-05-05,2023/2024,True,Osasuna,Real Betis,0.0,2.0,0.77,1.14
+La Liga,2024-05-05,2023/2024,True,Celta Vigo,Villarreal,3.0,2.0,3.96,0.64
+La Liga,2024-05-05,2023/2024,True,Valencia,CD Alaves,0.0,1.0,0.97,0.83
+La Liga,2024-05-05,2023/2024,True,Rayo Vallecano,Almeria,0.0,1.0,1.42,0.37
+La Liga,2024-05-05,2023/2024,True,Sevilla,Granada,3.0,0.0,1.66,0.36
+La Liga,2024-05-10,2023/2024,True,CD Alaves,Girona,2.0,2.0,1.78,1.88
+La Liga,2024-05-11,2023/2024,True,Mallorca,Las Palmas,1.0,0.0,0.33,0.38
+La Liga,2024-05-11,2023/2024,True,Villarreal,Sevilla,3.0,2.0,3.33,1.74
+La Liga,2024-05-11,2023/2024,True,Granada,Real Madrid,0.0,4.0,1.02,1.49
+La Liga,2024-05-11,2023/2024,True,Athletic Club,Osasuna,2.0,2.0,1.37,1.04
+La Liga,2024-05-12,2023/2024,True,Cadiz,Getafe,1.0,0.0,1.54,0.44
+La Liga,2024-05-12,2023/2024,True,Atletico Madrid,Celta Vigo,1.0,0.0,1.36,0.45
+La Liga,2024-05-12,2023/2024,True,Valencia,Rayo Vallecano,0.0,0.0,1.31,0.57
+La Liga,2024-05-12,2023/2024,True,Real Betis,Almeria,3.0,2.0,0.77,1.17
+La Liga,2024-05-13,2023/2024,True,Barcelona,Real Sociedad,2.0,0.0,2.15,0.67
+La Liga,2024-05-14,2023/2024,True,Osasuna,Mallorca,1.0,1.0,0.37,0.97
+La Liga,2024-05-14,2023/2024,True,Real Madrid,CD Alaves,5.0,0.0,2.52,1.28
+La Liga,2024-05-14,2023/2024,True,Girona,Villarreal,0.0,1.0,1.71,0.62
+La Liga,2024-05-15,2023/2024,True,Rayo Vallecano,Granada,2.0,1.0,2.47,1.18
+La Liga,2024-05-15,2023/2024,True,Sevilla,Cadiz,0.0,1.0,1.3,2.51
+La Liga,2024-05-15,2023/2024,True,Celta Vigo,Athletic Club,2.0,1.0,0.72,0.24
+La Liga,2024-05-15,2023/2024,True,Getafe,Atletico Madrid,0.0,3.0,0.62,1.35
+La Liga,2024-05-16,2023/2024,True,Las Palmas,Real Betis,2.0,2.0,2.33,1.27
+La Liga,2024-05-16,2023/2024,True,Almeria,Barcelona,0.0,2.0,0.92,1.57
+La Liga,2024-05-16,2023/2024,True,Real Sociedad,Valencia,1.0,0.0,1.28,0.84
+La Liga,2024-05-18,2023/2024,True,CD Alaves,Getafe,1.0,0.0,1.18,0.33
+La Liga,2024-05-19,2023/2024,True,Athletic Club,Sevilla,2.0,0.0,1.57,0.87
+La Liga,2024-05-19,2023/2024,True,Atletico Madrid,Osasuna,1.0,4.0,1.56,1.91
+La Liga,2024-05-19,2023/2024,True,Barcelona,Rayo Vallecano,3.0,0.0,1.26,1.28
+La Liga,2024-05-19,2023/2024,True,Cadiz,Las Palmas,0.0,0.0,0.88,0.56
+La Liga,2024-05-19,2023/2024,True,Granada,Celta Vigo,1.0,2.0,1.92,1.68
+La Liga,2024-05-19,2023/2024,True,Mallorca,Almeria,2.0,2.0,3.01,0.42
+La Liga,2024-05-19,2023/2024,True,Real Betis,Real Sociedad,0.0,2.0,1.69,0.46
+La Liga,2024-05-19,2023/2024,True,Valencia,Girona,1.0,3.0,3.17,2.62
+La Liga,2024-05-19,2023/2024,True,Villarreal,Real Madrid,4.0,4.0,1.78,1.04
+La Liga,2024-05-24,2023/2024,True,Girona,Granada,7.0,0.0,4.62,1.05
+La Liga,2024-05-25,2023/2024,True,Osasuna,Villarreal,1.0,1.0,0.91,1.6
+La Liga,2024-05-25,2023/2024,True,Real Sociedad,Atletico Madrid,0.0,2.0,0.61,2.17
+La Liga,2024-05-25,2023/2024,True,Almeria,Cadiz,6.0,1.0,3.16,0.5
+La Liga,2024-05-25,2023/2024,True,Rayo Vallecano,Athletic Club,0.0,1.0,1.06,0.95
+La Liga,2024-05-25,2023/2024,True,Real Madrid,Real Betis,0.0,0.0,0.98,0.75
+La Liga,2024-05-26,2023/2024,True,Getafe,Mallorca,1.0,2.0,0.89,1.49
+La Liga,2024-05-26,2023/2024,True,Celta Vigo,Valencia,2.0,2.0,1.53,2.13
+La Liga,2024-05-26,2023/2024,True,Las Palmas,CD Alaves,1.0,1.0,0.99,2.59
+La Liga,2024-05-26,2023/2024,True,Sevilla,Barcelona,1.0,2.0,1.47,1.35
+La Liga,2024-08-15,2024/2025,True,Athletic Club,Getafe,1.0,1.0,0.33,0.84
+La Liga,2024-08-15,2024/2025,True,Real Betis,Girona,1.0,1.0,1.44,1.58
+La Liga,2024-08-16,2024/2025,True,Celta Vigo,CD Alaves,2.0,1.0,0.83,1.6
+La Liga,2024-08-16,2024/2025,True,Las Palmas,Sevilla,2.0,2.0,1.41,1.85
+La Liga,2024-08-17,2024/2025,True,Osasuna,Leganes,1.0,1.0,1.74,0.98
+La Liga,2024-08-17,2024/2025,True,Valencia,Barcelona,1.0,2.0,1.01,3.22
+La Liga,2024-08-18,2024/2025,True,Real Sociedad,Rayo Vallecano,1.0,2.0,1.08,1.11
+La Liga,2024-08-18,2024/2025,True,Mallorca,Real Madrid,1.0,1.0,1.03,0.6
+La Liga,2024-08-19,2024/2025,True,Valladolid,Espanyol,1.0,0.0,0.8,0.66
+La Liga,2024-08-19,2024/2025,True,Villarreal,Atletico Madrid,2.0,2.0,0.79,1.11
+La Liga,2024-08-23,2024/2025,True,Celta Vigo,Valencia,3.0,1.0,1.32,0.93
+La Liga,2024-08-23,2024/2025,True,Sevilla,Villarreal,1.0,2.0,1.04,0.87
+La Liga,2024-08-24,2024/2025,True,Osasuna,Mallorca,1.0,0.0,0.57,0.57
+La Liga,2024-08-24,2024/2025,True,Barcelona,Athletic Club,2.0,1.0,1.83,1.03
+La Liga,2024-08-24,2024/2025,True,Espanyol,Real Sociedad,0.0,1.0,1.78,0.77
+La Liga,2024-08-24,2024/2025,True,Getafe,Rayo Vallecano,0.0,0.0,0.48,0.24
+La Liga,2024-08-25,2024/2025,True,Real Madrid,Valladolid,3.0,0.0,2.14,0.42
+La Liga,2024-08-25,2024/2025,True,Leganes,Las Palmas,2.0,1.0,1.48,0.88
+La Liga,2024-08-25,2024/2025,True,CD Alaves,Real Betis,0.0,0.0,0.21,1.49
+La Liga,2024-08-25,2024/2025,True,Atletico Madrid,Girona,3.0,0.0,1.22,0.68
+La Liga,2024-08-26,2024/2025,True,Villarreal,Celta Vigo,4.0,3.0,3.7,2.71
+La Liga,2024-08-27,2024/2025,True,Mallorca,Sevilla,0.0,0.0,0.9,0.74
+La Liga,2024-08-27,2024/2025,True,Rayo Vallecano,Barcelona,1.0,2.0,0.37,1.41
+La Liga,2024-08-28,2024/2025,True,Athletic Club,Valencia,1.0,0.0,1.38,0.08
+La Liga,2024-08-28,2024/2025,True,Valladolid,Leganes,0.0,0.0,1.13,0.18
+La Liga,2024-08-28,2024/2025,True,Atletico Madrid,Espanyol,0.0,0.0,2.47,0.61
+La Liga,2024-08-28,2024/2025,True,Real Sociedad,CD Alaves,1.0,2.0,1.03,1.59
+La Liga,2024-08-29,2024/2025,True,Girona,Osasuna,4.0,0.0,2.42,0.04
+La Liga,2024-08-29,2024/2025,True,Las Palmas,Real Madrid,1.0,1.0,0.76,2.95
+La Liga,2024-08-31,2024/2025,True,Barcelona,Valladolid,7.0,0.0,4.77,0.52
+La Liga,2024-08-31,2024/2025,True,Athletic Club,Atletico Madrid,0.0,1.0,0.29,1.73
+La Liga,2024-08-31,2024/2025,True,Espanyol,Rayo Vallecano,2.0,1.0,1.68,1.29
+La Liga,2024-08-31,2024/2025,True,Leganes,Mallorca,0.0,1.0,0.32,1.02
+La Liga,2024-08-31,2024/2025,True,Valencia,Villarreal,1.0,1.0,1.07,0.51
+La Liga,2024-09-01,2024/2025,True,CD Alaves,Las Palmas,2.0,0.0,2.04,0.68
+La Liga,2024-09-01,2024/2025,True,Osasuna,Celta Vigo,3.0,2.0,0.96,1.69
+La Liga,2024-09-01,2024/2025,True,Sevilla,Girona,0.0,2.0,0.97,1.94
+La Liga,2024-09-01,2024/2025,True,Getafe,Real Sociedad,0.0,0.0,0.57,0.02
+La Liga,2024-09-01,2024/2025,True,Real Madrid,Real Betis,2.0,0.0,2.45,0.57
+La Liga,2024-09-13,2024/2025,True,Real Betis,Leganes,2.0,0.0,2.12,0.1
+La Liga,2024-09-14,2024/2025,True,Mallorca,Villarreal,1.0,2.0,0.35,1.77
+La Liga,2024-09-14,2024/2025,True,Espanyol,CD Alaves,3.0,2.0,1.58,1.91
+La Liga,2024-09-14,2024/2025,True,Sevilla,Getafe,1.0,0.0,1.41,1.01
+La Liga,2024-09-14,2024/2025,True,Real Sociedad,Real Madrid,0.0,2.0,1.07,2.38
+La Liga,2024-09-15,2024/2025,True,Celta Vigo,Valladolid,3.0,1.0,1.84,0.51
+La Liga,2024-09-15,2024/2025,True,Girona,Barcelona,1.0,4.0,1.29,1.88
+La Liga,2024-09-15,2024/2025,True,Las Palmas,Athletic Club,2.0,3.0,1.42,2.15
+La Liga,2024-09-15,2024/2025,True,Atletico Madrid,Valencia,3.0,0.0,3.24,0.15
+La Liga,2024-09-16,2024/2025,True,Rayo Vallecano,Osasuna,3.0,1.0,1.68,0.33
+La Liga,2024-09-17,2024/2025,True,Mallorca,Real Sociedad,1.0,0.0,1.19,0.59
+La Liga,2024-09-18,2024/2025,True,Real Betis,Getafe,2.0,1.0,2.93,0.61
+La Liga,2024-09-19,2024/2025,True,Leganes,Athletic Club,0.0,2.0,0.94,1.32
+La Liga,2024-09-20,2024/2025,True,CD Alaves,Sevilla,2.0,1.0,1.1,0.52
+La Liga,2024-09-21,2024/2025,True,Valladolid,Real Sociedad,0.0,0.0,1.02,1.47
+La Liga,2024-09-21,2024/2025,True,Osasuna,Las Palmas,2.0,1.0,1.97,0.85
+La Liga,2024-09-21,2024/2025,True,Valencia,Girona,2.0,0.0,0.43,0.41
+La Liga,2024-09-21,2024/2025,True,Real Madrid,Espanyol,4.0,1.0,4.46,0.34
+La Liga,2024-09-22,2024/2025,True,Getafe,Leganes,1.0,1.0,1.54,0.59
+La Liga,2024-09-22,2024/2025,True,Athletic Club,Celta Vigo,3.0,1.0,0.69,1.31
+La Liga,2024-09-22,2024/2025,True,Villarreal,Barcelona,1.0,5.0,2.17,3.97
+La Liga,2024-09-22,2024/2025,True,Rayo Vallecano,Atletico Madrid,1.0,1.0,1.85,0.53
+La Liga,2024-09-23,2024/2025,True,Real Betis,Mallorca,1.0,2.0,1.03,1.02
+La Liga,2024-09-24,2024/2025,True,Sevilla,Valladolid,2.0,1.0,1.64,0.68
+La Liga,2024-09-24,2024/2025,True,Valencia,Osasuna,0.0,0.0,0.7,0.46
+La Liga,2024-09-24,2024/2025,True,Real Madrid,CD Alaves,3.0,2.0,1.32,0.88
+La Liga,2024-09-25,2024/2025,True,Girona,Rayo Vallecano,0.0,0.0,2.01,0.47
+La Liga,2024-09-25,2024/2025,True,Barcelona,Getafe,1.0,0.0,1.93,0.69
+La Liga,2024-09-26,2024/2025,True,Espanyol,Villarreal,1.0,2.0,0.41,1.6
+La Liga,2024-09-26,2024/2025,True,Las Palmas,Real Betis,1.0,1.0,1.0,1.93
+La Liga,2024-09-26,2024/2025,True,Celta Vigo,Atletico Madrid,0.0,1.0,1.53,0.62
+La Liga,2024-09-27,2024/2025,True,Valladolid,Mallorca,1.0,2.0,1.24,2.26
+La Liga,2024-09-28,2024/2025,True,Getafe,CD Alaves,2.0,0.0,2.21,0.51
+La Liga,2024-09-28,2024/2025,True,Rayo Vallecano,Leganes,1.0,1.0,0.91,0.87
+La Liga,2024-09-28,2024/2025,True,Real Sociedad,Valencia,3.0,0.0,3.4,0.78
+La Liga,2024-09-28,2024/2025,True,Osasuna,Barcelona,4.0,2.0,2.23,0.83
+La Liga,2024-09-29,2024/2025,True,Celta Vigo,Girona,1.0,1.0,0.45,0.8
+La Liga,2024-09-29,2024/2025,True,Athletic Club,Sevilla,1.0,1.0,1.96,1.16
+La Liga,2024-09-29,2024/2025,True,Real Betis,Espanyol,1.0,0.0,2.17,0.48
+La Liga,2024-09-29,2024/2025,True,Atletico Madrid,Real Madrid,1.0,1.0,1.28,0.76
+La Liga,2024-09-30,2024/2025,True,Villarreal,Las Palmas,3.0,1.0,2.79,0.86
+La Liga,2024-10-04,2024/2025,True,Leganes,Valencia,0.0,0.0,0.79,0.54
+La Liga,2024-10-05,2024/2025,True,Espanyol,Mallorca,2.0,1.0,0.93,1.81
+La Liga,2024-10-05,2024/2025,True,Getafe,Osasuna,1.0,1.0,0.83,0.34
+La Liga,2024-10-05,2024/2025,True,Las Palmas,Celta Vigo,0.0,1.0,1.37,0.76
+La Liga,2024-10-05,2024/2025,True,Valladolid,Rayo Vallecano,1.0,2.0,1.99,1.5
+La Liga,2024-10-05,2024/2025,True,Real Madrid,Villarreal,2.0,0.0,0.47,1.15
+La Liga,2024-10-06,2024/2025,True,Girona,Athletic Club,2.0,1.0,2.0,3.1
+La Liga,2024-10-06,2024/2025,True,CD Alaves,Barcelona,0.0,3.0,0.74,2.67
+La Liga,2024-10-06,2024/2025,True,Sevilla,Real Betis,1.0,0.0,1.44,0.61
+La Liga,2024-10-06,2024/2025,True,Real Sociedad,Atletico Madrid,1.0,1.0,1.0,0.54
+La Liga,2024-10-18,2024/2025,True,CD Alaves,Valladolid,2.0,3.0,0.49,2.45
+La Liga,2024-10-19,2024/2025,True,Athletic Club,Espanyol,4.0,1.0,1.31,0.27
+La Liga,2024-10-19,2024/2025,True,Osasuna,Real Betis,1.0,2.0,2.06,2.42
+La Liga,2024-10-19,2024/2025,True,Girona,Real Sociedad,0.0,1.0,0.39,1.74
+La Liga,2024-10-19,2024/2025,True,Celta Vigo,Real Madrid,1.0,2.0,1.82,0.74
+La Liga,2024-10-20,2024/2025,True,Mallorca,Rayo Vallecano,1.0,0.0,2.03,0.59
+La Liga,2024-10-20,2024/2025,True,Atletico Madrid,Leganes,3.0,1.0,4.51,0.24
+La Liga,2024-10-20,2024/2025,True,Villarreal,Getafe,1.0,1.0,0.91,1.94
+La Liga,2024-10-20,2024/2025,True,Barcelona,Sevilla,5.0,1.0,3.89,0.92
+La Liga,2024-10-21,2024/2025,True,Valencia,Las Palmas,2.0,3.0,1.65,1.14
+La Liga,2024-10-25,2024/2025,True,Espanyol,Sevilla,0.0,2.0,1.22,0.8
+La Liga,2024-10-26,2024/2025,True,Valladolid,Villarreal,1.0,2.0,0.94,2.31
+La Liga,2024-10-26,2024/2025,True,Rayo Vallecano,CD Alaves,1.0,0.0,1.88,0.94
+La Liga,2024-10-26,2024/2025,True,Las Palmas,Girona,1.0,0.0,0.9,0.56
+La Liga,2024-10-26,2024/2025,True,Real Madrid,Barcelona,0.0,4.0,1.48,2.58
+La Liga,2024-10-27,2024/2025,True,Leganes,Celta Vigo,3.0,0.0,1.62,0.92
+La Liga,2024-10-27,2024/2025,True,Getafe,Valencia,1.0,1.0,2.26,0.6
+La Liga,2024-10-27,2024/2025,True,Real Betis,Atletico Madrid,1.0,0.0,1.94,0.54
+La Liga,2024-10-27,2024/2025,True,Real Sociedad,Osasuna,0.0,2.0,1.65,0.98
+La Liga,2024-10-28,2024/2025,True,Mallorca,Athletic Club,0.0,0.0,0.61,0.59
+La Liga,2024-11-01,2024/2025,True,CD Alaves,Mallorca,1.0,0.0,1.15,0.51
+La Liga,2024-11-02,2024/2025,True,Osasuna,Valladolid,1.0,0.0,2.48,0.23
+La Liga,2024-11-02,2024/2025,True,Girona,Leganes,4.0,3.0,1.97,0.33
+La Liga,2024-11-03,2024/2025,True,Atletico Madrid,Las Palmas,2.0,0.0,1.63,0.02
+La Liga,2024-11-03,2024/2025,True,Barcelona,Espanyol,3.0,1.0,1.83,0.97
+La Liga,2024-11-03,2024/2025,True,Sevilla,Real Sociedad,0.0,2.0,1.09,1.37
+La Liga,2024-11-03,2024/2025,True,Athletic Club,Real Betis,1.0,1.0,4.01,0.84
+La Liga,2024-11-04,2024/2025,True,Celta Vigo,Getafe,1.0,0.0,1.95,0.56
+La Liga,2024-11-08,2024/2025,True,Rayo Vallecano,Las Palmas,1.0,3.0,2.47,0.9
+La Liga,2024-11-09,2024/2025,True,Real Madrid,Osasuna,4.0,0.0,3.06,0.05
+La Liga,2024-11-09,2024/2025,True,Villarreal,CD Alaves,3.0,0.0,1.52,0.5
+La Liga,2024-11-09,2024/2025,True,Leganes,Sevilla,1.0,0.0,1.05,0.58
+La Liga,2024-11-10,2024/2025,True,Real Betis,Celta Vigo,2.0,2.0,1.61,1.25
+La Liga,2024-11-10,2024/2025,True,Mallorca,Atletico Madrid,0.0,1.0,0.61,0.65
+La Liga,2024-11-10,2024/2025,True,Getafe,Girona,0.0,1.0,0.61,0.19
+La Liga,2024-11-10,2024/2025,True,Valladolid,Athletic Club,1.0,1.0,0.61,1.21
+La Liga,2024-11-10,2024/2025,True,Real Sociedad,Barcelona,1.0,0.0,2.02,0.64
+La Liga,2024-11-22,2024/2025,True,Getafe,Valladolid,2.0,0.0,0.59,1.13
+La Liga,2024-11-23,2024/2025,True,Valencia,Real Betis,4.0,2.0,1.59,0.97
+La Liga,2024-11-23,2024/2025,True,Atletico Madrid,CD Alaves,2.0,1.0,1.65,0.86
+La Liga,2024-11-23,2024/2025,True,Girona,Espanyol,4.0,1.0,3.47,0.42
+La Liga,2024-11-23,2024/2025,True,Las Palmas,Mallorca,2.0,3.0,1.21,1.7
+La Liga,2024-11-23,2024/2025,True,Celta Vigo,Barcelona,2.0,2.0,2.46,1.74
+La Liga,2024-11-24,2024/2025,True,Osasuna,Villarreal,2.0,2.0,1.08,2.53
+La Liga,2024-11-24,2024/2025,True,Sevilla,Rayo Vallecano,1.0,0.0,1.09,0.85
+La Liga,2024-11-24,2024/2025,True,Leganes,Real Madrid,0.0,3.0,0.12,1.9
+La Liga,2024-11-24,2024/2025,True,Athletic Club,Real Sociedad,1.0,0.0,1.34,0.7
+La Liga,2024-11-29,2024/2025,True,Mallorca,Valencia,2.0,1.0,0.76,1.3
+La Liga,2024-11-30,2024/2025,True,Barcelona,Las Palmas,1.0,2.0,2.3,0.5
+La Liga,2024-11-30,2024/2025,True,CD Alaves,Leganes,1.0,1.0,1.13,0.93
+La Liga,2024-11-30,2024/2025,True,Espanyol,Celta Vigo,3.0,1.0,0.85,1.61
+La Liga,2024-11-30,2024/2025,True,Valladolid,Atletico Madrid,0.0,5.0,0.63,4.02
+La Liga,2024-12-01,2024/2025,True,Villarreal,Girona,2.0,2.0,2.02,0.54
+La Liga,2024-12-01,2024/2025,True,Real Madrid,Getafe,2.0,0.0,3.18,0.45
+La Liga,2024-12-01,2024/2025,True,Rayo Vallecano,Athletic Club,1.0,2.0,0.25,0.69
+La Liga,2024-12-01,2024/2025,True,Real Sociedad,Real Betis,2.0,0.0,0.79,0.4
+La Liga,2024-12-02,2024/2025,True,Sevilla,Osasuna,1.0,1.0,1.34,0.75
+La Liga,2024-12-03,2024/2025,True,Mallorca,Barcelona,1.0,5.0,0.92,5.09
+La Liga,2024-12-04,2024/2025,True,Athletic Club,Real Madrid,2.0,1.0,1.81,1.82
+La Liga,2024-12-06,2024/2025,True,Celta Vigo,Mallorca,2.0,0.0,0.89,0.84
+La Liga,2024-12-07,2024/2025,True,Las Palmas,Valladolid,2.0,1.0,1.1,1.41
+La Liga,2024-12-07,2024/2025,True,Real Betis,Barcelona,2.0,2.0,3.15,1.92
+La Liga,2024-12-07,2024/2025,True,Valencia,Rayo Vallecano,0.0,1.0,1.27,0.9
+La Liga,2024-12-07,2024/2025,True,Girona,Real Madrid,0.0,3.0,0.35,0.92
+La Liga,2024-12-08,2024/2025,True,Leganes,Real Sociedad,0.0,3.0,0.64,1.81
+La Liga,2024-12-08,2024/2025,True,Athletic Club,Villarreal,2.0,0.0,1.17,0.53
+La Liga,2024-12-08,2024/2025,True,Osasuna,CD Alaves,2.0,2.0,1.96,1.54
+La Liga,2024-12-08,2024/2025,True,Atletico Madrid,Sevilla,4.0,3.0,2.04,0.39
+La Liga,2024-12-09,2024/2025,True,Getafe,Espanyol,1.0,0.0,0.39,0.79
+La Liga,2024-12-13,2024/2025,True,Valladolid,Valencia,1.0,0.0,0.55,0.85
+La Liga,2024-12-14,2024/2025,True,Espanyol,Osasuna,0.0,0.0,0.32,0.29
+La Liga,2024-12-14,2024/2025,True,Mallorca,Girona,2.0,1.0,1.14,0.82
+La Liga,2024-12-14,2024/2025,True,Sevilla,Celta Vigo,1.0,0.0,0.58,1.17
+La Liga,2024-12-14,2024/2025,True,Rayo Vallecano,Real Madrid,3.0,3.0,1.62,0.69
+La Liga,2024-12-15,2024/2025,True,Atletico Madrid,Getafe,1.0,0.0,1.67,0.21
+La Liga,2024-12-15,2024/2025,True,CD Alaves,Athletic Club,1.0,1.0,0.93,0.72
+La Liga,2024-12-15,2024/2025,True,Real Sociedad,Las Palmas,0.0,0.0,1.15,0.97
+La Liga,2024-12-15,2024/2025,True,Villarreal,Real Betis,1.0,2.0,2.05,0.79
+La Liga,2024-12-15,2024/2025,True,Barcelona,Leganes,0.0,1.0,2.63,0.4
+La Liga,2024-12-18,2024/2025,True,Espanyol,Valencia,1.0,1.0,2.05,1.99
+La Liga,2024-12-18,2024/2025,True,Villarreal,Rayo Vallecano,1.0,1.0,1.32,1.49
+La Liga,2024-12-20,2024/2025,True,Girona,Valladolid,3.0,0.0,2.58,0.02
+La Liga,2024-12-21,2024/2025,True,Getafe,Mallorca,0.0,1.0,0.83,1.9
+La Liga,2024-12-21,2024/2025,True,Celta Vigo,Real Sociedad,2.0,0.0,1.29,0.32
+La Liga,2024-12-21,2024/2025,True,Osasuna,Athletic Club,1.0,2.0,0.6,1.18
+La Liga,2024-12-21,2024/2025,True,Barcelona,Atletico Madrid,1.0,2.0,2.72,0.63
+La Liga,2024-12-22,2024/2025,True,Valencia,CD Alaves,2.0,2.0,1.44,1.61
+La Liga,2024-12-22,2024/2025,True,Real Madrid,Sevilla,4.0,2.0,2.0,1.32
+La Liga,2024-12-22,2024/2025,True,Las Palmas,Espanyol,1.0,0.0,0.94,0.75
+La Liga,2024-12-22,2024/2025,True,Leganes,Villarreal,2.0,5.0,1.25,3.29
+La Liga,2024-12-22,2024/2025,True,Real Betis,Rayo Vallecano,1.0,1.0,2.14,0.91
+La Liga,2025-01-03,2024/2025,True,Valencia,Real Madrid,1.0,2.0,1.31,2.75
+La Liga,2025-01-10,2024/2025,True,Rayo Vallecano,Celta Vigo,2.0,1.0,0.65,2.26
+La Liga,2025-01-11,2024/2025,True,CD Alaves,Girona,0.0,1.0,1.3,0.49
+La Liga,2025-01-11,2024/2025,True,Valladolid,Real Betis,1.0,0.0,1.25,0.73
+La Liga,2025-01-11,2024/2025,True,Espanyol,Leganes,1.0,1.0,0.7,1.99
+La Liga,2025-01-11,2024/2025,True,Sevilla,Valencia,1.0,1.0,0.55,0.66
+La Liga,2025-01-12,2024/2025,True,Las Palmas,Getafe,1.0,2.0,1.35,1.11
+La Liga,2025-01-12,2024/2025,True,Atletico Madrid,Osasuna,1.0,0.0,2.54,0.28
+La Liga,2025-01-13,2024/2025,True,Real Sociedad,Villarreal,1.0,0.0,0.66,1.17
+La Liga,2025-01-17,2024/2025,True,Espanyol,Valladolid,2.0,1.0,1.01,1.24
+La Liga,2025-01-18,2024/2025,True,Girona,Sevilla,1.0,2.0,1.22,2.66
+La Liga,2025-01-18,2024/2025,True,Leganes,Atletico Madrid,1.0,0.0,0.41,2.42
+La Liga,2025-01-18,2024/2025,True,Real Betis,CD Alaves,1.0,3.0,0.53,1.49
+La Liga,2025-01-18,2024/2025,True,Getafe,Barcelona,1.0,1.0,1.32,2.35
+La Liga,2025-01-19,2024/2025,True,Celta Vigo,Athletic Club,1.0,2.0,0.59,1.83
+La Liga,2025-01-19,2024/2025,True,Real Madrid,Las Palmas,4.0,1.0,5.91,1.16
+La Liga,2025-01-19,2024/2025,True,Osasuna,Rayo Vallecano,1.0,1.0,0.76,0.76
+La Liga,2025-01-19,2024/2025,True,Valencia,Real Sociedad,1.0,0.0,1.64,0.81
+La Liga,2025-01-20,2024/2025,True,Villarreal,Mallorca,4.0,0.0,2.44,0.52
+La Liga,2025-01-24,2024/2025,True,Las Palmas,Osasuna,1.0,1.0,0.79,2.7
+La Liga,2025-01-25,2024/2025,True,Mallorca,Real Betis,0.0,1.0,1.01,0.46
+La Liga,2025-01-25,2024/2025,True,Atletico Madrid,Villarreal,1.0,1.0,1.71,2.24
+La Liga,2025-01-25,2024/2025,True,Sevilla,Espanyol,1.0,1.0,1.2,0.69
+La Liga,2025-01-25,2024/2025,True,Valladolid,Real Madrid,0.0,3.0,0.19,1.99
+La Liga,2025-01-26,2024/2025,True,Rayo Vallecano,Girona,2.0,1.0,2.41,0.99
+La Liga,2025-01-26,2024/2025,True,Real Sociedad,Getafe,0.0,3.0,0.96,1.45
+La Liga,2025-01-26,2024/2025,True,Athletic Club,Leganes,0.0,0.0,2.08,0.86
+La Liga,2025-01-26,2024/2025,True,Barcelona,Valencia,7.0,1.0,4.4,1.43
+La Liga,2025-01-27,2024/2025,True,CD Alaves,Celta Vigo,1.0,1.0,0.95,0.12
+La Liga,2025-01-31,2024/2025,True,Leganes,Rayo Vallecano,0.0,1.0,0.96,2.28
+La Liga,2025-02-01,2024/2025,True,Getafe,Sevilla,0.0,0.0,0.99,0.94
+La Liga,2025-02-01,2024/2025,True,Villarreal,Valladolid,5.0,1.0,3.49,0.56
+La Liga,2025-02-01,2024/2025,True,Atletico Madrid,Mallorca,2.0,0.0,1.29,0.48
+La Liga,2025-02-01,2024/2025,True,Espanyol,Real Madrid,1.0,0.0,0.31,1.33
+La Liga,2025-02-02,2024/2025,True,Barcelona,CD Alaves,1.0,0.0,0.98,0.09
+La Liga,2025-02-02,2024/2025,True,Valencia,Celta Vigo,2.0,1.0,1.67,0.46
+La Liga,2025-02-02,2024/2025,True,Osasuna,Real Sociedad,2.0,1.0,0.65,2.04
+La Liga,2025-02-02,2024/2025,True,Real Betis,Athletic Club,2.0,2.0,1.12,1.52
+La Liga,2025-02-03,2024/2025,True,Girona,Las Palmas,2.0,1.0,2.03,1.29
+La Liga,2025-02-07,2024/2025,True,Rayo Vallecano,Valladolid,1.0,0.0,2.32,0.41
+La Liga,2025-02-08,2024/2025,True,Celta Vigo,Real Betis,3.0,2.0,2.26,1.29
+La Liga,2025-02-08,2024/2025,True,Athletic Club,Girona,3.0,0.0,3.64,0.06
+La Liga,2025-02-08,2024/2025,True,Las Palmas,Villarreal,1.0,2.0,1.44,0.89
+La Liga,2025-02-08,2024/2025,True,Real Madrid,Atletico Madrid,1.0,1.0,1.72,1.47
+La Liga,2025-02-09,2024/2025,True,CD Alaves,Getafe,0.0,1.0,1.43,0.87
+La Liga,2025-02-09,2024/2025,True,Valencia,Leganes,2.0,0.0,1.92,0.46
+La Liga,2025-02-09,2024/2025,True,Real Sociedad,Espanyol,2.0,1.0,1.66,0.87
+La Liga,2025-02-09,2024/2025,True,Sevilla,Barcelona,1.0,4.0,0.77,1.93
+La Liga,2025-02-10,2024/2025,True,Mallorca,Osasuna,1.0,1.0,1.24,1.5
+La Liga,2025-02-14,2024/2025,True,Girona,Getafe,1.0,2.0,0.87,0.56
+La Liga,2025-02-15,2024/2025,True,Leganes,CD Alaves,3.0,3.0,1.81,1.77
+La Liga,2025-02-15,2024/2025,True,Osasuna,Real Madrid,1.0,1.0,1.88,1.38
+La Liga,2025-02-15,2024/2025,True,Atletico Madrid,Celta Vigo,1.0,1.0,0.55,1.75
+La Liga,2025-02-15,2024/2025,True,Villarreal,Valencia,1.0,1.0,1.4,1.07
+La Liga,2025-02-16,2024/2025,True,Espanyol,Athletic Club,1.0,1.0,0.72,1.07
+La Liga,2025-02-16,2024/2025,True,Valladolid,Sevilla,0.0,4.0,0.47,1.06
+La Liga,2025-02-16,2024/2025,True,Mallorca,Las Palmas,3.0,1.0,1.68,0.96
+La Liga,2025-02-16,2024/2025,True,Real Betis,Real Sociedad,3.0,0.0,2.31,0.36
+La Liga,2025-02-17,2024/2025,True,Barcelona,Rayo Vallecano,1.0,0.0,2.56,0.97
+La Liga,2025-02-21,2024/2025,True,Celta Vigo,Osasuna,1.0,0.0,1.96,1.21
+La Liga,2025-02-22,2024/2025,True,CD Alaves,Espanyol,0.0,1.0,1.77,0.37
+La Liga,2025-02-22,2024/2025,True,Rayo Vallecano,Villarreal,0.0,1.0,0.63,0.56
+La Liga,2025-02-22,2024/2025,True,Valencia,Atletico Madrid,0.0,3.0,0.86,1.28
+La Liga,2025-02-22,2024/2025,True,Las Palmas,Barcelona,0.0,2.0,0.47,1.42
+La Liga,2025-02-23,2024/2025,True,Athletic Club,Valladolid,7.0,1.0,4.0,0.45
+La Liga,2025-02-23,2024/2025,True,Real Madrid,Girona,2.0,0.0,2.18,0.45
+La Liga,2025-02-23,2024/2025,True,Getafe,Real Betis,1.0,2.0,1.13,2.04
+La Liga,2025-02-23,2024/2025,True,Real Sociedad,Leganes,3.0,0.0,0.73,0.28
+La Liga,2025-02-24,2024/2025,True,Sevilla,Mallorca,1.0,1.0,1.29,2.28
+La Liga,2025-02-28,2024/2025,True,Valladolid,Las Palmas,1.0,1.0,1.8,0.18
+La Liga,2025-03-01,2024/2025,True,Girona,Celta Vigo,2.0,2.0,0.71,1.85
+La Liga,2025-03-01,2024/2025,True,Rayo Vallecano,Sevilla,1.0,1.0,2.87,0.57
+La Liga,2025-03-01,2024/2025,True,Real Betis,Real Madrid,2.0,1.0,2.39,1.13
+La Liga,2025-03-01,2024/2025,True,Atletico Madrid,Athletic Club,1.0,0.0,2.25,1.12
+La Liga,2025-03-02,2024/2025,True,Leganes,Getafe,1.0,0.0,0.94,0.33
+La Liga,2025-03-02,2024/2025,True,Barcelona,Real Sociedad,4.0,0.0,2.85,0.0
+La Liga,2025-03-02,2024/2025,True,Mallorca,CD Alaves,1.0,1.0,1.18,1.75
+La Liga,2025-03-02,2024/2025,True,Osasuna,Valencia,3.0,3.0,1.52,1.76
+La Liga,2025-03-08,2024/2025,True,Celta Vigo,Leganes,2.0,1.0,0.98,1.06
+La Liga,2025-03-08,2024/2025,True,CD Alaves,Villarreal,1.0,0.0,1.04,2.85
+La Liga,2025-03-08,2024/2025,True,Valencia,Valladolid,2.0,1.0,1.91,0.89
+La Liga,2025-03-09,2024/2025,True,Getafe,Atletico Madrid,2.0,1.0,1.27,0.97
+La Liga,2025-03-09,2024/2025,True,Real Madrid,Rayo Vallecano,2.0,1.0,1.6,1.02
+La Liga,2025-03-09,2024/2025,True,Athletic Club,Mallorca,1.0,1.0,0.7,0.55
+La Liga,2025-03-09,2024/2025,True,Real Betis,Las Palmas,1.0,0.0,2.31,0.63
+La Liga,2025-03-09,2024/2025,True,Real Sociedad,Sevilla,0.0,1.0,0.75,0.58
+La Liga,2025-03-10,2024/2025,True,Espanyol,Girona,1.0,1.0,0.27,1.55
+La Liga,2025-03-14,2024/2025,True,Las Palmas,CD Alaves,2.0,2.0,1.77,1.49
+La Liga,2025-03-15,2024/2025,True,Valladolid,Celta Vigo,0.0,1.0,0.67,1.58
+La Liga,2025-03-15,2024/2025,True,Mallorca,Espanyol,2.0,1.0,2.69,0.22
+La Liga,2025-03-15,2024/2025,True,Villarreal,Real Madrid,1.0,2.0,1.64,1.08
+La Liga,2025-03-15,2024/2025,True,Girona,Valencia,1.0,1.0,0.93,1.13
+La Liga,2025-03-16,2024/2025,True,Leganes,Real Betis,2.0,3.0,1.29,2.69
+La Liga,2025-03-16,2024/2025,True,Sevilla,Athletic Club,0.0,1.0,0.55,1.3
+La Liga,2025-03-16,2024/2025,True,Osasuna,Getafe,1.0,2.0,1.87,0.53
+La Liga,2025-03-16,2024/2025,True,Rayo Vallecano,Real Sociedad,2.0,2.0,0.56,0.58
+La Liga,2025-03-16,2024/2025,True,Atletico Madrid,Barcelona,2.0,4.0,1.4,1.25
+La Liga,2025-03-27,2024/2025,True,Barcelona,Osasuna,3.0,0.0,3.72,0.4
+La Liga,2025-03-29,2024/2025,True,Real Sociedad,Valladolid,2.0,1.0,0.72,0.72
+La Liga,2025-03-29,2024/2025,True,Espanyol,Atletico Madrid,1.0,1.0,0.94,0.83
+La Liga,2025-03-29,2024/2025,True,CD Alaves,Rayo Vallecano,0.0,2.0,1.49,0.59
+La Liga,2025-03-29,2024/2025,True,Real Madrid,Leganes,3.0,2.0,2.91,2.87
+La Liga,2025-03-30,2024/2025,True,Getafe,Villarreal,1.0,2.0,1.04,1.26
+La Liga,2025-03-30,2024/2025,True,Barcelona,Girona,4.0,1.0,2.31,0.49
+La Liga,2025-03-30,2024/2025,True,Athletic Club,Osasuna,0.0,0.0,0.7,0.36
+La Liga,2025-03-30,2024/2025,True,Valencia,Mallorca,1.0,0.0,0.69,0.6
+La Liga,2025-03-30,2024/2025,True,Real Betis,Sevilla,2.0,1.0,1.07,0.7
+La Liga,2025-03-31,2024/2025,True,Celta Vigo,Las Palmas,1.0,1.0,0.98,0.33
+La Liga,2025-04-04,2024/2025,True,Rayo Vallecano,Espanyol,0.0,4.0,0.67,3.27
+La Liga,2025-04-05,2024/2025,True,Girona,CD Alaves,0.0,1.0,1.42,0.8
+La Liga,2025-04-05,2024/2025,True,Real Madrid,Valencia,1.0,2.0,3.47,0.78
+La Liga,2025-04-05,2024/2025,True,Mallorca,Celta Vigo,1.0,2.0,0.5,0.82
+La Liga,2025-04-05,2024/2025,True,Barcelona,Real Betis,1.0,1.0,1.39,0.31
+La Liga,2025-04-06,2024/2025,True,Las Palmas,Real Sociedad,1.0,3.0,1.97,2.39
+La Liga,2025-04-06,2024/2025,True,Sevilla,Atletico Madrid,1.0,2.0,0.89,1.29
+La Liga,2025-04-06,2024/2025,True,Valladolid,Getafe,0.0,4.0,0.61,1.96
+La Liga,2025-04-06,2024/2025,True,Villarreal,Athletic Club,0.0,0.0,2.08,0.73
+La Liga,2025-04-07,2024/2025,True,Leganes,Osasuna,1.0,1.0,1.76,2.23
+La Liga,2025-04-11,2024/2025,True,Valencia,Sevilla,1.0,0.0,1.25,0.81
+La Liga,2025-04-12,2024/2025,True,Real Sociedad,Mallorca,0.0,2.0,0.7,0.52
+La Liga,2025-04-12,2024/2025,True,Getafe,Las Palmas,1.0,3.0,1.79,1.3
+La Liga,2025-04-12,2024/2025,True,Celta Vigo,Espanyol,0.0,2.0,0.91,1.21
+La Liga,2025-04-12,2024/2025,True,Leganes,Barcelona,0.0,1.0,0.72,1.35
+La Liga,2025-04-13,2024/2025,True,Osasuna,Girona,2.0,1.0,1.43,0.93
+La Liga,2025-04-13,2024/2025,True,CD Alaves,Real Madrid,0.0,1.0,0.6,0.91
+La Liga,2025-04-13,2024/2025,True,Real Betis,Villarreal,1.0,2.0,1.46,1.45
+La Liga,2025-04-13,2024/2025,True,Athletic Club,Rayo Vallecano,3.0,1.0,1.63,1.63
+La Liga,2025-04-14,2024/2025,True,Atletico Madrid,Valladolid,4.0,2.0,3.4,1.33
+La Liga,2025-04-18,2024/2025,True,Espanyol,Getafe,1.0,0.0,0.37,0.47
+La Liga,2025-04-19,2024/2025,True,Rayo Vallecano,Valencia,1.0,1.0,0.57,1.99
+La Liga,2025-04-19,2024/2025,True,Barcelona,Celta Vigo,4.0,3.0,2.86,2.13
+La Liga,2025-04-19,2024/2025,True,Mallorca,Leganes,0.0,0.0,0.96,0.88
+La Liga,2025-04-19,2024/2025,True,Las Palmas,Atletico Madrid,1.0,0.0,0.61,0.8
+La Liga,2025-04-20,2024/2025,True,Valladolid,Osasuna,2.0,3.0,1.91,2.35
+La Liga,2025-04-20,2024/2025,True,Villarreal,Real Sociedad,2.0,2.0,1.94,2.02
+La Liga,2025-04-20,2024/2025,True,Sevilla,CD Alaves,1.0,1.0,1.72,1.02
+La Liga,2025-04-20,2024/2025,True,Real Madrid,Athletic Club,1.0,0.0,1.51,0.19
+La Liga,2025-04-21,2024/2025,True,Girona,Real Betis,1.0,3.0,1.09,1.77
+La Liga,2025-04-22,2024/2025,True,Valencia,Espanyol,1.0,1.0,0.94,0.34
+La Liga,2025-04-22,2024/2025,True,Barcelona,Mallorca,1.0,0.0,3.45,0.25
+La Liga,2025-04-23,2024/2025,True,Athletic Club,Las Palmas,1.0,0.0,2.11,1.05
+La Liga,2025-04-23,2024/2025,True,Celta Vigo,Villarreal,3.0,0.0,3.09,0.39
+La Liga,2025-04-23,2024/2025,True,CD Alaves,Real Sociedad,1.0,0.0,0.57,0.85
+La Liga,2025-04-23,2024/2025,True,Getafe,Real Madrid,0.0,1.0,2.36,1.5
+La Liga,2025-04-24,2024/2025,True,Leganes,Girona,1.0,1.0,0.36,0.56
+La Liga,2025-04-24,2024/2025,True,Osasuna,Sevilla,1.0,0.0,0.35,1.12
+La Liga,2025-04-24,2024/2025,True,Atletico Madrid,Rayo Vallecano,3.0,0.0,2.29,0.73
+La Liga,2025-04-24,2024/2025,True,Real Betis,Valladolid,5.0,1.0,1.9,0.8
+La Liga,2025-04-27,2024/2025,True,Villarreal,Espanyol,1.0,0.0,1.48,0.97
+La Liga,2025-05-02,2024/2025,True,Rayo Vallecano,Getafe,1.0,0.0,1.27,0.84
+La Liga,2025-05-03,2024/2025,True,CD Alaves,Atletico Madrid,0.0,0.0,0.5,0.54
+La Liga,2025-05-03,2024/2025,True,Villarreal,Osasuna,4.0,2.0,2.19,1.26
+La Liga,2025-05-03,2024/2025,True,Las Palmas,Valencia,2.0,3.0,1.71,1.36
+La Liga,2025-05-03,2024/2025,True,Valladolid,Barcelona,1.0,2.0,0.59,1.93
+La Liga,2025-05-04,2024/2025,True,Real Madrid,Celta Vigo,3.0,2.0,2.12,1.85
+La Liga,2025-05-04,2024/2025,True,Sevilla,Leganes,2.0,2.0,2.73,0.94
+La Liga,2025-05-04,2024/2025,True,Espanyol,Real Betis,1.0,2.0,1.28,1.14
+La Liga,2025-05-04,2024/2025,True,Real Sociedad,Athletic Club,0.0,0.0,0.92,0.17
+La Liga,2025-05-05,2024/2025,True,Girona,Mallorca,1.0,0.0,1.42,0.47
+La Liga,2025-05-09,2024/2025,True,Las Palmas,Rayo Vallecano,0.0,1.0,0.68,1.24
+La Liga,2025-05-10,2024/2025,True,Valencia,Getafe,3.0,0.0,2.72,0.53
+La Liga,2025-05-10,2024/2025,True,Celta Vigo,Sevilla,3.0,2.0,0.71,2.31
+La Liga,2025-05-10,2024/2025,True,Girona,Villarreal,0.0,1.0,0.25,2.17
+La Liga,2025-05-10,2024/2025,True,Mallorca,Valladolid,2.0,1.0,1.11,1.85
+La Liga,2025-05-10,2024/2025,True,Atletico Madrid,Real Sociedad,4.0,0.0,1.39,0.49
+La Liga,2025-05-11,2024/2025,True,Leganes,Espanyol,3.0,2.0,1.51,1.19
+La Liga,2025-05-11,2024/2025,True,Barcelona,Real Madrid,4.0,3.0,4.26,2.74
+La Liga,2025-05-11,2024/2025,True,Athletic Club,CD Alaves,1.0,0.0,1.3,0.78
+La Liga,2025-05-11,2024/2025,True,Real Betis,Osasuna,1.0,1.0,0.39,2.03
+La Liga,2025-05-13,2024/2025,True,Valladolid,Girona,0.0,1.0,0.91,1.39
+La Liga,2025-05-13,2024/2025,True,Real Sociedad,Celta Vigo,0.0,1.0,1.78,1.14
+La Liga,2025-05-13,2024/2025,True,Sevilla,Las Palmas,1.0,0.0,1.22,0.48
+La Liga,2025-05-14,2024/2025,True,CD Alaves,Valencia,1.0,0.0,1.81,0.61
+La Liga,2025-05-14,2024/2025,True,Villarreal,Leganes,3.0,0.0,1.88,1.06
+La Liga,2025-05-14,2024/2025,True,Real Madrid,Mallorca,2.0,1.0,2.63,0.49
+La Liga,2025-05-15,2024/2025,True,Osasuna,Atletico Madrid,2.0,0.0,0.58,1.36
+La Liga,2025-05-15,2024/2025,True,Rayo Vallecano,Real Betis,2.0,2.0,1.19,1.17
+La Liga,2025-05-15,2024/2025,True,Espanyol,Barcelona,0.0,2.0,1.39,0.63
+La Liga,2025-05-15,2024/2025,True,Getafe,Athletic Club,0.0,2.0,0.41,1.16
+La Liga,2025-05-18,2024/2025,True,Atletico Madrid,Real Betis,4.0,1.0,4.86,0.92
+La Liga,2025-05-18,2024/2025,True,Barcelona,Villarreal,2.0,3.0,1.39,1.75
+La Liga,2025-05-18,2024/2025,True,Celta Vigo,Rayo Vallecano,1.0,2.0,2.64,1.03
+La Liga,2025-05-18,2024/2025,True,Las Palmas,Leganes,0.0,1.0,0.63,1.56
+La Liga,2025-05-18,2024/2025,True,Mallorca,Getafe,1.0,2.0,0.43,1.62
+La Liga,2025-05-18,2024/2025,True,Osasuna,Espanyol,2.0,0.0,1.25,0.79
+La Liga,2025-05-18,2024/2025,True,Real Sociedad,Girona,3.0,2.0,2.0,2.15
+La Liga,2025-05-18,2024/2025,True,Valladolid,CD Alaves,0.0,1.0,1.45,1.36
+La Liga,2025-05-18,2024/2025,True,Sevilla,Real Madrid,0.0,2.0,0.51,2.02
+La Liga,2025-05-18,2024/2025,True,Valencia,Athletic Club,0.0,1.0,0.48,1.08
+La Liga,2025-05-23,2024/2025,True,Real Betis,Valencia,1.0,1.0,0.91,0.77
+La Liga,2025-05-24,2024/2025,True,Real Madrid,Real Sociedad,2.0,0.0,2.58,0.77
+La Liga,2025-05-24,2024/2025,True,Espanyol,Las Palmas,2.0,0.0,1.86,0.49
+La Liga,2025-05-24,2024/2025,True,Leganes,Valladolid,3.0,0.0,2.13,0.39
+La Liga,2025-05-24,2024/2025,True,CD Alaves,Osasuna,1.0,1.0,1.96,1.66
+La Liga,2025-05-24,2024/2025,True,Getafe,Celta Vigo,1.0,2.0,0.46,1.54
+La Liga,2025-05-24,2024/2025,True,Rayo Vallecano,Mallorca,0.0,0.0,2.26,0.66
+La Liga,2025-05-25,2024/2025,True,Girona,Atletico Madrid,0.0,4.0,0.05,2.74
+La Liga,2025-05-25,2024/2025,True,Villarreal,Sevilla,4.0,2.0,1.06,1.51
+La Liga,2025-05-25,2024/2025,True,Athletic Club,Barcelona,0.0,3.0,1.21,3.51
+La Liga,2025-08-15,2025/2026,True,Girona,Rayo Vallecano,1.0,3.0,0.56,3.43
+La Liga,2025-08-15,2025/2026,True,Villarreal,Real Oviedo,2.0,0.0,2.44,0.93
+La Liga,2025-08-16,2025/2026,True,Mallorca,Barcelona,0.0,3.0,0.21,2.13
+La Liga,2025-08-16,2025/2026,True,CD Alaves,Levante,2.0,1.0,1.29,0.87
+La Liga,2025-08-16,2025/2026,True,Valencia,Real Sociedad,1.0,1.0,2.04,0.81
+La Liga,2025-08-17,2025/2026,True,Celta Vigo,Getafe,0.0,2.0,0.73,1.43
+La Liga,2025-08-17,2025/2026,True,Athletic Club,Sevilla,3.0,2.0,2.89,1.01
+La Liga,2025-08-17,2025/2026,True,Espanyol,Atletico Madrid,2.0,1.0,1.26,1.1
+La Liga,2025-08-18,2025/2026,True,Elche,Real Betis,1.0,1.0,0.64,1.86
+La Liga,2025-08-19,2025/2026,True,Real Madrid,Osasuna,1.0,0.0,1.64,0.36
+La Liga,2025-08-22,2025/2026,True,Real Betis,CD Alaves,1.0,0.0,1.95,1.12
+La Liga,2025-08-23,2025/2026,True,Mallorca,Celta Vigo,1.0,1.0,0.68,0.74
+La Liga,2025-08-23,2025/2026,True,Atletico Madrid,Elche,1.0,1.0,1.74,0.57
+La Liga,2025-08-23,2025/2026,True,Levante,Barcelona,2.0,3.0,2.14,1.93
+La Liga,2025-08-24,2025/2026,True,Osasuna,Valencia,1.0,0.0,0.83,0.41
+La Liga,2025-08-24,2025/2026,True,Real Sociedad,Espanyol,2.0,2.0,1.1,1.81
+La Liga,2025-08-24,2025/2026,True,Villarreal,Girona,5.0,0.0,2.3,0.14
+La Liga,2025-08-24,2025/2026,True,Real Oviedo,Real Madrid,0.0,3.0,0.5,2.68
+La Liga,2025-08-25,2025/2026,True,Athletic Club,Rayo Vallecano,1.0,0.0,1.51,0.29
+La Liga,2025-08-25,2025/2026,True,Sevilla,Getafe,1.0,2.0,0.51,0.71
+La Liga,2025-08-27,2025/2026,True,Celta Vigo,Real Betis,1.0,1.0,0.83,0.33
+La Liga,2025-08-29,2025/2026,True,Elche,Levante,2.0,0.0,1.12,0.71
+La Liga,2025-08-29,2025/2026,True,Valencia,Getafe,3.0,0.0,1.08,0.74
+La Liga,2025-08-30,2025/2026,True,CD Alaves,Atletico Madrid,1.0,1.0,0.91,1.06
+La Liga,2025-08-30,2025/2026,True,Real Oviedo,Real Sociedad,1.0,0.0,0.5,1.07
+La Liga,2025-08-30,2025/2026,True,Girona,Sevilla,0.0,2.0,2.13,1.32
+La Liga,2025-08-30,2025/2026,True,Real Madrid,Mallorca,2.0,1.0,1.82,0.72
+La Liga,2025-08-31,2025/2026,True,Celta Vigo,Villarreal,1.0,1.0,0.96,1.04
+La Liga,2025-08-31,2025/2026,True,Real Betis,Athletic Club,1.0,2.0,0.62,1.11
+La Liga,2025-08-31,2025/2026,True,Espanyol,Osasuna,1.0,0.0,1.21,1.37
+La Liga,2025-08-31,2025/2026,True,Rayo Vallecano,Barcelona,1.0,1.0,1.85,1.83
+La Liga,2025-09-12,2025/2026,True,Sevilla,Elche,2.0,2.0,0.4,0.95
+La Liga,2025-09-13,2025/2026,True,Getafe,Real Oviedo,2.0,0.0,0.75,0.46
+La Liga,2025-09-13,2025/2026,True,Real Sociedad,Real Madrid,1.0,2.0,2.23,2.42
+La Liga,2025-09-13,2025/2026,True,Athletic Club,CD Alaves,0.0,1.0,1.08,0.09
+La Liga,2025-09-13,2025/2026,True,Atletico Madrid,Villarreal,2.0,0.0,1.01,1.03
+La Liga,2025-09-14,2025/2026,True,Celta Vigo,Girona,1.0,1.0,2.5,0.64
+La Liga,2025-09-14,2025/2026,True,Levante,Real Betis,2.0,2.0,0.73,2.12
+La Liga,2025-09-14,2025/2026,True,Osasuna,Rayo Vallecano,2.0,0.0,1.59,1.09
+La Liga,2025-09-14,2025/2026,True,Barcelona,Valencia,6.0,0.0,4.02,0.18
+La Liga,2025-09-15,2025/2026,True,Espanyol,Mallorca,3.0,2.0,2.46,2.23
+La Liga,2025-09-19,2025/2026,True,Real Betis,Real Sociedad,3.0,1.0,2.47,0.84
+La Liga,2025-09-20,2025/2026,True,Girona,Levante,0.0,4.0,0.5,2.88
+La Liga,2025-09-20,2025/2026,True,Real Madrid,Espanyol,2.0,0.0,1.18,0.96
+La Liga,2025-09-20,2025/2026,True,CD Alaves,Sevilla,1.0,2.0,0.95,0.48
+La Liga,2025-09-20,2025/2026,True,Villarreal,Osasuna,2.0,1.0,2.55,1.8
+La Liga,2025-09-20,2025/2026,True,Valencia,Athletic Club,2.0,0.0,1.88,0.49
+La Liga,2025-09-21,2025/2026,True,Rayo Vallecano,Celta Vigo,1.0,1.0,1.08,0.81
+La Liga,2025-09-21,2025/2026,True,Mallorca,Atletico Madrid,1.0,1.0,0.6,2.26
+La Liga,2025-09-21,2025/2026,True,Elche,Real Oviedo,1.0,0.0,1.55,1.09
+La Liga,2025-09-21,2025/2026,True,Barcelona,Getafe,3.0,0.0,1.97,0.27
+La Liga,2025-09-23,2025/2026,True,Athletic Club,Girona,1.0,1.0,1.46,0.78
+La Liga,2025-09-23,2025/2026,True,Espanyol,Valencia,2.0,2.0,2.57,0.74
+La Liga,2025-09-23,2025/2026,True,Levante,Real Madrid,1.0,4.0,1.6,3.94
+La Liga,2025-09-23,2025/2026,True,Sevilla,Villarreal,1.0,2.0,0.97,1.95
+La Liga,2025-09-24,2025/2026,True,Getafe,CD Alaves,1.0,1.0,0.24,0.57
+La Liga,2025-09-24,2025/2026,True,Atletico Madrid,Rayo Vallecano,3.0,2.0,3.61,1.6
+La Liga,2025-09-24,2025/2026,True,Real Sociedad,Mallorca,1.0,0.0,2.76,0.76
+La Liga,2025-09-25,2025/2026,True,Osasuna,Elche,1.0,1.0,0.9,0.82
+La Liga,2025-09-25,2025/2026,True,Real Oviedo,Barcelona,1.0,3.0,1.04,2.07
+La Liga,2025-09-26,2025/2026,True,Girona,Espanyol,0.0,0.0,1.08,1.08
+La Liga,2025-09-27,2025/2026,True,Getafe,Levante,1.0,1.0,0.55,1.24
+La Liga,2025-09-27,2025/2026,True,Atletico Madrid,Real Madrid,5.0,2.0,2.34,0.66
+La Liga,2025-09-27,2025/2026,True,Mallorca,CD Alaves,1.0,0.0,0.74,0.78
+La Liga,2025-09-27,2025/2026,True,Villarreal,Athletic Club,1.0,0.0,1.22,1.44
+La Liga,2025-09-28,2025/2026,True,Rayo Vallecano,Sevilla,0.0,1.0,1.89,0.63
+La Liga,2025-09-28,2025/2026,True,Elche,Celta Vigo,2.0,1.0,3.58,0.77
+La Liga,2025-09-28,2025/2026,True,Barcelona,Real Sociedad,2.0,1.0,2.22,0.97
+La Liga,2025-09-28,2025/2026,True,Real Betis,Osasuna,2.0,0.0,0.76,0.7
+La Liga,2025-09-30,2025/2026,True,Valencia,Real Oviedo,1.0,2.0,1.51,0.77
+La Liga,2025-10-03,2025/2026,True,Osasuna,Getafe,2.0,1.0,0.43,0.82
+La Liga,2025-10-04,2025/2026,True,Real Oviedo,Levante,0.0,2.0,1.31,1.94
+La Liga,2025-10-04,2025/2026,True,Girona,Valencia,2.0,1.0,1.02,1.14
+La Liga,2025-10-04,2025/2026,True,Athletic Club,Mallorca,2.0,1.0,2.05,0.32
+La Liga,2025-10-04,2025/2026,True,Real Madrid,Villarreal,3.0,1.0,3.52,1.0
+La Liga,2025-10-05,2025/2026,True,CD Alaves,Elche,3.0,1.0,2.42,0.38
+La Liga,2025-10-05,2025/2026,True,Sevilla,Barcelona,4.0,1.0,2.8,2.25
+La Liga,2025-10-05,2025/2026,True,Espanyol,Real Betis,1.0,2.0,2.28,1.4
+La Liga,2025-10-05,2025/2026,True,Real Sociedad,Rayo Vallecano,0.0,1.0,0.79,0.8
+La Liga,2025-10-05,2025/2026,True,Celta Vigo,Atletico Madrid,1.0,1.0,1.92,0.3
+La Liga,2025-10-17,2025/2026,True,Real Oviedo,Espanyol,0.0,2.0,0.77,3.74
+La Liga,2025-10-18,2025/2026,True,Sevilla,Mallorca,1.0,3.0,1.26,1.85
+La Liga,2025-10-18,2025/2026,True,Barcelona,Girona,2.0,1.0,1.61,1.55
+La Liga,2025-10-18,2025/2026,True,Villarreal,Real Betis,2.0,2.0,0.66,1.18
+La Liga,2025-10-18,2025/2026,True,Atletico Madrid,Osasuna,1.0,0.0,2.58,1.14
+La Liga,2025-10-19,2025/2026,True,Elche,Athletic Club,0.0,0.0,1.08,0.25
+La Liga,2025-10-19,2025/2026,True,Celta Vigo,Real Sociedad,1.0,1.0,0.95,1.55
+La Liga,2025-10-19,2025/2026,True,Levante,Rayo Vallecano,0.0,3.0,0.91,1.55
+La Liga,2025-10-19,2025/2026,True,Getafe,Real Madrid,0.0,1.0,0.52,2.3
+La Liga,2025-10-20,2025/2026,True,CD Alaves,Valencia,0.0,0.0,0.74,0.45
+La Liga,2025-10-24,2025/2026,True,Real Sociedad,Sevilla,2.0,1.0,1.61,0.23
+La Liga,2025-10-25,2025/2026,True,Girona,Real Oviedo,3.0,3.0,2.03,1.79
+La Liga,2025-10-25,2025/2026,True,Espanyol,Elche,1.0,0.0,1.93,0.86
+La Liga,2025-10-25,2025/2026,True,Athletic Club,Getafe,0.0,1.0,0.38,0.93
+La Liga,2025-10-25,2025/2026,True,Valencia,Villarreal,0.0,2.0,0.8,2.18
+La Liga,2025-10-26,2025/2026,True,Mallorca,Levante,1.0,1.0,1.58,2.08
+La Liga,2025-10-26,2025/2026,True,Real Madrid,Barcelona,2.0,1.0,3.63,1.03
+La Liga,2025-10-26,2025/2026,True,Osasuna,Celta Vigo,2.0,3.0,2.31,1.96
+La Liga,2025-10-26,2025/2026,True,Rayo Vallecano,CD Alaves,1.0,0.0,1.18,0.84
+La Liga,2025-10-27,2025/2026,True,Real Betis,Atletico Madrid,0.0,2.0,1.07,0.6
+La Liga,2025-10-31,2025/2026,True,Getafe,Girona,2.0,1.0,0.88,1.43
+La Liga,2025-11-01,2025/2026,True,Villarreal,Rayo Vallecano,4.0,0.0,3.02,1.02
+La Liga,2025-11-01,2025/2026,True,Atletico Madrid,Sevilla,3.0,0.0,3.53,0.46
+La Liga,2025-11-01,2025/2026,True,Real Sociedad,Athletic Club,3.0,2.0,1.52,0.83
+La Liga,2025-11-01,2025/2026,True,Real Madrid,Valencia,4.0,0.0,2.71,0.49
+La Liga,2025-11-02,2025/2026,True,Levante,Celta Vigo,1.0,2.0,1.2,2.0
+La Liga,2025-11-02,2025/2026,True,CD Alaves,Espanyol,2.0,1.0,1.22,1.06
+La Liga,2025-11-02,2025/2026,True,Barcelona,Elche,3.0,1.0,1.88,0.66
+La Liga,2025-11-02,2025/2026,True,Real Betis,Mallorca,3.0,0.0,2.36,0.62
+La Liga,2025-11-03,2025/2026,True,Real Oviedo,Osasuna,0.0,0.0,0.96,0.82
+La Liga,2025-11-07,2025/2026,True,Elche,Real Sociedad,1.0,1.0,0.8,1.36
+La Liga,2025-11-08,2025/2026,True,Girona,CD Alaves,1.0,0.0,0.85,1.84
+La Liga,2025-11-08,2025/2026,True,Sevilla,Osasuna,1.0,0.0,1.7,1.29
+La Liga,2025-11-08,2025/2026,True,Atletico Madrid,Levante,3.0,1.0,2.92,1.19
+La Liga,2025-11-08,2025/2026,True,Espanyol,Villarreal,0.0,2.0,0.5,1.61
+La Liga,2025-11-09,2025/2026,True,Athletic Club,Real Oviedo,1.0,0.0,1.7,0.22
+La Liga,2025-11-09,2025/2026,True,Rayo Vallecano,Real Madrid,0.0,0.0,1.2,0.98
+La Liga,2025-11-09,2025/2026,True,Mallorca,Getafe,1.0,0.0,1.11,0.75
+La Liga,2025-11-09,2025/2026,True,Valencia,Real Betis,1.0,1.0,1.94,1.6
+La Liga,2025-11-09,2025/2026,True,Celta Vigo,Barcelona,2.0,4.0,0.58,3.31
+La Liga,2025-11-21,2025/2026,True,Valencia,Levante,1.0,0.0,1.49,0.72
+La Liga,2025-11-22,2025/2026,True,CD Alaves,Celta Vigo,0.0,1.0,0.67,1.37
+La Liga,2025-11-22,2025/2026,True,Barcelona,Athletic Club,4.0,0.0,2.0,0.8
+La Liga,2025-11-22,2025/2026,True,Osasuna,Real Sociedad,1.0,3.0,1.34,1.63
+La Liga,2025-11-22,2025/2026,True,Villarreal,Mallorca,2.0,1.0,2.23,1.02
+La Liga,2025-11-23,2025/2026,True,Real Oviedo,Rayo Vallecano,0.0,0.0,0.43,1.74
+La Liga,2025-11-23,2025/2026,True,Real Betis,Girona,1.0,1.0,1.42,1.46
+La Liga,2025-11-23,2025/2026,True,Getafe,Atletico Madrid,0.0,1.0,0.7,0.99
+La Liga,2025-11-23,2025/2026,True,Elche,Real Madrid,2.0,2.0,1.44,3.49
+La Liga,2025-11-24,2025/2026,True,Espanyol,Sevilla,2.0,1.0,1.09,1.82
+La Liga,2025-11-28,2025/2026,True,Getafe,Elche,1.0,0.0,1.06,0.51
+La Liga,2025-11-29,2025/2026,True,Mallorca,Osasuna,2.0,2.0,1.49,1.09
+La Liga,2025-11-29,2025/2026,True,Barcelona,CD Alaves,3.0,1.0,2.24,1.59
+La Liga,2025-11-29,2025/2026,True,Levante,Athletic Club,0.0,2.0,1.3,2.9
+La Liga,2025-11-29,2025/2026,True,Atletico Madrid,Real Oviedo,2.0,0.0,1.93,0.93
+La Liga,2025-11-30,2025/2026,True,Real Sociedad,Villarreal,2.0,3.0,1.02,1.51
+La Liga,2025-11-30,2025/2026,True,Sevilla,Real Betis,0.0,2.0,0.35,1.1
+La Liga,2025-11-30,2025/2026,True,Celta Vigo,Espanyol,0.0,1.0,0.63,0.38
+La Liga,2025-11-30,2025/2026,True,Girona,Real Madrid,1.0,1.0,0.79,2.53
+La Liga,2025-12-01,2025/2026,True,Rayo Vallecano,Valencia,1.0,1.0,1.57,0.63
+La Liga,2025-12-02,2025/2026,True,Barcelona,Atletico Madrid,3.0,1.0,3.6,0.98
+La Liga,2025-12-03,2025/2026,True,Athletic Club,Real Madrid,0.0,3.0,0.84,2.21
+La Liga,2025-12-05,2025/2026,True,Real Oviedo,Mallorca,0.0,0.0,1.18,0.68
+La Liga,2025-12-06,2025/2026,True,Villarreal,Getafe,2.0,0.0,0.61,0.22
+La Liga,2025-12-06,2025/2026,True,CD Alaves,Real Sociedad,1.0,0.0,1.39,1.17
+La Liga,2025-12-06,2025/2026,True,Real Betis,Barcelona,3.0,5.0,2.51,2.83
+La Liga,2025-12-06,2025/2026,True,Athletic Club,Atletico Madrid,1.0,0.0,1.15,0.69
+La Liga,2025-12-07,2025/2026,True,Elche,Girona,3.0,0.0,2.03,0.94
+La Liga,2025-12-07,2025/2026,True,Valencia,Sevilla,1.0,1.0,1.19,0.32
+La Liga,2025-12-07,2025/2026,True,Espanyol,Rayo Vallecano,1.0,0.0,1.33,0.25
+La Liga,2025-12-07,2025/2026,True,Real Madrid,Celta Vigo,0.0,2.0,2.46,1.55
+La Liga,2025-12-08,2025/2026,True,Osasuna,Levante,2.0,0.0,1.05,0.48
+La Liga,2025-12-12,2025/2026,True,Real Sociedad,Girona,1.0,2.0,0.92,1.44
+La Liga,2025-12-13,2025/2026,True,Atletico Madrid,Valencia,2.0,1.0,1.01,1.17
+La Liga,2025-12-13,2025/2026,True,Mallorca,Elche,3.0,1.0,2.44,0.29
+La Liga,2025-12-13,2025/2026,True,Barcelona,Osasuna,2.0,0.0,2.41,0.37
+La Liga,2025-12-13,2025/2026,True,Getafe,Espanyol,0.0,1.0,0.23,0.5
+La Liga,2025-12-14,2025/2026,True,Sevilla,Real Oviedo,4.0,0.0,2.03,0.64
+La Liga,2025-12-14,2025/2026,True,Celta Vigo,Athletic Club,2.0,0.0,1.35,1.61
+La Liga,2025-12-14,2025/2026,True,CD Alaves,Real Madrid,1.0,2.0,1.36,1.83
+La Liga,2025-12-15,2025/2026,True,Rayo Vallecano,Real Betis,0.0,0.0,1.86,0.81
+La Liga,2025-12-19,2025/2026,True,Valencia,Mallorca,1.0,1.0,1.28,0.19
+La Liga,2025-12-20,2025/2026,True,Real Oviedo,Celta Vigo,0.0,0.0,0.63,0.66
+La Liga,2025-12-20,2025/2026,True,Levante,Real Sociedad,1.0,1.0,1.29,1.38
+La Liga,2025-12-20,2025/2026,True,Osasuna,CD Alaves,3.0,0.0,2.01,0.57
+La Liga,2025-12-20,2025/2026,True,Real Madrid,Sevilla,2.0,0.0,2.33,1.56
+La Liga,2025-12-21,2025/2026,True,Girona,Atletico Madrid,0.0,3.0,1.06,0.9
+La Liga,2025-12-21,2025/2026,True,Villarreal,Barcelona,0.0,2.0,1.66,2.72
+La Liga,2025-12-21,2025/2026,True,Elche,Rayo Vallecano,4.0,0.0,2.51,0.95
+La Liga,2025-12-21,2025/2026,True,Real Betis,Getafe,4.0,0.0,3.3,1.42
+La Liga,2025-12-22,2025/2026,True,Athletic Club,Espanyol,1.0,2.0,1.59,0.9
+La Liga,2026-01-02,2025/2026,True,Rayo Vallecano,Getafe,1.0,1.0,0.96,0.65
+La Liga,2026-01-03,2025/2026,True,Celta Vigo,Valencia,4.0,1.0,2.7,1.94
+La Liga,2026-01-03,2025/2026,True,Osasuna,Athletic Club,1.0,1.0,0.67,1.46
+La Liga,2026-01-03,2025/2026,True,Elche,Villarreal,1.0,3.0,1.32,1.74
+La Liga,2026-01-03,2025/2026,True,Espanyol,Barcelona,0.0,2.0,1.6,1.94
+La Liga,2026-01-04,2025/2026,True,Sevilla,Levante,0.0,3.0,1.7,1.03
+La Liga,2026-01-04,2025/2026,True,Real Madrid,Real Betis,5.0,1.0,2.94,1.06
+La Liga,2026-01-04,2025/2026,True,CD Alaves,Real Oviedo,1.0,1.0,1.83,2.44
+La Liga,2026-01-04,2025/2026,True,Mallorca,Girona,1.0,2.0,1.26,1.51
+La Liga,2026-01-04,2025/2026,True,Real Sociedad,Atletico Madrid,1.0,1.0,1.73,1.25
+La Liga,2026-01-09,2025/2026,True,Getafe,Real Sociedad,1.0,2.0,0.27,1.56
+La Liga,2026-01-10,2025/2026,True,Real Oviedo,Real Betis,1.0,1.0,1.24,2.24
+La Liga,2026-01-10,2025/2026,True,Villarreal,CD Alaves,3.0,1.0,1.5,0.94
+La Liga,2026-01-10,2025/2026,True,Girona,Osasuna,1.0,0.0,0.65,1.41
+La Liga,2026-01-10,2025/2026,True,Valencia,Elche,1.0,1.0,1.94,0.18
+La Liga,2026-01-11,2025/2026,True,Rayo Vallecano,Mallorca,2.0,1.0,2.37,0.72
+La Liga,2026-01-11,2025/2026,True,Levante,Espanyol,1.0,1.0,1.11,1.36
+La Liga,2026-01-12,2025/2026,True,Sevilla,Celta Vigo,0.0,1.0,0.27,1.63
+La Liga,2026-01-16,2025/2026,True,Espanyol,Girona,0.0,2.0,1.07,1.95
+La Liga,2026-01-17,2025/2026,True,Real Madrid,Levante,2.0,0.0,2.88,0.8
+La Liga,2026-01-17,2025/2026,True,Mallorca,Athletic Club,3.0,2.0,2.79,2.08
+La Liga,2026-01-17,2025/2026,True,Osasuna,Real Oviedo,3.0,2.0,1.37,1.34
+La Liga,2026-01-17,2025/2026,True,Real Betis,Villarreal,2.0,0.0,1.07,1.02
+La Liga,2026-01-18,2025/2026,True,Getafe,Valencia,0.0,1.0,0.62,0.89
+La Liga,2026-01-18,2025/2026,True,Atletico Madrid,CD Alaves,1.0,0.0,1.78,0.85
+La Liga,2026-01-18,2025/2026,True,Celta Vigo,Rayo Vallecano,3.0,0.0,1.87,1.11
+La Liga,2026-01-18,2025/2026,True,Real Sociedad,Barcelona,2.0,1.0,1.01,3.68
+La Liga,2026-01-19,2025/2026,True,Elche,Sevilla,2.0,2.0,1.54,3.0
+La Liga,2026-01-23,2025/2026,True,Levante,Elche,3.0,2.0,2.61,0.65
+La Liga,2026-01-24,2025/2026,True,Rayo Vallecano,Osasuna,1.0,3.0,0.69,1.41
+La Liga,2026-01-24,2025/2026,True,Valencia,Espanyol,3.0,2.0,2.29,1.41
+La Liga,2026-01-24,2025/2026,True,Sevilla,Athletic Club,2.0,1.0,2.07,2.14
+La Liga,2026-01-24,2025/2026,True,Villarreal,Real Madrid,0.0,2.0,0.58,1.63
+La Liga,2026-01-25,2025/2026,True,Atletico Madrid,Mallorca,3.0,0.0,1.48,0.46
+La Liga,2026-01-25,2025/2026,True,Barcelona,Real Oviedo,3.0,0.0,2.09,0.48
+La Liga,2026-01-25,2025/2026,True,Real Sociedad,Celta Vigo,3.0,1.0,1.61,1.6
+La Liga,2026-01-25,2025/2026,True,CD Alaves,Real Betis,2.0,1.0,1.32,1.27
+La Liga,2026-01-26,2025/2026,True,Girona,Getafe,1.0,1.0,0.75,0.8
+La Liga,2026-01-30,2025/2026,True,Espanyol,CD Alaves,1.0,2.0,0.67,1.74
+La Liga,2026-01-31,2025/2026,True,Real Oviedo,Girona,1.0,0.0,1.4,0.65
+La Liga,2026-01-31,2025/2026,True,Osasuna,Villarreal,2.0,2.0,1.37,0.92
+La Liga,2026-01-31,2025/2026,True,Levante,Atletico Madrid,0.0,0.0,0.37,0.86
+La Liga,2026-01-31,2025/2026,True,Elche,Barcelona,1.0,3.0,1.0,6.44
+La Liga,2026-02-01,2025/2026,True,Real Madrid,Rayo Vallecano,2.0,1.0,2.21,1.03
+La Liga,2026-02-01,2025/2026,True,Real Betis,Valencia,2.0,1.0,1.87,1.9
+La Liga,2026-02-01,2025/2026,True,Getafe,Celta Vigo,0.0,0.0,0.43,0.18
+La Liga,2026-02-01,2025/2026,True,Athletic Club,Real Sociedad,1.0,1.0,0.97,1.66
+La Liga,2026-02-02,2025/2026,True,Mallorca,Sevilla,4.0,1.0,2.63,1.13
+La Liga,2026-02-06,2025/2026,True,Celta Vigo,Osasuna,1.0,2.0,2.39,0.67
+La Liga,2026-02-07,2025/2026,True,Barcelona,Mallorca,3.0,0.0,2.73,0.8
+La Liga,2026-02-07,2025/2026,True,Real Sociedad,Elche,3.0,1.0,2.63,1.27
+La Liga,2026-02-08,2025/2026,True,CD Alaves,Getafe,0.0,2.0,2.02,1.91
+La Liga,2026-02-08,2025/2026,True,Athletic Club,Levante,4.0,2.0,2.08,0.51
+La Liga,2026-02-08,2025/2026,True,Sevilla,Girona,1.0,1.0,0.78,2.56
+La Liga,2026-02-08,2025/2026,True,Atletico Madrid,Real Betis,0.0,1.0,0.67,0.7
+La Liga,2026-02-08,2025/2026,True,Valencia,Real Madrid,0.0,2.0,0.44,0.96
+La Liga,2026-02-09,2025/2026,True,Villarreal,Espanyol,4.0,1.0,0.77,0.51
+La Liga,2026-02-13,2025/2026,True,Elche,Osasuna,0.0,0.0,1.7,0.77
+La Liga,2026-02-14,2025/2026,True,Espanyol,Celta Vigo,2.0,2.0,0.77,2.36
+La Liga,2026-02-14,2025/2026,True,Getafe,Villarreal,2.0,1.0,1.48,0.6
+La Liga,2026-02-14,2025/2026,True,Sevilla,CD Alaves,1.0,1.0,0.27,1.13
+La Liga,2026-02-14,2025/2026,True,Real Madrid,Real Sociedad,4.0,1.0,3.12,1.73
+La Liga,2026-02-15,2025/2026,True,Real Oviedo,Athletic Club,1.0,2.0,0.34,1.29
+La Liga,2026-02-15,2025/2026,True,Rayo Vallecano,Atletico Madrid,3.0,0.0,1.61,0.7
+La Liga,2026-02-15,2025/2026,True,Levante,Valencia,0.0,2.0,0.61,0.6
+La Liga,2026-02-15,2025/2026,True,Mallorca,Real Betis,1.0,2.0,1.1,2.04
+La Liga,2026-02-16,2025/2026,True,Girona,Barcelona,2.0,1.0,2.86,2.72
+La Liga,2026-02-18,2025/2026,True,Levante,Villarreal,0.0,1.0,0.92,2.4
+La Liga,2026-02-20,2025/2026,True,Athletic Club,Elche,2.0,1.0,2.97,0.82
+La Liga,2026-02-21,2025/2026,True,Real Sociedad,Real Oviedo,3.0,3.0,2.06,1.68
+La Liga,2026-02-21,2025/2026,True,Real Betis,Rayo Vallecano,1.0,1.0,1.86,0.88
+La Liga,2026-02-21,2025/2026,True,Osasuna,Real Madrid,2.0,1.0,2.29,1.7
+La Liga,2026-02-21,2025/2026,True,Atletico Madrid,Espanyol,4.0,2.0,3.12,1.06
+La Liga,2026-02-22,2025/2026,True,Getafe,Sevilla,0.0,1.0,0.32,0.32
+La Liga,2026-02-22,2025/2026,True,Barcelona,Levante,3.0,0.0,2.88,0.53
+La Liga,2026-02-22,2025/2026,True,Celta Vigo,Mallorca,2.0,0.0,2.51,0.04
+La Liga,2026-02-22,2025/2026,True,Villarreal,Valencia,2.0,1.0,2.34,1.53
+La Liga,2026-02-23,2025/2026,True,CD Alaves,Girona,2.0,2.0,1.94,2.22
+La Liga,2026-02-27,2025/2026,True,Levante,CD Alaves,2.0,0.0,2.34,1.35
+La Liga,2026-02-28,2025/2026,True,Rayo Vallecano,Athletic Club,1.0,1.0,1.44,0.54
+La Liga,2026-02-28,2025/2026,True,Barcelona,Villarreal,4.0,1.0,3.2,1.31
+La Liga,2026-02-28,2025/2026,True,Mallorca,Real Sociedad,0.0,1.0,0.66,0.43
+La Liga,2026-02-28,2025/2026,True,Real Oviedo,Atletico Madrid,0.0,1.0,1.1,0.75
+La Liga,2026-03-01,2025/2026,True,Elche,Espanyol,2.0,2.0,2.0,0.77
+La Liga,2026-03-01,2025/2026,True,Valencia,Osasuna,1.0,0.0,1.56,0.32
+La Liga,2026-03-01,2025/2026,True,Real Betis,Sevilla,2.0,2.0,1.59,0.87
+La Liga,2026-03-01,2025/2026,True,Girona,Celta Vigo,1.0,2.0,1.37,0.6
+La Liga,2026-03-02,2025/2026,True,Real Madrid,Getafe,0.0,1.0,1.91,0.49
+La Liga,2026-03-04,2025/2026,True,Rayo Vallecano,Real Oviedo,3.0,0.0,2.51,0.99
+La Liga,2026-03-06,2025/2026,True,Celta Vigo,Real Madrid,1.0,2.0,1.04,0.86
+La Liga,2026-03-07,2025/2026,True,Osasuna,Mallorca,2.0,2.0,2.56,1.08
+La Liga,2026-03-07,2025/2026,True,Levante,Girona,1.0,1.0,0.75,1.95
+La Liga,2026-03-07,2025/2026,True,Atletico Madrid,Real Sociedad,3.0,2.0,2.31,0.41
+La Liga,2026-03-07,2025/2026,True,Athletic Club,Barcelona,0.0,1.0,0.85,0.4
+La Liga,2026-03-08,2025/2026,True,Villarreal,Elche,2.0,1.0,1.58,1.22
+La Liga,2026-03-08,2025/2026,True,Getafe,Real Betis,2.0,0.0,0.41,1.38
+La Liga,2026-03-08,2025/2026,True,Sevilla,Rayo Vallecano,1.0,1.0,1.0,0.35
+La Liga,2026-03-08,2025/2026,True,Valencia,CD Alaves,3.0,2.0,2.79,1.33
+La Liga,2026-03-09,2025/2026,True,Espanyol,Real Oviedo,1.0,1.0,1.83,0.87
+La Liga,2026-03-13,2025/2026,True,CD Alaves,Villarreal,1.0,1.0,0.22,0.59
+La Liga,2026-03-14,2025/2026,True,Girona,Athletic Club,3.0,0.0,1.61,1.84
+La Liga,2026-03-14,2025/2026,True,Atletico Madrid,Getafe,1.0,0.0,1.63,1.18
+La Liga,2026-03-14,2025/2026,True,Real Oviedo,Valencia,1.0,0.0,0.87,0.61
+La Liga,2026-03-14,2025/2026,True,Real Madrid,Elche,4.0,1.0,1.37,0.84
+La Liga,2026-03-15,2025/2026,True,Mallorca,Espanyol,2.0,1.0,2.25,1.3
+La Liga,2026-03-15,2025/2026,True,Barcelona,Sevilla,5.0,2.0,3.66,0.83
+La Liga,2026-03-15,2025/2026,True,Real Betis,Celta Vigo,1.0,1.0,1.47,0.75
+La Liga,2026-03-15,2025/2026,True,Real Sociedad,Osasuna,3.0,1.0,2.13,0.65
+La Liga,2026-03-16,2025/2026,True,Rayo Vallecano,Levante,1.0,1.0,1.88,1.2
+La Liga,2026-03-20,2025/2026,True,Villarreal,Real Sociedad,3.0,1.0,3.7,1.08
+La Liga,2026-03-21,2025/2026,True,Elche,Mallorca,2.0,1.0,1.6,1.37
+La Liga,2026-03-21,2025/2026,True,Espanyol,Getafe,1.0,2.0,1.75,1.51
+La Liga,2026-03-21,2025/2026,True,Levante,Real Oviedo,4.0,2.0,2.36,1.34
+La Liga,2026-03-21,2025/2026,True,Osasuna,Girona,1.0,0.0,1.71,0.21
+La Liga,2026-03-21,2025/2026,True,Sevilla,Valencia,0.0,2.0,0.4,1.81
+La Liga,2026-03-22,2025/2026,True,Barcelona,Rayo Vallecano,1.0,0.0,1.39,1.56
+La Liga,2026-03-22,2025/2026,True,Celta Vigo,CD Alaves,3.0,4.0,1.84,1.83
+La Liga,2026-03-22,2025/2026,True,Athletic Club,Real Betis,2.0,1.0,1.26,0.47
+La Liga,2026-03-22,2025/2026,True,Real Madrid,Atletico Madrid,3.0,2.0,2.41,1.0
+La Liga,2026-04-03,2025/2026,True,Rayo Vallecano,Elche,1.0,0.0,1.39,0.44
+La Liga,2026-04-04,2025/2026,True,Real Sociedad,Levante,2.0,0.0,2.78,0.28
+La Liga,2026-04-04,2025/2026,True,Mallorca,Real Madrid,2.0,1.0,1.22,1.28
+La Liga,2026-04-04,2025/2026,True,Real Betis,Espanyol,0.0,0.0,1.38,0.2
+La Liga,2026-04-04,2025/2026,True,Atletico Madrid,Barcelona,1.0,2.0,0.92,2.52
+La Liga,2026-04-05,2025/2026,True,Getafe,Athletic Club,2.0,0.0,1.94,0.57
+La Liga,2026-04-05,2025/2026,True,Valencia,Celta Vigo,2.0,3.0,0.8,1.05
+La Liga,2026-04-05,2025/2026,True,Real Oviedo,Sevilla,1.0,0.0,0.48,0.66
+La Liga,2026-04-05,2025/2026,True,CD Alaves,Osasuna,2.0,2.0,2.07,1.31
+La Liga,2026-04-06,2025/2026,True,Girona,Villarreal,1.0,0.0,0.48,0.55
+La Liga,2026-04-10,2025/2026,True,Real Madrid,Girona,1.0,1.0,2.3,0.52
+La Liga,2026-04-11,2025/2026,True,Real Sociedad,CD Alaves,3.0,3.0,1.27,1.04
+La Liga,2026-04-11,2025/2026,True,Elche,Valencia,1.0,0.0,0.71,2.54
+La Liga,2026-04-11,2025/2026,True,Barcelona,Espanyol,4.0,1.0,2.73,1.13
+La Liga,2026-04-11,2025/2026,True,Sevilla,Atletico Madrid,2.0,1.0,1.85,0.84
+La Liga,2026-04-12,2025/2026,True,Osasuna,Real Betis,1.0,1.0,1.45,0.41
+La Liga,2026-04-12,2025/2026,True,Mallorca,Rayo Vallecano,3.0,0.0,1.68,1.95
+La Liga,2026-04-12,2025/2026,True,Celta Vigo,Real Oviedo,0.0,3.0,0.77,1.47
+La Liga,2026-04-12,2025/2026,True,Athletic Club,Villarreal,1.0,2.0,1.16,1.31
+La Liga,2026-04-13,2025/2026,True,Levante,Getafe,1.0,0.0,2.9,0.29
+La Liga,2026-04-21,2025/2026,True,Athletic Club,Osasuna,1.0,0.0,0.54,1.21
+La Liga,2026-04-21,2025/2026,True,Mallorca,Valencia,1.0,1.0,1.82,1.68
+La Liga,2026-04-21,2025/2026,True,Girona,Real Betis,2.0,3.0,1.38,1.04
+La Liga,2026-04-21,2025/2026,True,Real Madrid,CD Alaves,2.0,1.0,1.62,1.76
+La Liga,2026-04-22,2025/2026,True,Elche,Atletico Madrid,3.0,2.0,2.78,1.01
+La Liga,2026-04-22,2025/2026,True,Real Sociedad,Getafe,0.0,1.0,1.89,0.12
+La Liga,2026-04-22,2025/2026,True,Barcelona,Celta Vigo,1.0,0.0,1.3,0.8
+La Liga,2026-04-23,2025/2026,True,Levante,Sevilla,2.0,0.0,1.53,0.28
+La Liga,2026-04-23,2025/2026,True,Rayo Vallecano,Espanyol,1.0,0.0,1.6,1.96
+La Liga,2026-04-23,2025/2026,True,Real Oviedo,Villarreal,1.0,1.0,0.8,1.39
+La Liga,2026-04-24,2025/2026,True,Real Betis,Real Madrid,1.0,1.0,1.08,1.19
+La Liga,2026-04-25,2025/2026,True,CD Alaves,Mallorca,2.0,1.0,1.22,0.22
+La Liga,2026-04-25,2025/2026,True,Getafe,Barcelona,0.0,2.0,1.14,1.79
+La Liga,2026-04-25,2025/2026,True,Valencia,Girona,2.0,1.0,1.4,1.56
+La Liga,2026-04-25,2025/2026,True,Atletico Madrid,Athletic Club,3.0,2.0,2.09,0.8
+La Liga,2026-04-26,2025/2026,True,Rayo Vallecano,Real Sociedad,3.0,3.0,2.38,2.23
+La Liga,2026-04-26,2025/2026,True,Real Oviedo,Elche,1.0,2.0,0.99,0.4
+La Liga,2026-04-26,2025/2026,True,Osasuna,Sevilla,2.0,1.0,1.43,0.4
+La Liga,2026-04-26,2025/2026,True,Villarreal,Celta Vigo,2.0,1.0,1.89,1.98
+La Liga,2026-04-27,2025/2026,True,Espanyol,Levante,0.0,0.0,0.72,1.12
+La Liga,2026-05-01,2025/2026,True,Girona,Mallorca,0.0,1.0,1.72,1.09
+La Liga,2026-05-02,2025/2026,True,Villarreal,Levante,5.0,1.0,2.36,0.76
+La Liga,2026-05-02,2025/2026,True,Valencia,Atletico Madrid,0.0,2.0,1.09,2.04
+La Liga,2026-05-02,2025/2026,True,CD Alaves,Athletic Club,2.0,4.0,0.49,0.97
+La Liga,2026-05-02,2025/2026,True,Osasuna,Barcelona,1.0,2.0,0.8,1.29
+La Liga,2026-05-03,2025/2026,True,Celta Vigo,Elche,3.0,1.0,1.05,1.71
+La Liga,2026-05-03,2025/2026,True,Getafe,Rayo Vallecano,0.0,2.0,1.49,0.98
+La Liga,2026-05-03,2025/2026,True,Real Betis,Real Oviedo,3.0,0.0,1.53,1.59
+La Liga,2026-05-03,2025/2026,True,Espanyol,Real Madrid,0.0,2.0,1.21,2.1
+La Liga,2026-05-04,2025/2026,True,Sevilla,Real Sociedad,1.0,0.0,1.82,0.16
+La Liga,2026-05-08,2025/2026,True,Levante,Osasuna,3.0,2.0,2.99,0.63
+La Liga,2026-05-09,2025/2026,True,Elche,CD Alaves,1.0,1.0,1.39,2.05
+La Liga,2026-05-09,2025/2026,True,Sevilla,Espanyol,2.0,1.0,1.38,0.61
+La Liga,2026-05-09,2025/2026,True,Atletico Madrid,Celta Vigo,0.0,1.0,2.18,0.13
+La Liga,2026-05-09,2025/2026,True,Real Sociedad,Real Betis,2.0,2.0,2.4,1.94
+La Liga,2026-05-10,2025/2026,True,Mallorca,Villarreal,1.0,1.0,1.74,1.12
+La Liga,2026-05-10,2025/2026,True,Athletic Club,Valencia,0.0,1.0,0.93,1.19
+La Liga,2026-05-10,2025/2026,True,Real Oviedo,Getafe,0.0,0.0,0.54,1.36
+La Liga,2026-05-10,2025/2026,True,Barcelona,Real Madrid,2.0,0.0,1.01,0.85
+La Liga,2026-05-11,2025/2026,True,Rayo Vallecano,Girona,1.0,1.0,1.2,0.98
+La Liga,2026-05-12,2025/2026,True,Celta Vigo,Levante,2.0,3.0,2.18,1.52
+La Liga,2026-05-12,2025/2026,True,Real Betis,Elche,2.0,1.0,1.8,0.4
+La Liga,2026-05-12,2025/2026,True,Osasuna,Atletico Madrid,1.0,2.0,2.3,1.56
+La Liga,2026-05-13,2025/2026,True,Espanyol,Athletic Club,2.0,0.0,0.76,0.82
+La Liga,2026-05-13,2025/2026,True,Villarreal,Sevilla,2.0,3.0,0.83,0.87
+La Liga,2026-05-13,2025/2026,True,CD Alaves,Barcelona,1.0,0.0,0.72,0.6
+La Liga,2026-05-13,2025/2026,True,Getafe,Mallorca,3.0,1.0,1.58,0.41
+La Liga,2026-05-14,2025/2026,True,Valencia,Rayo Vallecano,1.0,1.0,0.76,1.16
+La Liga,2026-05-14,2025/2026,True,Girona,Real Sociedad,1.0,1.0,2.11,0.33
+La Liga,2026-05-14,2025/2026,True,Real Madrid,Real Oviedo,2.0,0.0,1.36,1.04
+La Liga,2026-05-17,2025/2026,True,Athletic Club,Celta Vigo,1.0,1.0,2.49,0.15
+La Liga,2026-05-17,2025/2026,True,Atletico Madrid,Girona,1.0,0.0,1.97,2.17
+La Liga,2026-05-17,2025/2026,True,Elche,Getafe,1.0,0.0,0.66,0.11
+La Liga,2026-05-17,2025/2026,True,Levante,Mallorca,2.0,0.0,2.39,0.3
+La Liga,2026-05-17,2025/2026,True,Osasuna,Espanyol,1.0,2.0,1.72,0.79
+La Liga,2026-05-17,2025/2026,True,Rayo Vallecano,Villarreal,2.0,0.0,1.49,0.97
+La Liga,2026-05-17,2025/2026,True,Real Oviedo,CD Alaves,0.0,1.0,0.33,1.06
+La Liga,2026-05-17,2025/2026,True,Real Sociedad,Valencia,3.0,4.0,1.15,1.67
+La Liga,2026-05-17,2025/2026,True,Sevilla,Real Madrid,0.0,1.0,0.72,1.0
+La Liga,2026-05-17,2025/2026,True,Barcelona,Real Betis,3.0,1.0,1.12,0.97
+La Liga,2026-05-23,2025/2026,True,Celta Vigo,Sevilla,1.0,0.0,1.6,0.8
+La Liga,2026-05-23,2025/2026,True,CD Alaves,Rayo Vallecano,1.0,2.0,1.63,1.34
+La Liga,2026-05-23,2025/2026,True,Espanyol,Real Sociedad,1.0,1.0,2.41,1.4
+La Liga,2026-05-23,2025/2026,True,Getafe,Osasuna,1.0,0.0,0.27,0.51
+La Liga,2026-05-23,2025/2026,True,Girona,Elche,1.0,1.0,0.58,0.18
+La Liga,2026-05-23,2025/2026,True,Mallorca,Real Oviedo,3.0,0.0,2.61,0.34
+La Liga,2026-05-23,2025/2026,True,Real Betis,Levante,2.0,1.0,1.57,2.53
+La Liga,2026-05-23,2025/2026,True,Real Madrid,Athletic Club,4.0,2.0,1.9,0.81
+La Liga,2026-05-23,2025/2026,True,Valencia,Barcelona,3.0,1.0,1.35,1.18
+La Liga,2026-05-24,2025/2026,True,Villarreal,Atletico Madrid,5.0,1.0,2.48,1.16
+La Liga,2026-08-15,2026/2027,True,CD Alaves,Getafe,3.0,0.0,1.93,0.24
+La Liga,2026-08-15,2026/2027,True,Sevilla,Rayo Vallecano,2.0,1.0,2.19,1.89
+La Liga,2026-08-16,2026/2027,True,Racing Santander,Villarreal,2.0,2.0,1.87,0.67
+La Liga,2026-08-16,2026/2027,True,Espanyol,Levante,3.0,0.0,1.47,0.19
+La Liga,2026-08-17,2026/2027,True,Deportivo A Coruna,Elche,1.0,1.0,0.34,1.23
+La Liga,2026-08-19,2026/2027,True,Atletico Madrid,Malaga,2.0,0.0,0.92,0.15
+La Liga,2026-08-20,2026/2027,True,Rayo Vallecano,CD Alaves,1.0,1.0,0.42,2.0
+La Liga,2026-08-21,2026/2027,True,Real Betis,Real Sociedad,1.0,0.0,1.24,1.36
+La Liga,2026-08-22,2026/2027,True,Athletic Club,Sevilla,1.0,3.0,1.37,1.26
+La Liga,2026-08-22,2026/2027,True,Valencia,Celta Vigo,0.0,0.0,0.7,0.62
+La Liga,2026-08-22,2026/2027,True,Espanyol,Real Madrid,1.0,2.0,1.05,2.71
+La Liga,2026-08-23,2026/2027,True,Atletico Madrid,Villarreal,2.0,2.0,0.78,3.6
+La Liga,2026-08-23,2026/2027,True,Getafe,Racing Santander,1.0,0.0,1.24,1.31
+La Liga,2026-08-23,2026/2027,True,Elche,Barcelona,0.0,5.0,0.7,4.38
+La Liga,2026-08-24,2026/2027,True,Osasuna,Levante,0.0,0.0,0.7,1.28
+La Liga,2026-08-24,2026/2027,True,Malaga,Deportivo A Coruna,1.0,1.0,1.95,1.12
+La Liga,2026-08-25,2026/2027,True,Valencia,Real Betis,0.0,1.0,1.12,0.71
+La Liga,2026-08-26,2026/2027,True,Real Madrid,Real Sociedad,4.0,1.0,3.18,0.65
+La Liga,2026-08-27,2026/2027,True,Celta Vigo,Osasuna,1.0,2.0,0.14,2.6
+La Liga,2026-08-27,2026/2027,True,Barcelona,Athletic Club,2.0,0.0,4.23,0.25
+La Liga,2026-08-28,2026/2027,True,Racing Santander,Elche,3.0,2.0,1.72,1.03
+La Liga,2026-08-28,2026/2027,True,CD Alaves,Villarreal,1.0,0.0,0.73,1.74
+La Liga,2026-08-29,2026/2027,True,Levante,Real Betis,5.0,2.0,2.76,1.92
+La Liga,2026-08-29,2026/2027,True,Real Sociedad,Espanyol,2.0,1.0,1.94,0.77
+La Liga,2026-08-29,2026/2027,True,Sevilla,Atletico Madrid,1.0,3.0,0.9,0.93
+La Liga,2026-08-30,2026/2027,True,Real Madrid,Malaga,4.0,0.0,2.62,0.71
+La Liga,2026-08-30,2026/2027,True,Deportivo A Coruna,Valencia,3.0,1.0,1.42,1.4
+La Liga,2026-08-30,2026/2027,True,Celta Vigo,Athletic Club,0.0,2.0,0.75,2.78
+La Liga,2026-08-31,2026/2027,True,Osasuna,Getafe,1.0,0.0,1.68,0.68
+La Liga,2026-08-31,2026/2027,True,Barcelona,Rayo Vallecano,5.0,2.0,3.04,1.21
+La Liga,2026-09-03,2026/2027,True,Real Sociedad,Celta Vigo,0.0,0.0,1.05,0.43
+La Liga,2026-09-04,2026/2027,True,Real Betis,Real Madrid,1.0,0.0,0.93,3.46
+La Liga,2026-09-05,2026/2027,True,Athletic Club,Atletico Madrid,3.0,0.0,1.41,1.02
+La Liga,2026-09-05,2026/2027,True,Rayo Vallecano,Racing Santander,3.0,2.0,1.61,0.48
+La Liga,2026-09-05,2026/2027,True,Villarreal,Deportivo A Coruna,2.0,3.0,1.2,0.83
+La Liga,2026-09-06,2026/2027,True,Valencia,Barcelona,0.0,5.0,0.66,4.08
+La Liga,2026-09-06,2026/2027,True,CD Alaves,Osasuna,5.0,2.0,1.2,1.64
+La Liga,2026-09-06,2026/2027,True,Malaga,Levante,0.0,0.0,1.59,0.98
+La Liga,2026-09-06,2026/2027,True,Espanyol,Sevilla,1.0,1.0,1.23,0.53
+La Liga,2026-09-07,2026/2027,True,Getafe,Celta Vigo,1.0,1.0,0.65,1.03
+La Liga,2026-09-07,2026/2027,True,Elche,Real Sociedad,2.0,3.0,2.37,0.57
+La Liga,2026-09-11,2026/2027,True,Sevilla,Valencia,1.0,0.0,0.93,0.1
+La Liga,2026-09-12,2026/2027,True,Racing Santander,CD Alaves,2.0,1.0,2.01,1.98
+La Liga,2026-09-12,2026/2027,True,Osasuna,Espanyol,0.0,2.0,1.05,1.43
+La Liga,2026-09-12,2026/2027,True,Athletic Club,Elche,1.0,1.0,1.61,0.84
+La Liga,2026-09-12,2026/2027,True,Real Madrid,Rayo Vallecano,4.0,1.0,2.62,1.21
+La Liga,2026-09-13,2026/2027,True,Celta Vigo,Malaga,1.0,1.0,1.9,0.43
+La Liga,2026-09-13,2026/2027,True,Levante,Barcelona,2.0,4.0,2.42,2.58
+La Liga,2026-09-13,2026/2027,True,Getafe,Deportivo A Coruna,1.0,1.0,0.78,0.87
+La Liga,2026-09-13,2026/2027,True,Real Sociedad,Atletico Madrid,0.0,3.0,0.27,2.05
+La Liga,2026-09-14,2026/2027,True,Villarreal,Real Betis,1.0,2.0,1.88,3.75
+La Liga,2026-09-15,2026/2027,True,Rayo Vallecano,Espanyol,2.0,1.0,1.71,1.65
+La Liga,2026-09-15,2026/2027,True,CD Alaves,Valencia,0.0,1.0,1.04,0.79
+La Liga,2026-09-15,2026/2027,True,Elche,Real Madrid,2.0,3.0,0.78,3.61
+La Liga,2026-09-16,2026/2027,True,Atletico Madrid,Osasuna,4.0,0.0,3.97,0.48
+La Liga,2026-09-16,2026/2027,True,Deportivo A Coruna,Sevilla,0.0,1.0,0.14,0.73
+La Liga,2026-09-16,2026/2027,True,Barcelona,Racing Santander,7.0,2.0,6.74,1.98
+La Liga,2026-09-17,2026/2027,True,Real Betis,Getafe,1.0,0.0,1.89,0.29
+La Liga,2026-09-17,2026/2027,True,Malaga,Villarreal,1.0,3.0,0.57,3.2
+La Liga,2026-09-18,2026/2027,True,Espanyol,Elche,1.0,3.0,1.05,1.61
+La Liga,2026-09-19,2026/2027,True,Osasuna,Rayo Vallecano,1.0,1.0,0.53,1.01
+La Liga,2026-09-19,2026/2027,True,Athletic Club,CD Alaves,0.0,0.0,1.62,0.05
+La Liga,2026-09-19,2026/2027,True,Celta Vigo,Racing Santander,5.0,0.0,2.14,0.75
+La Liga,2026-09-19,2026/2027,True,Sevilla,Barcelona,1.0,3.0,0.4,3.47
+La Liga,2026-09-20,2026/2027,True,Getafe,Malaga,1.0,0.0,0.95,0.52
+La Liga,2026-09-20,2026/2027,True,Atletico Madrid,Real Madrid,2.0,1.0,2.35,0.3
+La Liga,2026-09-20,2026/2027,True,Deportivo A Coruna,Real Betis,1.0,1.0,2.09,0.8
+La Liga,2026-09-20,2026/2027,True,Villarreal,Levante,3.0,1.0,4.27,0.45
+La Liga,2026-09-20,2026/2027,True,Valencia,Real Sociedad,2.0,3.0,1.59,2.71
+La Liga,2026-10-09,2026/2027,True,Malaga,Espanyol,1.0,1.0,0.69,1.08
+La Liga,2026-10-10,2026/2027,True,CD Alaves,Atletico Madrid,1.0,2.0,1.3,2.05
+La Liga,2026-10-10,2026/2027,True,Barcelona,Getafe,3.0,0.0,1.93,0.14
+La Liga,2026-10-10,2026/2027,True,Real Madrid,Villarreal,1.0,0.0,1.43,0.59
+La Liga,2026-10-11,2026/2027,True,Elche,Celta Vigo,0.0,0.0,0.78,0.47
+La Liga,2026-10-11,2026/2027,True,Real Sociedad,Deportivo A Coruna,3.0,2.0,1.44,2.13
+La Liga,2026-10-11,2026/2027,True,Real Betis,Osasuna,5.0,2.0,2.89,1.94
+La Liga,2026-10-11,2026/2027,True,Racing Santander,Valencia,2.0,2.0,1.29,1.8
+La Liga,2026-10-12,2026/2027,True,Levante,Sevilla,3.0,3.0,1.82,2.2
+La Liga,2026-10-16,2026/2027,True,Deportivo A Coruna,Levante,1.0,1.0,1.08,0.79
+La Liga,2026-10-17,2026/2027,True,Espanyol,Atletico Madrid,0.0,1.0,0.53,1.47
+La Liga,2026-10-17,2026/2027,True,Villarreal,Elche,0.0,0.0,2.39,0.3
+La Liga,2026-10-17,2026/2027,True,Real Betis,Barcelona,2.0,5.0,1.24,3.1
+La Liga,2026-10-17,2026/2027,True,Valencia,Athletic Club,0.0,0.0,1.41,0.59
+La Liga,2026-10-18,2026/2027,True,Osasuna,Racing Santander,2.0,0.0,3.65,0.28
+La Liga,2026-10-18,2026/2027,True,Celta Vigo,CD Alaves,2.0,1.0,0.97,1.06
+La Liga,2026-10-18,2026/2027,True,Malaga,Real Sociedad,2.0,5.0,1.24,2.44
+La Liga,2026-10-18,2026/2027,True,Real Madrid,Sevilla,4.0,1.0,2.28,0.75
+La Liga,2026-10-19,2026/2027,True,Getafe,Rayo Vallecano,1.0,1.0,0.57,2.25
+La Liga,2026-10-21,2026/2027,True,Levante,Athletic Club,3.0,1.0,1.82,2.04
+La Liga,2026-10-23,2026/2027,True,CD Alaves,Malaga,1.0,1.0,1.51,0.47
+La Liga,2026-10-24,2026/2027,True,Rayo Vallecano,Elche,0.0,3.0,1.52,2.52
+La Liga,2026-10-24,2026/2027,True,Racing Santander,Espanyol,2.0,1.0,2.27,0.52
+La Liga,2026-10-24,2026/2027,True,Valencia,Villarreal,1.0,2.0,1.13,1.5
+La Liga,2026-10-24,2026/2027,True,Atletico Madrid,Deportivo A Coruna,1.0,0.0,1.41,1.67
+La Liga,2026-10-25,2026/2027,True,Athletic Club,Getafe,4.0,0.0,0.72,0.43
+La Liga,2026-10-25,2026/2027,True,Celta Vigo,Real Betis,0.0,0.0,0.76,1.15
+La Liga,2026-10-25,2026/2027,True,Real Sociedad,Levante,2.0,1.0,2.22,0.48
+La Liga,2026-10-25,2026/2027,True,Barcelona,Real Madrid,1.0,2.0,1.19,1.94
+La Liga,2026-10-26,2026/2027,True,Sevilla,Osasuna,2.0,0.0,1.17,0.61
+La Liga,2026-10-30,2026/2027,True,Villarreal,Espanyol,0.0,1.0,0.88,0.22
+La Liga,2026-10-31,2026/2027,True,Levante,Atletico Madrid,0.0,2.0,1.4,0.7
+La Liga,2026-10-31,2026/2027,True,Rayo Vallecano,Celta Vigo,3.0,0.0,1.09,1.39
+La Liga,2026-10-31,2026/2027,True,Real Betis,Malaga,2.0,1.0,1.8,1.16
+La Liga,2026-10-31,2026/2027,True,Barcelona,CD Alaves,6.0,1.0,3.26,0.76
+La Liga,2026-11-01,2026/2027,True,Getafe,Sevilla,3.0,1.0,1.58,0.77
+La Liga,2026-11-01,2026/2027,True,Racing Santander,Real Madrid,0.0,3.0,0.97,3.36
+La Liga,2026-11-01,2026/2027,True,Elche,Valencia,0.0,1.0,1.26,0.79
+La Liga,2026-11-01,2026/2027,True,Athletic Club,Real Sociedad,2.0,1.0,3.08,1.15
+La Liga,2026-11-02,2026/2027,True,Deportivo A Coruna,Osasuna,2.0,1.0,2.35,1.14
+La Liga,2026-11-06,2026/2027,False,Sevilla,CD Alaves,,,,
+La Liga,2026-11-07,2026/2027,False,Malaga,Racing Santander,,,,
+La Liga,2026-11-07,2026/2027,False,Espanyol,Deportivo A Coruna,,,,
+La Liga,2026-11-07,2026/2027,False,Osasuna,Athletic Club,,,,
+La Liga,2026-11-07,2026/2027,False,Valencia,Real Madrid,,,,
+La Liga,2026-11-08,2026/2027,False,Elche,Real Betis,,,,
+La Liga,2026-11-08,2026/2027,False,Real Sociedad,Rayo Vallecano,,,,
+La Liga,2026-11-08,2026/2027,False,Celta Vigo,Levante,,,,
+La Liga,2026-11-08,2026/2027,False,Villarreal,Getafe,,,,
+La Liga,2026-11-08,2026/2027,False,Atletico Madrid,Barcelona,,,,
+La Liga,2026-11-20,2026/2027,False,Athletic Club,Espanyol,,,,
+La Liga,2026-11-21,2026/2027,False,CD Alaves,Deportivo A Coruna,,,,
+La Liga,2026-11-21,2026/2027,False,Rayo Vallecano,Valencia,,,,
+La Liga,2026-11-21,2026/2027,False,Sevilla,Real Betis,,,,
+La Liga,2026-11-21,2026/2027,False,Real Madrid,Celta Vigo,,,,
+La Liga,2026-11-22,2026/2027,False,Barcelona,Villarreal,,,,
+La Liga,2026-11-22,2026/2027,False,Racing Santander,Real Sociedad,,,,
+La Liga,2026-11-22,2026/2027,False,Osasuna,Malaga,,,,
+La Liga,2026-11-22,2026/2027,False,Getafe,Atletico Madrid,,,,
+La Liga,2026-11-23,2026/2027,False,Levante,Elche,,,,
+La Liga,2026-11-29,2026/2027,False,Celta Vigo,Villarreal,,,,
+La Liga,2026-11-29,2026/2027,False,Deportivo A Coruna,Barcelona,,,,
+La Liga,2026-11-29,2026/2027,False,Elche,Atletico Madrid,,,,
+La Liga,2026-11-29,2026/2027,False,Espanyol,Getafe,,,,
+La Liga,2026-11-29,2026/2027,False,Levante,Racing Santander,,,,
+La Liga,2026-11-29,2026/2027,False,Malaga,Athletic Club,,,,
+La Liga,2026-11-29,2026/2027,False,Real Betis,Rayo Vallecano,,,,
+La Liga,2026-11-29,2026/2027,False,Real Madrid,CD Alaves,,,,
+La Liga,2026-11-29,2026/2027,False,Real Sociedad,Sevilla,,,,
+La Liga,2026-11-29,2026/2027,False,Valencia,Osasuna,,,,
+La Liga,2026-12-06,2026/2027,False,Athletic Club,Real Madrid,,,,
+La Liga,2026-12-06,2026/2027,False,Atletico Madrid,Real Betis,,,,
+La Liga,2026-12-06,2026/2027,False,Barcelona,Celta Vigo,,,,
+La Liga,2026-12-06,2026/2027,False,CD Alaves,Espanyol,,,,
+La Liga,2026-12-06,2026/2027,False,Getafe,Valencia,,,,
+La Liga,2026-12-06,2026/2027,False,Osasuna,Elche,,,,
+La Liga,2026-12-06,2026/2027,False,Racing Santander,Deportivo A Coruna,,,,
+La Liga,2026-12-06,2026/2027,False,Rayo Vallecano,Levante,,,,
+La Liga,2026-12-06,2026/2027,False,Sevilla,Malaga,,,,
+La Liga,2026-12-06,2026/2027,False,Villarreal,Real Sociedad,,,,
+La Liga,2026-12-09,2026/2027,False,Rayo Vallecano,Athletic Club,,,,
+La Liga,2026-12-13,2026/2027,False,Atletico Madrid,Valencia,,,,
+La Liga,2026-12-13,2026/2027,False,Deportivo A Coruna,Athletic Club,,,,
+La Liga,2026-12-13,2026/2027,False,Elche,Sevilla,,,,
+La Liga,2026-12-13,2026/2027,False,Espanyol,Celta Vigo,,,,
+La Liga,2026-12-13,2026/2027,False,Levante,CD Alaves,,,,
+La Liga,2026-12-13,2026/2027,False,Malaga,Barcelona,,,,
+La Liga,2026-12-13,2026/2027,False,Real Betis,Racing Santander,,,,
+La Liga,2026-12-13,2026/2027,False,Real Madrid,Osasuna,,,,
+La Liga,2026-12-13,2026/2027,False,Real Sociedad,Getafe,,,,
+La Liga,2026-12-13,2026/2027,False,Villarreal,Rayo Vallecano,,,,
+La Liga,2026-12-20,2026/2027,False,Athletic Club,Real Betis,,,,
+La Liga,2026-12-20,2026/2027,False,Barcelona,Real Sociedad,,,,
+La Liga,2026-12-20,2026/2027,False,Celta Vigo,Atletico Madrid,,,,
+La Liga,2026-12-20,2026/2027,False,CD Alaves,Elche,,,,
+La Liga,2026-12-20,2026/2027,False,Deportivo A Coruna,Real Madrid,,,,
+La Liga,2026-12-20,2026/2027,False,Getafe,Levante,,,,
+La Liga,2026-12-20,2026/2027,False,Osasuna,Villarreal,,,,
+La Liga,2026-12-20,2026/2027,False,Rayo Vallecano,Malaga,,,,
+La Liga,2026-12-20,2026/2027,False,Sevilla,Racing Santander,,,,
+La Liga,2026-12-20,2026/2027,False,Valencia,Espanyol,,,,
+La Liga,2027-01-03,2026/2027,False,Celta Vigo,Deportivo A Coruna,,,,
+La Liga,2027-01-03,2026/2027,False,Espanyol,Barcelona,,,,
+La Liga,2027-01-03,2026/2027,False,Levante,Valencia,,,,
+La Liga,2027-01-03,2026/2027,False,Malaga,Elche,,,,
+La Liga,2027-01-03,2026/2027,False,Racing Santander,Athletic Club,,,,
+La Liga,2027-01-03,2026/2027,False,Rayo Vallecano,Atletico Madrid,,,,
+La Liga,2027-01-03,2026/2027,False,Real Betis,CD Alaves,,,,
+La Liga,2027-01-03,2026/2027,False,Real Madrid,Getafe,,,,
+La Liga,2027-01-03,2026/2027,False,Real Sociedad,Osasuna,,,,
+La Liga,2027-01-03,2026/2027,False,Villarreal,Sevilla,,,,
+La Liga,2027-01-10,2026/2027,False,Athletic Club,Villarreal,,,,
+La Liga,2027-01-10,2026/2027,False,Atletico Madrid,Racing Santander,,,,
+La Liga,2027-01-10,2026/2027,False,CD Alaves,Real Sociedad,,,,
+La Liga,2027-01-10,2026/2027,False,Deportivo A Coruna,Rayo Vallecano,,,,
+La Liga,2027-01-10,2026/2027,False,Elche,Getafe,,,,
+La Liga,2027-01-10,2026/2027,False,Espanyol,Real Betis,,,,
+La Liga,2027-01-10,2026/2027,False,Osasuna,Barcelona,,,,
+La Liga,2027-01-10,2026/2027,False,Real Madrid,Levante,,,,
+La Liga,2027-01-10,2026/2027,False,Sevilla,Celta Vigo,,,,
+La Liga,2027-01-10,2026/2027,False,Valencia,Malaga,,,,
+La Liga,2027-01-17,2026/2027,False,Atletico Madrid,Real Sociedad,,,,
+La Liga,2027-01-17,2026/2027,False,Barcelona,Elche,,,,
+La Liga,2027-01-17,2026/2027,False,Celta Vigo,Valencia,,,,
+La Liga,2027-01-17,2026/2027,False,Getafe,Athletic Club,,,,
+La Liga,2027-01-17,2026/2027,False,Levante,Espanyol,,,,
+La Liga,2027-01-17,2026/2027,False,Malaga,Real Madrid,,,,
+La Liga,2027-01-17,2026/2027,False,Racing Santander,Osasuna,,,,
+La Liga,2027-01-17,2026/2027,False,Rayo Vallecano,Sevilla,,,,
+La Liga,2027-01-17,2026/2027,False,Real Betis,Deportivo A Coruna,,,,
+La Liga,2027-01-17,2026/2027,False,Villarreal,CD Alaves,,,,
+La Liga,2027-01-24,2026/2027,False,Athletic Club,Levante,,,,
+La Liga,2027-01-24,2026/2027,False,CD Alaves,Barcelona,,,,
+La Liga,2027-01-24,2026/2027,False,Deportivo A Coruna,Atletico Madrid,,,,
+La Liga,2027-01-24,2026/2027,False,Elche,Rayo Vallecano,,,,
+La Liga,2027-01-24,2026/2027,False,Espanyol,Villarreal,,,,
+La Liga,2027-01-24,2026/2027,False,Getafe,Osasuna,,,,
+La Liga,2027-01-24,2026/2027,False,Racing Santander,Celta Vigo,,,,
+La Liga,2027-01-24,2026/2027,False,Real Madrid,Real Betis,,,,
+La Liga,2027-01-24,2026/2027,False,Real Sociedad,Malaga,,,,
+La Liga,2027-01-24,2026/2027,False,Valencia,Sevilla,,,,
+La Liga,2027-01-31,2026/2027,False,Atletico Madrid,Espanyol,,,,
+La Liga,2027-01-31,2026/2027,False,Barcelona,Valencia,,,,
+La Liga,2027-01-31,2026/2027,False,Celta Vigo,Getafe,,,,
+La Liga,2027-01-31,2026/2027,False,Levante,Real Sociedad,,,,
+La Liga,2027-01-31,2026/2027,False,Malaga,CD Alaves,,,,
+La Liga,2027-01-31,2026/2027,False,Osasuna,Deportivo A Coruna,,,,
+La Liga,2027-01-31,2026/2027,False,Rayo Vallecano,Real Madrid,,,,
+La Liga,2027-01-31,2026/2027,False,Real Betis,Elche,,,,
+La Liga,2027-01-31,2026/2027,False,Sevilla,Athletic Club,,,,
+La Liga,2027-01-31,2026/2027,False,Villarreal,Racing Santander,,,,
+La Liga,2027-02-07,2026/2027,False,Athletic Club,Osasuna,,,,
+La Liga,2027-02-07,2026/2027,False,Barcelona,Atletico Madrid,,,,
+La Liga,2027-02-07,2026/2027,False,CD Alaves,Celta Vigo,,,,
+La Liga,2027-02-07,2026/2027,False,Deportivo A Coruna,Malaga,,,,
+La Liga,2027-02-07,2026/2027,False,Elche,Levante,,,,
+La Liga,2027-02-07,2026/2027,False,Espanyol,Rayo Vallecano,,,,
+La Liga,2027-02-07,2026/2027,False,Getafe,Villarreal,,,,
+La Liga,2027-02-07,2026/2027,False,Real Betis,Sevilla,,,,
+La Liga,2027-02-07,2026/2027,False,Real Sociedad,Real Madrid,,,,
+La Liga,2027-02-07,2026/2027,False,Valencia,Racing Santander,,,,
+La Liga,2027-02-14,2026/2027,False,Celta Vigo,Rayo Vallecano,,,,
+La Liga,2027-02-14,2026/2027,False,Elche,Deportivo A Coruna,,,,
+La Liga,2027-02-14,2026/2027,False,Levante,Malaga,,,,
+La Liga,2027-02-14,2026/2027,False,Osasuna,Atletico Madrid,,,,
+La Liga,2027-02-14,2026/2027,False,Racing Santander,Getafe,,,,
+La Liga,2027-02-14,2026/2027,False,Real Madrid,Athletic Club,,,,
+La Liga,2027-02-14,2026/2027,False,Real Sociedad,Real Betis,,,,
+La Liga,2027-02-14,2026/2027,False,Sevilla,Espanyol,,,,
+La Liga,2027-02-14,2026/2027,False,Valencia,CD Alaves,,,,
+La Liga,2027-02-14,2026/2027,False,Villarreal,Barcelona,,,,
+La Liga,2027-02-21,2026/2027,False,Athletic Club,Celta Vigo,,,,
+La Liga,2027-02-21,2026/2027,False,Atletico Madrid,Elche,,,,
+La Liga,2027-02-21,2026/2027,False,Barcelona,Levante,,,,
+La Liga,2027-02-21,2026/2027,False,CD Alaves,Racing Santander,,,,
+La Liga,2027-02-21,2026/2027,False,Deportivo A Coruna,Real Sociedad,,,,
+La Liga,2027-02-21,2026/2027,False,Espanyol,Osasuna,,,,
+La Liga,2027-02-21,2026/2027,False,Malaga,Real Betis,,,,
+La Liga,2027-02-21,2026/2027,False,Rayo Vallecano,Getafe,,,,
+La Liga,2027-02-21,2026/2027,False,Sevilla,Real Madrid,,,,
+La Liga,2027-02-21,2026/2027,False,Villarreal,Valencia,,,,
+La Liga,2027-02-28,2026/2027,False,Athletic Club,Barcelona,,,,
+La Liga,2027-02-28,2026/2027,False,Celta Vigo,Espanyol,,,,
+La Liga,2027-02-28,2026/2027,False,Getafe,CD Alaves,,,,
+La Liga,2027-02-28,2026/2027,False,Levante,Deportivo A Coruna,,,,
+La Liga,2027-02-28,2026/2027,False,Malaga,Atletico Madrid,,,,
+La Liga,2027-02-28,2026/2027,False,Osasuna,Sevilla,,,,
+La Liga,2027-02-28,2026/2027,False,Racing Santander,Rayo Vallecano,,,,
+La Liga,2027-02-28,2026/2027,False,Real Betis,Villarreal,,,,
+La Liga,2027-02-28,2026/2027,False,Real Madrid,Valencia,,,,
+La Liga,2027-02-28,2026/2027,False,Real Sociedad,Elche,,,,
+La Liga,2027-03-07,2026/2027,False,Atletico Madrid,Celta Vigo,,,,
+La Liga,2027-03-07,2026/2027,False,Barcelona,Real Betis,,,,
+La Liga,2027-03-07,2026/2027,False,CD Alaves,Athletic Club,,,,
+La Liga,2027-03-07,2026/2027,False,Deportivo A Coruna,Getafe,,,,
+La Liga,2027-03-07,2026/2027,False,Elche,Malaga,,,,
+La Liga,2027-03-07,2026/2027,False,Espanyol,Racing Santander,,,,
+La Liga,2027-03-07,2026/2027,False,Rayo Vallecano,Osasuna,,,,
+La Liga,2027-03-07,2026/2027,False,Sevilla,Real Sociedad,,,,
+La Liga,2027-03-07,2026/2027,False,Valencia,Levante,,,,
+La Liga,2027-03-07,2026/2027,False,Villarreal,Real Madrid,,,,
+La Liga,2027-03-14,2026/2027,False,Athletic Club,Valencia,,,,
+La Liga,2027-03-14,2026/2027,False,Barcelona,Deportivo A Coruna,,,,
+La Liga,2027-03-14,2026/2027,False,CD Alaves,Sevilla,,,,
+La Liga,2027-03-14,2026/2027,False,Elche,Villarreal,,,,
+La Liga,2027-03-14,2026/2027,False,Getafe,Real Sociedad,,,,
+La Liga,2027-03-14,2026/2027,False,Malaga,Rayo Vallecano,,,,
+La Liga,2027-03-14,2026/2027,False,Osasuna,Celta Vigo,,,,
+La Liga,2027-03-14,2026/2027,False,Racing Santander,Atletico Madrid,,,,
+La Liga,2027-03-14,2026/2027,False,Real Betis,Levante,,,,
+La Liga,2027-03-14,2026/2027,False,Real Madrid,Espanyol,,,,
+La Liga,2027-03-21,2026/2027,False,Atletico Madrid,Getafe,,,,
+La Liga,2027-03-21,2026/2027,False,Celta Vigo,Real Madrid,,,,
+La Liga,2027-03-21,2026/2027,False,Espanyol,Athletic Club,,,,
+La Liga,2027-03-21,2026/2027,False,Levante,Osasuna,,,,
+La Liga,2027-03-21,2026/2027,False,Racing Santander,Real Betis,,,,
+La Liga,2027-03-21,2026/2027,False,Rayo Vallecano,Barcelona,,,,
+La Liga,2027-03-21,2026/2027,False,Real Sociedad,CD Alaves,,,,
+La Liga,2027-03-21,2026/2027,False,Sevilla,Elche,,,,
+La Liga,2027-03-21,2026/2027,False,Valencia,Deportivo A Coruna,,,,
+La Liga,2027-03-21,2026/2027,False,Villarreal,Malaga,,,,
+La Liga,2027-04-04,2026/2027,False,Athletic Club,Racing Santander,,,,
+La Liga,2027-04-04,2026/2027,False,Barcelona,Sevilla,,,,
+La Liga,2027-04-04,2026/2027,False,Deportivo A Coruna,Villarreal,,,,
+La Liga,2027-04-04,2026/2027,False,Elche,CD Alaves,,,,
+La Liga,2027-04-04,2026/2027,False,Getafe,Espanyol,,,,
+La Liga,2027-04-04,2026/2027,False,Levante,Rayo Vallecano,,,,
+La Liga,2027-04-04,2026/2027,False,Malaga,Osasuna,,,,
+La Liga,2027-04-04,2026/2027,False,Real Betis,Celta Vigo,,,,
+La Liga,2027-04-04,2026/2027,False,Real Madrid,Atletico Madrid,,,,
+La Liga,2027-04-04,2026/2027,False,Real Sociedad,Valencia,,,,
+La Liga,2027-04-11,2026/2027,False,Atletico Madrid,Levante,,,,
+La Liga,2027-04-11,2026/2027,False,Celta Vigo,Elche,,,,
+La Liga,2027-04-11,2026/2027,False,CD Alaves,Real Betis,,,,
+La Liga,2027-04-11,2026/2027,False,Espanyol,Malaga,,,,
+La Liga,2027-04-11,2026/2027,False,Osasuna,Real Madrid,,,,
+La Liga,2027-04-11,2026/2027,False,Racing Santander,Barcelona,,,,
+La Liga,2027-04-11,2026/2027,False,Rayo Vallecano,Real Sociedad,,,,
+La Liga,2027-04-11,2026/2027,False,Sevilla,Deportivo A Coruna,,,,
+La Liga,2027-04-11,2026/2027,False,Valencia,Getafe,,,,
+La Liga,2027-04-11,2026/2027,False,Villarreal,Athletic Club,,,,
+La Liga,2027-04-18,2026/2027,False,Atletico Madrid,Sevilla,,,,
+La Liga,2027-04-18,2026/2027,False,Barcelona,Espanyol,,,,
+La Liga,2027-04-18,2026/2027,False,CD Alaves,Rayo Vallecano,,,,
+La Liga,2027-04-18,2026/2027,False,Deportivo A Coruna,Celta Vigo,,,,
+La Liga,2027-04-18,2026/2027,False,Elche,Osasuna,,,,
+La Liga,2027-04-18,2026/2027,False,Getafe,Real Madrid,,,,
+La Liga,2027-04-18,2026/2027,False,Levante,Villarreal,,,,
+La Liga,2027-04-18,2026/2027,False,Malaga,Valencia,,,,
+La Liga,2027-04-18,2026/2027,False,Real Betis,Athletic Club,,,,
+La Liga,2027-04-18,2026/2027,False,Real Sociedad,Racing Santander,,,,
+La Liga,2027-04-21,2026/2027,False,Athletic Club,Deportivo A Coruna,,,,
+La Liga,2027-04-21,2026/2027,False,Celta Vigo,Barcelona,,,,
+La Liga,2027-04-21,2026/2027,False,Espanyol,Real Sociedad,,,,
+La Liga,2027-04-21,2026/2027,False,Getafe,Real Betis,,,,
+La Liga,2027-04-21,2026/2027,False,Osasuna,CD Alaves,,,,
+La Liga,2027-04-21,2026/2027,False,Racing Santander,Malaga,,,,
+La Liga,2027-04-21,2026/2027,False,Real Madrid,Elche,,,,
+La Liga,2027-04-21,2026/2027,False,Sevilla,Levante,,,,
+La Liga,2027-04-21,2026/2027,False,Valencia,Rayo Vallecano,,,,
+La Liga,2027-04-21,2026/2027,False,Villarreal,Atletico Madrid,,,,
+La Liga,2027-05-02,2026/2027,False,Atletico Madrid,CD Alaves,,,,
+La Liga,2027-05-02,2026/2027,False,Barcelona,Osasuna,,,,
+La Liga,2027-05-02,2026/2027,False,Celta Vigo,Sevilla,,,,
+La Liga,2027-05-02,2026/2027,False,Deportivo A Coruna,Racing Santander,,,,
+La Liga,2027-05-02,2026/2027,False,Elche,Espanyol,,,,
+La Liga,2027-05-02,2026/2027,False,Levante,Real Madrid,,,,
+La Liga,2027-05-02,2026/2027,False,Malaga,Getafe,,,,
+La Liga,2027-05-02,2026/2027,False,Rayo Vallecano,Villarreal,,,,
+La Liga,2027-05-02,2026/2027,False,Real Betis,Valencia,,,,
+La Liga,2027-05-02,2026/2027,False,Real Sociedad,Athletic Club,,,,
+La Liga,2027-05-09,2026/2027,False,Athletic Club,Malaga,,,,
+La Liga,2027-05-09,2026/2027,False,CD Alaves,Levante,,,,
+La Liga,2027-05-09,2026/2027,False,Getafe,Elche,,,,
+La Liga,2027-05-09,2026/2027,False,Osasuna,Real Sociedad,,,,
+La Liga,2027-05-09,2026/2027,False,Racing Santander,Sevilla,,,,
+La Liga,2027-05-09,2026/2027,False,Rayo Vallecano,Deportivo A Coruna,,,,
+La Liga,2027-05-09,2026/2027,False,Real Betis,Espanyol,,,,
+La Liga,2027-05-09,2026/2027,False,Real Madrid,Barcelona,,,,
+La Liga,2027-05-09,2026/2027,False,Valencia,Atletico Madrid,,,,
+La Liga,2027-05-09,2026/2027,False,Villarreal,Celta Vigo,,,,
+La Liga,2027-05-16,2026/2027,False,Atletico Madrid,Rayo Vallecano,,,,
+La Liga,2027-05-16,2026/2027,False,Deportivo A Coruna,CD Alaves,,,,
+La Liga,2027-05-16,2026/2027,False,Elche,Athletic Club,,,,
+La Liga,2027-05-16,2026/2027,False,Espanyol,Valencia,,,,
+La Liga,2027-05-16,2026/2027,False,Levante,Getafe,,,,
+La Liga,2027-05-16,2026/2027,False,Malaga,Celta Vigo,,,,
+La Liga,2027-05-16,2026/2027,False,Osasuna,Real Betis,,,,
+La Liga,2027-05-16,2026/2027,False,Real Madrid,Racing Santander,,,,
+La Liga,2027-05-16,2026/2027,False,Real Sociedad,Barcelona,,,,
+La Liga,2027-05-16,2026/2027,False,Sevilla,Villarreal,,,,
+La Liga,2027-05-23,2026/2027,False,Atletico Madrid,Athletic Club,,,,
+La Liga,2027-05-23,2026/2027,False,Barcelona,Malaga,,,,
+La Liga,2027-05-23,2026/2027,False,Celta Vigo,Real Sociedad,,,,
+La Liga,2027-05-23,2026/2027,False,CD Alaves,Real Madrid,,,,
+La Liga,2027-05-23,2026/2027,False,Deportivo A Coruna,Espanyol,,,,
+La Liga,2027-05-23,2026/2027,False,Racing Santander,Levante,,,,
+La Liga,2027-05-23,2026/2027,False,Rayo Vallecano,Real Betis,,,,
+La Liga,2027-05-23,2026/2027,False,Sevilla,Getafe,,,,
+La Liga,2027-05-23,2026/2027,False,Valencia,Elche,,,,
+La Liga,2027-05-23,2026/2027,False,Villarreal,Osasuna,,,,
+La Liga,2027-05-30,2026/2027,False,Athletic Club,Rayo Vallecano,,,,
+La Liga,2027-05-30,2026/2027,False,Elche,Racing Santander,,,,
+La Liga,2027-05-30,2026/2027,False,Espanyol,CD Alaves,,,,
+La Liga,2027-05-30,2026/2027,False,Getafe,Barcelona,,,,
+La Liga,2027-05-30,2026/2027,False,Levante,Celta Vigo,,,,
+La Liga,2027-05-30,2026/2027,False,Malaga,Sevilla,,,,
+La Liga,2027-05-30,2026/2027,False,Osasuna,Valencia,,,,
+La Liga,2027-05-30,2026/2027,False,Real Betis,Atletico Madrid,,,,
+La Liga,2027-05-30,2026/2027,False,Real Madrid,Deportivo A Coruna,,,,
+La Liga,2027-05-30,2026/2027,False,Real Sociedad,Villarreal,,,,

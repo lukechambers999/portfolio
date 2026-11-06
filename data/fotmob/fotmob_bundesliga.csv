@@ -1,0 +1,2143 @@
+league,Date,season,isResult,Home,Away,goals_h,goals_a,xG_h,xG_a
+Bundesliga,2020-09-18,2020/2021,True,Bayern Munich,Schalke,8.0,0.0,3.95,0.2
+Bundesliga,2020-09-19,2020/2021,True,Eintracht Frankfurt,Arminia Bielefeld,1.0,1.0,2.31,0.81
+Bundesliga,2020-09-19,2020/2021,True,Cologne,TSG Hoffenheim,2.0,3.0,2.72,2.59
+Bundesliga,2020-09-19,2020/2021,True,Union Berlin,Augsburg,1.0,3.0,1.16,1.46
+Bundesliga,2020-09-19,2020/2021,True,VfB Stuttgart,SC Freiburg,2.0,3.0,2.63,1.86
+Bundesliga,2020-09-19,2020/2021,True,Werder Bremen,Hertha Berlin,1.0,4.0,0.74,1.85
+Bundesliga,2020-09-19,2020/2021,True,Borussia Dortmund,Borussia M'gladbach,3.0,0.0,1.84,0.65
+Bundesliga,2020-09-20,2020/2021,True,RB Leipzig,Mainz,3.0,1.0,2.85,1.25
+Bundesliga,2020-09-20,2020/2021,True,Wolfsburg,Bayer Leverkusen,0.0,0.0,0.91,0.5
+Bundesliga,2020-09-25,2020/2021,True,Hertha Berlin,Eintracht Frankfurt,1.0,3.0,1.17,1.51
+Bundesliga,2020-09-26,2020/2021,True,Arminia Bielefeld,Cologne,1.0,0.0,0.2,1.42
+Bundesliga,2020-09-26,2020/2021,True,Augsburg,Borussia Dortmund,2.0,0.0,1.24,1.81
+Bundesliga,2020-09-26,2020/2021,True,Bayer Leverkusen,RB Leipzig,1.0,1.0,0.93,0.94
+Bundesliga,2020-09-26,2020/2021,True,Borussia M'gladbach,Union Berlin,1.0,1.0,1.84,0.81
+Bundesliga,2020-09-26,2020/2021,True,Mainz,VfB Stuttgart,1.0,4.0,1.33,2.6
+Bundesliga,2020-09-26,2020/2021,True,Schalke,Werder Bremen,1.0,3.0,1.96,2.46
+Bundesliga,2020-09-27,2020/2021,True,TSG Hoffenheim,Bayern Munich,4.0,1.0,2.58,1.36
+Bundesliga,2020-09-27,2020/2021,True,SC Freiburg,Wolfsburg,1.0,1.0,1.38,0.47
+Bundesliga,2020-10-02,2020/2021,True,Union Berlin,Mainz,4.0,0.0,2.49,0.27
+Bundesliga,2020-10-03,2020/2021,True,Borussia Dortmund,SC Freiburg,4.0,0.0,2.47,0.49
+Bundesliga,2020-10-03,2020/2021,True,Eintracht Frankfurt,TSG Hoffenheim,2.0,1.0,2.85,1.38
+Bundesliga,2020-10-03,2020/2021,True,Cologne,Borussia M'gladbach,1.0,3.0,0.56,2.08
+Bundesliga,2020-10-03,2020/2021,True,VfB Stuttgart,Bayer Leverkusen,1.0,1.0,0.77,1.48
+Bundesliga,2020-10-03,2020/2021,True,Werder Bremen,Arminia Bielefeld,1.0,0.0,0.38,1.14
+Bundesliga,2020-10-03,2020/2021,True,RB Leipzig,Schalke,4.0,0.0,4.16,0.17
+Bundesliga,2020-10-04,2020/2021,True,Wolfsburg,Augsburg,0.0,0.0,1.04,1.2
+Bundesliga,2020-10-04,2020/2021,True,Bayern Munich,Hertha Berlin,4.0,3.0,3.63,1.06
+Bundesliga,2020-10-17,2020/2021,True,Augsburg,RB Leipzig,0.0,2.0,0.95,2.17
+Bundesliga,2020-10-17,2020/2021,True,SC Freiburg,Werder Bremen,1.0,1.0,1.38,1.57
+Bundesliga,2020-10-17,2020/2021,True,Hertha Berlin,VfB Stuttgart,0.0,2.0,1.15,1.25
+Bundesliga,2020-10-17,2020/2021,True,TSG Hoffenheim,Borussia Dortmund,0.0,1.0,1.22,1.97
+Bundesliga,2020-10-17,2020/2021,True,Mainz,Bayer Leverkusen,0.0,1.0,0.25,0.47
+Bundesliga,2020-10-17,2020/2021,True,Arminia Bielefeld,Bayern Munich,1.0,4.0,1.39,3.13
+Bundesliga,2020-10-17,2020/2021,True,Borussia M'gladbach,Wolfsburg,1.0,1.0,1.88,1.45
+Bundesliga,2020-10-18,2020/2021,True,Cologne,Eintracht Frankfurt,1.0,1.0,1.45,1.87
+Bundesliga,2020-10-18,2020/2021,True,Schalke,Union Berlin,1.0,1.0,0.35,1.03
+Bundesliga,2020-10-23,2020/2021,True,VfB Stuttgart,Cologne,1.0,1.0,0.79,2.44
+Bundesliga,2020-10-24,2020/2021,True,Bayern Munich,Eintracht Frankfurt,5.0,0.0,3.22,0.44
+Bundesliga,2020-10-24,2020/2021,True,Mainz,Borussia M'gladbach,2.0,3.0,1.89,3.22
+Bundesliga,2020-10-24,2020/2021,True,RB Leipzig,Hertha Berlin,2.0,1.0,2.86,0.84
+Bundesliga,2020-10-24,2020/2021,True,Union Berlin,SC Freiburg,1.0,1.0,1.57,0.33
+Bundesliga,2020-10-24,2020/2021,True,Borussia Dortmund,Schalke,3.0,0.0,1.42,0.2
+Bundesliga,2020-10-25,2020/2021,True,Wolfsburg,Arminia Bielefeld,2.0,1.0,2.19,0.51
+Bundesliga,2020-10-25,2020/2021,True,Werder Bremen,TSG Hoffenheim,1.0,1.0,0.26,0.97
+Bundesliga,2020-10-26,2020/2021,True,Bayer Leverkusen,Augsburg,3.0,1.0,2.41,0.32
+Bundesliga,2020-10-30,2020/2021,True,Schalke,VfB Stuttgart,1.0,1.0,0.65,1.71
+Bundesliga,2020-10-31,2020/2021,True,Arminia Bielefeld,Borussia Dortmund,0.0,2.0,0.28,2.53
+Bundesliga,2020-10-31,2020/2021,True,Augsburg,Mainz,3.0,1.0,1.9,1.04
+Bundesliga,2020-10-31,2020/2021,True,Eintracht Frankfurt,Werder Bremen,1.0,1.0,2.06,0.85
+Bundesliga,2020-10-31,2020/2021,True,Cologne,Bayern Munich,1.0,2.0,0.5,1.07
+Bundesliga,2020-10-31,2020/2021,True,Borussia M'gladbach,RB Leipzig,1.0,0.0,0.37,0.84
+Bundesliga,2020-11-01,2020/2021,True,SC Freiburg,Bayer Leverkusen,2.0,4.0,1.2,1.2
+Bundesliga,2020-11-01,2020/2021,True,Hertha Berlin,Wolfsburg,1.0,1.0,1.25,0.63
+Bundesliga,2020-11-02,2020/2021,True,TSG Hoffenheim,Union Berlin,1.0,3.0,1.29,3.63
+Bundesliga,2020-11-06,2020/2021,True,Werder Bremen,Cologne,1.0,1.0,1.55,0.45
+Bundesliga,2020-11-07,2020/2021,True,Augsburg,Hertha Berlin,0.0,3.0,0.32,2.22
+Bundesliga,2020-11-07,2020/2021,True,Mainz,Schalke,2.0,2.0,3.75,2.01
+Bundesliga,2020-11-07,2020/2021,True,RB Leipzig,SC Freiburg,3.0,0.0,2.19,0.62
+Bundesliga,2020-11-07,2020/2021,True,Union Berlin,Arminia Bielefeld,5.0,0.0,2.04,0.29
+Bundesliga,2020-11-07,2020/2021,True,VfB Stuttgart,Eintracht Frankfurt,2.0,2.0,2.04,3.24
+Bundesliga,2020-11-07,2020/2021,True,Borussia Dortmund,Bayern Munich,2.0,3.0,2.48,1.24
+Bundesliga,2020-11-08,2020/2021,True,Wolfsburg,TSG Hoffenheim,2.0,1.0,2.09,2.97
+Bundesliga,2020-11-08,2020/2021,True,Bayer Leverkusen,Borussia M'gladbach,4.0,3.0,1.35,2.68
+Bundesliga,2020-11-21,2020/2021,True,Arminia Bielefeld,Bayer Leverkusen,1.0,2.0,0.0,1.23
+Bundesliga,2020-11-21,2020/2021,True,Bayern Munich,Werder Bremen,1.0,1.0,1.68,1.69
+Bundesliga,2020-11-21,2020/2021,True,Borussia M'gladbach,Augsburg,1.0,1.0,2.12,0.83
+Bundesliga,2020-11-21,2020/2021,True,TSG Hoffenheim,VfB Stuttgart,3.0,3.0,1.73,1.62
+Bundesliga,2020-11-21,2020/2021,True,Schalke,Wolfsburg,0.0,2.0,1.08,2.57
+Bundesliga,2020-11-21,2020/2021,True,Eintracht Frankfurt,RB Leipzig,1.0,1.0,1.0,0.85
+Bundesliga,2020-11-21,2020/2021,True,Hertha Berlin,Borussia Dortmund,2.0,5.0,1.5,2.84
+Bundesliga,2020-11-22,2020/2021,True,SC Freiburg,Mainz,1.0,3.0,2.08,2.91
+Bundesliga,2020-11-22,2020/2021,True,Cologne,Union Berlin,1.0,2.0,1.25,1.85
+Bundesliga,2020-11-27,2020/2021,True,Wolfsburg,Werder Bremen,5.0,3.0,1.51,1.0
+Bundesliga,2020-11-28,2020/2021,True,Augsburg,SC Freiburg,1.0,1.0,0.47,0.8
+Bundesliga,2020-11-28,2020/2021,True,RB Leipzig,Arminia Bielefeld,2.0,1.0,2.54,1.66
+Bundesliga,2020-11-28,2020/2021,True,Union Berlin,Eintracht Frankfurt,3.0,3.0,2.37,1.43
+Bundesliga,2020-11-28,2020/2021,True,VfB Stuttgart,Bayern Munich,1.0,3.0,1.24,0.93
+Bundesliga,2020-11-28,2020/2021,True,Borussia Dortmund,Cologne,1.0,2.0,3.05,1.46
+Bundesliga,2020-11-28,2020/2021,True,Borussia M'gladbach,Schalke,4.0,1.0,3.04,0.88
+Bundesliga,2020-11-29,2020/2021,True,Bayer Leverkusen,Hertha Berlin,0.0,0.0,1.26,0.57
+Bundesliga,2020-11-29,2020/2021,True,Mainz,TSG Hoffenheim,1.0,1.0,1.58,1.11
+Bundesliga,2020-12-04,2020/2021,True,Hertha Berlin,Union Berlin,3.0,1.0,0.73,0.29
+Bundesliga,2020-12-05,2020/2021,True,Arminia Bielefeld,Mainz,2.0,1.0,1.24,2.84
+Bundesliga,2020-12-05,2020/2021,True,Eintracht Frankfurt,Borussia Dortmund,1.0,1.0,0.98,1.1
+Bundesliga,2020-12-05,2020/2021,True,Cologne,Wolfsburg,2.0,2.0,1.09,1.87
+Bundesliga,2020-12-05,2020/2021,True,SC Freiburg,Borussia M'gladbach,2.0,2.0,3.64,1.52
+Bundesliga,2020-12-05,2020/2021,True,Bayern Munich,RB Leipzig,3.0,3.0,1.05,1.53
+Bundesliga,2020-12-06,2020/2021,True,Werder Bremen,VfB Stuttgart,1.0,2.0,0.75,2.21
+Bundesliga,2020-12-06,2020/2021,True,Schalke,Bayer Leverkusen,0.0,3.0,1.43,2.55
+Bundesliga,2020-12-07,2020/2021,True,TSG Hoffenheim,Augsburg,3.0,1.0,1.46,0.94
+Bundesliga,2020-12-11,2020/2021,True,Wolfsburg,Eintracht Frankfurt,2.0,1.0,2.88,1.48
+Bundesliga,2020-12-12,2020/2021,True,Borussia Dortmund,VfB Stuttgart,1.0,5.0,0.89,3.09
+Bundesliga,2020-12-12,2020/2021,True,Borussia M'gladbach,Hertha Berlin,1.0,1.0,1.71,0.36
+Bundesliga,2020-12-12,2020/2021,True,SC Freiburg,Arminia Bielefeld,2.0,0.0,2.39,0.22
+Bundesliga,2020-12-12,2020/2021,True,Mainz,Cologne,0.0,1.0,1.68,0.83
+Bundesliga,2020-12-12,2020/2021,True,RB Leipzig,Werder Bremen,2.0,0.0,2.43,0.64
+Bundesliga,2020-12-12,2020/2021,True,Union Berlin,Bayern Munich,1.0,1.0,1.29,1.1
+Bundesliga,2020-12-13,2020/2021,True,Augsburg,Schalke,2.0,2.0,1.36,2.26
+Bundesliga,2020-12-13,2020/2021,True,Bayer Leverkusen,TSG Hoffenheim,4.0,1.0,2.19,1.64
+Bundesliga,2020-12-15,2020/2021,True,Eintracht Frankfurt,Borussia M'gladbach,3.0,3.0,1.97,1.42
+Bundesliga,2020-12-15,2020/2021,True,Hertha Berlin,Mainz,0.0,0.0,0.83,0.76
+Bundesliga,2020-12-15,2020/2021,True,VfB Stuttgart,Union Berlin,2.0,2.0,2.09,0.74
+Bundesliga,2020-12-15,2020/2021,True,Werder Bremen,Borussia Dortmund,1.0,2.0,0.25,2.96
+Bundesliga,2020-12-16,2020/2021,True,Schalke,SC Freiburg,0.0,2.0,0.47,1.25
+Bundesliga,2020-12-16,2020/2021,True,Arminia Bielefeld,Augsburg,0.0,1.0,0.62,0.38
+Bundesliga,2020-12-16,2020/2021,True,Bayern Munich,Wolfsburg,2.0,1.0,1.76,1.04
+Bundesliga,2020-12-16,2020/2021,True,Cologne,Bayer Leverkusen,0.0,4.0,0.38,1.56
+Bundesliga,2020-12-16,2020/2021,True,TSG Hoffenheim,RB Leipzig,0.0,1.0,0.63,0.52
+Bundesliga,2020-12-18,2020/2021,True,Union Berlin,Borussia Dortmund,2.0,1.0,0.99,1.33
+Bundesliga,2020-12-19,2020/2021,True,Augsburg,Eintracht Frankfurt,0.0,2.0,1.56,2.19
+Bundesliga,2020-12-19,2020/2021,True,Borussia M'gladbach,TSG Hoffenheim,1.0,2.0,1.89,2.15
+Bundesliga,2020-12-19,2020/2021,True,Mainz,Werder Bremen,0.0,1.0,0.48,0.97
+Bundesliga,2020-12-19,2020/2021,True,RB Leipzig,Cologne,0.0,0.0,2.07,0.37
+Bundesliga,2020-12-19,2020/2021,True,Schalke,Arminia Bielefeld,0.0,1.0,0.38,0.98
+Bundesliga,2020-12-19,2020/2021,True,Bayer Leverkusen,Bayern Munich,1.0,2.0,0.3,1.15
+Bundesliga,2020-12-20,2020/2021,True,SC Freiburg,Hertha Berlin,4.0,1.0,2.86,1.93
+Bundesliga,2020-12-20,2020/2021,True,Wolfsburg,VfB Stuttgart,1.0,0.0,1.39,1.21
+Bundesliga,2021-01-02,2020/2021,True,Arminia Bielefeld,Borussia M'gladbach,0.0,1.0,0.94,2.59
+Bundesliga,2021-01-02,2020/2021,True,Eintracht Frankfurt,Bayer Leverkusen,2.0,1.0,1.5,0.77
+Bundesliga,2021-01-02,2020/2021,True,Cologne,Augsburg,0.0,1.0,0.62,1.42
+Bundesliga,2021-01-02,2020/2021,True,TSG Hoffenheim,SC Freiburg,1.0,3.0,1.24,2.01
+Bundesliga,2021-01-02,2020/2021,True,Werder Bremen,Union Berlin,0.0,2.0,0.79,1.04
+Bundesliga,2021-01-02,2020/2021,True,Hertha Berlin,Schalke,3.0,0.0,2.07,0.76
+Bundesliga,2021-01-02,2020/2021,True,VfB Stuttgart,RB Leipzig,0.0,1.0,0.96,2.77
+Bundesliga,2021-01-03,2020/2021,True,Borussia Dortmund,Wolfsburg,2.0,0.0,1.83,2.09
+Bundesliga,2021-01-03,2020/2021,True,Bayern Munich,Mainz,5.0,2.0,4.33,1.3
+Bundesliga,2021-01-08,2020/2021,True,Borussia M'gladbach,Bayern Munich,3.0,2.0,1.19,1.48
+Bundesliga,2021-01-09,2020/2021,True,Bayer Leverkusen,Werder Bremen,1.0,1.0,0.69,0.29
+Bundesliga,2021-01-09,2020/2021,True,SC Freiburg,Cologne,5.0,0.0,2.52,0.15
+Bundesliga,2021-01-09,2020/2021,True,Mainz,Eintracht Frankfurt,0.0,2.0,0.81,2.31
+Bundesliga,2021-01-09,2020/2021,True,Schalke,TSG Hoffenheim,4.0,0.0,1.99,1.96
+Bundesliga,2021-01-09,2020/2021,True,Union Berlin,Wolfsburg,2.0,2.0,0.96,2.0
+Bundesliga,2021-01-09,2020/2021,True,RB Leipzig,Borussia Dortmund,1.0,3.0,1.67,2.24
+Bundesliga,2021-01-10,2020/2021,True,Augsburg,VfB Stuttgart,1.0,4.0,1.02,3.52
+Bundesliga,2021-01-10,2020/2021,True,Arminia Bielefeld,Hertha Berlin,1.0,0.0,0.72,0.63
+Bundesliga,2021-01-15,2020/2021,True,Union Berlin,Bayer Leverkusen,1.0,0.0,1.38,0.94
+Bundesliga,2021-01-16,2020/2021,True,Borussia Dortmund,Mainz,1.0,1.0,2.26,0.57
+Bundesliga,2021-01-16,2020/2021,True,Cologne,Hertha Berlin,0.0,0.0,0.43,0.52
+Bundesliga,2021-01-16,2020/2021,True,TSG Hoffenheim,Arminia Bielefeld,0.0,0.0,0.65,0.71
+Bundesliga,2021-01-16,2020/2021,True,Werder Bremen,Augsburg,2.0,0.0,1.32,0.79
+Bundesliga,2021-01-16,2020/2021,True,Wolfsburg,RB Leipzig,2.0,2.0,0.84,2.4
+Bundesliga,2021-01-16,2020/2021,True,VfB Stuttgart,Borussia M'gladbach,2.0,2.0,1.97,1.41
+Bundesliga,2021-01-17,2020/2021,True,Bayern Munich,SC Freiburg,2.0,1.0,2.79,0.75
+Bundesliga,2021-01-17,2020/2021,True,Eintracht Frankfurt,Schalke,3.0,1.0,2.1,0.16
+Bundesliga,2021-01-19,2020/2021,True,Borussia M'gladbach,Werder Bremen,1.0,0.0,0.57,1.07
+Bundesliga,2021-01-19,2020/2021,True,Bayer Leverkusen,Borussia Dortmund,2.0,1.0,1.88,1.56
+Bundesliga,2021-01-19,2020/2021,True,Hertha Berlin,TSG Hoffenheim,0.0,3.0,1.68,1.33
+Bundesliga,2021-01-19,2020/2021,True,Mainz,Wolfsburg,0.0,2.0,0.68,1.14
+Bundesliga,2021-01-20,2020/2021,True,Schalke,Cologne,1.0,2.0,1.36,1.57
+Bundesliga,2021-01-20,2020/2021,True,Arminia Bielefeld,VfB Stuttgart,3.0,0.0,1.83,1.39
+Bundesliga,2021-01-20,2020/2021,True,Augsburg,Bayern Munich,0.0,1.0,1.24,1.71
+Bundesliga,2021-01-20,2020/2021,True,SC Freiburg,Eintracht Frankfurt,2.0,2.0,0.8,1.25
+Bundesliga,2021-01-20,2020/2021,True,RB Leipzig,Union Berlin,1.0,0.0,1.56,0.23
+Bundesliga,2021-01-22,2020/2021,True,Borussia M'gladbach,Borussia Dortmund,4.0,2.0,1.97,1.66
+Bundesliga,2021-01-23,2020/2021,True,Arminia Bielefeld,Eintracht Frankfurt,1.0,5.0,0.54,2.45
+Bundesliga,2021-01-23,2020/2021,True,Augsburg,Union Berlin,2.0,1.0,1.02,1.73
+Bundesliga,2021-01-23,2020/2021,True,Bayer Leverkusen,Wolfsburg,0.0,1.0,1.34,1.03
+Bundesliga,2021-01-23,2020/2021,True,SC Freiburg,VfB Stuttgart,2.0,1.0,1.31,3.07
+Bundesliga,2021-01-23,2020/2021,True,Mainz,RB Leipzig,3.0,2.0,1.79,1.55
+Bundesliga,2021-01-23,2020/2021,True,Hertha Berlin,Werder Bremen,1.0,4.0,2.25,1.52
+Bundesliga,2021-01-24,2020/2021,True,Schalke,Bayern Munich,0.0,4.0,0.94,3.56
+Bundesliga,2021-01-24,2020/2021,True,TSG Hoffenheim,Cologne,3.0,0.0,2.23,2.23
+Bundesliga,2021-01-29,2020/2021,True,VfB Stuttgart,Mainz,2.0,0.0,0.9,0.4
+Bundesliga,2021-01-30,2020/2021,True,Bayern Munich,TSG Hoffenheim,4.0,1.0,2.01,1.96
+Bundesliga,2021-01-30,2020/2021,True,Borussia Dortmund,Augsburg,3.0,1.0,1.78,0.33
+Bundesliga,2021-01-30,2020/2021,True,Eintracht Frankfurt,Hertha Berlin,3.0,1.0,2.07,0.45
+Bundesliga,2021-01-30,2020/2021,True,Union Berlin,Borussia M'gladbach,1.0,1.0,0.79,0.9
+Bundesliga,2021-01-30,2020/2021,True,Werder Bremen,Schalke,1.0,1.0,0.75,0.51
+Bundesliga,2021-01-30,2020/2021,True,RB Leipzig,Bayer Leverkusen,1.0,0.0,1.43,0.73
+Bundesliga,2021-01-31,2020/2021,True,Cologne,Arminia Bielefeld,3.0,1.0,1.3,0.94
+Bundesliga,2021-01-31,2020/2021,True,Wolfsburg,SC Freiburg,3.0,0.0,1.77,1.24
+Bundesliga,2021-02-05,2020/2021,True,Hertha Berlin,Bayern Munich,0.0,1.0,1.31,2.08
+Bundesliga,2021-02-06,2020/2021,True,Augsburg,Wolfsburg,0.0,2.0,0.57,2.37
+Bundesliga,2021-02-06,2020/2021,True,Bayer Leverkusen,VfB Stuttgart,5.0,2.0,4.13,1.72
+Bundesliga,2021-02-06,2020/2021,True,SC Freiburg,Borussia Dortmund,2.0,1.0,0.19,1.37
+Bundesliga,2021-02-06,2020/2021,True,Mainz,Union Berlin,1.0,0.0,2.02,1.19
+Bundesliga,2021-02-06,2020/2021,True,Schalke,RB Leipzig,0.0,3.0,0.17,2.2
+Bundesliga,2021-02-06,2020/2021,True,Borussia M'gladbach,Cologne,1.0,2.0,0.46,0.74
+Bundesliga,2021-02-07,2020/2021,True,TSG Hoffenheim,Eintracht Frankfurt,1.0,3.0,0.88,1.31
+Bundesliga,2021-02-12,2020/2021,True,RB Leipzig,Augsburg,2.0,1.0,2.18,0.99
+Bundesliga,2021-02-13,2020/2021,True,Bayer Leverkusen,Mainz,2.0,2.0,1.39,2.6
+Bundesliga,2021-02-13,2020/2021,True,Borussia Dortmund,TSG Hoffenheim,2.0,2.0,1.67,2.64
+Bundesliga,2021-02-13,2020/2021,True,VfB Stuttgart,Hertha Berlin,1.0,1.0,0.96,1.34
+Bundesliga,2021-02-13,2020/2021,True,Werder Bremen,SC Freiburg,0.0,0.0,0.66,0.9
+Bundesliga,2021-02-13,2020/2021,True,Union Berlin,Schalke,0.0,0.0,1.98,0.32
+Bundesliga,2021-02-14,2020/2021,True,Eintracht Frankfurt,Cologne,2.0,0.0,2.48,0.29
+Bundesliga,2021-02-14,2020/2021,True,Wolfsburg,Borussia M'gladbach,0.0,0.0,0.87,0.53
+Bundesliga,2021-02-15,2020/2021,True,Bayern Munich,Arminia Bielefeld,3.0,3.0,2.5,1.38
+Bundesliga,2021-02-19,2020/2021,True,Arminia Bielefeld,Wolfsburg,0.0,3.0,0.56,1.52
+Bundesliga,2021-02-20,2020/2021,True,Borussia M'gladbach,Mainz,1.0,2.0,0.91,0.58
+Bundesliga,2021-02-20,2020/2021,True,Eintracht Frankfurt,Bayern Munich,2.0,1.0,1.52,2.22
+Bundesliga,2021-02-20,2020/2021,True,Cologne,VfB Stuttgart,0.0,1.0,0.82,0.57
+Bundesliga,2021-02-20,2020/2021,True,SC Freiburg,Union Berlin,0.0,1.0,0.79,1.4
+Bundesliga,2021-02-20,2020/2021,True,Schalke,Borussia Dortmund,0.0,4.0,0.95,1.57
+Bundesliga,2021-02-21,2020/2021,True,Augsburg,Bayer Leverkusen,1.0,1.0,0.99,0.5
+Bundesliga,2021-02-21,2020/2021,True,Hertha Berlin,RB Leipzig,0.0,3.0,0.84,0.9
+Bundesliga,2021-02-21,2020/2021,True,TSG Hoffenheim,Werder Bremen,4.0,0.0,2.36,0.12
+Bundesliga,2021-02-26,2020/2021,True,Werder Bremen,Eintracht Frankfurt,2.0,1.0,0.99,1.3
+Bundesliga,2021-02-27,2020/2021,True,Bayern Munich,Cologne,5.0,1.0,2.28,1.36
+Bundesliga,2021-02-27,2020/2021,True,Borussia Dortmund,Arminia Bielefeld,3.0,0.0,2.83,0.84
+Bundesliga,2021-02-27,2020/2021,True,VfB Stuttgart,Schalke,5.0,1.0,2.23,1.5
+Bundesliga,2021-02-27,2020/2021,True,Wolfsburg,Hertha Berlin,2.0,0.0,0.65,1.08
+Bundesliga,2021-02-27,2020/2021,True,RB Leipzig,Borussia M'gladbach,3.0,2.0,1.65,1.45
+Bundesliga,2021-02-28,2020/2021,True,Union Berlin,TSG Hoffenheim,1.0,1.0,0.96,1.33
+Bundesliga,2021-02-28,2020/2021,True,Mainz,Augsburg,0.0,1.0,0.95,1.06
+Bundesliga,2021-02-28,2020/2021,True,Bayer Leverkusen,SC Freiburg,1.0,2.0,1.34,1.29
+Bundesliga,2021-03-05,2020/2021,True,Schalke,Mainz,0.0,0.0,0.16,0.91
+Bundesliga,2021-03-06,2020/2021,True,Borussia M'gladbach,Bayer Leverkusen,0.0,1.0,0.54,1.42
+Bundesliga,2021-03-06,2020/2021,True,Eintracht Frankfurt,VfB Stuttgart,1.0,1.0,1.56,0.49
+Bundesliga,2021-03-06,2020/2021,True,SC Freiburg,RB Leipzig,0.0,3.0,0.24,1.55
+Bundesliga,2021-03-06,2020/2021,True,Hertha Berlin,Augsburg,2.0,1.0,2.55,0.67
+Bundesliga,2021-03-06,2020/2021,True,TSG Hoffenheim,Wolfsburg,2.0,1.0,1.1,2.48
+Bundesliga,2021-03-06,2020/2021,True,Bayern Munich,Borussia Dortmund,4.0,2.0,3.16,0.64
+Bundesliga,2021-03-07,2020/2021,True,Cologne,Werder Bremen,1.0,1.0,1.49,1.06
+Bundesliga,2021-03-07,2020/2021,True,Arminia Bielefeld,Union Berlin,0.0,0.0,0.42,1.4
+Bundesliga,2021-03-10,2020/2021,True,Arminia Bielefeld,Werder Bremen,0.0,2.0,3.21,1.6
+Bundesliga,2021-03-12,2020/2021,True,Augsburg,Borussia M'gladbach,3.0,1.0,1.36,3.11
+Bundesliga,2021-03-13,2020/2021,True,Mainz,SC Freiburg,1.0,0.0,1.81,0.92
+Bundesliga,2021-03-13,2020/2021,True,Union Berlin,Cologne,2.0,1.0,2.65,1.26
+Bundesliga,2021-03-13,2020/2021,True,Werder Bremen,Bayern Munich,1.0,3.0,0.97,4.15
+Bundesliga,2021-03-13,2020/2021,True,Wolfsburg,Schalke,5.0,0.0,1.8,0.25
+Bundesliga,2021-03-13,2020/2021,True,Borussia Dortmund,Hertha Berlin,2.0,0.0,1.74,0.09
+Bundesliga,2021-03-14,2020/2021,True,Bayer Leverkusen,Arminia Bielefeld,1.0,2.0,2.19,1.7
+Bundesliga,2021-03-14,2020/2021,True,RB Leipzig,Eintracht Frankfurt,1.0,1.0,1.55,1.1
+Bundesliga,2021-03-14,2020/2021,True,VfB Stuttgart,TSG Hoffenheim,2.0,0.0,0.92,1.21
+Bundesliga,2021-03-19,2020/2021,True,Arminia Bielefeld,RB Leipzig,0.0,1.0,0.35,2.18
+Bundesliga,2021-03-20,2020/2021,True,Bayern Munich,VfB Stuttgart,4.0,0.0,2.38,1.05
+Bundesliga,2021-03-20,2020/2021,True,Eintracht Frankfurt,Union Berlin,5.0,2.0,2.27,2.79
+Bundesliga,2021-03-20,2020/2021,True,Cologne,Borussia Dortmund,2.0,2.0,1.51,2.01
+Bundesliga,2021-03-20,2020/2021,True,Werder Bremen,Wolfsburg,1.0,2.0,0.61,0.93
+Bundesliga,2021-03-20,2020/2021,True,Schalke,Borussia M'gladbach,0.0,3.0,0.19,2.42
+Bundesliga,2021-03-21,2020/2021,True,TSG Hoffenheim,Mainz,1.0,2.0,1.26,2.66
+Bundesliga,2021-03-21,2020/2021,True,Hertha Berlin,Bayer Leverkusen,3.0,0.0,2.3,1.92
+Bundesliga,2021-03-21,2020/2021,True,SC Freiburg,Augsburg,2.0,0.0,1.82,1.05
+Bundesliga,2021-04-03,2020/2021,True,Augsburg,TSG Hoffenheim,2.0,1.0,0.68,0.9
+Bundesliga,2021-04-03,2020/2021,True,Bayer Leverkusen,Schalke,2.0,1.0,0.96,1.0
+Bundesliga,2021-04-03,2020/2021,True,Borussia Dortmund,Eintracht Frankfurt,1.0,2.0,2.12,1.41
+Bundesliga,2021-04-03,2020/2021,True,Mainz,Arminia Bielefeld,1.0,1.0,2.14,0.52
+Bundesliga,2021-04-03,2020/2021,True,Wolfsburg,Cologne,1.0,0.0,0.87,1.33
+Bundesliga,2021-04-03,2020/2021,True,RB Leipzig,Bayern Munich,0.0,1.0,0.64,0.56
+Bundesliga,2021-04-03,2020/2021,True,Borussia M'gladbach,SC Freiburg,2.0,1.0,1.55,1.78
+Bundesliga,2021-04-04,2020/2021,True,VfB Stuttgart,Werder Bremen,1.0,0.0,0.75,0.42
+Bundesliga,2021-04-04,2020/2021,True,Union Berlin,Hertha Berlin,1.0,1.0,0.86,0.93
+Bundesliga,2021-04-09,2020/2021,True,Arminia Bielefeld,SC Freiburg,1.0,0.0,1.26,0.41
+Bundesliga,2021-04-10,2020/2021,True,Bayern Munich,Union Berlin,1.0,1.0,0.8,1.28
+Bundesliga,2021-04-10,2020/2021,True,Eintracht Frankfurt,Wolfsburg,4.0,3.0,0.94,1.21
+Bundesliga,2021-04-10,2020/2021,True,Hertha Berlin,Borussia M'gladbach,2.0,2.0,1.81,1.28
+Bundesliga,2021-04-10,2020/2021,True,Werder Bremen,RB Leipzig,1.0,4.0,1.71,1.46
+Bundesliga,2021-04-10,2020/2021,True,VfB Stuttgart,Borussia Dortmund,2.0,3.0,1.68,1.12
+Bundesliga,2021-04-11,2020/2021,True,Schalke,Augsburg,1.0,0.0,0.94,1.35
+Bundesliga,2021-04-11,2020/2021,True,Cologne,Mainz,2.0,3.0,2.54,1.6
+Bundesliga,2021-04-12,2020/2021,True,TSG Hoffenheim,Bayer Leverkusen,0.0,0.0,0.09,0.31
+Bundesliga,2021-04-16,2020/2021,True,RB Leipzig,TSG Hoffenheim,0.0,0.0,1.41,0.26
+Bundesliga,2021-04-17,2020/2021,True,Augsburg,Arminia Bielefeld,0.0,0.0,0.7,0.75
+Bundesliga,2021-04-17,2020/2021,True,Borussia M'gladbach,Eintracht Frankfurt,4.0,0.0,2.32,0.75
+Bundesliga,2021-04-17,2020/2021,True,SC Freiburg,Schalke,4.0,0.0,2.01,0.73
+Bundesliga,2021-04-17,2020/2021,True,Union Berlin,VfB Stuttgart,2.0,1.0,1.46,0.98
+Bundesliga,2021-04-17,2020/2021,True,Wolfsburg,Bayern Munich,2.0,3.0,1.38,1.91
+Bundesliga,2021-04-17,2020/2021,True,Bayer Leverkusen,Cologne,3.0,0.0,1.62,0.98
+Bundesliga,2021-04-18,2020/2021,True,Borussia Dortmund,Werder Bremen,4.0,1.0,3.01,1.02
+Bundesliga,2021-04-20,2020/2021,True,Cologne,RB Leipzig,2.0,1.0,0.52,2.42
+Bundesliga,2021-04-20,2020/2021,True,Arminia Bielefeld,Schalke,1.0,0.0,2.26,0.29
+Bundesliga,2021-04-20,2020/2021,True,Bayern Munich,Bayer Leverkusen,2.0,0.0,1.72,0.58
+Bundesliga,2021-04-20,2020/2021,True,Eintracht Frankfurt,Augsburg,2.0,0.0,1.28,1.63
+Bundesliga,2021-04-21,2020/2021,True,Borussia Dortmund,Union Berlin,2.0,0.0,4.76,0.26
+Bundesliga,2021-04-21,2020/2021,True,TSG Hoffenheim,Borussia M'gladbach,3.0,2.0,2.32,0.95
+Bundesliga,2021-04-21,2020/2021,True,VfB Stuttgart,Wolfsburg,1.0,3.0,1.86,1.48
+Bundesliga,2021-04-21,2020/2021,True,Werder Bremen,Mainz,0.0,1.0,1.19,1.69
+Bundesliga,2021-04-23,2020/2021,True,Augsburg,Cologne,2.0,3.0,1.99,1.76
+Bundesliga,2021-04-24,2020/2021,True,SC Freiburg,TSG Hoffenheim,1.0,1.0,1.76,1.44
+Bundesliga,2021-04-24,2020/2021,True,Mainz,Bayern Munich,2.0,1.0,0.88,1.49
+Bundesliga,2021-04-24,2020/2021,True,Union Berlin,Werder Bremen,3.0,1.0,1.66,0.44
+Bundesliga,2021-04-24,2020/2021,True,Wolfsburg,Borussia Dortmund,0.0,2.0,1.23,1.42
+Bundesliga,2021-04-24,2020/2021,True,Bayer Leverkusen,Eintracht Frankfurt,3.0,1.0,2.03,2.34
+Bundesliga,2021-04-25,2020/2021,True,RB Leipzig,VfB Stuttgart,2.0,0.0,3.6,0.15
+Bundesliga,2021-04-25,2020/2021,True,Borussia M'gladbach,Arminia Bielefeld,5.0,0.0,3.54,0.73
+Bundesliga,2021-05-03,2020/2021,True,Mainz,Hertha Berlin,1.0,1.0,2.77,1.43
+Bundesliga,2021-05-06,2020/2021,True,Hertha Berlin,SC Freiburg,3.0,0.0,1.82,0.99
+Bundesliga,2021-05-07,2020/2021,True,VfB Stuttgart,Augsburg,2.0,1.0,1.66,2.29
+Bundesliga,2021-05-08,2020/2021,True,Borussia Dortmund,RB Leipzig,3.0,2.0,1.69,1.53
+Bundesliga,2021-05-08,2020/2021,True,TSG Hoffenheim,Schalke,4.0,2.0,1.66,0.97
+Bundesliga,2021-05-08,2020/2021,True,Werder Bremen,Bayer Leverkusen,0.0,0.0,0.67,1.14
+Bundesliga,2021-05-08,2020/2021,True,Wolfsburg,Union Berlin,3.0,0.0,1.76,0.66
+Bundesliga,2021-05-08,2020/2021,True,Bayern Munich,Borussia M'gladbach,6.0,0.0,3.01,1.07
+Bundesliga,2021-05-09,2020/2021,True,Cologne,SC Freiburg,1.0,4.0,1.89,2.47
+Bundesliga,2021-05-09,2020/2021,True,Eintracht Frankfurt,Mainz,1.0,1.0,0.82,0.68
+Bundesliga,2021-05-09,2020/2021,True,Hertha Berlin,Arminia Bielefeld,0.0,0.0,0.6,0.62
+Bundesliga,2021-05-12,2020/2021,True,Schalke,Hertha Berlin,1.0,2.0,0.89,1.48
+Bundesliga,2021-05-15,2020/2021,True,Arminia Bielefeld,TSG Hoffenheim,1.0,1.0,2.03,1.65
+Bundesliga,2021-05-15,2020/2021,True,Augsburg,Werder Bremen,2.0,0.0,1.55,0.91
+Bundesliga,2021-05-15,2020/2021,True,Bayer Leverkusen,Union Berlin,1.0,1.0,1.62,1.34
+Bundesliga,2021-05-15,2020/2021,True,Borussia M'gladbach,VfB Stuttgart,1.0,2.0,0.49,0.59
+Bundesliga,2021-05-15,2020/2021,True,SC Freiburg,Bayern Munich,2.0,2.0,1.31,3.34
+Bundesliga,2021-05-15,2020/2021,True,Hertha Berlin,Cologne,0.0,0.0,0.08,1.56
+Bundesliga,2021-05-15,2020/2021,True,Schalke,Eintracht Frankfurt,4.0,3.0,2.78,3.07
+Bundesliga,2021-05-16,2020/2021,True,Mainz,Borussia Dortmund,1.0,3.0,1.52,1.64
+Bundesliga,2021-05-16,2020/2021,True,RB Leipzig,Wolfsburg,2.0,2.0,2.13,1.23
+Bundesliga,2021-05-22,2020/2021,True,Borussia Dortmund,Bayer Leverkusen,3.0,1.0,1.11,1.75
+Bundesliga,2021-05-22,2020/2021,True,Eintracht Frankfurt,SC Freiburg,3.0,1.0,2.04,0.5
+Bundesliga,2021-05-22,2020/2021,True,Cologne,Schalke,1.0,0.0,2.04,0.35
+Bundesliga,2021-05-22,2020/2021,True,TSG Hoffenheim,Hertha Berlin,2.0,1.0,2.4,1.61
+Bundesliga,2021-05-22,2020/2021,True,Union Berlin,RB Leipzig,2.0,1.0,1.08,2.64
+Bundesliga,2021-05-22,2020/2021,True,VfB Stuttgart,Arminia Bielefeld,0.0,2.0,1.06,1.66
+Bundesliga,2021-05-22,2020/2021,True,Werder Bremen,Borussia M'gladbach,2.0,4.0,1.26,1.86
+Bundesliga,2021-05-22,2020/2021,True,Wolfsburg,Mainz,2.0,3.0,1.24,1.87
+Bundesliga,2021-05-22,2020/2021,True,Bayern Munich,Augsburg,5.0,2.0,4.44,1.96
+Bundesliga,2021-08-13,2021/2022,True,Borussia M'gladbach,Bayern Munich,1.0,1.0,2.3,2.57
+Bundesliga,2021-08-14,2021/2022,True,Arminia Bielefeld,SC Freiburg,0.0,0.0,0.42,1.57
+Bundesliga,2021-08-14,2021/2022,True,Augsburg,TSG Hoffenheim,0.0,4.0,0.62,3.83
+Bundesliga,2021-08-14,2021/2022,True,Union Berlin,Bayer Leverkusen,1.0,1.0,0.48,0.83
+Bundesliga,2021-08-14,2021/2022,True,VfB Stuttgart,Greuther Furth,5.0,1.0,3.1,1.16
+Bundesliga,2021-08-14,2021/2022,True,Wolfsburg,Bochum,1.0,0.0,2.61,0.39
+Bundesliga,2021-08-14,2021/2022,True,Borussia Dortmund,Eintracht Frankfurt,5.0,2.0,2.72,1.41
+Bundesliga,2021-08-15,2021/2022,True,Mainz,RB Leipzig,1.0,0.0,1.24,1.12
+Bundesliga,2021-08-15,2021/2022,True,Cologne,Hertha Berlin,3.0,1.0,1.61,1.78
+Bundesliga,2021-08-20,2021/2022,True,RB Leipzig,VfB Stuttgart,4.0,0.0,3.81,1.08
+Bundesliga,2021-08-21,2021/2022,True,Bochum,Mainz,2.0,0.0,0.82,0.92
+Bundesliga,2021-08-21,2021/2022,True,Eintracht Frankfurt,Augsburg,0.0,0.0,1.61,0.28
+Bundesliga,2021-08-21,2021/2022,True,SC Freiburg,Borussia Dortmund,2.0,1.0,1.29,1.65
+Bundesliga,2021-08-21,2021/2022,True,Greuther Furth,Arminia Bielefeld,1.0,1.0,2.57,0.78
+Bundesliga,2021-08-21,2021/2022,True,Hertha Berlin,Wolfsburg,1.0,2.0,1.16,0.99
+Bundesliga,2021-08-21,2021/2022,True,Bayer Leverkusen,Borussia M'gladbach,4.0,0.0,1.95,1.69
+Bundesliga,2021-08-22,2021/2022,True,TSG Hoffenheim,Union Berlin,2.0,2.0,1.03,1.75
+Bundesliga,2021-08-22,2021/2022,True,Bayern Munich,Cologne,3.0,2.0,2.65,1.1
+Bundesliga,2021-08-27,2021/2022,True,Borussia Dortmund,TSG Hoffenheim,3.0,2.0,3.38,2.28
+Bundesliga,2021-08-28,2021/2022,True,Arminia Bielefeld,Eintracht Frankfurt,1.0,1.0,0.57,1.46
+Bundesliga,2021-08-28,2021/2022,True,Augsburg,Bayer Leverkusen,1.0,4.0,1.81,1.96
+Bundesliga,2021-08-28,2021/2022,True,Cologne,Bochum,2.0,1.0,3.18,0.6
+Bundesliga,2021-08-28,2021/2022,True,Mainz,Greuther Furth,3.0,0.0,2.78,0.17
+Bundesliga,2021-08-28,2021/2022,True,VfB Stuttgart,SC Freiburg,2.0,3.0,1.84,1.32
+Bundesliga,2021-08-28,2021/2022,True,Bayern Munich,Hertha Berlin,5.0,0.0,2.86,0.42
+Bundesliga,2021-08-29,2021/2022,True,Union Berlin,Borussia M'gladbach,2.0,1.0,1.92,1.79
+Bundesliga,2021-08-29,2021/2022,True,Wolfsburg,RB Leipzig,1.0,0.0,0.83,1.15
+Bundesliga,2021-09-11,2021/2022,True,Bayer Leverkusen,Borussia Dortmund,3.0,4.0,0.72,1.85
+Bundesliga,2021-09-11,2021/2022,True,SC Freiburg,Cologne,1.0,1.0,0.78,1.11
+Bundesliga,2021-09-11,2021/2022,True,Greuther Furth,Wolfsburg,0.0,2.0,0.33,1.44
+Bundesliga,2021-09-11,2021/2022,True,TSG Hoffenheim,Mainz,0.0,2.0,0.68,0.93
+Bundesliga,2021-09-11,2021/2022,True,Union Berlin,Augsburg,0.0,0.0,1.03,1.0
+Bundesliga,2021-09-11,2021/2022,True,RB Leipzig,Bayern Munich,1.0,4.0,0.48,3.94
+Bundesliga,2021-09-12,2021/2022,True,Eintracht Frankfurt,VfB Stuttgart,1.0,1.0,1.09,0.92
+Bundesliga,2021-09-12,2021/2022,True,Bochum,Hertha Berlin,1.0,3.0,1.19,0.32
+Bundesliga,2021-09-12,2021/2022,True,Borussia M'gladbach,Arminia Bielefeld,3.0,1.0,1.69,1.82
+Bundesliga,2021-09-17,2021/2022,True,Hertha Berlin,Greuther Furth,2.0,1.0,0.65,1.42
+Bundesliga,2021-09-18,2021/2022,True,Arminia Bielefeld,TSG Hoffenheim,0.0,0.0,1.25,1.14
+Bundesliga,2021-09-18,2021/2022,True,Augsburg,Borussia M'gladbach,1.0,0.0,0.33,0.62
+Bundesliga,2021-09-18,2021/2022,True,Bayern Munich,Bochum,7.0,0.0,5.65,0.45
+Bundesliga,2021-09-18,2021/2022,True,Mainz,SC Freiburg,0.0,0.0,0.95,0.39
+Bundesliga,2021-09-18,2021/2022,True,Cologne,RB Leipzig,1.0,1.0,1.72,2.78
+Bundesliga,2021-09-19,2021/2022,True,VfB Stuttgart,Bayer Leverkusen,1.0,3.0,1.57,1.42
+Bundesliga,2021-09-19,2021/2022,True,Borussia Dortmund,Union Berlin,4.0,2.0,0.93,1.65
+Bundesliga,2021-09-19,2021/2022,True,Wolfsburg,Eintracht Frankfurt,1.0,1.0,1.22,0.29
+Bundesliga,2021-09-24,2021/2022,True,Greuther Furth,Bayern Munich,1.0,3.0,0.75,0.84
+Bundesliga,2021-09-25,2021/2022,True,Bayer Leverkusen,Mainz,1.0,0.0,1.55,0.94
+Bundesliga,2021-09-25,2021/2022,True,Eintracht Frankfurt,Cologne,1.0,1.0,0.96,0.91
+Bundesliga,2021-09-25,2021/2022,True,TSG Hoffenheim,Wolfsburg,3.0,1.0,1.5,0.57
+Bundesliga,2021-09-25,2021/2022,True,RB Leipzig,Hertha Berlin,6.0,0.0,3.79,0.22
+Bundesliga,2021-09-25,2021/2022,True,Union Berlin,Arminia Bielefeld,1.0,0.0,1.24,0.48
+Bundesliga,2021-09-25,2021/2022,True,Borussia M'gladbach,Borussia Dortmund,1.0,0.0,1.59,0.41
+Bundesliga,2021-09-26,2021/2022,True,Bochum,VfB Stuttgart,0.0,0.0,0.79,0.29
+Bundesliga,2021-09-26,2021/2022,True,SC Freiburg,Augsburg,3.0,0.0,3.1,0.24
+Bundesliga,2021-10-01,2021/2022,True,Cologne,Greuther Furth,3.0,1.0,2.95,1.33
+Bundesliga,2021-10-02,2021/2022,True,Borussia Dortmund,Augsburg,2.0,1.0,3.03,0.79
+Bundesliga,2021-10-02,2021/2022,True,Hertha Berlin,SC Freiburg,1.0,2.0,1.05,0.72
+Bundesliga,2021-10-02,2021/2022,True,VfB Stuttgart,TSG Hoffenheim,3.0,1.0,0.76,1.05
+Bundesliga,2021-10-02,2021/2022,True,Wolfsburg,Borussia M'gladbach,1.0,3.0,1.36,3.3
+Bundesliga,2021-10-02,2021/2022,True,RB Leipzig,Bochum,3.0,0.0,3.22,1.52
+Bundesliga,2021-10-03,2021/2022,True,Mainz,Union Berlin,1.0,2.0,1.11,1.42
+Bundesliga,2021-10-03,2021/2022,True,Bayern Munich,Eintracht Frankfurt,1.0,2.0,2.16,0.82
+Bundesliga,2021-10-03,2021/2022,True,Arminia Bielefeld,Bayer Leverkusen,0.0,4.0,0.44,3.09
+Bundesliga,2021-10-15,2021/2022,True,TSG Hoffenheim,Cologne,5.0,0.0,3.67,0.67
+Bundesliga,2021-10-16,2021/2022,True,Borussia Dortmund,Mainz,3.0,1.0,2.3,0.82
+Bundesliga,2021-10-16,2021/2022,True,Eintracht Frankfurt,Hertha Berlin,1.0,2.0,1.61,1.75
+Bundesliga,2021-10-16,2021/2022,True,SC Freiburg,RB Leipzig,1.0,1.0,1.41,1.78
+Bundesliga,2021-10-16,2021/2022,True,Greuther Furth,Bochum,0.0,1.0,0.84,1.58
+Bundesliga,2021-10-16,2021/2022,True,Union Berlin,Wolfsburg,2.0,0.0,0.85,1.5
+Bundesliga,2021-10-16,2021/2022,True,Borussia M'gladbach,VfB Stuttgart,1.0,1.0,2.63,0.29
+Bundesliga,2021-10-17,2021/2022,True,Bayer Leverkusen,Bayern Munich,1.0,5.0,0.67,3.26
+Bundesliga,2021-10-17,2021/2022,True,Augsburg,Arminia Bielefeld,1.0,1.0,0.62,0.3
+Bundesliga,2021-10-22,2021/2022,True,Mainz,Augsburg,4.0,1.0,3.66,0.92
+Bundesliga,2021-10-23,2021/2022,True,Arminia Bielefeld,Borussia Dortmund,1.0,3.0,1.44,2.42
+Bundesliga,2021-10-23,2021/2022,True,Bayern Munich,TSG Hoffenheim,4.0,0.0,2.81,0.75
+Bundesliga,2021-10-23,2021/2022,True,RB Leipzig,Greuther Furth,4.0,1.0,2.34,1.43
+Bundesliga,2021-10-23,2021/2022,True,Wolfsburg,SC Freiburg,0.0,2.0,1.34,1.52
+Bundesliga,2021-10-23,2021/2022,True,Hertha Berlin,Borussia M'gladbach,1.0,0.0,1.02,0.46
+Bundesliga,2021-10-24,2021/2022,True,Cologne,Bayer Leverkusen,2.0,2.0,1.78,0.96
+Bundesliga,2021-10-24,2021/2022,True,VfB Stuttgart,Union Berlin,1.0,1.0,0.47,0.96
+Bundesliga,2021-10-24,2021/2022,True,Bochum,Eintracht Frankfurt,2.0,0.0,2.09,1.62
+Bundesliga,2021-10-29,2021/2022,True,TSG Hoffenheim,Hertha Berlin,2.0,0.0,0.89,0.32
+Bundesliga,2021-10-30,2021/2022,True,Arminia Bielefeld,Mainz,1.0,2.0,0.64,2.48
+Bundesliga,2021-10-30,2021/2022,True,Bayer Leverkusen,Wolfsburg,0.0,2.0,1.53,1.81
+Bundesliga,2021-10-30,2021/2022,True,Borussia Dortmund,Cologne,2.0,0.0,1.36,1.29
+Bundesliga,2021-10-30,2021/2022,True,SC Freiburg,Greuther Furth,3.0,1.0,1.51,0.81
+Bundesliga,2021-10-30,2021/2022,True,Union Berlin,Bayern Munich,2.0,5.0,0.91,3.24
+Bundesliga,2021-10-30,2021/2022,True,Eintracht Frankfurt,RB Leipzig,1.0,1.0,0.57,3.04
+Bundesliga,2021-10-31,2021/2022,True,Augsburg,VfB Stuttgart,4.0,1.0,2.08,0.89
+Bundesliga,2021-10-31,2021/2022,True,Borussia M'gladbach,Bochum,2.0,1.0,1.91,0.84
+Bundesliga,2021-11-05,2021/2022,True,Mainz,Borussia M'gladbach,1.0,1.0,1.13,1.57
+Bundesliga,2021-11-06,2021/2022,True,Bayern Munich,SC Freiburg,2.0,1.0,3.01,0.98
+Bundesliga,2021-11-06,2021/2022,True,Bochum,TSG Hoffenheim,2.0,0.0,2.96,0.56
+Bundesliga,2021-11-06,2021/2022,True,VfB Stuttgart,Arminia Bielefeld,0.0,1.0,0.94,1.77
+Bundesliga,2021-11-06,2021/2022,True,Wolfsburg,Augsburg,1.0,0.0,0.49,0.72
+Bundesliga,2021-11-06,2021/2022,True,RB Leipzig,Borussia Dortmund,2.0,1.0,2.6,0.89
+Bundesliga,2021-11-07,2021/2022,True,Hertha Berlin,Bayer Leverkusen,1.0,1.0,0.78,1.0
+Bundesliga,2021-11-07,2021/2022,True,Cologne,Union Berlin,2.0,2.0,1.77,1.02
+Bundesliga,2021-11-07,2021/2022,True,Greuther Furth,Eintracht Frankfurt,1.0,2.0,2.47,1.25
+Bundesliga,2021-11-19,2021/2022,True,Augsburg,Bayern Munich,2.0,1.0,0.43,1.25
+Bundesliga,2021-11-20,2021/2022,True,Arminia Bielefeld,Wolfsburg,2.0,2.0,1.27,1.93
+Bundesliga,2021-11-20,2021/2022,True,Bayer Leverkusen,Bochum,1.0,0.0,1.68,0.85
+Bundesliga,2021-11-20,2021/2022,True,Borussia Dortmund,VfB Stuttgart,2.0,1.0,2.19,1.61
+Bundesliga,2021-11-20,2021/2022,True,Borussia M'gladbach,Greuther Furth,4.0,0.0,3.15,0.24
+Bundesliga,2021-11-20,2021/2022,True,TSG Hoffenheim,RB Leipzig,2.0,0.0,3.15,0.25
+Bundesliga,2021-11-20,2021/2022,True,Union Berlin,Hertha Berlin,2.0,0.0,1.54,0.44
+Bundesliga,2021-11-21,2021/2022,True,SC Freiburg,Eintracht Frankfurt,0.0,2.0,1.43,1.25
+Bundesliga,2021-11-21,2021/2022,True,Mainz,Cologne,1.0,1.0,0.85,2.23
+Bundesliga,2021-11-26,2021/2022,True,VfB Stuttgart,Mainz,2.0,1.0,0.26,0.77
+Bundesliga,2021-11-27,2021/2022,True,Bochum,SC Freiburg,2.0,1.0,1.14,2.3
+Bundesliga,2021-11-27,2021/2022,True,Cologne,Borussia M'gladbach,4.0,1.0,1.44,1.04
+Bundesliga,2021-11-27,2021/2022,True,Greuther Furth,TSG Hoffenheim,3.0,6.0,1.08,4.07
+Bundesliga,2021-11-27,2021/2022,True,Hertha Berlin,Augsburg,1.0,1.0,1.65,1.19
+Bundesliga,2021-11-27,2021/2022,True,Wolfsburg,Borussia Dortmund,1.0,3.0,2.03,2.28
+Bundesliga,2021-11-27,2021/2022,True,Bayern Munich,Arminia Bielefeld,1.0,0.0,2.23,0.29
+Bundesliga,2021-11-28,2021/2022,True,Eintracht Frankfurt,Union Berlin,2.0,1.0,1.34,1.11
+Bundesliga,2021-11-28,2021/2022,True,RB Leipzig,Bayer Leverkusen,1.0,3.0,1.54,1.44
+Bundesliga,2021-12-03,2021/2022,True,Union Berlin,RB Leipzig,2.0,1.0,2.56,1.44
+Bundesliga,2021-12-04,2021/2022,True,Arminia Bielefeld,Cologne,1.0,1.0,1.07,1.05
+Bundesliga,2021-12-04,2021/2022,True,Augsburg,Bochum,2.0,3.0,2.86,2.11
+Bundesliga,2021-12-04,2021/2022,True,Bayer Leverkusen,Greuther Furth,7.0,1.0,2.89,0.25
+Bundesliga,2021-12-04,2021/2022,True,TSG Hoffenheim,Eintracht Frankfurt,3.0,2.0,0.85,1.52
+Bundesliga,2021-12-04,2021/2022,True,Mainz,Wolfsburg,3.0,0.0,1.06,0.71
+Bundesliga,2021-12-04,2021/2022,True,Borussia Dortmund,Bayern Munich,2.0,3.0,1.19,3.13
+Bundesliga,2021-12-05,2021/2022,True,VfB Stuttgart,Hertha Berlin,2.0,2.0,1.42,1.28
+Bundesliga,2021-12-05,2021/2022,True,Borussia M'gladbach,SC Freiburg,0.0,6.0,0.92,1.96
+Bundesliga,2021-12-10,2021/2022,True,Cologne,Augsburg,0.0,2.0,0.99,0.82
+Bundesliga,2021-12-11,2021/2022,True,Bayern Munich,Mainz,2.0,1.0,1.61,0.82
+Bundesliga,2021-12-11,2021/2022,True,Bochum,Borussia Dortmund,1.0,1.0,0.94,2.34
+Bundesliga,2021-12-11,2021/2022,True,SC Freiburg,TSG Hoffenheim,1.0,2.0,1.62,0.96
+Bundesliga,2021-12-11,2021/2022,True,Hertha Berlin,Arminia Bielefeld,2.0,0.0,2.04,0.49
+Bundesliga,2021-12-11,2021/2022,True,RB Leipzig,Borussia M'gladbach,4.0,1.0,4.7,1.24
+Bundesliga,2021-12-11,2021/2022,True,Wolfsburg,VfB Stuttgart,0.0,2.0,1.49,1.22
+Bundesliga,2021-12-12,2021/2022,True,Greuther Furth,Union Berlin,1.0,0.0,0.76,1.49
+Bundesliga,2021-12-12,2021/2022,True,Eintracht Frankfurt,Bayer Leverkusen,5.0,2.0,1.68,1.7
+Bundesliga,2021-12-14,2021/2022,True,VfB Stuttgart,Bayern Munich,0.0,5.0,1.16,3.53
+Bundesliga,2021-12-14,2021/2022,True,Arminia Bielefeld,Bochum,2.0,0.0,0.68,0.89
+Bundesliga,2021-12-14,2021/2022,True,Mainz,Hertha Berlin,4.0,0.0,2.92,0.41
+Bundesliga,2021-12-14,2021/2022,True,Wolfsburg,Cologne,2.0,3.0,2.46,3.15
+Bundesliga,2021-12-15,2021/2022,True,Borussia M'gladbach,Eintracht Frankfurt,2.0,3.0,2.07,2.29
+Bundesliga,2021-12-15,2021/2022,True,Augsburg,RB Leipzig,1.0,1.0,1.23,2.26
+Bundesliga,2021-12-15,2021/2022,True,Bayer Leverkusen,TSG Hoffenheim,2.0,2.0,2.3,2.0
+Bundesliga,2021-12-15,2021/2022,True,Borussia Dortmund,Greuther Furth,3.0,0.0,1.81,0.37
+Bundesliga,2021-12-15,2021/2022,True,Union Berlin,SC Freiburg,0.0,0.0,1.89,1.16
+Bundesliga,2021-12-17,2021/2022,True,Bayern Munich,Wolfsburg,4.0,0.0,3.64,1.13
+Bundesliga,2021-12-18,2021/2022,True,Bochum,Union Berlin,0.0,1.0,1.1,0.81
+Bundesliga,2021-12-18,2021/2022,True,Eintracht Frankfurt,Mainz,1.0,0.0,1.78,0.56
+Bundesliga,2021-12-18,2021/2022,True,Greuther Furth,Augsburg,0.0,0.0,0.07,1.17
+Bundesliga,2021-12-18,2021/2022,True,TSG Hoffenheim,Borussia M'gladbach,1.0,1.0,2.14,1.6
+Bundesliga,2021-12-18,2021/2022,True,RB Leipzig,Arminia Bielefeld,0.0,2.0,1.64,0.78
+Bundesliga,2021-12-18,2021/2022,True,Hertha Berlin,Borussia Dortmund,3.0,2.0,1.2,1.31
+Bundesliga,2021-12-19,2021/2022,True,SC Freiburg,Bayer Leverkusen,2.0,1.0,2.17,0.96
+Bundesliga,2021-12-19,2021/2022,True,Cologne,VfB Stuttgart,1.0,0.0,1.96,0.42
+Bundesliga,2022-01-07,2021/2022,True,Bayern Munich,Borussia M'gladbach,1.0,2.0,1.9,0.98
+Bundesliga,2022-01-08,2021/2022,True,Bayer Leverkusen,Union Berlin,2.0,2.0,1.74,2.74
+Bundesliga,2022-01-08,2021/2022,True,SC Freiburg,Arminia Bielefeld,2.0,2.0,1.86,0.99
+Bundesliga,2022-01-08,2021/2022,True,Greuther Furth,VfB Stuttgart,0.0,0.0,0.92,1.93
+Bundesliga,2022-01-08,2021/2022,True,TSG Hoffenheim,Augsburg,3.0,1.0,2.19,0.85
+Bundesliga,2022-01-08,2021/2022,True,RB Leipzig,Mainz,4.0,1.0,3.48,0.3
+Bundesliga,2022-01-08,2021/2022,True,Eintracht Frankfurt,Borussia Dortmund,2.0,3.0,1.46,2.01
+Bundesliga,2022-01-09,2021/2022,True,Hertha Berlin,Cologne,1.0,3.0,1.16,1.23
+Bundesliga,2022-01-09,2021/2022,True,Bochum,Wolfsburg,1.0,0.0,0.89,0.42
+Bundesliga,2022-01-14,2021/2022,True,Borussia Dortmund,SC Freiburg,5.0,1.0,2.42,0.89
+Bundesliga,2022-01-15,2021/2022,True,Cologne,Bayern Munich,0.0,4.0,1.05,3.3
+Bundesliga,2022-01-15,2021/2022,True,Mainz,Bochum,1.0,0.0,1.71,1.46
+Bundesliga,2022-01-15,2021/2022,True,Union Berlin,TSG Hoffenheim,2.0,1.0,1.38,0.84
+Bundesliga,2022-01-15,2021/2022,True,VfB Stuttgart,RB Leipzig,0.0,2.0,1.01,1.48
+Bundesliga,2022-01-15,2021/2022,True,Wolfsburg,Hertha Berlin,0.0,0.0,1.68,0.28
+Bundesliga,2022-01-15,2021/2022,True,Borussia M'gladbach,Bayer Leverkusen,1.0,2.0,1.26,5.61
+Bundesliga,2022-01-16,2021/2022,True,Augsburg,Eintracht Frankfurt,1.0,1.0,0.99,2.61
+Bundesliga,2022-01-16,2021/2022,True,Arminia Bielefeld,Greuther Furth,2.0,2.0,0.54,0.66
+Bundesliga,2022-01-21,2021/2022,True,Eintracht Frankfurt,Arminia Bielefeld,0.0,2.0,1.91,1.25
+Bundesliga,2022-01-22,2021/2022,True,Bayer Leverkusen,Augsburg,5.0,1.0,2.79,1.46
+Bundesliga,2022-01-22,2021/2022,True,Borussia M'gladbach,Union Berlin,1.0,2.0,1.48,1.13
+Bundesliga,2022-01-22,2021/2022,True,SC Freiburg,VfB Stuttgart,2.0,0.0,1.62,0.6
+Bundesliga,2022-01-22,2021/2022,True,Greuther Furth,Mainz,2.0,1.0,1.62,1.78
+Bundesliga,2022-01-22,2021/2022,True,TSG Hoffenheim,Borussia Dortmund,2.0,3.0,1.72,1.57
+Bundesliga,2022-01-22,2021/2022,True,Bochum,Cologne,2.0,2.0,1.8,1.11
+Bundesliga,2022-01-23,2021/2022,True,RB Leipzig,Wolfsburg,2.0,0.0,1.47,0.82
+Bundesliga,2022-01-23,2021/2022,True,Hertha Berlin,Bayern Munich,1.0,4.0,0.93,5.51
+Bundesliga,2022-02-04,2021/2022,True,Hertha Berlin,Bochum,1.0,1.0,0.43,1.11
+Bundesliga,2022-02-05,2021/2022,True,Arminia Bielefeld,Borussia M'gladbach,1.0,1.0,0.52,2.04
+Bundesliga,2022-02-05,2021/2022,True,Augsburg,Union Berlin,2.0,0.0,1.82,1.72
+Bundesliga,2022-02-05,2021/2022,True,Cologne,SC Freiburg,1.0,0.0,1.05,0.76
+Bundesliga,2022-02-05,2021/2022,True,Mainz,TSG Hoffenheim,2.0,0.0,2.2,1.63
+Bundesliga,2022-02-05,2021/2022,True,VfB Stuttgart,Eintracht Frankfurt,2.0,3.0,1.58,1.13
+Bundesliga,2022-02-05,2021/2022,True,Bayern Munich,RB Leipzig,3.0,2.0,3.1,2.24
+Bundesliga,2022-02-06,2021/2022,True,Borussia Dortmund,Bayer Leverkusen,2.0,5.0,2.58,2.42
+Bundesliga,2022-02-06,2021/2022,True,Wolfsburg,Greuther Furth,4.0,1.0,2.43,1.13
+Bundesliga,2022-02-11,2021/2022,True,RB Leipzig,Cologne,3.0,1.0,0.92,0.86
+Bundesliga,2022-02-12,2021/2022,True,Bochum,Bayern Munich,4.0,2.0,1.43,1.93
+Bundesliga,2022-02-12,2021/2022,True,Borussia M'gladbach,Augsburg,3.0,2.0,2.42,1.63
+Bundesliga,2022-02-12,2021/2022,True,Eintracht Frankfurt,Wolfsburg,0.0,2.0,1.04,1.55
+Bundesliga,2022-02-12,2021/2022,True,SC Freiburg,Mainz,1.0,1.0,1.77,2.26
+Bundesliga,2022-02-12,2021/2022,True,Greuther Furth,Hertha Berlin,2.0,1.0,2.4,2.08
+Bundesliga,2022-02-12,2021/2022,True,Bayer Leverkusen,VfB Stuttgart,4.0,2.0,1.96,1.06
+Bundesliga,2022-02-13,2021/2022,True,Union Berlin,Borussia Dortmund,0.0,3.0,1.2,2.24
+Bundesliga,2022-02-13,2021/2022,True,TSG Hoffenheim,Arminia Bielefeld,2.0,0.0,2.96,0.93
+Bundesliga,2022-02-18,2021/2022,True,Mainz,Bayer Leverkusen,3.0,2.0,0.95,1.01
+Bundesliga,2022-02-19,2021/2022,True,Arminia Bielefeld,Union Berlin,1.0,0.0,0.8,0.89
+Bundesliga,2022-02-19,2021/2022,True,Augsburg,SC Freiburg,1.0,2.0,1.07,2.05
+Bundesliga,2022-02-19,2021/2022,True,VfB Stuttgart,Bochum,1.0,1.0,1.19,2.04
+Bundesliga,2022-02-19,2021/2022,True,Wolfsburg,TSG Hoffenheim,1.0,2.0,1.5,1.51
+Bundesliga,2022-02-19,2021/2022,True,Cologne,Eintracht Frankfurt,1.0,0.0,1.09,0.61
+Bundesliga,2022-02-20,2021/2022,True,Bayern Munich,Greuther Furth,4.0,1.0,1.82,0.8
+Bundesliga,2022-02-20,2021/2022,True,Borussia Dortmund,Borussia M'gladbach,6.0,0.0,3.85,0.87
+Bundesliga,2022-02-20,2021/2022,True,Hertha Berlin,RB Leipzig,1.0,6.0,1.05,3.41
+Bundesliga,2022-02-25,2021/2022,True,TSG Hoffenheim,VfB Stuttgart,2.0,1.0,2.6,1.75
+Bundesliga,2022-02-26,2021/2022,True,Bayer Leverkusen,Arminia Bielefeld,3.0,0.0,2.21,0.41
+Bundesliga,2022-02-26,2021/2022,True,Borussia M'gladbach,Wolfsburg,2.0,2.0,2.38,1.36
+Bundesliga,2022-02-26,2021/2022,True,SC Freiburg,Hertha Berlin,3.0,0.0,2.63,1.32
+Bundesliga,2022-02-26,2021/2022,True,Greuther Furth,Cologne,1.0,1.0,0.75,0.61
+Bundesliga,2022-02-26,2021/2022,True,Union Berlin,Mainz,3.0,1.0,0.98,1.03
+Bundesliga,2022-02-26,2021/2022,True,Eintracht Frankfurt,Bayern Munich,0.0,1.0,0.87,2.41
+Bundesliga,2022-02-27,2021/2022,True,Bochum,RB Leipzig,0.0,1.0,0.88,0.71
+Bundesliga,2022-02-27,2021/2022,True,Augsburg,Borussia Dortmund,1.0,1.0,0.85,0.62
+Bundesliga,2022-03-04,2021/2022,True,Arminia Bielefeld,Augsburg,0.0,1.0,0.16,0.5
+Bundesliga,2022-03-05,2021/2022,True,Bayern Munich,Bayer Leverkusen,1.0,1.0,1.62,2.15
+Bundesliga,2022-03-05,2021/2022,True,Bochum,Greuther Furth,2.0,1.0,1.56,0.72
+Bundesliga,2022-03-05,2021/2022,True,Hertha Berlin,Eintracht Frankfurt,1.0,4.0,0.43,1.19
+Bundesliga,2022-03-05,2021/2022,True,RB Leipzig,SC Freiburg,1.0,1.0,0.58,0.4
+Bundesliga,2022-03-05,2021/2022,True,Wolfsburg,Union Berlin,1.0,0.0,0.47,1.26
+Bundesliga,2022-03-05,2021/2022,True,VfB Stuttgart,Borussia M'gladbach,3.0,2.0,2.4,0.9
+Bundesliga,2022-03-06,2021/2022,True,Cologne,TSG Hoffenheim,0.0,1.0,1.59,2.68
+Bundesliga,2022-03-12,2021/2022,True,SC Freiburg,Wolfsburg,3.0,2.0,1.28,1.33
+Bundesliga,2022-03-12,2021/2022,True,TSG Hoffenheim,Bayern Munich,1.0,1.0,1.67,2.94
+Bundesliga,2022-03-12,2021/2022,True,Union Berlin,VfB Stuttgart,1.0,1.0,1.53,1.03
+Bundesliga,2022-03-12,2021/2022,True,Borussia M'gladbach,Hertha Berlin,2.0,0.0,1.81,0.56
+Bundesliga,2022-03-13,2021/2022,True,Bayer Leverkusen,Cologne,0.0,1.0,2.46,0.54
+Bundesliga,2022-03-13,2021/2022,True,Borussia Dortmund,Arminia Bielefeld,1.0,0.0,2.04,0.69
+Bundesliga,2022-03-13,2021/2022,True,Eintracht Frankfurt,Bochum,2.0,1.0,1.87,1.09
+Bundesliga,2022-03-13,2021/2022,True,Greuther Furth,RB Leipzig,1.0,6.0,0.35,1.67
+Bundesliga,2022-03-16,2021/2022,True,Mainz,Borussia Dortmund,0.0,1.0,0.92,0.82
+Bundesliga,2022-03-18,2021/2022,True,Bochum,Borussia M'gladbach,0.0,2.0,1.5,0.87
+Bundesliga,2022-03-19,2021/2022,True,Greuther Furth,SC Freiburg,0.0,0.0,0.95,1.19
+Bundesliga,2022-03-19,2021/2022,True,Hertha Berlin,TSG Hoffenheim,3.0,0.0,1.27,0.78
+Bundesliga,2022-03-19,2021/2022,True,Mainz,Arminia Bielefeld,4.0,0.0,4.35,0.22
+Bundesliga,2022-03-19,2021/2022,True,VfB Stuttgart,Augsburg,3.0,2.0,2.23,0.97
+Bundesliga,2022-03-19,2021/2022,True,Bayern Munich,Union Berlin,4.0,0.0,2.65,1.0
+Bundesliga,2022-03-20,2021/2022,True,RB Leipzig,Eintracht Frankfurt,0.0,0.0,1.24,0.24
+Bundesliga,2022-03-20,2021/2022,True,Wolfsburg,Bayer Leverkusen,0.0,2.0,1.1,1.04
+Bundesliga,2022-03-20,2021/2022,True,Cologne,Borussia Dortmund,1.0,1.0,1.17,1.23
+Bundesliga,2022-04-01,2021/2022,True,Union Berlin,Cologne,1.0,0.0,1.25,0.34
+Bundesliga,2022-04-02,2021/2022,True,Arminia Bielefeld,VfB Stuttgart,1.0,1.0,1.02,2.28
+Bundesliga,2022-04-02,2021/2022,True,Bayer Leverkusen,Hertha Berlin,2.0,1.0,1.56,0.8
+Bundesliga,2022-04-02,2021/2022,True,Eintracht Frankfurt,Greuther Furth,0.0,0.0,1.22,0.61
+Bundesliga,2022-04-02,2021/2022,True,SC Freiburg,Bayern Munich,1.0,4.0,0.6,2.18
+Bundesliga,2022-04-02,2021/2022,True,TSG Hoffenheim,Bochum,1.0,2.0,2.02,2.16
+Bundesliga,2022-04-02,2021/2022,True,Borussia Dortmund,RB Leipzig,1.0,4.0,0.74,1.05
+Bundesliga,2022-04-03,2021/2022,True,Augsburg,Wolfsburg,3.0,0.0,1.63,1.07
+Bundesliga,2022-04-03,2021/2022,True,Borussia M'gladbach,Mainz,1.0,1.0,1.48,2.01
+Bundesliga,2022-04-06,2021/2022,True,Augsburg,Mainz,2.0,1.0,1.76,1.77
+Bundesliga,2022-04-08,2021/2022,True,VfB Stuttgart,Borussia Dortmund,0.0,2.0,1.74,1.92
+Bundesliga,2022-04-09,2021/2022,True,Bayern Munich,Augsburg,1.0,0.0,1.53,0.22
+Bundesliga,2022-04-09,2021/2022,True,Cologne,Mainz,3.0,2.0,1.84,0.93
+Bundesliga,2022-04-09,2021/2022,True,Greuther Furth,Borussia M'gladbach,0.0,2.0,0.54,2.72
+Bundesliga,2022-04-09,2021/2022,True,Wolfsburg,Arminia Bielefeld,4.0,0.0,1.97,0.38
+Bundesliga,2022-04-09,2021/2022,True,Hertha Berlin,Union Berlin,1.0,4.0,0.72,1.89
+Bundesliga,2022-04-10,2021/2022,True,Bochum,Bayer Leverkusen,0.0,0.0,0.73,1.39
+Bundesliga,2022-04-10,2021/2022,True,Eintracht Frankfurt,SC Freiburg,1.0,2.0,0.92,1.04
+Bundesliga,2022-04-10,2021/2022,True,RB Leipzig,TSG Hoffenheim,3.0,0.0,1.51,0.19
+Bundesliga,2022-04-16,2021/2022,True,Augsburg,Hertha Berlin,0.0,1.0,1.0,1.08
+Bundesliga,2022-04-16,2021/2022,True,Borussia Dortmund,Wolfsburg,6.0,1.0,2.96,1.55
+Bundesliga,2022-04-16,2021/2022,True,SC Freiburg,Bochum,3.0,0.0,2.22,0.41
+Bundesliga,2022-04-16,2021/2022,True,Mainz,VfB Stuttgart,0.0,0.0,0.59,0.71
+Bundesliga,2022-04-16,2021/2022,True,Borussia M'gladbach,Cologne,1.0,3.0,1.24,2.06
+Bundesliga,2022-04-17,2021/2022,True,Arminia Bielefeld,Bayern Munich,0.0,3.0,0.38,2.69
+Bundesliga,2022-04-17,2021/2022,True,TSG Hoffenheim,Greuther Furth,0.0,0.0,0.99,0.29
+Bundesliga,2022-04-17,2021/2022,True,Union Berlin,Eintracht Frankfurt,2.0,0.0,1.08,0.52
+Bundesliga,2022-04-17,2021/2022,True,Bayer Leverkusen,RB Leipzig,0.0,1.0,0.76,0.46
+Bundesliga,2022-04-22,2021/2022,True,Wolfsburg,Mainz,5.0,0.0,3.68,0.73
+Bundesliga,2022-04-23,2021/2022,True,Eintracht Frankfurt,TSG Hoffenheim,2.0,2.0,1.35,0.67
+Bundesliga,2022-04-23,2021/2022,True,Cologne,Arminia Bielefeld,3.0,1.0,1.95,0.88
+Bundesliga,2022-04-23,2021/2022,True,SC Freiburg,Borussia M'gladbach,3.0,3.0,2.3,1.63
+Bundesliga,2022-04-23,2021/2022,True,Greuther Furth,Bayer Leverkusen,1.0,4.0,0.88,2.49
+Bundesliga,2022-04-23,2021/2022,True,RB Leipzig,Union Berlin,1.0,2.0,0.55,1.36
+Bundesliga,2022-04-23,2021/2022,True,Bayern Munich,Borussia Dortmund,3.0,1.0,1.78,1.32
+Bundesliga,2022-04-24,2021/2022,True,Bochum,Augsburg,0.0,2.0,1.16,2.0
+Bundesliga,2022-04-24,2021/2022,True,Hertha Berlin,VfB Stuttgart,2.0,0.0,1.42,0.6
+Bundesliga,2022-04-29,2021/2022,True,Union Berlin,Greuther Furth,1.0,1.0,1.41,0.28
+Bundesliga,2022-04-30,2021/2022,True,Arminia Bielefeld,Hertha Berlin,1.0,1.0,0.52,1.45
+Bundesliga,2022-04-30,2021/2022,True,Augsburg,Cologne,1.0,4.0,1.71,2.52
+Bundesliga,2022-04-30,2021/2022,True,Borussia Dortmund,Bochum,3.0,4.0,4.45,1.62
+Bundesliga,2022-04-30,2021/2022,True,Mainz,Bayern Munich,3.0,1.0,3.36,1.44
+Bundesliga,2022-04-30,2021/2022,True,VfB Stuttgart,Wolfsburg,1.0,1.0,0.77,1.44
+Bundesliga,2022-04-30,2021/2022,True,TSG Hoffenheim,SC Freiburg,3.0,4.0,2.0,2.41
+Bundesliga,2022-05-02,2021/2022,True,Bayer Leverkusen,Eintracht Frankfurt,2.0,0.0,1.81,0.3
+Bundesliga,2022-05-02,2021/2022,True,Borussia M'gladbach,RB Leipzig,3.0,1.0,1.5,1.07
+Bundesliga,2022-05-06,2021/2022,True,Bochum,Arminia Bielefeld,2.0,1.0,2.1,0.78
+Bundesliga,2022-05-07,2021/2022,True,Cologne,Wolfsburg,0.0,1.0,1.24,1.12
+Bundesliga,2022-05-07,2021/2022,True,SC Freiburg,Union Berlin,1.0,4.0,1.82,1.99
+Bundesliga,2022-05-07,2021/2022,True,Greuther Furth,Borussia Dortmund,1.0,3.0,1.31,1.5
+Bundesliga,2022-05-07,2021/2022,True,TSG Hoffenheim,Bayer Leverkusen,2.0,4.0,2.5,4.04
+Bundesliga,2022-05-07,2021/2022,True,Hertha Berlin,Mainz,1.0,2.0,1.15,0.71
+Bundesliga,2022-05-08,2021/2022,True,Eintracht Frankfurt,Borussia M'gladbach,1.0,1.0,0.83,1.4
+Bundesliga,2022-05-08,2021/2022,True,Bayern Munich,VfB Stuttgart,2.0,2.0,2.58,1.51
+Bundesliga,2022-05-08,2021/2022,True,RB Leipzig,Augsburg,4.0,0.0,3.35,0.3
+Bundesliga,2022-05-14,2021/2022,True,Arminia Bielefeld,RB Leipzig,1.0,1.0,1.58,3.09
+Bundesliga,2022-05-14,2021/2022,True,Augsburg,Greuther Furth,2.0,1.0,1.12,0.47
+Bundesliga,2022-05-14,2021/2022,True,Bayer Leverkusen,SC Freiburg,2.0,1.0,2.15,1.07
+Bundesliga,2022-05-14,2021/2022,True,Borussia Dortmund,Hertha Berlin,2.0,1.0,1.42,0.96
+Bundesliga,2022-05-14,2021/2022,True,Borussia M'gladbach,TSG Hoffenheim,5.0,1.0,3.25,1.65
+Bundesliga,2022-05-14,2021/2022,True,Mainz,Eintracht Frankfurt,2.0,2.0,1.33,1.64
+Bundesliga,2022-05-14,2021/2022,True,Union Berlin,Bochum,3.0,2.0,2.71,0.22
+Bundesliga,2022-05-14,2021/2022,True,VfB Stuttgart,Cologne,2.0,1.0,4.04,1.19
+Bundesliga,2022-05-14,2021/2022,True,Wolfsburg,Bayern Munich,2.0,2.0,1.46,2.14
+Bundesliga,2022-08-05,2022/2023,True,Eintracht Frankfurt,Bayern Munich,1.0,6.0,0.85,4.14
+Bundesliga,2022-08-06,2022/2023,True,Augsburg,SC Freiburg,0.0,4.0,0.65,1.27
+Bundesliga,2022-08-06,2022/2023,True,Bochum,Mainz,1.0,2.0,0.87,1.45
+Bundesliga,2022-08-06,2022/2023,True,Borussia M'gladbach,TSG Hoffenheim,3.0,1.0,1.99,0.13
+Bundesliga,2022-08-06,2022/2023,True,Union Berlin,Hertha Berlin,3.0,1.0,1.05,0.34
+Bundesliga,2022-08-06,2022/2023,True,Wolfsburg,Werder Bremen,2.0,2.0,0.97,0.8
+Bundesliga,2022-08-06,2022/2023,True,Borussia Dortmund,Bayer Leverkusen,1.0,0.0,1.62,1.31
+Bundesliga,2022-08-07,2022/2023,True,VfB Stuttgart,RB Leipzig,1.0,1.0,0.83,1.69
+Bundesliga,2022-08-07,2022/2023,True,Cologne,Schalke,3.0,1.0,4.25,0.24
+Bundesliga,2022-08-12,2022/2023,True,SC Freiburg,Borussia Dortmund,1.0,3.0,1.02,1.12
+Bundesliga,2022-08-13,2022/2023,True,Bayer Leverkusen,Augsburg,1.0,2.0,2.57,0.44
+Bundesliga,2022-08-13,2022/2023,True,Hertha Berlin,Eintracht Frankfurt,1.0,1.0,1.7,1.57
+Bundesliga,2022-08-13,2022/2023,True,TSG Hoffenheim,Bochum,3.0,2.0,2.63,1.52
+Bundesliga,2022-08-13,2022/2023,True,RB Leipzig,Cologne,2.0,2.0,0.96,1.52
+Bundesliga,2022-08-13,2022/2023,True,Werder Bremen,VfB Stuttgart,2.0,2.0,0.52,1.44
+Bundesliga,2022-08-13,2022/2023,True,Schalke,Borussia M'gladbach,2.0,2.0,1.35,1.3
+Bundesliga,2022-08-14,2022/2023,True,Mainz,Union Berlin,0.0,0.0,0.67,0.4
+Bundesliga,2022-08-14,2022/2023,True,Bayern Munich,Wolfsburg,2.0,0.0,2.16,0.47
+Bundesliga,2022-08-19,2022/2023,True,Borussia M'gladbach,Hertha Berlin,1.0,0.0,2.82,0.96
+Bundesliga,2022-08-20,2022/2023,True,Augsburg,Mainz,1.0,2.0,0.5,2.11
+Bundesliga,2022-08-20,2022/2023,True,Bayer Leverkusen,TSG Hoffenheim,0.0,3.0,1.2,1.51
+Bundesliga,2022-08-20,2022/2023,True,Borussia Dortmund,Werder Bremen,2.0,3.0,0.51,1.31
+Bundesliga,2022-08-20,2022/2023,True,VfB Stuttgart,SC Freiburg,0.0,1.0,0.87,0.59
+Bundesliga,2022-08-20,2022/2023,True,Wolfsburg,Schalke,0.0,0.0,1.28,1.11
+Bundesliga,2022-08-20,2022/2023,True,Union Berlin,RB Leipzig,2.0,1.0,0.71,0.91
+Bundesliga,2022-08-21,2022/2023,True,Eintracht Frankfurt,Cologne,1.0,1.0,0.89,0.32
+Bundesliga,2022-08-21,2022/2023,True,Bochum,Bayern Munich,0.0,7.0,0.74,3.02
+Bundesliga,2022-08-26,2022/2023,True,SC Freiburg,Bochum,1.0,0.0,3.95,1.26
+Bundesliga,2022-08-27,2022/2023,True,Hertha Berlin,Borussia Dortmund,0.0,1.0,0.49,2.7
+Bundesliga,2022-08-27,2022/2023,True,TSG Hoffenheim,Augsburg,1.0,0.0,1.87,0.63
+Bundesliga,2022-08-27,2022/2023,True,Mainz,Bayer Leverkusen,0.0,3.0,1.41,1.89
+Bundesliga,2022-08-27,2022/2023,True,RB Leipzig,Wolfsburg,2.0,0.0,3.67,0.55
+Bundesliga,2022-08-27,2022/2023,True,Schalke,Union Berlin,1.0,6.0,1.92,1.13
+Bundesliga,2022-08-27,2022/2023,True,Bayern Munich,Borussia M'gladbach,1.0,1.0,2.82,0.49
+Bundesliga,2022-08-28,2022/2023,True,Cologne,VfB Stuttgart,0.0,0.0,0.58,2.16
+Bundesliga,2022-08-28,2022/2023,True,Werder Bremen,Eintracht Frankfurt,3.0,4.0,1.77,1.83
+Bundesliga,2022-09-02,2022/2023,True,Borussia Dortmund,TSG Hoffenheim,1.0,0.0,1.99,0.45
+Bundesliga,2022-09-03,2022/2023,True,Bayer Leverkusen,SC Freiburg,2.0,3.0,1.84,1.87
+Bundesliga,2022-09-03,2022/2023,True,Bochum,Werder Bremen,0.0,2.0,0.8,1.99
+Bundesliga,2022-09-03,2022/2023,True,Union Berlin,Bayern Munich,1.0,1.0,0.27,1.51
+Bundesliga,2022-09-03,2022/2023,True,VfB Stuttgart,Schalke,1.0,1.0,0.63,2.26
+Bundesliga,2022-09-03,2022/2023,True,Wolfsburg,Cologne,2.0,4.0,1.04,2.72
+Bundesliga,2022-09-03,2022/2023,True,Eintracht Frankfurt,RB Leipzig,4.0,0.0,3.1,0.18
+Bundesliga,2022-09-04,2022/2023,True,Augsburg,Hertha Berlin,0.0,2.0,0.41,2.1
+Bundesliga,2022-09-04,2022/2023,True,Borussia M'gladbach,Mainz,0.0,1.0,1.18,0.65
+Bundesliga,2022-09-09,2022/2023,True,Werder Bremen,Augsburg,0.0,1.0,1.27,0.99
+Bundesliga,2022-09-10,2022/2023,True,Bayern Munich,VfB Stuttgart,2.0,2.0,2.2,1.24
+Bundesliga,2022-09-10,2022/2023,True,Eintracht Frankfurt,Wolfsburg,0.0,1.0,0.73,1.01
+Bundesliga,2022-09-10,2022/2023,True,Hertha Berlin,Bayer Leverkusen,2.0,2.0,1.94,1.33
+Bundesliga,2022-09-10,2022/2023,True,TSG Hoffenheim,Mainz,4.0,1.0,4.28,0.71
+Bundesliga,2022-09-10,2022/2023,True,RB Leipzig,Borussia Dortmund,3.0,0.0,2.04,0.6
+Bundesliga,2022-09-10,2022/2023,True,Schalke,Bochum,3.0,1.0,1.49,1.12
+Bundesliga,2022-09-11,2022/2023,True,Cologne,Union Berlin,0.0,1.0,0.58,1.49
+Bundesliga,2022-09-11,2022/2023,True,SC Freiburg,Borussia M'gladbach,0.0,0.0,1.13,1.25
+Bundesliga,2022-09-16,2022/2023,True,Mainz,Hertha Berlin,1.0,1.0,0.72,0.39
+Bundesliga,2022-09-17,2022/2023,True,Augsburg,Bayern Munich,1.0,0.0,1.78,1.62
+Bundesliga,2022-09-17,2022/2023,True,Bayer Leverkusen,Werder Bremen,1.0,1.0,1.8,2.12
+Bundesliga,2022-09-17,2022/2023,True,Borussia Dortmund,Schalke,1.0,0.0,1.8,0.07
+Bundesliga,2022-09-17,2022/2023,True,VfB Stuttgart,Eintracht Frankfurt,1.0,3.0,1.06,1.0
+Bundesliga,2022-09-17,2022/2023,True,Borussia M'gladbach,RB Leipzig,3.0,0.0,2.81,0.87
+Bundesliga,2022-09-18,2022/2023,True,Union Berlin,Wolfsburg,2.0,0.0,1.37,0.26
+Bundesliga,2022-09-18,2022/2023,True,Bochum,Cologne,1.0,1.0,0.24,2.15
+Bundesliga,2022-09-18,2022/2023,True,TSG Hoffenheim,SC Freiburg,0.0,0.0,0.7,1.03
+Bundesliga,2022-09-30,2022/2023,True,Bayern Munich,Bayer Leverkusen,4.0,0.0,1.87,0.84
+Bundesliga,2022-10-01,2022/2023,True,Eintracht Frankfurt,Union Berlin,2.0,0.0,0.85,0.97
+Bundesliga,2022-10-01,2022/2023,True,Cologne,Borussia Dortmund,3.0,2.0,1.89,3.12
+Bundesliga,2022-10-01,2022/2023,True,SC Freiburg,Mainz,2.0,1.0,2.02,1.68
+Bundesliga,2022-10-01,2022/2023,True,RB Leipzig,Bochum,4.0,0.0,3.93,0.11
+Bundesliga,2022-10-01,2022/2023,True,Wolfsburg,VfB Stuttgart,3.0,2.0,2.09,1.53
+Bundesliga,2022-10-01,2022/2023,True,Werder Bremen,Borussia M'gladbach,5.0,1.0,1.92,2.31
+Bundesliga,2022-10-02,2022/2023,True,Hertha Berlin,TSG Hoffenheim,1.0,1.0,0.93,1.45
+Bundesliga,2022-10-02,2022/2023,True,Schalke,Augsburg,2.0,3.0,1.88,1.38
+Bundesliga,2022-10-07,2022/2023,True,TSG Hoffenheim,Werder Bremen,1.0,2.0,1.75,1.35
+Bundesliga,2022-10-08,2022/2023,True,Augsburg,Wolfsburg,1.0,1.0,2.04,1.88
+Bundesliga,2022-10-08,2022/2023,True,Bayer Leverkusen,Schalke,4.0,0.0,1.56,0.4
+Bundesliga,2022-10-08,2022/2023,True,Bochum,Eintracht Frankfurt,3.0,0.0,0.61,0.87
+Bundesliga,2022-10-08,2022/2023,True,Mainz,RB Leipzig,1.0,1.0,0.57,1.11
+Bundesliga,2022-10-08,2022/2023,True,Borussia Dortmund,Bayern Munich,2.0,2.0,1.62,0.61
+Bundesliga,2022-10-09,2022/2023,True,Borussia M'gladbach,Cologne,5.0,2.0,2.99,1.29
+Bundesliga,2022-10-09,2022/2023,True,Hertha Berlin,SC Freiburg,2.0,2.0,1.61,1.02
+Bundesliga,2022-10-09,2022/2023,True,VfB Stuttgart,Union Berlin,0.0,1.0,1.04,0.66
+Bundesliga,2022-10-14,2022/2023,True,Schalke,TSG Hoffenheim,0.0,3.0,0.71,3.32
+Bundesliga,2022-10-15,2022/2023,True,Eintracht Frankfurt,Bayer Leverkusen,5.0,1.0,3.93,0.43
+Bundesliga,2022-10-15,2022/2023,True,VfB Stuttgart,Bochum,4.0,1.0,2.24,1.6
+Bundesliga,2022-10-15,2022/2023,True,Werder Bremen,Mainz,0.0,2.0,1.3,1.08
+Bundesliga,2022-10-15,2022/2023,True,Wolfsburg,Borussia M'gladbach,2.0,2.0,1.79,0.82
+Bundesliga,2022-10-15,2022/2023,True,RB Leipzig,Hertha Berlin,3.0,2.0,2.96,2.36
+Bundesliga,2022-10-16,2022/2023,True,Cologne,Augsburg,3.0,2.0,1.47,0.43
+Bundesliga,2022-10-16,2022/2023,True,Union Berlin,Borussia Dortmund,2.0,0.0,1.88,0.85
+Bundesliga,2022-10-16,2022/2023,True,Bayern Munich,SC Freiburg,5.0,0.0,2.09,0.35
+Bundesliga,2022-10-21,2022/2023,True,Mainz,Cologne,5.0,0.0,1.95,0.72
+Bundesliga,2022-10-22,2022/2023,True,Augsburg,RB Leipzig,3.0,3.0,1.55,2.4
+Bundesliga,2022-10-22,2022/2023,True,Bayer Leverkusen,Wolfsburg,2.0,2.0,2.28,1.24
+Bundesliga,2022-10-22,2022/2023,True,Borussia Dortmund,VfB Stuttgart,5.0,0.0,2.59,0.99
+Bundesliga,2022-10-22,2022/2023,True,SC Freiburg,Werder Bremen,2.0,0.0,2.98,0.48
+Bundesliga,2022-10-22,2022/2023,True,TSG Hoffenheim,Bayern Munich,0.0,2.0,0.78,2.47
+Bundesliga,2022-10-22,2022/2023,True,Borussia M'gladbach,Eintracht Frankfurt,1.0,3.0,1.04,1.91
+Bundesliga,2022-10-23,2022/2023,True,Bochum,Union Berlin,2.0,1.0,1.08,1.03
+Bundesliga,2022-10-23,2022/2023,True,Hertha Berlin,Schalke,2.0,1.0,0.75,0.55
+Bundesliga,2022-10-28,2022/2023,True,Werder Bremen,Hertha Berlin,1.0,0.0,1.36,0.42
+Bundesliga,2022-10-29,2022/2023,True,Bayern Munich,Mainz,6.0,2.0,3.19,2.21
+Bundesliga,2022-10-29,2022/2023,True,RB Leipzig,Bayer Leverkusen,2.0,0.0,1.2,0.14
+Bundesliga,2022-10-29,2022/2023,True,VfB Stuttgart,Augsburg,2.0,1.0,2.69,1.03
+Bundesliga,2022-10-29,2022/2023,True,Wolfsburg,Bochum,4.0,0.0,2.02,0.5
+Bundesliga,2022-10-29,2022/2023,True,Eintracht Frankfurt,Borussia Dortmund,1.0,2.0,1.91,0.6
+Bundesliga,2022-10-30,2022/2023,True,Union Berlin,Borussia M'gladbach,2.0,1.0,0.89,0.99
+Bundesliga,2022-10-30,2022/2023,True,Schalke,SC Freiburg,0.0,2.0,0.6,2.29
+Bundesliga,2022-10-30,2022/2023,True,Cologne,TSG Hoffenheim,1.0,1.0,1.22,0.91
+Bundesliga,2022-11-04,2022/2023,True,Borussia M'gladbach,VfB Stuttgart,3.0,1.0,0.87,1.17
+Bundesliga,2022-11-05,2022/2023,True,Augsburg,Eintracht Frankfurt,1.0,2.0,1.15,1.19
+Bundesliga,2022-11-05,2022/2023,True,Borussia Dortmund,Bochum,3.0,0.0,1.54,0.59
+Bundesliga,2022-11-05,2022/2023,True,Hertha Berlin,Bayern Munich,2.0,3.0,1.17,1.95
+Bundesliga,2022-11-05,2022/2023,True,TSG Hoffenheim,RB Leipzig,1.0,3.0,0.93,1.71
+Bundesliga,2022-11-05,2022/2023,True,Mainz,Wolfsburg,0.0,3.0,0.97,0.56
+Bundesliga,2022-11-05,2022/2023,True,Werder Bremen,Schalke,2.0,1.0,1.04,1.38
+Bundesliga,2022-11-06,2022/2023,True,Bayer Leverkusen,Union Berlin,5.0,0.0,1.92,0.33
+Bundesliga,2022-11-06,2022/2023,True,SC Freiburg,Cologne,2.0,0.0,1.44,0.48
+Bundesliga,2022-11-08,2022/2023,True,Wolfsburg,Borussia Dortmund,2.0,0.0,2.54,1.58
+Bundesliga,2022-11-08,2022/2023,True,Bayern Munich,Werder Bremen,6.0,1.0,4.41,1.28
+Bundesliga,2022-11-08,2022/2023,True,Bochum,Borussia M'gladbach,2.0,1.0,2.0,0.82
+Bundesliga,2022-11-08,2022/2023,True,VfB Stuttgart,Hertha Berlin,2.0,1.0,2.04,0.69
+Bundesliga,2022-11-09,2022/2023,True,Cologne,Bayer Leverkusen,1.0,2.0,1.48,1.44
+Bundesliga,2022-11-09,2022/2023,True,Eintracht Frankfurt,TSG Hoffenheim,4.0,2.0,2.84,1.84
+Bundesliga,2022-11-09,2022/2023,True,RB Leipzig,SC Freiburg,3.0,1.0,2.95,0.18
+Bundesliga,2022-11-09,2022/2023,True,Schalke,Mainz,1.0,0.0,1.55,0.78
+Bundesliga,2022-11-09,2022/2023,True,Union Berlin,Augsburg,2.0,2.0,1.18,0.57
+Bundesliga,2022-11-11,2022/2023,True,Borussia M'gladbach,Borussia Dortmund,4.0,2.0,2.08,3.13
+Bundesliga,2022-11-12,2022/2023,True,Augsburg,Bochum,0.0,1.0,2.28,1.09
+Bundesliga,2022-11-12,2022/2023,True,Bayer Leverkusen,VfB Stuttgart,2.0,0.0,1.56,0.31
+Bundesliga,2022-11-12,2022/2023,True,Hertha Berlin,Cologne,2.0,0.0,1.78,1.82
+Bundesliga,2022-11-12,2022/2023,True,TSG Hoffenheim,Wolfsburg,1.0,2.0,1.38,0.73
+Bundesliga,2022-11-12,2022/2023,True,Werder Bremen,RB Leipzig,1.0,2.0,0.91,1.66
+Bundesliga,2022-11-12,2022/2023,True,Schalke,Bayern Munich,0.0,2.0,0.78,1.91
+Bundesliga,2022-11-13,2022/2023,True,Mainz,Eintracht Frankfurt,1.0,1.0,1.55,1.78
+Bundesliga,2022-11-13,2022/2023,True,SC Freiburg,Union Berlin,4.0,1.0,2.28,1.73
+Bundesliga,2023-01-20,2022/2023,True,RB Leipzig,Bayern Munich,1.0,1.0,0.76,0.67
+Bundesliga,2023-01-21,2022/2023,True,Bochum,Hertha Berlin,3.0,1.0,1.57,1.01
+Bundesliga,2023-01-21,2022/2023,True,Eintracht Frankfurt,Schalke,3.0,0.0,1.22,1.94
+Bundesliga,2023-01-21,2022/2023,True,Union Berlin,TSG Hoffenheim,3.0,1.0,2.87,0.99
+Bundesliga,2023-01-21,2022/2023,True,VfB Stuttgart,Mainz,1.0,1.0,1.91,1.47
+Bundesliga,2023-01-21,2022/2023,True,Wolfsburg,SC Freiburg,6.0,0.0,2.68,0.71
+Bundesliga,2023-01-21,2022/2023,True,Cologne,Werder Bremen,7.0,1.0,3.2,0.28
+Bundesliga,2023-01-22,2022/2023,True,Borussia Dortmund,Augsburg,4.0,3.0,2.94,1.7
+Bundesliga,2023-01-22,2022/2023,True,Borussia M'gladbach,Bayer Leverkusen,2.0,3.0,1.04,2.06
+Bundesliga,2023-01-24,2022/2023,True,Schalke,RB Leipzig,1.0,6.0,0.73,2.72
+Bundesliga,2023-01-24,2022/2023,True,Bayern Munich,Cologne,1.0,1.0,1.37,0.81
+Bundesliga,2023-01-24,2022/2023,True,Hertha Berlin,Wolfsburg,0.0,5.0,0.36,3.23
+Bundesliga,2023-01-24,2022/2023,True,TSG Hoffenheim,VfB Stuttgart,2.0,2.0,2.0,0.8
+Bundesliga,2023-01-25,2022/2023,True,Mainz,Borussia Dortmund,1.0,2.0,1.16,1.55
+Bundesliga,2023-01-25,2022/2023,True,Augsburg,Borussia M'gladbach,1.0,0.0,0.95,0.29
+Bundesliga,2023-01-25,2022/2023,True,Bayer Leverkusen,Bochum,2.0,0.0,1.73,0.75
+Bundesliga,2023-01-25,2022/2023,True,SC Freiburg,Eintracht Frankfurt,1.0,1.0,1.93,0.16
+Bundesliga,2023-01-25,2022/2023,True,Werder Bremen,Union Berlin,1.0,2.0,0.64,1.14
+Bundesliga,2023-01-27,2022/2023,True,RB Leipzig,VfB Stuttgart,2.0,1.0,1.01,1.69
+Bundesliga,2023-01-28,2022/2023,True,SC Freiburg,Augsburg,3.0,1.0,1.78,1.73
+Bundesliga,2023-01-28,2022/2023,True,Hertha Berlin,Union Berlin,0.0,2.0,0.46,1.02
+Bundesliga,2023-01-28,2022/2023,True,TSG Hoffenheim,Borussia M'gladbach,1.0,4.0,1.85,1.67
+Bundesliga,2023-01-28,2022/2023,True,Mainz,Bochum,5.0,2.0,2.1,1.48
+Bundesliga,2023-01-28,2022/2023,True,Werder Bremen,Wolfsburg,2.0,1.0,2.28,0.68
+Bundesliga,2023-01-28,2022/2023,True,Bayern Munich,Eintracht Frankfurt,1.0,1.0,1.69,0.62
+Bundesliga,2023-01-29,2022/2023,True,Schalke,Cologne,0.0,0.0,1.25,0.33
+Bundesliga,2023-01-29,2022/2023,True,Bayer Leverkusen,Borussia Dortmund,0.0,2.0,1.7,0.92
+Bundesliga,2023-02-03,2022/2023,True,Augsburg,Bayer Leverkusen,1.0,0.0,0.9,0.62
+Bundesliga,2023-02-04,2022/2023,True,Bochum,TSG Hoffenheim,5.0,2.0,2.68,0.89
+Bundesliga,2023-02-04,2022/2023,True,Borussia Dortmund,SC Freiburg,5.0,1.0,1.92,0.42
+Bundesliga,2023-02-04,2022/2023,True,Eintracht Frankfurt,Hertha Berlin,3.0,0.0,2.24,0.92
+Bundesliga,2023-02-04,2022/2023,True,Cologne,RB Leipzig,0.0,0.0,0.77,1.27
+Bundesliga,2023-02-04,2022/2023,True,Union Berlin,Mainz,2.0,1.0,1.11,1.34
+Bundesliga,2023-02-04,2022/2023,True,Borussia M'gladbach,Schalke,0.0,0.0,1.1,0.98
+Bundesliga,2023-02-05,2022/2023,True,VfB Stuttgart,Werder Bremen,0.0,2.0,1.37,0.51
+Bundesliga,2023-02-05,2022/2023,True,Wolfsburg,Bayern Munich,2.0,4.0,2.3,0.51
+Bundesliga,2023-02-10,2022/2023,True,Schalke,Wolfsburg,0.0,0.0,1.35,1.3
+Bundesliga,2023-02-11,2022/2023,True,Bayern Munich,Bochum,3.0,0.0,3.72,0.29
+Bundesliga,2023-02-11,2022/2023,True,SC Freiburg,VfB Stuttgart,2.0,1.0,2.07,1.05
+Bundesliga,2023-02-11,2022/2023,True,TSG Hoffenheim,Bayer Leverkusen,1.0,3.0,0.74,1.44
+Bundesliga,2023-02-11,2022/2023,True,Mainz,Augsburg,3.0,1.0,2.45,1.48
+Bundesliga,2023-02-11,2022/2023,True,Werder Bremen,Borussia Dortmund,0.0,2.0,0.58,2.5
+Bundesliga,2023-02-11,2022/2023,True,RB Leipzig,Union Berlin,1.0,2.0,0.56,1.72
+Bundesliga,2023-02-12,2022/2023,True,Hertha Berlin,Borussia M'gladbach,4.0,1.0,3.02,0.47
+Bundesliga,2023-02-12,2022/2023,True,Cologne,Eintracht Frankfurt,3.0,0.0,1.17,0.34
+Bundesliga,2023-02-17,2022/2023,True,Augsburg,TSG Hoffenheim,1.0,0.0,1.63,0.65
+Bundesliga,2023-02-18,2022/2023,True,Bochum,SC Freiburg,0.0,2.0,1.44,2.69
+Bundesliga,2023-02-18,2022/2023,True,Borussia M'gladbach,Bayern Munich,3.0,2.0,2.41,1.09
+Bundesliga,2023-02-18,2022/2023,True,VfB Stuttgart,Cologne,3.0,0.0,1.59,0.47
+Bundesliga,2023-02-18,2022/2023,True,Wolfsburg,RB Leipzig,0.0,3.0,0.24,3.07
+Bundesliga,2023-02-18,2022/2023,True,Eintracht Frankfurt,Werder Bremen,2.0,0.0,2.06,0.28
+Bundesliga,2023-02-19,2022/2023,True,Union Berlin,Schalke,0.0,0.0,0.9,0.37
+Bundesliga,2023-02-19,2022/2023,True,Borussia Dortmund,Hertha Berlin,4.0,1.0,2.59,1.05
+Bundesliga,2023-02-19,2022/2023,True,Bayer Leverkusen,Mainz,2.0,3.0,2.36,1.63
+Bundesliga,2023-02-24,2022/2023,True,Mainz,Borussia M'gladbach,4.0,0.0,1.81,1.2
+Bundesliga,2023-02-25,2022/2023,True,Cologne,Wolfsburg,0.0,2.0,1.26,1.01
+Bundesliga,2023-02-25,2022/2023,True,Hertha Berlin,Augsburg,2.0,0.0,0.58,0.5
+Bundesliga,2023-02-25,2022/2023,True,TSG Hoffenheim,Borussia Dortmund,0.0,1.0,1.32,2.48
+Bundesliga,2023-02-25,2022/2023,True,RB Leipzig,Eintracht Frankfurt,2.0,1.0,1.72,0.84
+Bundesliga,2023-02-25,2022/2023,True,Werder Bremen,Bochum,3.0,0.0,1.16,0.47
+Bundesliga,2023-02-25,2022/2023,True,Schalke,VfB Stuttgart,2.0,1.0,1.58,1.2
+Bundesliga,2023-02-26,2022/2023,True,SC Freiburg,Bayer Leverkusen,1.0,1.0,0.76,2.2
+Bundesliga,2023-02-26,2022/2023,True,Bayern Munich,Union Berlin,3.0,0.0,3.6,0.36
+Bundesliga,2023-03-03,2022/2023,True,Borussia Dortmund,RB Leipzig,2.0,1.0,1.19,2.24
+Bundesliga,2023-03-04,2022/2023,True,Augsburg,Werder Bremen,2.0,1.0,0.62,2.39
+Bundesliga,2023-03-04,2022/2023,True,Bochum,Schalke,0.0,2.0,1.3,0.58
+Bundesliga,2023-03-04,2022/2023,True,Borussia M'gladbach,SC Freiburg,0.0,0.0,1.49,0.34
+Bundesliga,2023-03-04,2022/2023,True,Mainz,TSG Hoffenheim,1.0,0.0,1.17,0.82
+Bundesliga,2023-03-04,2022/2023,True,Union Berlin,Cologne,0.0,0.0,0.49,0.94
+Bundesliga,2023-03-04,2022/2023,True,VfB Stuttgart,Bayern Munich,1.0,2.0,0.79,2.13
+Bundesliga,2023-03-05,2022/2023,True,Bayer Leverkusen,Hertha Berlin,4.0,1.0,1.69,1.05
+Bundesliga,2023-03-05,2022/2023,True,Wolfsburg,Eintracht Frankfurt,2.0,2.0,1.88,0.63
+Bundesliga,2023-03-10,2022/2023,True,Cologne,Bochum,0.0,2.0,0.74,1.41
+Bundesliga,2023-03-11,2022/2023,True,Bayern Munich,Augsburg,5.0,3.0,2.42,2.52
+Bundesliga,2023-03-11,2022/2023,True,Eintracht Frankfurt,VfB Stuttgart,1.0,1.0,0.73,0.8
+Bundesliga,2023-03-11,2022/2023,True,Hertha Berlin,Mainz,1.0,1.0,1.49,0.53
+Bundesliga,2023-03-11,2022/2023,True,RB Leipzig,Borussia M'gladbach,3.0,0.0,2.55,1.6
+Bundesliga,2023-03-11,2022/2023,True,Schalke,Borussia Dortmund,2.0,2.0,1.51,2.02
+Bundesliga,2023-03-12,2022/2023,True,SC Freiburg,TSG Hoffenheim,2.0,1.0,0.59,1.05
+Bundesliga,2023-03-12,2022/2023,True,Werder Bremen,Bayer Leverkusen,2.0,3.0,1.79,0.95
+Bundesliga,2023-03-12,2022/2023,True,Wolfsburg,Union Berlin,1.0,1.0,1.72,1.32
+Bundesliga,2023-03-17,2022/2023,True,Borussia M'gladbach,Werder Bremen,2.0,2.0,3.39,1.26
+Bundesliga,2023-03-18,2022/2023,True,Augsburg,Schalke,1.0,1.0,0.33,1.83
+Bundesliga,2023-03-18,2022/2023,True,Bochum,RB Leipzig,1.0,0.0,1.1,1.85
+Bundesliga,2023-03-18,2022/2023,True,TSG Hoffenheim,Hertha Berlin,3.0,1.0,2.68,1.03
+Bundesliga,2023-03-18,2022/2023,True,VfB Stuttgart,Wolfsburg,0.0,1.0,0.54,0.58
+Bundesliga,2023-03-18,2022/2023,True,Borussia Dortmund,Cologne,6.0,1.0,3.26,1.59
+Bundesliga,2023-03-19,2022/2023,True,Union Berlin,Eintracht Frankfurt,2.0,0.0,1.52,2.69
+Bundesliga,2023-03-19,2022/2023,True,Bayer Leverkusen,Bayern Munich,2.0,1.0,2.01,0.95
+Bundesliga,2023-03-19,2022/2023,True,Mainz,SC Freiburg,1.0,1.0,1.04,1.74
+Bundesliga,2023-03-31,2022/2023,True,Eintracht Frankfurt,Bochum,1.0,1.0,3.2,1.11
+Bundesliga,2023-04-01,2022/2023,True,SC Freiburg,Hertha Berlin,1.0,1.0,1.18,1.87
+Bundesliga,2023-04-01,2022/2023,True,RB Leipzig,Mainz,0.0,3.0,0.81,3.09
+Bundesliga,2023-04-01,2022/2023,True,Schalke,Bayer Leverkusen,0.0,3.0,1.12,2.75
+Bundesliga,2023-04-01,2022/2023,True,Union Berlin,VfB Stuttgart,3.0,0.0,1.92,2.24
+Bundesliga,2023-04-01,2022/2023,True,Wolfsburg,Augsburg,2.0,2.0,3.65,0.58
+Bundesliga,2023-04-01,2022/2023,True,Bayern Munich,Borussia Dortmund,4.0,2.0,2.42,1.71
+Bundesliga,2023-04-02,2022/2023,True,Cologne,Borussia M'gladbach,0.0,0.0,0.96,0.98
+Bundesliga,2023-04-02,2022/2023,True,Werder Bremen,TSG Hoffenheim,1.0,2.0,0.87,1.12
+Bundesliga,2023-04-08,2022/2023,True,Augsburg,Cologne,1.0,3.0,0.87,1.74
+Bundesliga,2023-04-08,2022/2023,True,Bayer Leverkusen,Eintracht Frankfurt,3.0,1.0,1.95,0.92
+Bundesliga,2023-04-08,2022/2023,True,Borussia Dortmund,Union Berlin,2.0,1.0,2.63,0.49
+Bundesliga,2023-04-08,2022/2023,True,SC Freiburg,Bayern Munich,0.0,1.0,1.02,3.55
+Bundesliga,2023-04-08,2022/2023,True,Mainz,Werder Bremen,2.0,2.0,1.89,0.94
+Bundesliga,2023-04-08,2022/2023,True,Hertha Berlin,RB Leipzig,0.0,1.0,0.51,1.97
+Bundesliga,2023-04-09,2022/2023,True,Borussia M'gladbach,Wolfsburg,2.0,0.0,1.64,1.5
+Bundesliga,2023-04-09,2022/2023,True,Bochum,VfB Stuttgart,2.0,3.0,2.38,2.22
+Bundesliga,2023-04-09,2022/2023,True,TSG Hoffenheim,Schalke,2.0,0.0,2.23,0.74
+Bundesliga,2023-04-14,2022/2023,True,Schalke,Hertha Berlin,5.0,2.0,2.19,1.56
+Bundesliga,2023-04-15,2022/2023,True,Bayern Munich,TSG Hoffenheim,1.0,1.0,1.68,0.45
+Bundesliga,2023-04-15,2022/2023,True,Cologne,Mainz,1.0,1.0,1.03,0.78
+Bundesliga,2023-04-15,2022/2023,True,RB Leipzig,Augsburg,3.0,2.0,1.82,0.75
+Bundesliga,2023-04-15,2022/2023,True,VfB Stuttgart,Borussia Dortmund,3.0,3.0,1.39,1.86
+Bundesliga,2023-04-15,2022/2023,True,Eintracht Frankfurt,Borussia M'gladbach,1.0,1.0,2.18,1.19
+Bundesliga,2023-04-16,2022/2023,True,Werder Bremen,SC Freiburg,1.0,2.0,1.72,0.79
+Bundesliga,2023-04-16,2022/2023,True,Union Berlin,Bochum,1.0,1.0,1.2,1.85
+Bundesliga,2023-04-16,2022/2023,True,Wolfsburg,Bayer Leverkusen,0.0,0.0,0.91,1.22
+Bundesliga,2023-04-21,2022/2023,True,Augsburg,VfB Stuttgart,1.0,1.0,0.68,1.12
+Bundesliga,2023-04-22,2022/2023,True,Bochum,Wolfsburg,1.0,5.0,2.64,3.57
+Bundesliga,2023-04-22,2022/2023,True,Hertha Berlin,Werder Bremen,2.0,4.0,1.61,2.03
+Bundesliga,2023-04-22,2022/2023,True,TSG Hoffenheim,Cologne,1.0,3.0,0.9,1.74
+Bundesliga,2023-04-22,2022/2023,True,Mainz,Bayern Munich,3.0,1.0,1.57,1.93
+Bundesliga,2023-04-22,2022/2023,True,Borussia Dortmund,Eintracht Frankfurt,4.0,0.0,1.12,0.57
+Bundesliga,2023-04-23,2022/2023,True,SC Freiburg,Schalke,4.0,0.0,2.12,0.35
+Bundesliga,2023-04-23,2022/2023,True,Bayer Leverkusen,RB Leipzig,2.0,0.0,1.13,2.0
+Bundesliga,2023-04-23,2022/2023,True,Borussia M'gladbach,Union Berlin,0.0,1.0,0.68,1.34
+Bundesliga,2023-04-28,2022/2023,True,Bochum,Borussia Dortmund,1.0,1.0,0.93,2.85
+Bundesliga,2023-04-29,2022/2023,True,Eintracht Frankfurt,Augsburg,1.0,1.0,0.58,0.68
+Bundesliga,2023-04-29,2022/2023,True,Cologne,SC Freiburg,0.0,1.0,1.58,1.59
+Bundesliga,2023-04-29,2022/2023,True,RB Leipzig,TSG Hoffenheim,1.0,0.0,1.41,0.33
+Bundesliga,2023-04-29,2022/2023,True,Union Berlin,Bayer Leverkusen,0.0,0.0,0.79,0.75
+Bundesliga,2023-04-29,2022/2023,True,VfB Stuttgart,Borussia M'gladbach,2.0,1.0,2.34,1.25
+Bundesliga,2023-04-29,2022/2023,True,Schalke,Werder Bremen,2.0,1.0,1.56,1.18
+Bundesliga,2023-04-30,2022/2023,True,Bayern Munich,Hertha Berlin,2.0,0.0,2.71,0.11
+Bundesliga,2023-04-30,2022/2023,True,Wolfsburg,Mainz,3.0,0.0,1.93,1.71
+Bundesliga,2023-05-05,2022/2023,True,Bayer Leverkusen,Cologne,1.0,2.0,0.95,0.8
+Bundesliga,2023-05-05,2022/2023,True,Mainz,Schalke,2.0,3.0,1.42,3.22
+Bundesliga,2023-05-06,2022/2023,True,Augsburg,Union Berlin,1.0,0.0,0.86,0.73
+Bundesliga,2023-05-06,2022/2023,True,Borussia M'gladbach,Bochum,2.0,0.0,1.94,1.07
+Bundesliga,2023-05-06,2022/2023,True,SC Freiburg,RB Leipzig,0.0,1.0,0.4,1.95
+Bundesliga,2023-05-06,2022/2023,True,Hertha Berlin,VfB Stuttgart,2.0,1.0,1.2,1.55
+Bundesliga,2023-05-06,2022/2023,True,TSG Hoffenheim,Eintracht Frankfurt,3.0,1.0,2.23,2.27
+Bundesliga,2023-05-06,2022/2023,True,Werder Bremen,Bayern Munich,1.0,2.0,0.73,1.42
+Bundesliga,2023-05-07,2022/2023,True,Borussia Dortmund,Wolfsburg,6.0,0.0,4.22,1.25
+Bundesliga,2023-05-12,2022/2023,True,Cologne,Hertha Berlin,5.0,2.0,4.39,1.07
+Bundesliga,2023-05-13,2022/2023,True,Bayern Munich,Schalke,6.0,0.0,5.33,0.42
+Bundesliga,2023-05-13,2022/2023,True,Bochum,Augsburg,3.0,2.0,1.25,1.89
+Bundesliga,2023-05-13,2022/2023,True,Eintracht Frankfurt,Mainz,3.0,0.0,2.25,1.04
+Bundesliga,2023-05-13,2022/2023,True,Union Berlin,SC Freiburg,4.0,2.0,1.49,2.06
+Bundesliga,2023-05-13,2022/2023,True,Wolfsburg,TSG Hoffenheim,2.0,1.0,1.13,1.05
+Bundesliga,2023-05-13,2022/2023,True,Borussia Dortmund,Borussia M'gladbach,5.0,2.0,4.65,1.97
+Bundesliga,2023-05-14,2022/2023,True,VfB Stuttgart,Bayer Leverkusen,1.0,1.0,1.37,1.85
+Bundesliga,2023-05-14,2022/2023,True,RB Leipzig,Werder Bremen,2.0,1.0,2.19,1.14
+Bundesliga,2023-05-19,2022/2023,True,SC Freiburg,Wolfsburg,2.0,0.0,1.32,0.72
+Bundesliga,2023-05-20,2022/2023,True,Hertha Berlin,Bochum,1.0,1.0,1.16,1.11
+Bundesliga,2023-05-20,2022/2023,True,TSG Hoffenheim,Union Berlin,4.0,2.0,2.43,1.96
+Bundesliga,2023-05-20,2022/2023,True,Schalke,Eintracht Frankfurt,2.0,2.0,1.0,1.64
+Bundesliga,2023-05-20,2022/2023,True,Werder Bremen,Cologne,1.0,1.0,1.92,1.43
+Bundesliga,2023-05-20,2022/2023,True,Bayern Munich,RB Leipzig,1.0,3.0,1.67,3.04
+Bundesliga,2023-05-21,2022/2023,True,Mainz,VfB Stuttgart,1.0,4.0,1.42,1.78
+Bundesliga,2023-05-21,2022/2023,True,Augsburg,Borussia Dortmund,0.0,3.0,0.25,3.12
+Bundesliga,2023-05-21,2022/2023,True,Bayer Leverkusen,Borussia M'gladbach,2.0,2.0,1.57,1.64
+Bundesliga,2023-05-27,2022/2023,True,Bochum,Bayer Leverkusen,3.0,0.0,1.3,0.83
+Bundesliga,2023-05-27,2022/2023,True,Borussia Dortmund,Mainz,2.0,2.0,4.0,1.83
+Bundesliga,2023-05-27,2022/2023,True,Borussia M'gladbach,Augsburg,2.0,0.0,3.23,0.52
+Bundesliga,2023-05-27,2022/2023,True,Eintracht Frankfurt,SC Freiburg,2.0,1.0,2.08,1.63
+Bundesliga,2023-05-27,2022/2023,True,Cologne,Bayern Munich,1.0,2.0,1.29,1.35
+Bundesliga,2023-05-27,2022/2023,True,RB Leipzig,Schalke,4.0,2.0,2.69,1.25
+Bundesliga,2023-05-27,2022/2023,True,Union Berlin,Werder Bremen,1.0,0.0,0.89,0.41
+Bundesliga,2023-05-27,2022/2023,True,VfB Stuttgart,TSG Hoffenheim,1.0,1.0,2.51,0.85
+Bundesliga,2023-05-27,2022/2023,True,Wolfsburg,Hertha Berlin,1.0,2.0,3.46,2.08
+Bundesliga,2023-08-18,2023/2024,True,Werder Bremen,Bayern Munich,0.0,4.0,0.55,2.85
+Bundesliga,2023-08-19,2023/2024,True,Augsburg,Borussia M'gladbach,4.0,4.0,2.28,1.72
+Bundesliga,2023-08-19,2023/2024,True,Bayer Leverkusen,RB Leipzig,3.0,2.0,1.43,1.58
+Bundesliga,2023-08-19,2023/2024,True,TSG Hoffenheim,SC Freiburg,1.0,2.0,1.43,2.65
+Bundesliga,2023-08-19,2023/2024,True,VfB Stuttgart,Bochum,5.0,0.0,3.13,0.83
+Bundesliga,2023-08-19,2023/2024,True,Wolfsburg,Heidenheim,2.0,0.0,2.18,1.18
+Bundesliga,2023-08-19,2023/2024,True,Borussia Dortmund,Cologne,1.0,0.0,2.06,1.25
+Bundesliga,2023-08-20,2023/2024,True,Union Berlin,Mainz,4.0,1.0,1.91,2.3
+Bundesliga,2023-08-20,2023/2024,True,Eintracht Frankfurt,Darmstadt,1.0,0.0,1.51,0.54
+Bundesliga,2023-08-25,2023/2024,True,RB Leipzig,VfB Stuttgart,5.0,1.0,1.76,1.13
+Bundesliga,2023-08-26,2023/2024,True,Bochum,Borussia Dortmund,1.0,1.0,0.99,1.27
+Bundesliga,2023-08-26,2023/2024,True,Darmstadt,Union Berlin,1.0,4.0,2.27,1.74
+Bundesliga,2023-08-26,2023/2024,True,Heidenheim,TSG Hoffenheim,2.0,3.0,2.44,2.97
+Bundesliga,2023-08-26,2023/2024,True,Cologne,Wolfsburg,1.0,2.0,0.85,1.68
+Bundesliga,2023-08-26,2023/2024,True,SC Freiburg,Werder Bremen,1.0,0.0,2.42,1.06
+Bundesliga,2023-08-26,2023/2024,True,Borussia M'gladbach,Bayer Leverkusen,0.0,3.0,0.93,2.74
+Bundesliga,2023-08-27,2023/2024,True,Mainz,Eintracht Frankfurt,1.0,1.0,1.17,1.14
+Bundesliga,2023-08-27,2023/2024,True,Bayern Munich,Augsburg,3.0,1.0,2.9,0.66
+Bundesliga,2023-09-01,2023/2024,True,Borussia Dortmund,Heidenheim,2.0,2.0,3.36,2.15
+Bundesliga,2023-09-02,2023/2024,True,Augsburg,Bochum,2.0,2.0,1.88,1.67
+Bundesliga,2023-09-02,2023/2024,True,Bayer Leverkusen,Darmstadt,5.0,1.0,2.83,0.36
+Bundesliga,2023-09-02,2023/2024,True,TSG Hoffenheim,Wolfsburg,3.0,1.0,2.02,1.22
+Bundesliga,2023-09-02,2023/2024,True,VfB Stuttgart,SC Freiburg,5.0,0.0,1.74,1.05
+Bundesliga,2023-09-02,2023/2024,True,Werder Bremen,Mainz,4.0,0.0,2.74,0.55
+Bundesliga,2023-09-02,2023/2024,True,Borussia M'gladbach,Bayern Munich,1.0,2.0,0.35,2.37
+Bundesliga,2023-09-03,2023/2024,True,Eintracht Frankfurt,Cologne,1.0,1.0,1.36,0.91
+Bundesliga,2023-09-03,2023/2024,True,Union Berlin,RB Leipzig,0.0,3.0,0.32,1.16
+Bundesliga,2023-09-15,2023/2024,True,Bayern Munich,Bayer Leverkusen,2.0,2.0,2.13,2.08
+Bundesliga,2023-09-16,2023/2024,True,Cologne,TSG Hoffenheim,1.0,3.0,1.0,1.04
+Bundesliga,2023-09-16,2023/2024,True,SC Freiburg,Borussia Dortmund,2.0,4.0,1.05,2.35
+Bundesliga,2023-09-16,2023/2024,True,Mainz,VfB Stuttgart,1.0,3.0,0.97,1.56
+Bundesliga,2023-09-16,2023/2024,True,RB Leipzig,Augsburg,3.0,0.0,1.08,1.69
+Bundesliga,2023-09-16,2023/2024,True,Wolfsburg,Union Berlin,2.0,1.0,0.36,1.15
+Bundesliga,2023-09-16,2023/2024,True,Bochum,Eintracht Frankfurt,1.0,1.0,2.05,0.61
+Bundesliga,2023-09-17,2023/2024,True,Heidenheim,Werder Bremen,4.0,2.0,2.24,2.97
+Bundesliga,2023-09-17,2023/2024,True,Darmstadt,Borussia M'gladbach,3.0,3.0,1.16,3.87
+Bundesliga,2023-09-22,2023/2024,True,VfB Stuttgart,Darmstadt,3.0,1.0,2.29,0.16
+Bundesliga,2023-09-23,2023/2024,True,Augsburg,Mainz,2.0,1.0,0.82,0.56
+Bundesliga,2023-09-23,2023/2024,True,Bayern Munich,Bochum,7.0,0.0,5.05,0.14
+Bundesliga,2023-09-23,2023/2024,True,Borussia Dortmund,Wolfsburg,1.0,0.0,1.67,0.53
+Bundesliga,2023-09-23,2023/2024,True,Borussia M'gladbach,RB Leipzig,0.0,1.0,0.8,0.72
+Bundesliga,2023-09-23,2023/2024,True,Union Berlin,TSG Hoffenheim,0.0,2.0,1.62,1.97
+Bundesliga,2023-09-23,2023/2024,True,Werder Bremen,Cologne,2.0,1.0,2.14,1.39
+Bundesliga,2023-09-24,2023/2024,True,Bayer Leverkusen,Heidenheim,4.0,1.0,3.64,0.52
+Bundesliga,2023-09-24,2023/2024,True,Eintracht Frankfurt,SC Freiburg,0.0,0.0,0.65,0.56
+Bundesliga,2023-09-29,2023/2024,True,TSG Hoffenheim,Borussia Dortmund,1.0,3.0,1.97,1.64
+Bundesliga,2023-09-30,2023/2024,True,Heidenheim,Union Berlin,1.0,0.0,0.77,2.15
+Bundesliga,2023-09-30,2023/2024,True,Cologne,VfB Stuttgart,0.0,2.0,0.74,2.5
+Bundesliga,2023-09-30,2023/2024,True,Mainz,Bayer Leverkusen,0.0,3.0,0.47,1.13
+Bundesliga,2023-09-30,2023/2024,True,Wolfsburg,Eintracht Frankfurt,2.0,0.0,3.25,1.3
+Bundesliga,2023-09-30,2023/2024,True,Bochum,Borussia M'gladbach,1.0,3.0,1.74,2.9
+Bundesliga,2023-09-30,2023/2024,True,RB Leipzig,Bayern Munich,2.0,2.0,0.73,2.36
+Bundesliga,2023-10-01,2023/2024,True,Darmstadt,Werder Bremen,4.0,2.0,2.43,1.55
+Bundesliga,2023-10-01,2023/2024,True,SC Freiburg,Augsburg,2.0,0.0,1.03,0.81
+Bundesliga,2023-10-06,2023/2024,True,Borussia M'gladbach,Mainz,2.0,2.0,2.3,0.75
+Bundesliga,2023-10-07,2023/2024,True,Augsburg,Darmstadt,1.0,2.0,0.94,1.8
+Bundesliga,2023-10-07,2023/2024,True,Borussia Dortmund,Union Berlin,4.0,2.0,1.63,1.42
+Bundesliga,2023-10-07,2023/2024,True,RB Leipzig,Bochum,0.0,0.0,2.55,0.37
+Bundesliga,2023-10-07,2023/2024,True,VfB Stuttgart,Wolfsburg,3.0,1.0,2.69,1.23
+Bundesliga,2023-10-07,2023/2024,True,Werder Bremen,TSG Hoffenheim,2.0,3.0,0.83,1.86
+Bundesliga,2023-10-08,2023/2024,True,Bayer Leverkusen,Cologne,3.0,0.0,3.27,1.41
+Bundesliga,2023-10-08,2023/2024,True,Bayern Munich,SC Freiburg,3.0,0.0,2.43,0.05
+Bundesliga,2023-10-08,2023/2024,True,Eintracht Frankfurt,Heidenheim,2.0,0.0,1.86,1.16
+Bundesliga,2023-10-20,2023/2024,True,Borussia Dortmund,Werder Bremen,1.0,0.0,2.69,0.37
+Bundesliga,2023-10-21,2023/2024,True,Darmstadt,RB Leipzig,1.0,3.0,2.48,1.93
+Bundesliga,2023-10-21,2023/2024,True,SC Freiburg,Bochum,2.0,1.0,2.43,1.49
+Bundesliga,2023-10-21,2023/2024,True,TSG Hoffenheim,Eintracht Frankfurt,1.0,3.0,1.43,2.53
+Bundesliga,2023-10-21,2023/2024,True,Union Berlin,VfB Stuttgart,0.0,3.0,0.62,1.38
+Bundesliga,2023-10-21,2023/2024,True,Wolfsburg,Bayer Leverkusen,1.0,2.0,1.48,1.92
+Bundesliga,2023-10-21,2023/2024,True,Mainz,Bayern Munich,1.0,3.0,1.13,1.77
+Bundesliga,2023-10-22,2023/2024,True,Cologne,Borussia M'gladbach,3.0,1.0,2.73,0.26
+Bundesliga,2023-10-22,2023/2024,True,Heidenheim,Augsburg,2.0,5.0,1.56,2.55
+Bundesliga,2023-10-27,2023/2024,True,Bochum,Mainz,2.0,2.0,1.45,0.43
+Bundesliga,2023-10-28,2023/2024,True,Augsburg,Wolfsburg,3.0,2.0,1.38,1.44
+Bundesliga,2023-10-28,2023/2024,True,Bayern Munich,Darmstadt,8.0,0.0,5.86,0.7
+Bundesliga,2023-10-28,2023/2024,True,Borussia M'gladbach,Heidenheim,2.0,1.0,1.05,0.38
+Bundesliga,2023-10-28,2023/2024,True,VfB Stuttgart,TSG Hoffenheim,2.0,3.0,3.61,1.73
+Bundesliga,2023-10-28,2023/2024,True,Werder Bremen,Union Berlin,2.0,0.0,0.78,0.57
+Bundesliga,2023-10-28,2023/2024,True,RB Leipzig,Cologne,6.0,0.0,4.28,0.86
+Bundesliga,2023-10-29,2023/2024,True,Eintracht Frankfurt,Borussia Dortmund,3.0,3.0,2.75,2.18
+Bundesliga,2023-10-29,2023/2024,True,Bayer Leverkusen,SC Freiburg,2.0,1.0,1.39,0.87
+Bundesliga,2023-11-03,2023/2024,True,Darmstadt,Bochum,1.0,2.0,0.68,1.19
+Bundesliga,2023-11-04,2023/2024,True,Cologne,Augsburg,1.0,1.0,2.09,2.61
+Bundesliga,2023-11-04,2023/2024,True,SC Freiburg,Borussia M'gladbach,3.0,3.0,3.38,2.16
+Bundesliga,2023-11-04,2023/2024,True,TSG Hoffenheim,Bayer Leverkusen,2.0,3.0,1.74,1.03
+Bundesliga,2023-11-04,2023/2024,True,Mainz,RB Leipzig,2.0,0.0,0.96,0.51
+Bundesliga,2023-11-04,2023/2024,True,Union Berlin,Eintracht Frankfurt,0.0,3.0,0.69,1.59
+Bundesliga,2023-11-04,2023/2024,True,Borussia Dortmund,Bayern Munich,0.0,4.0,0.96,3.38
+Bundesliga,2023-11-05,2023/2024,True,Wolfsburg,Werder Bremen,2.0,2.0,1.57,1.24
+Bundesliga,2023-11-05,2023/2024,True,Heidenheim,VfB Stuttgart,2.0,0.0,1.23,2.82
+Bundesliga,2023-11-10,2023/2024,True,Borussia M'gladbach,Wolfsburg,4.0,0.0,1.54,0.49
+Bundesliga,2023-11-11,2023/2024,True,Augsburg,TSG Hoffenheim,1.0,1.0,0.96,0.85
+Bundesliga,2023-11-11,2023/2024,True,Bayern Munich,Heidenheim,4.0,2.0,1.98,0.95
+Bundesliga,2023-11-11,2023/2024,True,Darmstadt,Mainz,0.0,0.0,0.49,0.67
+Bundesliga,2023-11-11,2023/2024,True,VfB Stuttgart,Borussia Dortmund,2.0,1.0,4.22,0.96
+Bundesliga,2023-11-11,2023/2024,True,Bochum,Cologne,1.0,1.0,3.78,0.94
+Bundesliga,2023-11-12,2023/2024,True,Bayer Leverkusen,Union Berlin,4.0,0.0,2.44,0.04
+Bundesliga,2023-11-12,2023/2024,True,Werder Bremen,Eintracht Frankfurt,2.0,2.0,1.55,2.01
+Bundesliga,2023-11-12,2023/2024,True,RB Leipzig,SC Freiburg,3.0,1.0,1.9,0.54
+Bundesliga,2023-11-24,2023/2024,True,Cologne,Bayern Munich,0.0,1.0,0.21,3.62
+Bundesliga,2023-11-25,2023/2024,True,Borussia Dortmund,Borussia M'gladbach,4.0,2.0,3.23,0.99
+Bundesliga,2023-11-25,2023/2024,True,SC Freiburg,Darmstadt,1.0,1.0,1.64,0.35
+Bundesliga,2023-11-25,2023/2024,True,Union Berlin,Augsburg,1.0,1.0,2.15,1.7
+Bundesliga,2023-11-25,2023/2024,True,Werder Bremen,Bayer Leverkusen,0.0,3.0,0.19,1.03
+Bundesliga,2023-11-25,2023/2024,True,Wolfsburg,RB Leipzig,2.0,1.0,0.96,2.77
+Bundesliga,2023-11-25,2023/2024,True,Eintracht Frankfurt,VfB Stuttgart,1.0,2.0,0.9,2.28
+Bundesliga,2023-11-26,2023/2024,True,Heidenheim,Bochum,0.0,0.0,0.76,0.39
+Bundesliga,2023-11-26,2023/2024,True,TSG Hoffenheim,Mainz,1.0,1.0,1.42,1.75
+Bundesliga,2023-12-01,2023/2024,True,Darmstadt,Cologne,0.0,1.0,0.71,1.49
+Bundesliga,2023-12-02,2023/2024,True,Bochum,Wolfsburg,3.0,1.0,1.5,1.29
+Bundesliga,2023-12-02,2023/2024,True,Borussia M'gladbach,TSG Hoffenheim,2.0,1.0,1.65,1.41
+Bundesliga,2023-12-02,2023/2024,True,RB Leipzig,Heidenheim,2.0,1.0,4.07,1.11
+Bundesliga,2023-12-02,2023/2024,True,VfB Stuttgart,Werder Bremen,2.0,0.0,3.45,0.83
+Bundesliga,2023-12-03,2023/2024,True,Mainz,SC Freiburg,0.0,1.0,2.38,0.92
+Bundesliga,2023-12-03,2023/2024,True,Bayer Leverkusen,Borussia Dortmund,1.0,1.0,2.09,0.73
+Bundesliga,2023-12-03,2023/2024,True,Augsburg,Eintracht Frankfurt,2.0,1.0,1.41,1.06
+Bundesliga,2023-12-08,2023/2024,True,TSG Hoffenheim,Bochum,3.0,1.0,1.5,1.55
+Bundesliga,2023-12-09,2023/2024,True,Eintracht Frankfurt,Bayern Munich,5.0,1.0,1.32,2.08
+Bundesliga,2023-12-09,2023/2024,True,Heidenheim,Darmstadt,3.0,2.0,1.51,0.92
+Bundesliga,2023-12-09,2023/2024,True,Union Berlin,Borussia M'gladbach,3.0,1.0,2.06,1.09
+Bundesliga,2023-12-09,2023/2024,True,Werder Bremen,Augsburg,2.0,0.0,1.53,0.72
+Bundesliga,2023-12-09,2023/2024,True,Wolfsburg,SC Freiburg,0.0,1.0,1.19,1.09
+Bundesliga,2023-12-09,2023/2024,True,Borussia Dortmund,RB Leipzig,2.0,3.0,1.59,2.86
+Bundesliga,2023-12-10,2023/2024,True,VfB Stuttgart,Bayer Leverkusen,1.0,1.0,2.66,1.27
+Bundesliga,2023-12-10,2023/2024,True,Cologne,Mainz,0.0,0.0,0.28,1.42
+Bundesliga,2023-12-15,2023/2024,True,Borussia M'gladbach,Werder Bremen,2.0,2.0,1.44,1.56
+Bundesliga,2023-12-16,2023/2024,True,Augsburg,Borussia Dortmund,1.0,1.0,1.82,2.73
+Bundesliga,2023-12-16,2023/2024,True,Bochum,Union Berlin,3.0,0.0,2.85,0.67
+Bundesliga,2023-12-16,2023/2024,True,Darmstadt,Wolfsburg,0.0,1.0,0.64,0.64
+Bundesliga,2023-12-16,2023/2024,True,Mainz,Heidenheim,0.0,1.0,1.63,0.53
+Bundesliga,2023-12-16,2023/2024,True,RB Leipzig,TSG Hoffenheim,3.0,1.0,3.13,0.82
+Bundesliga,2023-12-17,2023/2024,True,SC Freiburg,Cologne,2.0,0.0,3.15,1.16
+Bundesliga,2023-12-17,2023/2024,True,Bayer Leverkusen,Eintracht Frankfurt,3.0,0.0,2.53,0.25
+Bundesliga,2023-12-17,2023/2024,True,Bayern Munich,VfB Stuttgart,3.0,0.0,2.84,0.41
+Bundesliga,2023-12-19,2023/2024,True,Werder Bremen,RB Leipzig,1.0,1.0,1.51,1.67
+Bundesliga,2023-12-19,2023/2024,True,Borussia Dortmund,Mainz,1.0,1.0,1.21,0.95
+Bundesliga,2023-12-19,2023/2024,True,TSG Hoffenheim,Darmstadt,3.0,3.0,3.52,0.84
+Bundesliga,2023-12-20,2023/2024,True,Union Berlin,Cologne,2.0,0.0,1.5,0.8
+Bundesliga,2023-12-20,2023/2024,True,Bayer Leverkusen,Bochum,4.0,0.0,3.32,0.37
+Bundesliga,2023-12-20,2023/2024,True,Eintracht Frankfurt,Borussia M'gladbach,2.0,1.0,1.42,0.34
+Bundesliga,2023-12-20,2023/2024,True,Heidenheim,SC Freiburg,3.0,2.0,1.89,1.85
+Bundesliga,2023-12-20,2023/2024,True,VfB Stuttgart,Augsburg,3.0,0.0,2.61,0.25
+Bundesliga,2023-12-20,2023/2024,True,Wolfsburg,Bayern Munich,1.0,2.0,0.33,2.81
+Bundesliga,2024-01-12,2023/2024,True,Bayern Munich,TSG Hoffenheim,3.0,0.0,2.77,1.22
+Bundesliga,2024-01-13,2023/2024,True,Augsburg,Bayer Leverkusen,0.0,1.0,0.5,1.97
+Bundesliga,2024-01-13,2023/2024,True,Cologne,Heidenheim,1.0,1.0,0.9,0.97
+Bundesliga,2024-01-13,2023/2024,True,SC Freiburg,Union Berlin,0.0,0.0,1.79,0.46
+Bundesliga,2024-01-13,2023/2024,True,Mainz,Wolfsburg,1.0,1.0,0.42,0.56
+Bundesliga,2024-01-13,2023/2024,True,RB Leipzig,Eintracht Frankfurt,0.0,1.0,3.56,1.09
+Bundesliga,2024-01-13,2023/2024,True,Darmstadt,Borussia Dortmund,0.0,3.0,1.04,3.14
+Bundesliga,2024-01-14,2023/2024,True,Bochum,Werder Bremen,1.0,1.0,0.73,0.81
+Bundesliga,2024-01-14,2023/2024,True,Borussia M'gladbach,VfB Stuttgart,3.0,1.0,1.92,0.89
+Bundesliga,2024-01-20,2023/2024,True,Bochum,VfB Stuttgart,1.0,0.0,0.9,1.45
+Bundesliga,2024-01-20,2023/2024,True,Darmstadt,Eintracht Frankfurt,2.0,2.0,1.15,1.29
+Bundesliga,2024-01-20,2023/2024,True,Heidenheim,Wolfsburg,1.0,1.0,1.12,1.11
+Bundesliga,2024-01-20,2023/2024,True,Cologne,Borussia Dortmund,0.0,4.0,1.3,3.38
+Bundesliga,2024-01-20,2023/2024,True,SC Freiburg,TSG Hoffenheim,3.0,2.0,2.69,1.45
+Bundesliga,2024-01-20,2023/2024,True,RB Leipzig,Bayer Leverkusen,2.0,3.0,1.63,2.04
+Bundesliga,2024-01-21,2023/2024,True,Bayern Munich,Werder Bremen,0.0,1.0,1.92,0.43
+Bundesliga,2024-01-21,2023/2024,True,Borussia M'gladbach,Augsburg,1.0,2.0,2.14,1.33
+Bundesliga,2024-01-24,2023/2024,True,Bayern Munich,Union Berlin,1.0,0.0,2.08,0.25
+Bundesliga,2024-01-26,2023/2024,True,Eintracht Frankfurt,Mainz,1.0,0.0,1.3,0.76
+Bundesliga,2024-01-27,2023/2024,True,Augsburg,Bayern Munich,2.0,3.0,2.61,2.33
+Bundesliga,2024-01-27,2023/2024,True,TSG Hoffenheim,Heidenheim,1.0,1.0,2.93,1.14
+Bundesliga,2024-01-27,2023/2024,True,VfB Stuttgart,RB Leipzig,5.0,2.0,2.27,0.36
+Bundesliga,2024-01-27,2023/2024,True,Werder Bremen,SC Freiburg,3.0,1.0,2.49,1.17
+Bundesliga,2024-01-27,2023/2024,True,Wolfsburg,Cologne,1.0,1.0,1.53,0.59
+Bundesliga,2024-01-27,2023/2024,True,Bayer Leverkusen,Borussia M'gladbach,0.0,0.0,2.99,0.28
+Bundesliga,2024-01-28,2023/2024,True,Union Berlin,Darmstadt,1.0,0.0,2.55,1.14
+Bundesliga,2024-01-28,2023/2024,True,Borussia Dortmund,Bochum,3.0,1.0,2.96,0.51
+Bundesliga,2024-02-02,2023/2024,True,Heidenheim,Borussia Dortmund,0.0,0.0,1.24,0.64
+Bundesliga,2024-02-03,2023/2024,True,Bayern Munich,Borussia M'gladbach,3.0,1.0,2.08,0.96
+Bundesliga,2024-02-03,2023/2024,True,Bochum,Augsburg,1.0,1.0,0.93,1.71
+Bundesliga,2024-02-03,2023/2024,True,Darmstadt,Bayer Leverkusen,0.0,2.0,0.57,1.93
+Bundesliga,2024-02-03,2023/2024,True,SC Freiburg,VfB Stuttgart,1.0,3.0,0.7,1.76
+Bundesliga,2024-02-03,2023/2024,True,Mainz,Werder Bremen,0.0,1.0,0.8,0.59
+Bundesliga,2024-02-03,2023/2024,True,Cologne,Eintracht Frankfurt,2.0,0.0,1.36,0.83
+Bundesliga,2024-02-04,2023/2024,True,Wolfsburg,TSG Hoffenheim,2.0,2.0,1.71,1.68
+Bundesliga,2024-02-04,2023/2024,True,RB Leipzig,Union Berlin,2.0,0.0,1.15,0.53
+Bundesliga,2024-02-07,2023/2024,True,Mainz,Union Berlin,1.0,1.0,1.35,1.04
+Bundesliga,2024-02-09,2023/2024,True,Borussia Dortmund,SC Freiburg,3.0,0.0,1.93,0.26
+Bundesliga,2024-02-10,2023/2024,True,Augsburg,RB Leipzig,2.0,2.0,0.74,1.36
+Bundesliga,2024-02-10,2023/2024,True,Borussia M'gladbach,Darmstadt,0.0,0.0,1.51,0.78
+Bundesliga,2024-02-10,2023/2024,True,Eintracht Frankfurt,Bochum,1.0,1.0,2.39,1.53
+Bundesliga,2024-02-10,2023/2024,True,Union Berlin,Wolfsburg,1.0,0.0,0.5,1.32
+Bundesliga,2024-02-10,2023/2024,True,Werder Bremen,Heidenheim,1.0,2.0,1.76,1.79
+Bundesliga,2024-02-10,2023/2024,True,Bayer Leverkusen,Bayern Munich,3.0,0.0,1.32,0.56
+Bundesliga,2024-02-11,2023/2024,True,VfB Stuttgart,Mainz,3.0,1.0,1.94,1.45
+Bundesliga,2024-02-11,2023/2024,True,TSG Hoffenheim,Cologne,1.0,1.0,1.26,0.14
+Bundesliga,2024-02-16,2023/2024,True,Cologne,Werder Bremen,0.0,1.0,0.81,1.79
+Bundesliga,2024-02-17,2023/2024,True,Darmstadt,VfB Stuttgart,1.0,2.0,1.71,1.82
+Bundesliga,2024-02-17,2023/2024,True,Heidenheim,Bayer Leverkusen,1.0,2.0,0.43,1.88
+Bundesliga,2024-02-17,2023/2024,True,TSG Hoffenheim,Union Berlin,0.0,1.0,1.02,1.41
+Bundesliga,2024-02-17,2023/2024,True,Mainz,Augsburg,1.0,0.0,2.15,0.98
+Bundesliga,2024-02-17,2023/2024,True,Wolfsburg,Borussia Dortmund,1.0,1.0,1.85,1.4
+Bundesliga,2024-02-17,2023/2024,True,RB Leipzig,Borussia M'gladbach,2.0,0.0,1.69,0.7
+Bundesliga,2024-02-18,2023/2024,True,SC Freiburg,Eintracht Frankfurt,3.0,3.0,2.24,1.01
+Bundesliga,2024-02-18,2023/2024,True,Bochum,Bayern Munich,3.0,2.0,1.67,3.42
+Bundesliga,2024-02-23,2023/2024,True,Bayer Leverkusen,Mainz,2.0,1.0,1.15,1.11
+Bundesliga,2024-02-24,2023/2024,True,Union Berlin,Heidenheim,2.0,2.0,1.05,1.12
+Bundesliga,2024-02-24,2023/2024,True,VfB Stuttgart,Cologne,1.0,1.0,2.3,0.7
+Bundesliga,2024-02-24,2023/2024,True,Werder Bremen,Darmstadt,1.0,1.0,1.82,0.96
+Bundesliga,2024-02-24,2023/2024,True,Borussia M'gladbach,Bochum,5.0,2.0,3.65,1.59
+Bundesliga,2024-02-24,2023/2024,True,Bayern Munich,RB Leipzig,2.0,1.0,1.54,0.88
+Bundesliga,2024-02-25,2023/2024,True,Eintracht Frankfurt,Wolfsburg,2.0,2.0,0.92,1.02
+Bundesliga,2024-02-25,2023/2024,True,Borussia Dortmund,TSG Hoffenheim,2.0,3.0,1.94,1.25
+Bundesliga,2024-02-25,2023/2024,True,Augsburg,SC Freiburg,2.0,1.0,1.65,1.61
+Bundesliga,2024-03-01,2023/2024,True,SC Freiburg,Bayern Munich,2.0,2.0,1.52,1.81
+Bundesliga,2024-03-02,2023/2024,True,Bochum,RB Leipzig,1.0,4.0,0.83,2.13
+Bundesliga,2024-03-02,2023/2024,True,Darmstadt,Augsburg,0.0,6.0,0.8,2.88
+Bundesliga,2024-03-02,2023/2024,True,Heidenheim,Eintracht Frankfurt,1.0,2.0,1.01,1.16
+Bundesliga,2024-03-02,2023/2024,True,Mainz,Borussia M'gladbach,1.0,1.0,0.98,1.02
+Bundesliga,2024-03-02,2023/2024,True,Union Berlin,Borussia Dortmund,0.0,2.0,1.26,1.58
+Bundesliga,2024-03-02,2023/2024,True,Wolfsburg,VfB Stuttgart,2.0,3.0,0.86,1.14
+Bundesliga,2024-03-03,2023/2024,True,Cologne,Bayer Leverkusen,0.0,2.0,1.0,1.59
+Bundesliga,2024-03-03,2023/2024,True,TSG Hoffenheim,Werder Bremen,2.0,1.0,1.7,1.29
+Bundesliga,2024-03-08,2023/2024,True,VfB Stuttgart,Union Berlin,2.0,0.0,0.99,0.91
+Bundesliga,2024-03-09,2023/2024,True,Augsburg,Heidenheim,1.0,0.0,0.54,0.38
+Bundesliga,2024-03-09,2023/2024,True,Bayern Munich,Mainz,8.0,1.0,6.41,0.84
+Bundesliga,2024-03-09,2023/2024,True,Borussia M'gladbach,Cologne,3.0,3.0,1.81,0.62
+Bundesliga,2024-03-09,2023/2024,True,RB Leipzig,Darmstadt,2.0,0.0,3.38,0.55
+Bundesliga,2024-03-09,2023/2024,True,Werder Bremen,Borussia Dortmund,1.0,2.0,1.82,1.17
+Bundesliga,2024-03-10,2023/2024,True,Bochum,SC Freiburg,1.0,2.0,1.2,1.41
+Bundesliga,2024-03-10,2023/2024,True,Eintracht Frankfurt,TSG Hoffenheim,3.0,1.0,2.43,0.57
+Bundesliga,2024-03-10,2023/2024,True,Bayer Leverkusen,Wolfsburg,2.0,0.0,2.09,0.17
+Bundesliga,2024-03-15,2023/2024,True,Cologne,RB Leipzig,1.0,5.0,1.28,3.36
+Bundesliga,2024-03-16,2023/2024,True,Darmstadt,Bayern Munich,2.0,5.0,1.18,3.65
+Bundesliga,2024-03-16,2023/2024,True,Heidenheim,Borussia M'gladbach,1.0,1.0,1.17,0.52
+Bundesliga,2024-03-16,2023/2024,True,Mainz,Bochum,2.0,0.0,2.48,0.78
+Bundesliga,2024-03-16,2023/2024,True,Union Berlin,Werder Bremen,2.0,1.0,1.15,1.05
+Bundesliga,2024-03-16,2023/2024,True,Wolfsburg,Augsburg,1.0,3.0,1.35,0.75
+Bundesliga,2024-03-16,2023/2024,True,TSG Hoffenheim,VfB Stuttgart,0.0,3.0,0.51,3.79
+Bundesliga,2024-03-17,2023/2024,True,SC Freiburg,Bayer Leverkusen,2.0,3.0,0.9,2.3
+Bundesliga,2024-03-17,2023/2024,True,Borussia Dortmund,Eintracht Frankfurt,3.0,1.0,2.27,0.91
+Bundesliga,2024-03-30,2023/2024,True,Bayer Leverkusen,TSG Hoffenheim,2.0,1.0,3.15,0.75
+Bundesliga,2024-03-30,2023/2024,True,Borussia M'gladbach,SC Freiburg,0.0,3.0,1.55,1.77
+Bundesliga,2024-03-30,2023/2024,True,Eintracht Frankfurt,Union Berlin,0.0,0.0,1.06,1.47
+Bundesliga,2024-03-30,2023/2024,True,RB Leipzig,Mainz,0.0,0.0,2.75,0.92
+Bundesliga,2024-03-30,2023/2024,True,Werder Bremen,Wolfsburg,0.0,2.0,0.52,2.28
+Bundesliga,2024-03-30,2023/2024,True,Bayern Munich,Borussia Dortmund,0.0,2.0,1.53,0.88
+Bundesliga,2024-03-31,2023/2024,True,Augsburg,Cologne,1.0,1.0,2.22,1.33
+Bundesliga,2024-03-31,2023/2024,True,VfB Stuttgart,Heidenheim,3.0,3.0,3.04,1.32
+Bundesliga,2024-03-31,2023/2024,True,Bochum,Darmstadt,2.0,2.0,1.84,0.87
+Bundesliga,2024-04-05,2023/2024,True,Eintracht Frankfurt,Werder Bremen,1.0,1.0,2.18,1.65
+Bundesliga,2024-04-06,2023/2024,True,Heidenheim,Bayern Munich,3.0,2.0,1.44,1.89
+Bundesliga,2024-04-06,2023/2024,True,Cologne,Bochum,2.0,1.0,1.06,0.59
+Bundesliga,2024-04-06,2023/2024,True,SC Freiburg,RB Leipzig,1.0,4.0,1.64,2.35
+Bundesliga,2024-04-06,2023/2024,True,Mainz,Darmstadt,4.0,0.0,3.68,0.55
+Bundesliga,2024-04-06,2023/2024,True,Union Berlin,Bayer Leverkusen,0.0,1.0,0.32,3.0
+Bundesliga,2024-04-06,2023/2024,True,Borussia Dortmund,VfB Stuttgart,0.0,1.0,2.48,1.56
+Bundesliga,2024-04-07,2023/2024,True,TSG Hoffenheim,Augsburg,3.0,1.0,1.79,1.29
+Bundesliga,2024-04-07,2023/2024,True,Wolfsburg,Borussia M'gladbach,1.0,3.0,1.21,1.09
+Bundesliga,2024-04-12,2023/2024,True,Augsburg,Union Berlin,2.0,0.0,1.6,1.6
+Bundesliga,2024-04-13,2023/2024,True,Bayern Munich,Cologne,2.0,0.0,2.22,0.88
+Bundesliga,2024-04-13,2023/2024,True,Bochum,Heidenheim,1.0,1.0,1.26,1.11
+Bundesliga,2024-04-13,2023/2024,True,Borussia M'gladbach,Borussia Dortmund,1.0,2.0,1.17,1.33
+Bundesliga,2024-04-13,2023/2024,True,Mainz,TSG Hoffenheim,4.0,1.0,2.15,0.55
+Bundesliga,2024-04-13,2023/2024,True,RB Leipzig,Wolfsburg,3.0,0.0,1.3,0.38
+Bundesliga,2024-04-13,2023/2024,True,VfB Stuttgart,Eintracht Frankfurt,3.0,0.0,1.22,0.59
+Bundesliga,2024-04-14,2023/2024,True,Darmstadt,SC Freiburg,0.0,1.0,1.09,0.91
+Bundesliga,2024-04-14,2023/2024,True,Bayer Leverkusen,Werder Bremen,5.0,0.0,3.2,0.67
+Bundesliga,2024-04-19,2023/2024,True,Eintracht Frankfurt,Augsburg,3.0,1.0,1.85,0.45
+Bundesliga,2024-04-20,2023/2024,True,Heidenheim,RB Leipzig,1.0,2.0,1.03,1.84
+Bundesliga,2024-04-20,2023/2024,True,Cologne,Darmstadt,0.0,2.0,1.04,1.78
+Bundesliga,2024-04-20,2023/2024,True,TSG Hoffenheim,Borussia M'gladbach,4.0,3.0,2.35,1.03
+Bundesliga,2024-04-20,2023/2024,True,Wolfsburg,Bochum,1.0,0.0,0.85,1.3
+Bundesliga,2024-04-20,2023/2024,True,Union Berlin,Bayern Munich,1.0,5.0,1.45,1.43
+Bundesliga,2024-04-21,2023/2024,True,Werder Bremen,VfB Stuttgart,2.0,1.0,1.54,2.22
+Bundesliga,2024-04-21,2023/2024,True,Borussia Dortmund,Bayer Leverkusen,1.0,1.0,0.49,1.14
+Bundesliga,2024-04-21,2023/2024,True,SC Freiburg,Mainz,1.0,1.0,1.12,1.06
+Bundesliga,2024-04-26,2023/2024,True,Bochum,TSG Hoffenheim,3.0,2.0,3.31,1.01
+Bundesliga,2024-04-27,2023/2024,True,Augsburg,Werder Bremen,0.0,3.0,0.59,2.03
+Bundesliga,2024-04-27,2023/2024,True,Bayern Munich,Eintracht Frankfurt,2.0,1.0,3.36,0.49
+Bundesliga,2024-04-27,2023/2024,True,SC Freiburg,Wolfsburg,1.0,2.0,2.25,0.52
+Bundesliga,2024-04-27,2023/2024,True,RB Leipzig,Borussia Dortmund,4.0,1.0,2.61,1.67
+Bundesliga,2024-04-27,2023/2024,True,Bayer Leverkusen,VfB Stuttgart,2.0,2.0,1.43,1.66
+Bundesliga,2024-04-28,2023/2024,True,Borussia M'gladbach,Union Berlin,0.0,0.0,0.88,1.02
+Bundesliga,2024-04-28,2023/2024,True,Mainz,Cologne,1.0,1.0,1.57,2.55
+Bundesliga,2024-04-28,2023/2024,True,Darmstadt,Heidenheim,0.0,1.0,0.73,1.59
+Bundesliga,2024-05-03,2023/2024,True,TSG Hoffenheim,RB Leipzig,1.0,1.0,1.61,0.81
+Bundesliga,2024-05-04,2023/2024,True,Borussia Dortmund,Augsburg,5.0,1.0,4.4,2.6
+Bundesliga,2024-05-04,2023/2024,True,VfB Stuttgart,Bayern Munich,3.0,1.0,1.81,1.7
+Bundesliga,2024-05-04,2023/2024,True,Werder Bremen,Borussia M'gladbach,2.0,2.0,1.44,1.93
+Bundesliga,2024-05-04,2023/2024,True,Wolfsburg,Darmstadt,3.0,0.0,2.19,0.38
+Bundesliga,2024-05-04,2023/2024,True,Cologne,SC Freiburg,0.0,0.0,0.92,0.82
+Bundesliga,2024-05-05,2023/2024,True,Union Berlin,Bochum,3.0,4.0,0.94,1.42
+Bundesliga,2024-05-05,2023/2024,True,Eintracht Frankfurt,Bayer Leverkusen,1.0,5.0,1.95,2.68
+Bundesliga,2024-05-05,2023/2024,True,Heidenheim,Mainz,1.0,1.0,0.94,1.4
+Bundesliga,2024-05-10,2023/2024,True,Augsburg,VfB Stuttgart,0.0,1.0,0.68,1.91
+Bundesliga,2024-05-11,2023/2024,True,Borussia M'gladbach,Eintracht Frankfurt,1.0,1.0,0.43,1.59
+Bundesliga,2024-05-11,2023/2024,True,Cologne,Union Berlin,3.0,2.0,3.21,1.64
+Bundesliga,2024-05-11,2023/2024,True,SC Freiburg,Heidenheim,1.0,1.0,1.54,0.66
+Bundesliga,2024-05-11,2023/2024,True,RB Leipzig,Werder Bremen,1.0,1.0,1.44,1.05
+Bundesliga,2024-05-11,2023/2024,True,Mainz,Borussia Dortmund,3.0,0.0,2.19,0.36
+Bundesliga,2024-05-12,2023/2024,True,Darmstadt,TSG Hoffenheim,0.0,6.0,0.63,3.27
+Bundesliga,2024-05-12,2023/2024,True,Bayern Munich,Wolfsburg,2.0,0.0,0.29,0.16
+Bundesliga,2024-05-12,2023/2024,True,Bochum,Bayer Leverkusen,0.0,5.0,0.3,4.26
+Bundesliga,2024-05-18,2023/2024,True,Bayer Leverkusen,Augsburg,2.0,1.0,2.45,1.17
+Bundesliga,2024-05-18,2023/2024,True,Borussia Dortmund,Darmstadt,4.0,0.0,2.57,0.32
+Bundesliga,2024-05-18,2023/2024,True,Eintracht Frankfurt,RB Leipzig,2.0,2.0,2.12,1.63
+Bundesliga,2024-05-18,2023/2024,True,Heidenheim,Cologne,4.0,1.0,1.01,2.29
+Bundesliga,2024-05-18,2023/2024,True,TSG Hoffenheim,Bayern Munich,4.0,2.0,1.78,1.52
+Bundesliga,2024-05-18,2023/2024,True,Union Berlin,SC Freiburg,2.0,1.0,2.31,0.98
+Bundesliga,2024-05-18,2023/2024,True,VfB Stuttgart,Borussia M'gladbach,4.0,0.0,1.59,1.41
+Bundesliga,2024-05-18,2023/2024,True,Werder Bremen,Bochum,4.0,1.0,3.02,2.09
+Bundesliga,2024-05-18,2023/2024,True,Wolfsburg,Mainz,1.0,3.0,0.76,1.8
+Bundesliga,2024-08-23,2024/2025,True,Borussia M'gladbach,Bayer Leverkusen,2.0,3.0,1.58,2.7
+Bundesliga,2024-08-24,2024/2025,True,Augsburg,Werder Bremen,2.0,2.0,1.03,1.45
+Bundesliga,2024-08-24,2024/2025,True,SC Freiburg,VfB Stuttgart,3.0,1.0,2.13,0.35
+Bundesliga,2024-08-24,2024/2025,True,TSG Hoffenheim,Holstein Kiel,3.0,2.0,3.48,1.88
+Bundesliga,2024-08-24,2024/2025,True,Mainz,Union Berlin,1.0,1.0,1.17,0.63
+Bundesliga,2024-08-24,2024/2025,True,RB Leipzig,Bochum,1.0,0.0,1.34,0.97
+Bundesliga,2024-08-24,2024/2025,True,Borussia Dortmund,Eintracht Frankfurt,2.0,0.0,1.73,1.37
+Bundesliga,2024-08-25,2024/2025,True,Wolfsburg,Bayern Munich,2.0,3.0,1.86,2.42
+Bundesliga,2024-08-25,2024/2025,True,St Pauli,Heidenheim,0.0,2.0,1.21,1.12
+Bundesliga,2024-08-30,2024/2025,True,Union Berlin,St Pauli,1.0,0.0,1.07,0.53
+Bundesliga,2024-08-31,2024/2025,True,Bochum,Borussia M'gladbach,0.0,2.0,0.68,2.94
+Bundesliga,2024-08-31,2024/2025,True,Eintracht Frankfurt,TSG Hoffenheim,3.0,1.0,2.39,0.99
+Bundesliga,2024-08-31,2024/2025,True,Holstein Kiel,Wolfsburg,0.0,2.0,1.1,1.29
+Bundesliga,2024-08-31,2024/2025,True,VfB Stuttgart,Mainz,3.0,3.0,3.85,2.26
+Bundesliga,2024-08-31,2024/2025,True,Werder Bremen,Borussia Dortmund,0.0,0.0,0.35,0.63
+Bundesliga,2024-08-31,2024/2025,True,Bayer Leverkusen,RB Leipzig,2.0,3.0,2.23,1.14
+Bundesliga,2024-09-01,2024/2025,True,Heidenheim,Augsburg,4.0,0.0,3.08,0.74
+Bundesliga,2024-09-01,2024/2025,True,Bayern Munich,SC Freiburg,2.0,0.0,1.59,1.09
+Bundesliga,2024-09-13,2024/2025,True,Borussia Dortmund,Heidenheim,4.0,2.0,2.69,1.8
+Bundesliga,2024-09-14,2024/2025,True,Borussia M'gladbach,VfB Stuttgart,1.0,3.0,1.65,2.2
+Bundesliga,2024-09-14,2024/2025,True,SC Freiburg,Bochum,2.0,1.0,3.88,0.92
+Bundesliga,2024-09-14,2024/2025,True,TSG Hoffenheim,Bayer Leverkusen,1.0,4.0,0.92,3.56
+Bundesliga,2024-09-14,2024/2025,True,RB Leipzig,Union Berlin,0.0,0.0,1.29,0.61
+Bundesliga,2024-09-14,2024/2025,True,Wolfsburg,Eintracht Frankfurt,1.0,2.0,1.58,2.53
+Bundesliga,2024-09-14,2024/2025,True,Holstein Kiel,Bayern Munich,1.0,6.0,0.32,3.26
+Bundesliga,2024-09-15,2024/2025,True,Augsburg,St Pauli,3.0,1.0,2.74,0.51
+Bundesliga,2024-09-15,2024/2025,True,Mainz,Werder Bremen,1.0,2.0,1.13,2.06
+Bundesliga,2024-09-20,2024/2025,True,Augsburg,Mainz,2.0,3.0,2.46,1.11
+Bundesliga,2024-09-21,2024/2025,True,Bochum,Holstein Kiel,2.0,2.0,0.77,1.87
+Bundesliga,2024-09-21,2024/2025,True,Heidenheim,SC Freiburg,0.0,3.0,0.68,1.39
+Bundesliga,2024-09-21,2024/2025,True,Union Berlin,TSG Hoffenheim,2.0,1.0,1.21,0.39
+Bundesliga,2024-09-21,2024/2025,True,Werder Bremen,Bayern Munich,0.0,5.0,0.0,3.02
+Bundesliga,2024-09-21,2024/2025,True,Eintracht Frankfurt,Borussia M'gladbach,2.0,0.0,2.74,1.74
+Bundesliga,2024-09-22,2024/2025,True,Bayer Leverkusen,Wolfsburg,4.0,3.0,1.94,0.71
+Bundesliga,2024-09-22,2024/2025,True,VfB Stuttgart,Borussia Dortmund,5.0,1.0,3.39,0.66
+Bundesliga,2024-09-22,2024/2025,True,St Pauli,RB Leipzig,0.0,0.0,1.38,0.66
+Bundesliga,2024-09-27,2024/2025,True,Borussia Dortmund,Bochum,4.0,2.0,3.25,1.27
+Bundesliga,2024-09-28,2024/2025,True,Borussia M'gladbach,Union Berlin,1.0,0.0,0.86,0.66
+Bundesliga,2024-09-28,2024/2025,True,SC Freiburg,St Pauli,0.0,3.0,1.16,1.11
+Bundesliga,2024-09-28,2024/2025,True,Mainz,Heidenheim,0.0,2.0,0.57,1.19
+Bundesliga,2024-09-28,2024/2025,True,RB Leipzig,Augsburg,4.0,0.0,3.05,1.08
+Bundesliga,2024-09-28,2024/2025,True,Wolfsburg,VfB Stuttgart,2.0,2.0,1.1,1.85
+Bundesliga,2024-09-28,2024/2025,True,Bayern Munich,Bayer Leverkusen,1.0,1.0,1.38,0.06
+Bundesliga,2024-09-29,2024/2025,True,Holstein Kiel,Eintracht Frankfurt,2.0,4.0,1.07,2.22
+Bundesliga,2024-09-29,2024/2025,True,TSG Hoffenheim,Werder Bremen,3.0,4.0,1.22,3.05
+Bundesliga,2024-10-04,2024/2025,True,Augsburg,Borussia M'gladbach,2.0,1.0,1.29,0.5
+Bundesliga,2024-10-05,2024/2025,True,Bayer Leverkusen,Holstein Kiel,2.0,2.0,2.08,1.65
+Bundesliga,2024-10-05,2024/2025,True,Bochum,Wolfsburg,1.0,3.0,1.75,2.47
+Bundesliga,2024-10-05,2024/2025,True,Union Berlin,Borussia Dortmund,2.0,1.0,1.48,0.74
+Bundesliga,2024-10-05,2024/2025,True,Werder Bremen,SC Freiburg,0.0,1.0,1.01,1.04
+Bundesliga,2024-10-05,2024/2025,True,St Pauli,Mainz,0.0,3.0,1.09,1.1
+Bundesliga,2024-10-06,2024/2025,True,Heidenheim,RB Leipzig,0.0,1.0,1.05,1.49
+Bundesliga,2024-10-06,2024/2025,True,Eintracht Frankfurt,Bayern Munich,3.0,3.0,1.21,2.18
+Bundesliga,2024-10-06,2024/2025,True,VfB Stuttgart,TSG Hoffenheim,1.0,1.0,2.05,0.89
+Bundesliga,2024-10-18,2024/2025,True,Borussia Dortmund,St Pauli,2.0,1.0,2.95,0.63
+Bundesliga,2024-10-19,2024/2025,True,Bayer Leverkusen,Eintracht Frankfurt,2.0,1.0,3.89,1.94
+Bundesliga,2024-10-19,2024/2025,True,Borussia M'gladbach,Heidenheim,3.0,2.0,3.61,2.09
+Bundesliga,2024-10-19,2024/2025,True,SC Freiburg,Augsburg,3.0,1.0,0.81,0.56
+Bundesliga,2024-10-19,2024/2025,True,TSG Hoffenheim,Bochum,3.0,1.0,2.45,2.66
+Bundesliga,2024-10-19,2024/2025,True,Mainz,RB Leipzig,0.0,2.0,0.6,1.93
+Bundesliga,2024-10-19,2024/2025,True,Bayern Munich,VfB Stuttgart,4.0,0.0,3.38,0.51
+Bundesliga,2024-10-20,2024/2025,True,Holstein Kiel,Union Berlin,0.0,2.0,1.37,1.13
+Bundesliga,2024-10-20,2024/2025,True,Wolfsburg,Werder Bremen,2.0,4.0,1.81,2.04
+Bundesliga,2024-10-25,2024/2025,True,Mainz,Borussia M'gladbach,1.0,1.0,1.68,0.6
+Bundesliga,2024-10-26,2024/2025,True,Augsburg,Borussia Dortmund,2.0,1.0,0.55,0.99
+Bundesliga,2024-10-26,2024/2025,True,RB Leipzig,SC Freiburg,3.0,1.0,1.84,1.73
+Bundesliga,2024-10-26,2024/2025,True,St Pauli,Wolfsburg,0.0,0.0,0.79,1.09
+Bundesliga,2024-10-26,2024/2025,True,VfB Stuttgart,Holstein Kiel,2.0,1.0,1.63,0.51
+Bundesliga,2024-10-26,2024/2025,True,Werder Bremen,Bayer Leverkusen,2.0,2.0,1.6,1.33
+Bundesliga,2024-10-27,2024/2025,True,Bochum,Bayern Munich,0.0,5.0,0.56,2.2
+Bundesliga,2024-10-27,2024/2025,True,Union Berlin,Eintracht Frankfurt,1.0,1.0,1.45,1.81
+Bundesliga,2024-10-27,2024/2025,True,Heidenheim,TSG Hoffenheim,0.0,0.0,1.57,0.7
+Bundesliga,2024-11-01,2024/2025,True,Bayer Leverkusen,VfB Stuttgart,0.0,0.0,2.36,0.28
+Bundesliga,2024-11-02,2024/2025,True,Bayern Munich,Union Berlin,3.0,0.0,2.51,0.49
+Bundesliga,2024-11-02,2024/2025,True,Eintracht Frankfurt,Bochum,7.0,2.0,3.53,1.79
+Bundesliga,2024-11-02,2024/2025,True,TSG Hoffenheim,St Pauli,0.0,2.0,0.75,0.94
+Bundesliga,2024-11-02,2024/2025,True,Holstein Kiel,Heidenheim,1.0,0.0,1.09,1.23
+Bundesliga,2024-11-02,2024/2025,True,Wolfsburg,Augsburg,1.0,1.0,1.24,0.43
+Bundesliga,2024-11-02,2024/2025,True,Borussia Dortmund,RB Leipzig,2.0,1.0,2.21,0.48
+Bundesliga,2024-11-03,2024/2025,True,SC Freiburg,Mainz,0.0,0.0,0.77,0.53
+Bundesliga,2024-11-03,2024/2025,True,Borussia M'gladbach,Werder Bremen,4.0,1.0,2.48,1.41
+Bundesliga,2024-11-08,2024/2025,True,Union Berlin,SC Freiburg,0.0,0.0,0.75,1.69
+Bundesliga,2024-11-09,2024/2025,True,Bochum,Bayer Leverkusen,1.0,1.0,0.7,1.24
+Bundesliga,2024-11-09,2024/2025,True,Mainz,Borussia Dortmund,3.0,1.0,2.02,0.86
+Bundesliga,2024-11-09,2024/2025,True,St Pauli,Bayern Munich,0.0,1.0,0.08,0.8
+Bundesliga,2024-11-09,2024/2025,True,Werder Bremen,Holstein Kiel,2.0,1.0,1.72,0.6
+Bundesliga,2024-11-09,2024/2025,True,RB Leipzig,Borussia M'gladbach,0.0,0.0,0.98,0.92
+Bundesliga,2024-11-10,2024/2025,True,Augsburg,TSG Hoffenheim,0.0,0.0,0.94,0.46
+Bundesliga,2024-11-10,2024/2025,True,VfB Stuttgart,Eintracht Frankfurt,2.0,3.0,2.57,1.33
+Bundesliga,2024-11-10,2024/2025,True,Heidenheim,Wolfsburg,1.0,3.0,2.42,1.5
+Bundesliga,2024-11-22,2024/2025,True,Bayern Munich,Augsburg,3.0,0.0,3.75,0.1
+Bundesliga,2024-11-23,2024/2025,True,Bayer Leverkusen,Heidenheim,5.0,2.0,2.23,1.06
+Bundesliga,2024-11-23,2024/2025,True,Borussia Dortmund,SC Freiburg,4.0,0.0,1.34,0.82
+Bundesliga,2024-11-23,2024/2025,True,TSG Hoffenheim,RB Leipzig,4.0,3.0,2.01,1.6
+Bundesliga,2024-11-23,2024/2025,True,VfB Stuttgart,Bochum,2.0,0.0,1.67,0.69
+Bundesliga,2024-11-23,2024/2025,True,Wolfsburg,Union Berlin,1.0,0.0,0.58,0.51
+Bundesliga,2024-11-23,2024/2025,True,Eintracht Frankfurt,Werder Bremen,1.0,0.0,1.14,0.36
+Bundesliga,2024-11-24,2024/2025,True,Holstein Kiel,Mainz,0.0,3.0,0.43,2.32
+Bundesliga,2024-11-24,2024/2025,True,Borussia M'gladbach,St Pauli,2.0,0.0,2.34,1.18
+Bundesliga,2024-11-29,2024/2025,True,St Pauli,Holstein Kiel,3.0,1.0,1.33,1.18
+Bundesliga,2024-11-30,2024/2025,True,Augsburg,Bochum,1.0,0.0,1.88,0.26
+Bundesliga,2024-11-30,2024/2025,True,SC Freiburg,Borussia M'gladbach,3.0,1.0,1.64,1.56
+Bundesliga,2024-11-30,2024/2025,True,RB Leipzig,Wolfsburg,1.0,5.0,1.07,2.33
+Bundesliga,2024-11-30,2024/2025,True,Union Berlin,Bayer Leverkusen,1.0,2.0,0.71,0.94
+Bundesliga,2024-11-30,2024/2025,True,Werder Bremen,VfB Stuttgart,2.0,2.0,1.59,1.75
+Bundesliga,2024-11-30,2024/2025,True,Borussia Dortmund,Bayern Munich,1.0,1.0,0.6,1.55
+Bundesliga,2024-12-01,2024/2025,True,Mainz,TSG Hoffenheim,2.0,0.0,2.38,0.44
+Bundesliga,2024-12-01,2024/2025,True,Heidenheim,Eintracht Frankfurt,0.0,4.0,0.7,2.65
+Bundesliga,2024-12-06,2024/2025,True,VfB Stuttgart,Union Berlin,3.0,2.0,2.11,1.39
+Bundesliga,2024-12-07,2024/2025,True,Bayer Leverkusen,St Pauli,2.0,1.0,0.88,1.83
+Bundesliga,2024-12-07,2024/2025,True,Bayern Munich,Heidenheim,4.0,2.0,2.42,1.29
+Bundesliga,2024-12-07,2024/2025,True,Bochum,Werder Bremen,0.0,1.0,1.21,0.82
+Bundesliga,2024-12-07,2024/2025,True,Eintracht Frankfurt,Augsburg,2.0,2.0,1.73,0.67
+Bundesliga,2024-12-07,2024/2025,True,Holstein Kiel,RB Leipzig,0.0,2.0,1.16,1.59
+Bundesliga,2024-12-07,2024/2025,True,Borussia M'gladbach,Borussia Dortmund,1.0,1.0,1.13,1.53
+Bundesliga,2024-12-08,2024/2025,True,Wolfsburg,Mainz,4.0,3.0,1.24,2.61
+Bundesliga,2024-12-08,2024/2025,True,TSG Hoffenheim,SC Freiburg,1.0,1.0,1.41,1.03
+Bundesliga,2024-12-13,2024/2025,True,SC Freiburg,Wolfsburg,3.0,2.0,2.18,1.81
+Bundesliga,2024-12-14,2024/2025,True,Augsburg,Bayer Leverkusen,0.0,2.0,0.56,0.79
+Bundesliga,2024-12-14,2024/2025,True,Borussia M'gladbach,Holstein Kiel,4.0,1.0,2.39,0.57
+Bundesliga,2024-12-14,2024/2025,True,Mainz,Bayern Munich,2.0,1.0,1.06,1.39
+Bundesliga,2024-12-14,2024/2025,True,Union Berlin,Bochum,0.0,2.0,2.5,0.97
+Bundesliga,2024-12-14,2024/2025,True,St Pauli,Werder Bremen,0.0,2.0,0.63,1.02
+Bundesliga,2024-12-15,2024/2025,True,Heidenheim,VfB Stuttgart,1.0,3.0,0.81,2.38
+Bundesliga,2024-12-15,2024/2025,True,Borussia Dortmund,TSG Hoffenheim,1.0,1.0,0.5,1.01
+Bundesliga,2024-12-15,2024/2025,True,RB Leipzig,Eintracht Frankfurt,2.0,1.0,1.99,0.92
+Bundesliga,2024-12-20,2024/2025,True,Bayern Munich,RB Leipzig,5.0,1.0,3.29,0.34
+Bundesliga,2024-12-21,2024/2025,True,Eintracht Frankfurt,Mainz,1.0,3.0,2.58,0.6
+Bundesliga,2024-12-21,2024/2025,True,TSG Hoffenheim,Borussia M'gladbach,1.0,2.0,3.44,0.76
+Bundesliga,2024-12-21,2024/2025,True,Holstein Kiel,Augsburg,5.0,1.0,1.67,1.55
+Bundesliga,2024-12-21,2024/2025,True,VfB Stuttgart,St Pauli,0.0,1.0,2.09,2.16
+Bundesliga,2024-12-21,2024/2025,True,Werder Bremen,Union Berlin,4.0,1.0,2.39,1.34
+Bundesliga,2024-12-21,2024/2025,True,Bayer Leverkusen,SC Freiburg,5.0,1.0,2.86,0.67
+Bundesliga,2024-12-22,2024/2025,True,Bochum,Heidenheim,2.0,0.0,1.64,0.59
+Bundesliga,2024-12-22,2024/2025,True,Wolfsburg,Borussia Dortmund,1.0,3.0,1.5,2.84
+Bundesliga,2025-01-10,2024/2025,True,Borussia Dortmund,Bayer Leverkusen,2.0,3.0,1.35,1.5
+Bundesliga,2025-01-11,2024/2025,True,Heidenheim,Union Berlin,2.0,0.0,1.4,1.16
+Bundesliga,2025-01-11,2024/2025,True,SC Freiburg,Holstein Kiel,3.0,2.0,0.69,1.82
+Bundesliga,2025-01-11,2024/2025,True,TSG Hoffenheim,Wolfsburg,0.0,1.0,0.98,0.75
+Bundesliga,2025-01-11,2024/2025,True,Mainz,Bochum,2.0,0.0,1.91,0.6
+Bundesliga,2025-01-11,2024/2025,True,St Pauli,Eintracht Frankfurt,0.0,1.0,2.25,1.53
+Bundesliga,2025-01-11,2024/2025,True,Borussia M'gladbach,Bayern Munich,0.0,1.0,0.35,4.28
+Bundesliga,2025-01-12,2024/2025,True,RB Leipzig,Werder Bremen,4.0,2.0,2.15,1.5
+Bundesliga,2025-01-12,2024/2025,True,Augsburg,VfB Stuttgart,0.0,1.0,0.3,2.43
+Bundesliga,2025-01-14,2024/2025,True,Holstein Kiel,Borussia Dortmund,4.0,2.0,1.56,1.05
+Bundesliga,2025-01-14,2024/2025,True,Bayer Leverkusen,Mainz,1.0,0.0,1.85,0.72
+Bundesliga,2025-01-14,2024/2025,True,Eintracht Frankfurt,SC Freiburg,4.0,1.0,2.47,0.52
+Bundesliga,2025-01-14,2024/2025,True,Wolfsburg,Borussia M'gladbach,5.0,1.0,3.89,1.11
+Bundesliga,2025-01-15,2024/2025,True,Bochum,St Pauli,1.0,0.0,1.45,0.68
+Bundesliga,2025-01-15,2024/2025,True,Bayern Munich,TSG Hoffenheim,5.0,0.0,3.42,0.24
+Bundesliga,2025-01-15,2024/2025,True,Union Berlin,Augsburg,0.0,2.0,0.75,1.26
+Bundesliga,2025-01-15,2024/2025,True,VfB Stuttgart,RB Leipzig,2.0,1.0,2.57,0.93
+Bundesliga,2025-01-15,2024/2025,True,Werder Bremen,Heidenheim,3.0,3.0,1.54,1.48
+Bundesliga,2025-01-17,2024/2025,True,Eintracht Frankfurt,Borussia Dortmund,2.0,0.0,1.7,0.82
+Bundesliga,2025-01-18,2024/2025,True,Bayern Munich,Wolfsburg,3.0,2.0,3.07,0.54
+Bundesliga,2025-01-18,2024/2025,True,Bochum,RB Leipzig,3.0,3.0,3.09,2.21
+Bundesliga,2025-01-18,2024/2025,True,Heidenheim,St Pauli,0.0,2.0,0.66,1.95
+Bundesliga,2025-01-18,2024/2025,True,Holstein Kiel,TSG Hoffenheim,1.0,3.0,1.04,0.77
+Bundesliga,2025-01-18,2024/2025,True,VfB Stuttgart,SC Freiburg,4.0,0.0,2.03,0.26
+Bundesliga,2025-01-18,2024/2025,True,Bayer Leverkusen,Borussia M'gladbach,3.0,1.0,2.07,0.63
+Bundesliga,2025-01-19,2024/2025,True,Union Berlin,Mainz,2.0,1.0,2.14,1.68
+Bundesliga,2025-01-19,2024/2025,True,Werder Bremen,Augsburg,0.0,2.0,1.34,1.22
+Bundesliga,2025-01-24,2024/2025,True,Wolfsburg,Holstein Kiel,2.0,2.0,1.98,0.22
+Bundesliga,2025-01-25,2024/2025,True,Augsburg,Heidenheim,2.0,1.0,1.09,1.17
+Bundesliga,2025-01-25,2024/2025,True,Borussia Dortmund,Werder Bremen,2.0,2.0,0.95,1.27
+Bundesliga,2025-01-25,2024/2025,True,SC Freiburg,Bayern Munich,1.0,2.0,0.36,0.96
+Bundesliga,2025-01-25,2024/2025,True,Mainz,VfB Stuttgart,2.0,0.0,1.93,1.11
+Bundesliga,2025-01-25,2024/2025,True,RB Leipzig,Bayer Leverkusen,2.0,2.0,0.73,2.55
+Bundesliga,2025-01-25,2024/2025,True,Borussia M'gladbach,Bochum,3.0,0.0,2.26,0.55
+Bundesliga,2025-01-26,2024/2025,True,TSG Hoffenheim,Eintracht Frankfurt,2.0,2.0,2.42,2.39
+Bundesliga,2025-01-26,2024/2025,True,St Pauli,Union Berlin,3.0,0.0,1.24,1.08
+Bundesliga,2025-01-31,2024/2025,True,Werder Bremen,Mainz,1.0,0.0,2.67,1.25
+Bundesliga,2025-02-01,2024/2025,True,Bayern Munich,Holstein Kiel,4.0,3.0,3.44,1.85
+Bundesliga,2025-02-01,2024/2025,True,Bochum,SC Freiburg,0.0,1.0,0.98,1.72
+Bundesliga,2025-02-01,2024/2025,True,Heidenheim,Borussia Dortmund,1.0,2.0,0.58,2.37
+Bundesliga,2025-02-01,2024/2025,True,St Pauli,Augsburg,1.0,1.0,1.25,0.32
+Bundesliga,2025-02-01,2024/2025,True,VfB Stuttgart,Borussia M'gladbach,1.0,2.0,1.22,2.08
+Bundesliga,2025-02-01,2024/2025,True,Union Berlin,RB Leipzig,0.0,0.0,1.27,0.27
+Bundesliga,2025-02-02,2024/2025,True,Eintracht Frankfurt,Wolfsburg,1.0,1.0,1.17,1.3
+Bundesliga,2025-02-02,2024/2025,True,Bayer Leverkusen,TSG Hoffenheim,3.0,1.0,1.4,2.26
+Bundesliga,2025-02-07,2024/2025,True,Bayern Munich,Werder Bremen,3.0,0.0,4.05,0.13
+Bundesliga,2025-02-08,2024/2025,True,Borussia Dortmund,VfB Stuttgart,1.0,2.0,1.36,0.34
+Bundesliga,2025-02-08,2024/2025,True,SC Freiburg,Heidenheim,1.0,0.0,0.98,0.52
+Bundesliga,2025-02-08,2024/2025,True,TSG Hoffenheim,Union Berlin,0.0,4.0,1.06,2.86
+Bundesliga,2025-02-08,2024/2025,True,Mainz,Augsburg,0.0,0.0,1.31,0.34
+Bundesliga,2025-02-08,2024/2025,True,Wolfsburg,Bayer Leverkusen,0.0,0.0,0.68,1.51
+Bundesliga,2025-02-08,2024/2025,True,Borussia M'gladbach,Eintracht Frankfurt,1.0,1.0,0.38,2.15
+Bundesliga,2025-02-09,2024/2025,True,Holstein Kiel,Bochum,2.0,2.0,1.91,2.36
+Bundesliga,2025-02-09,2024/2025,True,RB Leipzig,St Pauli,2.0,0.0,1.54,0.57
+Bundesliga,2025-02-14,2024/2025,True,Augsburg,RB Leipzig,0.0,0.0,0.99,1.24
+Bundesliga,2025-02-15,2024/2025,True,Bochum,Borussia Dortmund,2.0,0.0,2.84,2.58
+Bundesliga,2025-02-15,2024/2025,True,St Pauli,SC Freiburg,0.0,1.0,0.17,1.26
+Bundesliga,2025-02-15,2024/2025,True,Union Berlin,Borussia M'gladbach,1.0,2.0,2.0,2.11
+Bundesliga,2025-02-15,2024/2025,True,VfB Stuttgart,Wolfsburg,1.0,2.0,0.83,1.61
+Bundesliga,2025-02-15,2024/2025,True,Bayer Leverkusen,Bayern Munich,0.0,0.0,2.16,0.05
+Bundesliga,2025-02-16,2024/2025,True,Werder Bremen,TSG Hoffenheim,1.0,3.0,1.12,1.39
+Bundesliga,2025-02-16,2024/2025,True,Eintracht Frankfurt,Holstein Kiel,3.0,1.0,2.53,1.41
+Bundesliga,2025-02-16,2024/2025,True,Heidenheim,Mainz,0.0,2.0,0.63,2.03
+Bundesliga,2025-02-21,2024/2025,True,SC Freiburg,Werder Bremen,5.0,0.0,1.84,1.25
+Bundesliga,2025-02-22,2024/2025,True,Borussia M'gladbach,Augsburg,0.0,3.0,1.03,1.49
+Bundesliga,2025-02-22,2024/2025,True,Holstein Kiel,Bayer Leverkusen,0.0,2.0,0.3,1.85
+Bundesliga,2025-02-22,2024/2025,True,Mainz,St Pauli,2.0,0.0,1.22,0.84
+Bundesliga,2025-02-22,2024/2025,True,Wolfsburg,Bochum,1.0,1.0,1.73,0.84
+Bundesliga,2025-02-22,2024/2025,True,Borussia Dortmund,Union Berlin,6.0,0.0,4.77,0.27
+Bundesliga,2025-02-23,2024/2025,True,RB Leipzig,Heidenheim,2.0,2.0,1.92,0.85
+Bundesliga,2025-02-23,2024/2025,True,Bayern Munich,Eintracht Frankfurt,4.0,0.0,3.89,0.53
+Bundesliga,2025-02-23,2024/2025,True,TSG Hoffenheim,VfB Stuttgart,1.0,1.0,1.05,2.16
+Bundesliga,2025-02-28,2024/2025,True,VfB Stuttgart,Bayern Munich,1.0,3.0,0.89,2.19
+Bundesliga,2025-03-01,2024/2025,True,Bochum,TSG Hoffenheim,0.0,1.0,0.9,0.59
+Bundesliga,2025-03-01,2024/2025,True,Heidenheim,Borussia M'gladbach,0.0,3.0,1.65,1.81
+Bundesliga,2025-03-01,2024/2025,True,RB Leipzig,Mainz,1.0,2.0,1.39,1.49
+Bundesliga,2025-03-01,2024/2025,True,St Pauli,Borussia Dortmund,0.0,2.0,0.41,1.66
+Bundesliga,2025-03-01,2024/2025,True,Werder Bremen,Wolfsburg,1.0,2.0,1.9,0.92
+Bundesliga,2025-03-01,2024/2025,True,Eintracht Frankfurt,Bayer Leverkusen,1.0,4.0,1.08,2.4
+Bundesliga,2025-03-02,2024/2025,True,Union Berlin,Holstein Kiel,0.0,1.0,1.23,1.02
+Bundesliga,2025-03-02,2024/2025,True,Augsburg,SC Freiburg,0.0,0.0,1.48,0.78
+Bundesliga,2025-03-07,2024/2025,True,Borussia M'gladbach,Mainz,1.0,3.0,1.37,1.51
+Bundesliga,2025-03-08,2024/2025,True,Bayer Leverkusen,Werder Bremen,0.0,2.0,1.62,1.15
+Bundesliga,2025-03-08,2024/2025,True,Bayern Munich,Bochum,2.0,3.0,2.37,1.09
+Bundesliga,2025-03-08,2024/2025,True,Borussia Dortmund,Augsburg,0.0,1.0,1.23,0.2
+Bundesliga,2025-03-08,2024/2025,True,Holstein Kiel,VfB Stuttgart,2.0,2.0,1.4,0.75
+Bundesliga,2025-03-08,2024/2025,True,Wolfsburg,St Pauli,1.0,1.0,1.96,1.64
+Bundesliga,2025-03-08,2024/2025,True,SC Freiburg,RB Leipzig,0.0,0.0,0.51,1.54
+Bundesliga,2025-03-09,2024/2025,True,Eintracht Frankfurt,Union Berlin,1.0,2.0,1.95,0.89
+Bundesliga,2025-03-09,2024/2025,True,TSG Hoffenheim,Heidenheim,1.0,1.0,1.31,1.25
+Bundesliga,2025-03-14,2024/2025,True,St Pauli,TSG Hoffenheim,1.0,0.0,2.01,0.17
+Bundesliga,2025-03-15,2024/2025,True,Augsburg,Wolfsburg,1.0,0.0,0.73,0.77
+Bundesliga,2025-03-15,2024/2025,True,Mainz,SC Freiburg,2.0,2.0,1.24,3.14
+Bundesliga,2025-03-15,2024/2025,True,Union Berlin,Bayern Munich,1.0,1.0,0.69,1.66
+Bundesliga,2025-03-15,2024/2025,True,Werder Bremen,Borussia M'gladbach,2.0,4.0,2.69,2.39
+Bundesliga,2025-03-15,2024/2025,True,RB Leipzig,Borussia Dortmund,2.0,0.0,1.87,3.06
+Bundesliga,2025-03-16,2024/2025,True,Bochum,Eintracht Frankfurt,1.0,3.0,1.41,2.54
+Bundesliga,2025-03-16,2024/2025,True,Heidenheim,Holstein Kiel,3.0,1.0,1.51,1.52
+Bundesliga,2025-03-16,2024/2025,True,VfB Stuttgart,Bayer Leverkusen,3.0,4.0,2.34,1.74
+Bundesliga,2025-03-28,2024/2025,True,Bayer Leverkusen,Bochum,3.0,1.0,1.97,0.48
+Bundesliga,2025-03-29,2024/2025,True,Bayern Munich,St Pauli,3.0,2.0,3.57,0.98
+Bundesliga,2025-03-29,2024/2025,True,Borussia M'gladbach,RB Leipzig,1.0,0.0,1.82,1.27
+Bundesliga,2025-03-29,2024/2025,True,TSG Hoffenheim,Augsburg,1.0,1.0,1.51,0.6
+Bundesliga,2025-03-29,2024/2025,True,Holstein Kiel,Werder Bremen,0.0,3.0,0.49,1.77
+Bundesliga,2025-03-29,2024/2025,True,Wolfsburg,Heidenheim,0.0,1.0,1.31,1.36
+Bundesliga,2025-03-29,2024/2025,True,Eintracht Frankfurt,VfB Stuttgart,1.0,0.0,3.98,1.09
+Bundesliga,2025-03-30,2024/2025,True,SC Freiburg,Union Berlin,1.0,2.0,1.4,1.03
+Bundesliga,2025-03-30,2024/2025,True,Borussia Dortmund,Mainz,3.0,1.0,2.85,0.81
+Bundesliga,2025-04-04,2024/2025,True,Augsburg,Bayern Munich,1.0,3.0,0.39,1.86
+Bundesliga,2025-04-05,2024/2025,True,Bochum,VfB Stuttgart,0.0,4.0,0.8,2.85
+Bundesliga,2025-04-05,2024/2025,True,Heidenheim,Bayer Leverkusen,0.0,1.0,0.96,0.35
+Bundesliga,2025-04-05,2024/2025,True,SC Freiburg,Borussia Dortmund,1.0,4.0,1.4,3.35
+Bundesliga,2025-04-05,2024/2025,True,Mainz,Holstein Kiel,1.0,1.0,1.86,0.94
+Bundesliga,2025-04-05,2024/2025,True,RB Leipzig,TSG Hoffenheim,3.0,1.0,1.64,0.87
+Bundesliga,2025-04-05,2024/2025,True,Werder Bremen,Eintracht Frankfurt,2.0,0.0,1.05,0.55
+Bundesliga,2025-04-06,2024/2025,True,St Pauli,Borussia M'gladbach,1.0,1.0,1.94,0.57
+Bundesliga,2025-04-06,2024/2025,True,Union Berlin,Wolfsburg,1.0,0.0,1.19,1.86
+Bundesliga,2025-04-11,2024/2025,True,Wolfsburg,RB Leipzig,2.0,3.0,1.62,1.34
+Bundesliga,2025-04-12,2024/2025,True,Bayer Leverkusen,Union Berlin,0.0,0.0,0.82,0.53
+Bundesliga,2025-04-12,2024/2025,True,Bochum,Augsburg,1.0,2.0,2.81,1.08
+Bundesliga,2025-04-12,2024/2025,True,Borussia M'gladbach,SC Freiburg,1.0,2.0,0.71,1.72
+Bundesliga,2025-04-12,2024/2025,True,TSG Hoffenheim,Mainz,2.0,0.0,1.69,1.18
+Bundesliga,2025-04-12,2024/2025,True,Holstein Kiel,St Pauli,1.0,2.0,0.5,1.22
+Bundesliga,2025-04-12,2024/2025,True,Bayern Munich,Borussia Dortmund,2.0,2.0,2.34,1.65
+Bundesliga,2025-04-13,2024/2025,True,VfB Stuttgart,Werder Bremen,1.0,2.0,1.67,1.48
+Bundesliga,2025-04-13,2024/2025,True,Eintracht Frankfurt,Heidenheim,3.0,0.0,3.7,1.73
+Bundesliga,2025-04-19,2024/2025,True,Heidenheim,Bayern Munich,0.0,4.0,0.58,3.22
+Bundesliga,2025-04-19,2024/2025,True,SC Freiburg,TSG Hoffenheim,3.0,2.0,1.29,1.68
+Bundesliga,2025-04-19,2024/2025,True,Mainz,Wolfsburg,2.0,2.0,2.75,1.83
+Bundesliga,2025-04-19,2024/2025,True,RB Leipzig,Holstein Kiel,1.0,1.0,1.94,0.8
+Bundesliga,2025-04-19,2024/2025,True,Werder Bremen,Bochum,1.0,0.0,1.81,0.69
+Bundesliga,2025-04-19,2024/2025,True,Union Berlin,VfB Stuttgart,4.0,4.0,1.33,0.94
+Bundesliga,2025-04-20,2024/2025,True,Augsburg,Eintracht Frankfurt,0.0,0.0,0.84,1.13
+Bundesliga,2025-04-20,2024/2025,True,Borussia Dortmund,Borussia M'gladbach,3.0,2.0,1.44,1.38
+Bundesliga,2025-04-20,2024/2025,True,St Pauli,Bayer Leverkusen,1.0,1.0,1.09,0.77
+Bundesliga,2025-04-25,2024/2025,True,VfB Stuttgart,Heidenheim,0.0,1.0,1.87,0.27
+Bundesliga,2025-04-26,2024/2025,True,Bayer Leverkusen,Augsburg,2.0,0.0,0.86,0.68
+Bundesliga,2025-04-26,2024/2025,True,Bayern Munich,Mainz,3.0,0.0,1.1,0.67
+Bundesliga,2025-04-26,2024/2025,True,TSG Hoffenheim,Borussia Dortmund,2.0,3.0,1.15,2.66
+Bundesliga,2025-04-26,2024/2025,True,Holstein Kiel,Borussia M'gladbach,4.0,3.0,3.49,1.69
+Bundesliga,2025-04-26,2024/2025,True,Wolfsburg,SC Freiburg,0.0,1.0,0.32,1.63
+Bundesliga,2025-04-26,2024/2025,True,Eintracht Frankfurt,RB Leipzig,4.0,0.0,2.13,0.36
+Bundesliga,2025-04-27,2024/2025,True,Bochum,Union Berlin,1.0,1.0,1.51,0.29
+Bundesliga,2025-04-27,2024/2025,True,Werder Bremen,St Pauli,0.0,0.0,1.26,0.62
+Bundesliga,2025-05-02,2024/2025,True,Heidenheim,Bochum,0.0,0.0,0.67,1.23
+Bundesliga,2025-05-03,2024/2025,True,Borussia M'gladbach,TSG Hoffenheim,4.0,4.0,1.42,1.85
+Bundesliga,2025-05-03,2024/2025,True,RB Leipzig,Bayern Munich,3.0,3.0,1.18,1.62
+Bundesliga,2025-05-03,2024/2025,True,St Pauli,VfB Stuttgart,0.0,1.0,0.22,2.96
+Bundesliga,2025-05-03,2024/2025,True,Union Berlin,Werder Bremen,2.0,2.0,1.48,1.56
+Bundesliga,2025-05-03,2024/2025,True,Borussia Dortmund,Wolfsburg,4.0,0.0,2.43,0.7
+Bundesliga,2025-05-04,2024/2025,True,Augsburg,Holstein Kiel,1.0,3.0,3.22,1.76
+Bundesliga,2025-05-04,2024/2025,True,SC Freiburg,Bayer Leverkusen,2.0,2.0,0.91,0.29
+Bundesliga,2025-05-04,2024/2025,True,Mainz,Eintracht Frankfurt,1.0,1.0,1.45,1.39
+Bundesliga,2025-05-09,2024/2025,True,Wolfsburg,TSG Hoffenheim,2.0,2.0,0.98,1.37
+Bundesliga,2025-05-10,2024/2025,True,Bochum,Mainz,1.0,4.0,0.9,1.5
+Bundesliga,2025-05-10,2024/2025,True,Holstein Kiel,SC Freiburg,1.0,2.0,0.98,1.58
+Bundesliga,2025-05-10,2024/2025,True,Union Berlin,Heidenheim,0.0,3.0,0.45,1.12
+Bundesliga,2025-05-10,2024/2025,True,Werder Bremen,RB Leipzig,0.0,0.0,2.06,1.72
+Bundesliga,2025-05-10,2024/2025,True,Bayern Munich,Borussia M'gladbach,2.0,0.0,2.58,1.7
+Bundesliga,2025-05-11,2024/2025,True,Bayer Leverkusen,Borussia Dortmund,2.0,4.0,2.2,1.16
+Bundesliga,2025-05-11,2024/2025,True,Eintracht Frankfurt,St Pauli,2.0,2.0,1.66,0.83
+Bundesliga,2025-05-11,2024/2025,True,VfB Stuttgart,Augsburg,4.0,0.0,4.14,0.49
+Bundesliga,2025-05-17,2024/2025,True,Augsburg,Union Berlin,1.0,2.0,1.7,0.82
+Bundesliga,2025-05-17,2024/2025,True,Borussia Dortmund,Holstein Kiel,3.0,0.0,2.43,0.81
+Bundesliga,2025-05-17,2024/2025,True,Borussia M'gladbach,Wolfsburg,0.0,1.0,1.0,1.66
+Bundesliga,2025-05-17,2024/2025,True,Heidenheim,Werder Bremen,1.0,4.0,1.59,2.21
+Bundesliga,2025-05-17,2024/2025,True,SC Freiburg,Eintracht Frankfurt,1.0,3.0,0.72,2.04
+Bundesliga,2025-05-17,2024/2025,True,TSG Hoffenheim,Bayern Munich,0.0,4.0,0.4,1.43
+Bundesliga,2025-05-17,2024/2025,True,Mainz,Bayer Leverkusen,2.0,2.0,3.08,1.24
+Bundesliga,2025-05-17,2024/2025,True,RB Leipzig,VfB Stuttgart,2.0,3.0,1.1,2.6
+Bundesliga,2025-05-17,2024/2025,True,St Pauli,Bochum,0.0,2.0,0.79,1.32
+Bundesliga,2025-08-22,2025/2026,True,Bayern Munich,RB Leipzig,6.0,0.0,1.72,0.54
+Bundesliga,2025-08-23,2025/2026,True,Bayer Leverkusen,TSG Hoffenheim,1.0,2.0,0.71,0.45
+Bundesliga,2025-08-23,2025/2026,True,Eintracht Frankfurt,Werder Bremen,4.0,1.0,2.74,0.53
+Bundesliga,2025-08-23,2025/2026,True,Heidenheim,Wolfsburg,1.0,3.0,0.72,2.45
+Bundesliga,2025-08-23,2025/2026,True,SC Freiburg,Augsburg,1.0,3.0,2.6,1.34
+Bundesliga,2025-08-23,2025/2026,True,Union Berlin,VfB Stuttgart,2.0,1.0,0.34,1.73
+Bundesliga,2025-08-23,2025/2026,True,St Pauli,Borussia Dortmund,3.0,3.0,1.29,1.56
+Bundesliga,2025-08-24,2025/2026,True,Mainz,Cologne,0.0,1.0,1.52,1.36
+Bundesliga,2025-08-24,2025/2026,True,Borussia M'gladbach,Hamburg,0.0,0.0,1.1,0.41
+Bundesliga,2025-08-29,2025/2026,True,Hamburg,St Pauli,0.0,2.0,0.35,1.44
+Bundesliga,2025-08-30,2025/2026,True,TSG Hoffenheim,Eintracht Frankfurt,1.0,3.0,1.37,1.56
+Bundesliga,2025-08-30,2025/2026,True,RB Leipzig,Heidenheim,2.0,0.0,2.23,1.02
+Bundesliga,2025-08-30,2025/2026,True,VfB Stuttgart,Borussia M'gladbach,1.0,0.0,0.84,1.82
+Bundesliga,2025-08-30,2025/2026,True,Werder Bremen,Bayer Leverkusen,3.0,3.0,2.59,2.1
+Bundesliga,2025-08-30,2025/2026,True,Augsburg,Bayern Munich,2.0,3.0,0.51,4.24
+Bundesliga,2025-08-31,2025/2026,True,Wolfsburg,Mainz,1.0,1.0,0.62,1.95
+Bundesliga,2025-08-31,2025/2026,True,Borussia Dortmund,Union Berlin,3.0,0.0,2.51,1.14
+Bundesliga,2025-08-31,2025/2026,True,Cologne,SC Freiburg,4.0,1.0,2.11,0.91
+Bundesliga,2025-09-12,2025/2026,True,Bayer Leverkusen,Eintracht Frankfurt,3.0,1.0,2.11,0.65
+Bundesliga,2025-09-13,2025/2026,True,Heidenheim,Borussia Dortmund,0.0,2.0,0.4,2.76
+Bundesliga,2025-09-13,2025/2026,True,SC Freiburg,VfB Stuttgart,3.0,1.0,1.55,0.53
+Bundesliga,2025-09-13,2025/2026,True,Mainz,RB Leipzig,0.0,1.0,0.9,1.79
+Bundesliga,2025-09-13,2025/2026,True,Union Berlin,TSG Hoffenheim,2.0,4.0,2.59,2.76
+Bundesliga,2025-09-13,2025/2026,True,Wolfsburg,Cologne,3.0,3.0,1.5,1.65
+Bundesliga,2025-09-13,2025/2026,True,Bayern Munich,Hamburg,5.0,0.0,2.54,0.58
+Bundesliga,2025-09-14,2025/2026,True,St Pauli,Augsburg,2.0,1.0,1.9,0.78
+Bundesliga,2025-09-14,2025/2026,True,Borussia M'gladbach,Werder Bremen,0.0,4.0,1.48,2.09
+Bundesliga,2025-09-19,2025/2026,True,VfB Stuttgart,St Pauli,2.0,0.0,2.11,0.95
+Bundesliga,2025-09-20,2025/2026,True,Augsburg,Mainz,1.0,4.0,1.12,2.52
+Bundesliga,2025-09-20,2025/2026,True,Hamburg,Heidenheim,2.0,1.0,2.35,2.98
+Bundesliga,2025-09-20,2025/2026,True,TSG Hoffenheim,Bayern Munich,1.0,4.0,0.85,3.04
+Bundesliga,2025-09-20,2025/2026,True,Werder Bremen,SC Freiburg,0.0,3.0,1.22,2.42
+Bundesliga,2025-09-20,2025/2026,True,RB Leipzig,Cologne,3.0,1.0,3.28,1.7
+Bundesliga,2025-09-21,2025/2026,True,Eintracht Frankfurt,Union Berlin,3.0,4.0,1.9,1.64
+Bundesliga,2025-09-21,2025/2026,True,Bayer Leverkusen,Borussia M'gladbach,1.0,1.0,1.46,0.81
+Bundesliga,2025-09-21,2025/2026,True,Borussia Dortmund,Wolfsburg,1.0,0.0,1.1,0.8
+Bundesliga,2025-09-26,2025/2026,True,Bayern Munich,Werder Bremen,4.0,0.0,3.46,0.41
+Bundesliga,2025-09-27,2025/2026,True,Heidenheim,Augsburg,2.0,1.0,1.24,0.82
+Bundesliga,2025-09-27,2025/2026,True,Mainz,Borussia Dortmund,0.0,2.0,0.48,1.44
+Bundesliga,2025-09-27,2025/2026,True,St Pauli,Bayer Leverkusen,1.0,2.0,0.82,0.69
+Bundesliga,2025-09-27,2025/2026,True,Wolfsburg,RB Leipzig,0.0,1.0,3.05,2.41
+Bundesliga,2025-09-27,2025/2026,True,Borussia M'gladbach,Eintracht Frankfurt,4.0,6.0,1.7,2.8
+Bundesliga,2025-09-28,2025/2026,True,SC Freiburg,TSG Hoffenheim,1.0,1.0,1.31,2.54
+Bundesliga,2025-09-28,2025/2026,True,Cologne,VfB Stuttgart,1.0,2.0,1.08,1.87
+Bundesliga,2025-09-28,2025/2026,True,Union Berlin,Hamburg,0.0,0.0,1.37,1.08
+Bundesliga,2025-10-03,2025/2026,True,TSG Hoffenheim,Cologne,0.0,1.0,1.12,0.94
+Bundesliga,2025-10-04,2025/2026,True,Augsburg,Wolfsburg,3.0,1.0,1.71,1.19
+Bundesliga,2025-10-04,2025/2026,True,Bayer Leverkusen,Union Berlin,2.0,0.0,2.87,0.74
+Bundesliga,2025-10-04,2025/2026,True,Borussia Dortmund,RB Leipzig,1.0,1.0,0.89,1.09
+Bundesliga,2025-10-04,2025/2026,True,Werder Bremen,St Pauli,1.0,0.0,1.86,0.76
+Bundesliga,2025-10-04,2025/2026,True,Eintracht Frankfurt,Bayern Munich,0.0,3.0,0.32,1.72
+Bundesliga,2025-10-05,2025/2026,True,VfB Stuttgart,Heidenheim,1.0,0.0,0.99,0.38
+Bundesliga,2025-10-05,2025/2026,True,Hamburg,Mainz,4.0,0.0,1.91,0.67
+Bundesliga,2025-10-05,2025/2026,True,Borussia M'gladbach,SC Freiburg,0.0,0.0,0.58,0.7
+Bundesliga,2025-10-17,2025/2026,True,Union Berlin,Borussia M'gladbach,3.0,1.0,1.23,0.63
+Bundesliga,2025-10-18,2025/2026,True,Heidenheim,Werder Bremen,2.0,2.0,3.26,1.31
+Bundesliga,2025-10-18,2025/2026,True,Cologne,Augsburg,1.0,1.0,0.58,1.12
+Bundesliga,2025-10-18,2025/2026,True,Mainz,Bayer Leverkusen,3.0,4.0,1.66,3.48
+Bundesliga,2025-10-18,2025/2026,True,RB Leipzig,Hamburg,2.0,1.0,1.06,1.53
+Bundesliga,2025-10-18,2025/2026,True,Wolfsburg,VfB Stuttgart,0.0,3.0,0.32,1.9
+Bundesliga,2025-10-18,2025/2026,True,Bayern Munich,Borussia Dortmund,2.0,1.0,2.48,1.58
+Bundesliga,2025-10-19,2025/2026,True,SC Freiburg,Eintracht Frankfurt,2.0,2.0,1.14,0.89
+Bundesliga,2025-10-19,2025/2026,True,St Pauli,TSG Hoffenheim,0.0,3.0,0.99,2.34
+Bundesliga,2025-10-24,2025/2026,True,Werder Bremen,Union Berlin,1.0,0.0,0.95,0.58
+Bundesliga,2025-10-25,2025/2026,True,Augsburg,RB Leipzig,0.0,6.0,0.73,2.77
+Bundesliga,2025-10-25,2025/2026,True,Eintracht Frankfurt,St Pauli,2.0,0.0,2.26,0.39
+Bundesliga,2025-10-25,2025/2026,True,Hamburg,Wolfsburg,0.0,1.0,2.77,0.37
+Bundesliga,2025-10-25,2025/2026,True,TSG Hoffenheim,Heidenheim,3.0,1.0,2.37,1.11
+Bundesliga,2025-10-25,2025/2026,True,Borussia M'gladbach,Bayern Munich,0.0,3.0,0.79,3.97
+Bundesliga,2025-10-25,2025/2026,True,Borussia Dortmund,Cologne,1.0,0.0,1.9,0.39
+Bundesliga,2025-10-26,2025/2026,True,Bayer Leverkusen,SC Freiburg,2.0,0.0,1.71,0.72
+Bundesliga,2025-10-26,2025/2026,True,VfB Stuttgart,Mainz,2.0,1.0,1.94,1.45
+Bundesliga,2025-10-31,2025/2026,True,Augsburg,Borussia Dortmund,0.0,1.0,0.83,0.32
+Bundesliga,2025-11-01,2025/2026,True,Heidenheim,Eintracht Frankfurt,1.0,1.0,0.85,0.96
+Bundesliga,2025-11-01,2025/2026,True,Mainz,Werder Bremen,1.0,1.0,1.42,1.04
+Bundesliga,2025-11-01,2025/2026,True,RB Leipzig,VfB Stuttgart,3.0,1.0,2.09,1.49
+Bundesliga,2025-11-01,2025/2026,True,St Pauli,Borussia M'gladbach,0.0,4.0,0.88,2.32
+Bundesliga,2025-11-01,2025/2026,True,Union Berlin,SC Freiburg,0.0,0.0,1.16,1.17
+Bundesliga,2025-11-01,2025/2026,True,Bayern Munich,Bayer Leverkusen,3.0,0.0,2.03,0.23
+Bundesliga,2025-11-02,2025/2026,True,Cologne,Hamburg,4.0,1.0,3.72,1.09
+Bundesliga,2025-11-02,2025/2026,True,Wolfsburg,TSG Hoffenheim,2.0,3.0,1.54,1.23
+Bundesliga,2025-11-07,2025/2026,True,Werder Bremen,Wolfsburg,2.0,1.0,1.45,0.57
+Bundesliga,2025-11-08,2025/2026,True,Bayer Leverkusen,Heidenheim,6.0,0.0,3.31,0.12
+Bundesliga,2025-11-08,2025/2026,True,Hamburg,Borussia Dortmund,1.0,1.0,0.57,1.03
+Bundesliga,2025-11-08,2025/2026,True,TSG Hoffenheim,RB Leipzig,3.0,1.0,1.82,1.81
+Bundesliga,2025-11-08,2025/2026,True,Union Berlin,Bayern Munich,2.0,2.0,0.8,1.41
+Bundesliga,2025-11-08,2025/2026,True,Borussia M'gladbach,Cologne,3.0,1.0,2.98,2.22
+Bundesliga,2025-11-09,2025/2026,True,SC Freiburg,St Pauli,2.0,1.0,1.02,0.53
+Bundesliga,2025-11-09,2025/2026,True,VfB Stuttgart,Augsburg,3.0,2.0,2.35,1.93
+Bundesliga,2025-11-09,2025/2026,True,Eintracht Frankfurt,Mainz,1.0,0.0,1.21,0.16
+Bundesliga,2025-11-21,2025/2026,True,Mainz,TSG Hoffenheim,1.0,1.0,2.03,1.38
+Bundesliga,2025-11-22,2025/2026,True,Augsburg,Hamburg,1.0,0.0,1.7,1.36
+Bundesliga,2025-11-22,2025/2026,True,Bayern Munich,SC Freiburg,6.0,2.0,3.03,0.57
+Bundesliga,2025-11-22,2025/2026,True,Borussia Dortmund,VfB Stuttgart,3.0,3.0,2.99,1.55
+Bundesliga,2025-11-22,2025/2026,True,Heidenheim,Borussia M'gladbach,0.0,3.0,0.33,2.18
+Bundesliga,2025-11-22,2025/2026,True,Wolfsburg,Bayer Leverkusen,1.0,3.0,2.13,1.1
+Bundesliga,2025-11-22,2025/2026,True,Cologne,Eintracht Frankfurt,3.0,4.0,1.22,1.81
+Bundesliga,2025-11-23,2025/2026,True,RB Leipzig,Werder Bremen,2.0,0.0,2.1,0.8
+Bundesliga,2025-11-23,2025/2026,True,St Pauli,Union Berlin,0.0,1.0,0.72,0.55
+Bundesliga,2025-11-28,2025/2026,True,Borussia M'gladbach,RB Leipzig,0.0,0.0,0.42,0.93
+Bundesliga,2025-11-29,2025/2026,True,Bayern Munich,St Pauli,3.0,1.0,2.3,0.64
+Bundesliga,2025-11-29,2025/2026,True,TSG Hoffenheim,Augsburg,3.0,0.0,2.08,0.96
+Bundesliga,2025-11-29,2025/2026,True,Union Berlin,Heidenheim,1.0,2.0,0.97,0.59
+Bundesliga,2025-11-29,2025/2026,True,Werder Bremen,Cologne,1.0,1.0,1.17,0.94
+Bundesliga,2025-11-29,2025/2026,True,Bayer Leverkusen,Borussia Dortmund,1.0,2.0,0.82,0.99
+Bundesliga,2025-11-30,2025/2026,True,Hamburg,VfB Stuttgart,2.0,1.0,0.98,0.75
+Bundesliga,2025-11-30,2025/2026,True,Eintracht Frankfurt,Wolfsburg,1.0,1.0,1.59,1.86
+Bundesliga,2025-11-30,2025/2026,True,SC Freiburg,Mainz,4.0,0.0,4.6,0.11
+Bundesliga,2025-12-05,2025/2026,True,Mainz,Borussia M'gladbach,0.0,1.0,0.97,1.85
+Bundesliga,2025-12-06,2025/2026,True,Augsburg,Bayer Leverkusen,2.0,0.0,1.28,1.63
+Bundesliga,2025-12-06,2025/2026,True,Heidenheim,SC Freiburg,2.0,1.0,2.14,1.0
+Bundesliga,2025-12-06,2025/2026,True,Cologne,St Pauli,1.0,1.0,1.91,0.14
+Bundesliga,2025-12-06,2025/2026,True,VfB Stuttgart,Bayern Munich,0.0,5.0,0.88,3.54
+Bundesliga,2025-12-06,2025/2026,True,Wolfsburg,Union Berlin,3.0,1.0,0.81,1.92
+Bundesliga,2025-12-06,2025/2026,True,RB Leipzig,Eintracht Frankfurt,6.0,0.0,3.77,0.65
+Bundesliga,2025-12-07,2025/2026,True,Hamburg,Werder Bremen,3.0,2.0,1.31,0.75
+Bundesliga,2025-12-07,2025/2026,True,Borussia Dortmund,TSG Hoffenheim,2.0,0.0,1.26,1.14
+Bundesliga,2025-12-12,2025/2026,True,Union Berlin,RB Leipzig,3.0,1.0,1.42,0.55
+Bundesliga,2025-12-13,2025/2026,True,Borussia M'gladbach,Wolfsburg,1.0,3.0,0.8,1.72
+Bundesliga,2025-12-13,2025/2026,True,Eintracht Frankfurt,Augsburg,1.0,0.0,1.05,0.62
+Bundesliga,2025-12-13,2025/2026,True,TSG Hoffenheim,Hamburg,4.0,1.0,1.31,1.38
+Bundesliga,2025-12-13,2025/2026,True,St Pauli,Heidenheim,2.0,1.0,0.8,2.43
+Bundesliga,2025-12-13,2025/2026,True,Bayer Leverkusen,Cologne,2.0,0.0,2.07,0.2
+Bundesliga,2025-12-14,2025/2026,True,SC Freiburg,Borussia Dortmund,1.0,1.0,1.5,0.93
+Bundesliga,2025-12-14,2025/2026,True,Bayern Munich,Mainz,2.0,2.0,4.5,0.6
+Bundesliga,2025-12-14,2025/2026,True,Werder Bremen,VfB Stuttgart,0.0,4.0,0.91,2.17
+Bundesliga,2025-12-19,2025/2026,True,Borussia Dortmund,Borussia M'gladbach,2.0,0.0,1.43,0.28
+Bundesliga,2025-12-20,2025/2026,True,Augsburg,Werder Bremen,0.0,0.0,1.03,0.6
+Bundesliga,2025-12-20,2025/2026,True,Cologne,Union Berlin,0.0,1.0,0.55,1.26
+Bundesliga,2025-12-20,2025/2026,True,Hamburg,Eintracht Frankfurt,1.0,1.0,0.75,1.59
+Bundesliga,2025-12-20,2025/2026,True,VfB Stuttgart,TSG Hoffenheim,0.0,0.0,1.27,0.13
+Bundesliga,2025-12-20,2025/2026,True,Wolfsburg,SC Freiburg,3.0,4.0,1.66,3.53
+Bundesliga,2025-12-20,2025/2026,True,RB Leipzig,Bayer Leverkusen,1.0,3.0,1.77,2.72
+Bundesliga,2025-12-21,2025/2026,True,Mainz,St Pauli,0.0,0.0,1.12,0.3
+Bundesliga,2025-12-21,2025/2026,True,Heidenheim,Bayern Munich,0.0,4.0,1.04,4.44
+Bundesliga,2026-01-09,2025/2026,True,Eintracht Frankfurt,Borussia Dortmund,3.0,3.0,1.58,2.39
+Bundesliga,2026-01-10,2025/2026,True,Heidenheim,Cologne,2.0,2.0,1.93,2.99
+Bundesliga,2026-01-10,2025/2026,True,SC Freiburg,Hamburg,2.0,1.0,2.85,0.66
+Bundesliga,2026-01-10,2025/2026,True,Union Berlin,Mainz,2.0,2.0,3.35,1.01
+Bundesliga,2026-01-10,2025/2026,True,Bayer Leverkusen,VfB Stuttgart,1.0,4.0,1.96,2.6
+Bundesliga,2026-01-11,2025/2026,True,Borussia M'gladbach,Augsburg,4.0,0.0,2.99,1.79
+Bundesliga,2026-01-11,2025/2026,True,Bayern Munich,Wolfsburg,8.0,1.0,3.33,1.39
+Bundesliga,2026-01-13,2025/2026,True,VfB Stuttgart,Eintracht Frankfurt,3.0,2.0,2.31,0.98
+Bundesliga,2026-01-13,2025/2026,True,Borussia Dortmund,Werder Bremen,3.0,0.0,2.42,0.52
+Bundesliga,2026-01-13,2025/2026,True,Mainz,Heidenheim,2.0,1.0,1.39,1.55
+Bundesliga,2026-01-14,2025/2026,True,Wolfsburg,St Pauli,2.0,1.0,1.88,0.89
+Bundesliga,2026-01-14,2025/2026,True,Cologne,Bayern Munich,1.0,3.0,0.72,1.5
+Bundesliga,2026-01-14,2025/2026,True,TSG Hoffenheim,Borussia M'gladbach,5.0,1.0,3.42,0.94
+Bundesliga,2026-01-14,2025/2026,True,RB Leipzig,SC Freiburg,2.0,0.0,2.48,0.17
+Bundesliga,2026-01-15,2025/2026,True,Augsburg,Union Berlin,1.0,1.0,0.55,1.31
+Bundesliga,2026-01-16,2025/2026,True,Werder Bremen,Eintracht Frankfurt,3.0,3.0,1.96,0.98
+Bundesliga,2026-01-17,2025/2026,True,Borussia Dortmund,St Pauli,3.0,2.0,3.2,0.54
+Bundesliga,2026-01-17,2025/2026,True,Cologne,Mainz,2.0,1.0,2.08,1.52
+Bundesliga,2026-01-17,2025/2026,True,Hamburg,Borussia M'gladbach,0.0,0.0,1.19,0.47
+Bundesliga,2026-01-17,2025/2026,True,TSG Hoffenheim,Bayer Leverkusen,1.0,0.0,1.55,0.96
+Bundesliga,2026-01-17,2025/2026,True,Wolfsburg,Heidenheim,1.0,1.0,0.92,1.0
+Bundesliga,2026-01-17,2025/2026,True,RB Leipzig,Bayern Munich,1.0,5.0,2.45,4.56
+Bundesliga,2026-01-18,2025/2026,True,VfB Stuttgart,Union Berlin,1.0,1.0,2.13,1.71
+Bundesliga,2026-01-18,2025/2026,True,Augsburg,SC Freiburg,2.0,2.0,0.91,1.53
+Bundesliga,2026-01-23,2025/2026,True,St Pauli,Hamburg,0.0,0.0,0.33,0.35
+Bundesliga,2026-01-24,2025/2026,True,Bayer Leverkusen,Werder Bremen,1.0,0.0,2.55,0.94
+Bundesliga,2026-01-24,2025/2026,True,Bayern Munich,Augsburg,1.0,2.0,1.48,1.17
+Bundesliga,2026-01-24,2025/2026,True,Eintracht Frankfurt,TSG Hoffenheim,1.0,3.0,0.59,1.35
+Bundesliga,2026-01-24,2025/2026,True,Heidenheim,RB Leipzig,0.0,3.0,0.95,1.64
+Bundesliga,2026-01-24,2025/2026,True,Mainz,Wolfsburg,3.0,1.0,3.82,0.73
+Bundesliga,2026-01-24,2025/2026,True,Union Berlin,Borussia Dortmund,0.0,3.0,1.24,1.84
+Bundesliga,2026-01-25,2025/2026,True,Borussia M'gladbach,VfB Stuttgart,0.0,3.0,1.17,1.56
+Bundesliga,2026-01-25,2025/2026,True,SC Freiburg,Cologne,2.0,1.0,2.25,1.38
+Bundesliga,2026-01-27,2025/2026,True,St Pauli,RB Leipzig,1.0,1.0,1.45,1.04
+Bundesliga,2026-01-27,2025/2026,True,Werder Bremen,TSG Hoffenheim,0.0,2.0,1.81,0.61
+Bundesliga,2026-01-30,2025/2026,True,Cologne,Wolfsburg,1.0,0.0,1.26,1.15
+Bundesliga,2026-01-31,2025/2026,True,Augsburg,St Pauli,2.0,1.0,1.13,2.46
+Bundesliga,2026-01-31,2025/2026,True,Eintracht Frankfurt,Bayer Leverkusen,1.0,3.0,1.1,1.15
+Bundesliga,2026-01-31,2025/2026,True,TSG Hoffenheim,Union Berlin,3.0,1.0,1.37,1.84
+Bundesliga,2026-01-31,2025/2026,True,RB Leipzig,Mainz,1.0,2.0,1.74,2.33
+Bundesliga,2026-01-31,2025/2026,True,Werder Bremen,Borussia M'gladbach,1.0,1.0,1.24,0.89
+Bundesliga,2026-01-31,2025/2026,True,Hamburg,Bayern Munich,2.0,2.0,2.25,2.41
+Bundesliga,2026-02-01,2025/2026,True,VfB Stuttgart,SC Freiburg,1.0,0.0,1.79,0.7
+Bundesliga,2026-02-01,2025/2026,True,Borussia Dortmund,Heidenheim,3.0,2.0,3.32,2.31
+Bundesliga,2026-02-06,2025/2026,True,Union Berlin,Eintracht Frankfurt,1.0,1.0,1.53,0.14
+Bundesliga,2026-02-07,2025/2026,True,Heidenheim,Hamburg,0.0,2.0,1.55,1.61
+Bundesliga,2026-02-07,2025/2026,True,SC Freiburg,Werder Bremen,1.0,0.0,0.46,0.97
+Bundesliga,2026-02-07,2025/2026,True,Mainz,Augsburg,2.0,0.0,2.41,0.7
+Bundesliga,2026-02-07,2025/2026,True,St Pauli,VfB Stuttgart,2.0,1.0,1.95,0.86
+Bundesliga,2026-02-07,2025/2026,True,Wolfsburg,Borussia Dortmund,1.0,2.0,1.46,1.23
+Bundesliga,2026-02-07,2025/2026,True,Borussia M'gladbach,Bayer Leverkusen,1.0,1.0,0.71,0.79
+Bundesliga,2026-02-08,2025/2026,True,Cologne,RB Leipzig,1.0,2.0,1.05,1.99
+Bundesliga,2026-02-08,2025/2026,True,Bayern Munich,TSG Hoffenheim,5.0,1.0,6.02,2.04
+Bundesliga,2026-02-13,2025/2026,True,Borussia Dortmund,Mainz,4.0,0.0,2.32,1.51
+Bundesliga,2026-02-14,2025/2026,True,Bayer Leverkusen,St Pauli,4.0,0.0,1.58,0.52
+Bundesliga,2026-02-14,2025/2026,True,Eintracht Frankfurt,Borussia M'gladbach,3.0,0.0,1.64,1.19
+Bundesliga,2026-02-14,2025/2026,True,Hamburg,Union Berlin,3.0,2.0,2.06,2.13
+Bundesliga,2026-02-14,2025/2026,True,TSG Hoffenheim,SC Freiburg,3.0,0.0,1.71,0.77
+Bundesliga,2026-02-14,2025/2026,True,Werder Bremen,Bayern Munich,0.0,3.0,0.81,1.95
+Bundesliga,2026-02-14,2025/2026,True,VfB Stuttgart,Cologne,3.0,1.0,2.25,1.58
+Bundesliga,2026-02-15,2025/2026,True,Augsburg,Heidenheim,1.0,0.0,1.94,1.09
+Bundesliga,2026-02-15,2025/2026,True,RB Leipzig,Wolfsburg,2.0,2.0,2.94,0.62
+Bundesliga,2026-02-20,2025/2026,True,Mainz,Hamburg,1.0,1.0,1.53,0.7
+Bundesliga,2026-02-21,2025/2026,True,Bayern Munich,Eintracht Frankfurt,3.0,2.0,2.79,2.35
+Bundesliga,2026-02-21,2025/2026,True,Cologne,TSG Hoffenheim,2.0,2.0,1.09,1.7
+Bundesliga,2026-02-21,2025/2026,True,Union Berlin,Bayer Leverkusen,1.0,0.0,0.55,0.94
+Bundesliga,2026-02-21,2025/2026,True,Wolfsburg,Augsburg,2.0,3.0,1.6,1.79
+Bundesliga,2026-02-21,2025/2026,True,RB Leipzig,Borussia Dortmund,2.0,2.0,1.9,1.61
+Bundesliga,2026-02-22,2025/2026,True,SC Freiburg,Borussia M'gladbach,2.0,1.0,1.73,0.72
+Bundesliga,2026-02-22,2025/2026,True,St Pauli,Werder Bremen,2.0,1.0,0.2,1.55
+Bundesliga,2026-02-22,2025/2026,True,Heidenheim,VfB Stuttgart,3.0,3.0,2.13,2.23
+Bundesliga,2026-02-27,2025/2026,True,Augsburg,Cologne,2.0,0.0,1.47,0.49
+Bundesliga,2026-02-28,2025/2026,True,Bayer Leverkusen,Mainz,1.0,1.0,1.28,0.74
+Bundesliga,2026-02-28,2025/2026,True,Borussia M'gladbach,Union Berlin,1.0,0.0,3.02,0.14
+Bundesliga,2026-02-28,2025/2026,True,TSG Hoffenheim,St Pauli,0.0,1.0,2.8,0.78
+Bundesliga,2026-02-28,2025/2026,True,Werder Bremen,Heidenheim,2.0,0.0,2.7,1.36
+Bundesliga,2026-02-28,2025/2026,True,Borussia Dortmund,Bayern Munich,2.0,3.0,1.05,2.06
+Bundesliga,2026-03-01,2025/2026,True,VfB Stuttgart,Wolfsburg,4.0,0.0,3.28,0.78
+Bundesliga,2026-03-01,2025/2026,True,Eintracht Frankfurt,SC Freiburg,2.0,0.0,1.11,0.55
+Bundesliga,2026-03-01,2025/2026,True,Hamburg,RB Leipzig,1.0,2.0,0.55,3.09
+Bundesliga,2026-03-04,2025/2026,True,Hamburg,Bayer Leverkusen,0.0,1.0,1.27,1.89
+Bundesliga,2026-03-06,2025/2026,True,Bayern Munich,Borussia M'gladbach,4.0,1.0,3.03,0.96
+Bundesliga,2026-03-07,2025/2026,True,Heidenheim,TSG Hoffenheim,2.0,4.0,1.04,2.29
+Bundesliga,2026-03-07,2025/2026,True,SC Freiburg,Bayer Leverkusen,3.0,3.0,2.67,2.11
+Bundesliga,2026-03-07,2025/2026,True,Mainz,VfB Stuttgart,2.0,2.0,2.73,0.99
+Bundesliga,2026-03-07,2025/2026,True,RB Leipzig,Augsburg,2.0,1.0,2.26,3.24
+Bundesliga,2026-03-07,2025/2026,True,Wolfsburg,Hamburg,1.0,2.0,2.2,1.82
+Bundesliga,2026-03-07,2025/2026,True,Cologne,Borussia Dortmund,1.0,2.0,1.28,2.0
+Bundesliga,2026-03-08,2025/2026,True,St Pauli,Eintracht Frankfurt,0.0,0.0,0.58,0.38
+Bundesliga,2026-03-08,2025/2026,True,Union Berlin,Werder Bremen,1.0,4.0,1.19,2.13
+Bundesliga,2026-03-13,2025/2026,True,Borussia M'gladbach,St Pauli,2.0,0.0,0.64,0.51
+Bundesliga,2026-03-14,2025/2026,True,Bayer Leverkusen,Bayern Munich,1.0,1.0,3.23,1.26
+Bundesliga,2026-03-14,2025/2026,True,Borussia Dortmund,Augsburg,2.0,0.0,2.58,0.77
+Bundesliga,2026-03-14,2025/2026,True,Eintracht Frankfurt,Heidenheim,1.0,0.0,0.91,0.09
+Bundesliga,2026-03-14,2025/2026,True,TSG Hoffenheim,Wolfsburg,1.0,1.0,1.78,0.27
+Bundesliga,2026-03-14,2025/2026,True,Hamburg,Cologne,1.0,1.0,0.32,1.14
+Bundesliga,2026-03-15,2025/2026,True,Werder Bremen,Mainz,0.0,2.0,1.08,1.08
+Bundesliga,2026-03-15,2025/2026,True,SC Freiburg,Union Berlin,0.0,1.0,1.19,0.54
+Bundesliga,2026-03-15,2025/2026,True,VfB Stuttgart,RB Leipzig,1.0,0.0,1.45,1.18
+Bundesliga,2026-03-20,2025/2026,True,RB Leipzig,TSG Hoffenheim,5.0,0.0,2.19,0.78
+Bundesliga,2026-03-21,2025/2026,True,Bayern Munich,Union Berlin,4.0,0.0,5.08,0.21
+Bundesliga,2026-03-21,2025/2026,True,Heidenheim,Bayer Leverkusen,3.0,3.0,1.62,1.74
+Bundesliga,2026-03-21,2025/2026,True,Cologne,Borussia M'gladbach,3.0,3.0,1.55,1.19
+Bundesliga,2026-03-21,2025/2026,True,Wolfsburg,Werder Bremen,0.0,1.0,1.06,0.38
+Bundesliga,2026-03-21,2025/2026,True,Borussia Dortmund,Hamburg,3.0,2.0,6.0,1.52
+Bundesliga,2026-03-22,2025/2026,True,Mainz,Eintracht Frankfurt,2.0,1.0,1.55,1.29
+Bundesliga,2026-03-22,2025/2026,True,St Pauli,SC Freiburg,1.0,2.0,1.41,1.96
+Bundesliga,2026-03-22,2025/2026,True,Augsburg,VfB Stuttgart,2.0,5.0,1.26,3.28
+Bundesliga,2026-04-04,2025/2026,True,Bayer Leverkusen,Wolfsburg,6.0,3.0,4.52,2.01
+Bundesliga,2026-04-04,2025/2026,True,Borussia M'gladbach,Heidenheim,2.0,2.0,0.73,1.13
+Bundesliga,2026-04-04,2025/2026,True,SC Freiburg,Bayern Munich,2.0,3.0,1.84,3.0
+Bundesliga,2026-04-04,2025/2026,True,Hamburg,Augsburg,1.0,1.0,1.86,2.47
+Bundesliga,2026-04-04,2025/2026,True,TSG Hoffenheim,Mainz,1.0,2.0,1.16,2.19
+Bundesliga,2026-04-04,2025/2026,True,Werder Bremen,RB Leipzig,1.0,2.0,1.51,1.49
+Bundesliga,2026-04-04,2025/2026,True,VfB Stuttgart,Borussia Dortmund,0.0,2.0,0.76,0.61
+Bundesliga,2026-04-05,2025/2026,True,Union Berlin,St Pauli,1.0,1.0,2.0,0.33
+Bundesliga,2026-04-05,2025/2026,True,Eintracht Frankfurt,Cologne,2.0,2.0,2.58,3.23
+Bundesliga,2026-04-10,2025/2026,True,Augsburg,TSG Hoffenheim,2.0,2.0,1.93,0.99
+Bundesliga,2026-04-11,2025/2026,True,Borussia Dortmund,Bayer Leverkusen,0.0,1.0,1.3,0.63
+Bundesliga,2026-04-11,2025/2026,True,Heidenheim,Union Berlin,3.0,1.0,1.85,0.99
+Bundesliga,2026-04-11,2025/2026,True,RB Leipzig,Borussia M'gladbach,1.0,0.0,2.43,1.78
+Bundesliga,2026-04-11,2025/2026,True,Wolfsburg,Eintracht Frankfurt,1.0,2.0,2.33,1.29
+Bundesliga,2026-04-11,2025/2026,True,St Pauli,Bayern Munich,0.0,5.0,0.49,3.84
+Bundesliga,2026-04-12,2025/2026,True,Cologne,Werder Bremen,3.0,1.0,4.11,0.99
+Bundesliga,2026-04-12,2025/2026,True,VfB Stuttgart,Hamburg,4.0,0.0,3.47,0.71
+Bundesliga,2026-04-12,2025/2026,True,Mainz,SC Freiburg,0.0,1.0,0.55,0.56
+Bundesliga,2026-04-17,2025/2026,True,St Pauli,Cologne,1.0,1.0,2.01,1.33
+Bundesliga,2026-04-18,2025/2026,True,Bayer Leverkusen,Augsburg,1.0,2.0,3.8,1.33
+Bundesliga,2026-04-18,2025/2026,True,TSG Hoffenheim,Borussia Dortmund,2.0,1.0,2.25,0.7
+Bundesliga,2026-04-18,2025/2026,True,Union Berlin,Wolfsburg,1.0,2.0,1.79,0.19
+Bundesliga,2026-04-18,2025/2026,True,Werder Bremen,Hamburg,3.0,1.0,1.74,0.57
+Bundesliga,2026-04-18,2025/2026,True,Eintracht Frankfurt,RB Leipzig,1.0,3.0,1.45,2.09
+Bundesliga,2026-04-19,2025/2026,True,SC Freiburg,Heidenheim,2.0,1.0,1.62,1.59
+Bundesliga,2026-04-19,2025/2026,True,Bayern Munich,VfB Stuttgart,4.0,2.0,4.61,1.35
+Bundesliga,2026-04-19,2025/2026,True,Borussia M'gladbach,Mainz,1.0,1.0,0.62,2.32
+Bundesliga,2026-04-24,2025/2026,True,RB Leipzig,Union Berlin,3.0,1.0,4.49,0.19
+Bundesliga,2026-04-25,2025/2026,True,Augsburg,Eintracht Frankfurt,1.0,1.0,2.0,1.11
+Bundesliga,2026-04-25,2025/2026,True,Heidenheim,St Pauli,2.0,0.0,1.61,1.06
+Bundesliga,2026-04-25,2025/2026,True,Cologne,Bayer Leverkusen,1.0,2.0,3.04,1.33
+Bundesliga,2026-04-25,2025/2026,True,Mainz,Bayern Munich,3.0,4.0,2.69,2.21
+Bundesliga,2026-04-25,2025/2026,True,Wolfsburg,Borussia M'gladbach,0.0,0.0,1.47,0.51
+Bundesliga,2026-04-25,2025/2026,True,Hamburg,TSG Hoffenheim,1.0,2.0,1.37,1.45
+Bundesliga,2026-04-26,2025/2026,True,VfB Stuttgart,Werder Bremen,1.0,1.0,1.82,0.93
+Bundesliga,2026-04-26,2025/2026,True,Borussia Dortmund,SC Freiburg,4.0,0.0,3.37,0.76
+Bundesliga,2026-05-02,2025/2026,True,Bayern Munich,Heidenheim,3.0,3.0,2.31,2.59
+Bundesliga,2026-05-02,2025/2026,True,Eintracht Frankfurt,Hamburg,1.0,2.0,0.65,0.62
+Bundesliga,2026-05-02,2025/2026,True,TSG Hoffenheim,VfB Stuttgart,3.0,3.0,2.47,1.57
+Bundesliga,2026-05-02,2025/2026,True,Union Berlin,Cologne,2.0,2.0,1.15,1.75
+Bundesliga,2026-05-02,2025/2026,True,Werder Bremen,Augsburg,1.0,3.0,1.35,2.57
+Bundesliga,2026-05-02,2025/2026,True,Bayer Leverkusen,RB Leipzig,4.0,1.0,4.42,1.17
+Bundesliga,2026-05-03,2025/2026,True,St Pauli,Mainz,1.0,2.0,0.84,2.54
+Bundesliga,2026-05-03,2025/2026,True,Borussia M'gladbach,Borussia Dortmund,1.0,0.0,2.2,0.49
+Bundesliga,2026-05-03,2025/2026,True,SC Freiburg,Wolfsburg,1.0,1.0,0.94,0.82
+Bundesliga,2026-05-08,2025/2026,True,Borussia Dortmund,Eintracht Frankfurt,3.0,2.0,1.94,1.12
+Bundesliga,2026-05-09,2025/2026,True,Augsburg,Borussia M'gladbach,3.0,1.0,2.59,1.14
+Bundesliga,2026-05-09,2025/2026,True,TSG Hoffenheim,Werder Bremen,1.0,0.0,1.52,1.07
+Bundesliga,2026-05-09,2025/2026,True,RB Leipzig,St Pauli,2.0,1.0,1.37,0.79
+Bundesliga,2026-05-09,2025/2026,True,VfB Stuttgart,Bayer Leverkusen,3.0,1.0,3.04,0.54
+Bundesliga,2026-05-09,2025/2026,True,Wolfsburg,Bayern Munich,0.0,1.0,3.04,1.85
+Bundesliga,2026-05-10,2025/2026,True,Hamburg,SC Freiburg,3.0,2.0,1.98,0.41
+Bundesliga,2026-05-10,2025/2026,True,Cologne,Heidenheim,1.0,3.0,1.17,1.36
+Bundesliga,2026-05-10,2025/2026,True,Mainz,Union Berlin,1.0,3.0,1.61,2.68
+Bundesliga,2026-05-16,2025/2026,True,Bayer Leverkusen,Hamburg,1.0,1.0,3.27,1.79
+Bundesliga,2026-05-16,2025/2026,True,Bayern Munich,Cologne,5.0,1.0,3.05,0.98
+Bundesliga,2026-05-16,2025/2026,True,Borussia M'gladbach,TSG Hoffenheim,4.0,0.0,1.2,1.62
+Bundesliga,2026-05-16,2025/2026,True,Eintracht Frankfurt,VfB Stuttgart,2.0,2.0,2.56,1.32
+Bundesliga,2026-05-16,2025/2026,True,Heidenheim,Mainz,0.0,2.0,2.53,3.71
+Bundesliga,2026-05-16,2025/2026,True,SC Freiburg,RB Leipzig,4.0,1.0,1.41,1.24
+Bundesliga,2026-05-16,2025/2026,True,St Pauli,Wolfsburg,1.0,3.0,1.48,3.5
+Bundesliga,2026-05-16,2025/2026,True,Union Berlin,Augsburg,4.0,0.0,3.68,0.61
+Bundesliga,2026-05-16,2025/2026,True,Werder Bremen,Borussia Dortmund,0.0,2.0,0.49,2.74
+Bundesliga,2026-08-28,2026/2027,True,Bayern Munich,VfB Stuttgart,5.0,1.0,4.06,0.79
+Bundesliga,2026-08-29,2026/2027,True,Elversberg,Bayer Leverkusen,3.0,2.0,1.27,1.88
+Bundesliga,2026-08-29,2026/2027,True,Cologne,TSG Hoffenheim,3.0,2.0,1.95,1.88
+Bundesliga,2026-08-29,2026/2027,True,Mainz,Paderborn,0.0,0.0,1.23,0.73
+Bundesliga,2026-08-29,2026/2027,True,RB Leipzig,Borussia M'gladbach,3.0,0.0,3.96,1.09
+Bundesliga,2026-08-29,2026/2027,True,Union Berlin,Eintracht Frankfurt,3.0,3.0,1.84,1.47
+Bundesliga,2026-08-29,2026/2027,True,Borussia Dortmund,Hamburg,2.0,0.0,1.51,0.91
+Bundesliga,2026-08-30,2026/2027,True,SC Freiburg,Werder Bremen,4.0,1.0,2.37,0.54
+Bundesliga,2026-08-30,2026/2027,True,Augsburg,Schalke,3.0,0.0,3.72,2.1
+Bundesliga,2026-09-04,2026/2027,True,VfB Stuttgart,Cologne,4.0,1.0,3.47,2.79
+Bundesliga,2026-09-05,2026/2027,True,Bayer Leverkusen,Union Berlin,4.0,0.0,3.11,0.39
+Bundesliga,2026-09-05,2026/2027,True,Borussia M'gladbach,Elversberg,3.0,4.0,2.36,2.31
+Bundesliga,2026-09-05,2026/2027,True,TSG Hoffenheim,Borussia Dortmund,2.0,3.0,1.76,2.04
+Bundesliga,2026-09-05,2026/2027,True,Paderborn,SC Freiburg,0.0,1.0,0.77,1.24
+Bundesliga,2026-09-05,2026/2027,True,Werder Bremen,RB Leipzig,3.0,1.0,0.95,1.5
+Bundesliga,2026-09-05,2026/2027,True,Schalke,Bayern Munich,0.0,0.0,0.21,1.94
+Bundesliga,2026-09-06,2026/2027,True,Hamburg,Mainz,0.0,5.0,0.19,2.77
+Bundesliga,2026-09-06,2026/2027,True,Eintracht Frankfurt,Augsburg,1.0,4.0,2.22,1.13
+Bundesliga,2026-09-11,2026/2027,True,Union Berlin,Schalke,1.0,3.0,1.95,2.52
+Bundesliga,2026-09-12,2026/2027,True,Augsburg,Bayer Leverkusen,2.0,2.0,1.11,2.64
+Bundesliga,2026-09-12,2026/2027,True,Borussia Dortmund,Paderborn,3.0,0.0,1.76,0.49
+Bundesliga,2026-09-12,2026/2027,True,SC Freiburg,Borussia M'gladbach,5.0,0.0,2.6,0.19
+Bundesliga,2026-09-12,2026/2027,True,TSG Hoffenheim,VfB Stuttgart,2.0,1.0,2.76,2.16
+Bundesliga,2026-09-12,2026/2027,True,Mainz,Eintracht Frankfurt,1.0,3.0,2.12,2.04
+Bundesliga,2026-09-12,2026/2027,True,Cologne,Werder Bremen,1.0,1.0,1.65,1.12
+Bundesliga,2026-09-13,2026/2027,True,RB Leipzig,Hamburg,5.0,0.0,2.43,1.1
+Bundesliga,2026-09-13,2026/2027,True,Elversberg,Bayern Munich,1.0,2.0,0.94,2.83
+Bundesliga,2026-09-18,2026/2027,True,Bayern Munich,Union Berlin,7.0,0.0,3.71,0.34
+Bundesliga,2026-09-19,2026/2027,True,Borussia M'gladbach,Mainz,3.0,4.0,3.24,2.82
+Bundesliga,2026-09-19,2026/2027,True,Eintracht Frankfurt,SC Freiburg,2.0,2.0,2.18,3.09
+Bundesliga,2026-09-19,2026/2027,True,Hamburg,Cologne,2.0,1.0,1.45,1.41
+Bundesliga,2026-09-19,2026/2027,True,Werder Bremen,Augsburg,3.0,2.0,2.78,1.12
+Bundesliga,2026-09-19,2026/2027,True,VfB Stuttgart,Borussia Dortmund,0.0,1.0,1.15,1.33
+Bundesliga,2026-09-20,2026/2027,True,Bayer Leverkusen,RB Leipzig,2.0,0.0,2.27,0.97
+Bundesliga,2026-09-20,2026/2027,True,Schalke,Elversberg,0.0,0.0,1.01,1.01
+Bundesliga,2026-09-20,2026/2027,True,Paderborn,TSG Hoffenheim,3.0,1.0,0.68,1.5
+Bundesliga,2026-10-09,2026/2027,True,Borussia Dortmund,Werder Bremen,2.0,2.0,2.31,1.31
+Bundesliga,2026-10-10,2026/2027,True,Augsburg,Bayern Munich,2.0,2.0,2.37,4.96
+Bundesliga,2026-10-10,2026/2027,True,TSG Hoffenheim,Hamburg,2.0,3.0,0.93,1.28
+Bundesliga,2026-10-10,2026/2027,True,Mainz,Bayer Leverkusen,3.0,4.0,3.13,2.09
+Bundesliga,2026-10-10,2026/2027,True,Paderborn,VfB Stuttgart,0.0,2.0,1.96,2.47
+Bundesliga,2026-10-10,2026/2027,True,Union Berlin,Elversberg,1.0,0.0,1.13,0.24
+Bundesliga,2026-10-10,2026/2027,True,RB Leipzig,Eintracht Frankfurt,6.0,0.0,4.03,1.46
+Bundesliga,2026-10-11,2026/2027,True,Cologne,Borussia M'gladbach,2.0,1.0,1.32,1.17
+Bundesliga,2026-10-11,2026/2027,True,SC Freiburg,Schalke,2.0,1.0,1.15,0.32
+Bundesliga,2026-10-16,2026/2027,True,Eintracht Frankfurt,Cologne,1.0,0.0,1.8,0.8
+Bundesliga,2026-10-17,2026/2027,True,Elversberg,Augsburg,4.0,3.0,3.78,3.92
+Bundesliga,2026-10-17,2026/2027,True,Hamburg,VfB Stuttgart,1.0,0.0,1.5,2.28
+Bundesliga,2026-10-17,2026/2027,True,Schalke,Mainz,0.0,1.0,0.43,1.94
+Bundesliga,2026-10-17,2026/2027,True,Union Berlin,Borussia Dortmund,0.0,0.0,0.8,1.09
+Bundesliga,2026-10-17,2026/2027,True,Werder Bremen,Paderborn,2.0,2.0,3.21,1.15
+Bundesliga,2026-10-17,2026/2027,True,Bayern Munich,RB Leipzig,6.0,1.0,3.4,0.84
+Bundesliga,2026-10-18,2026/2027,True,Bayer Leverkusen,SC Freiburg,2.0,1.0,1.64,1.21
+Bundesliga,2026-10-18,2026/2027,True,Borussia M'gladbach,TSG Hoffenheim,1.0,2.0,0.47,1.8
+Bundesliga,2026-10-23,2026/2027,True,VfB Stuttgart,Borussia M'gladbach,2.0,3.0,1.53,3.08
+Bundesliga,2026-10-24,2026/2027,True,Augsburg,Union Berlin,1.0,1.0,1.92,1.16
+Bundesliga,2026-10-24,2026/2027,True,Cologne,Schalke,0.0,0.0,1.24,0.61
+Bundesliga,2026-10-24,2026/2027,True,Mainz,Werder Bremen,2.0,3.0,1.7,2.69
+Bundesliga,2026-10-24,2026/2027,True,Paderborn,Hamburg,1.0,0.0,1.37,0.46
+Bundesliga,2026-10-24,2026/2027,True,RB Leipzig,Elversberg,4.0,0.0,2.87,0.8
+Bundesliga,2026-10-24,2026/2027,True,Borussia Dortmund,Eintracht Frankfurt,1.0,0.0,1.48,0.85
+Bundesliga,2026-10-25,2026/2027,True,TSG Hoffenheim,Bayer Leverkusen,3.0,0.0,3.46,0.57
+Bundesliga,2026-10-25,2026/2027,True,SC Freiburg,Bayern Munich,1.0,3.0,1.01,2.91
+Bundesliga,2026-10-30,2026/2027,True,Elversberg,Mainz,4.0,1.0,0.94,1.17
+Bundesliga,2026-10-31,2026/2027,True,Augsburg,SC Freiburg,1.0,2.0,1.19,1.19
+Bundesliga,2026-10-31,2026/2027,True,Bayer Leverkusen,VfB Stuttgart,2.0,4.0,1.79,2.61
+Bundesliga,2026-10-31,2026/2027,True,Borussia M'gladbach,Paderborn,0.0,0.0,1.32,0.99
+Bundesliga,2026-10-31,2026/2027,True,Schalke,RB Leipzig,0.0,2.0,0.49,3.66
+Bundesliga,2026-10-31,2026/2027,True,Werder Bremen,TSG Hoffenheim,2.0,0.0,1.29,1.06
+Bundesliga,2026-10-31,2026/2027,True,Bayern Munich,Borussia Dortmund,2.0,2.0,4.48,0.74
+Bundesliga,2026-11-01,2026/2027,True,Union Berlin,Cologne,1.0,1.0,0.68,1.18
+Bundesliga,2026-11-01,2026/2027,True,Eintracht Frankfurt,Hamburg,3.0,1.0,1.95,1.16
+Bundesliga,2026-11-06,2026/2027,False,Hamburg,Borussia M'gladbach,,,,
+Bundesliga,2026-11-07,2026/2027,False,Borussia Dortmund,Elversberg,,,,
+Bundesliga,2026-11-07,2026/2027,False,Mainz,Bayern Munich,,,,
+Bundesliga,2026-11-07,2026/2027,False,Paderborn,Eintracht Frankfurt,,,,
+Bundesliga,2026-11-07,2026/2027,False,RB Leipzig,Augsburg,,,,
+Bundesliga,2026-11-07,2026/2027,False,VfB Stuttgart,Werder Bremen,,,,
+Bundesliga,2026-11-08,2026/2027,False,Cologne,Bayer Leverkusen,,,,
+Bundesliga,2026-11-08,2026/2027,False,SC Freiburg,Union Berlin,,,,
+Bundesliga,2026-11-08,2026/2027,False,TSG Hoffenheim,Schalke,,,,
+Bundesliga,2026-11-20,2026/2027,False,Bayern Munich,Cologne,,,,
+Bundesliga,2026-11-21,2026/2027,False,Bayer Leverkusen,Paderborn,,,,
+Bundesliga,2026-11-21,2026/2027,False,Borussia M'gladbach,Borussia Dortmund,,,,
+Bundesliga,2026-11-21,2026/2027,False,Eintracht Frankfurt,TSG Hoffenheim,,,,
+Bundesliga,2026-11-21,2026/2027,False,Elversberg,SC Freiburg,,,,
+Bundesliga,2026-11-21,2026/2027,False,Union Berlin,RB Leipzig,,,,
+Bundesliga,2026-11-21,2026/2027,False,Schalke,VfB Stuttgart,,,,
+Bundesliga,2026-11-22,2026/2027,False,Augsburg,Mainz,,,,
+Bundesliga,2026-11-22,2026/2027,False,Werder Bremen,Hamburg,,,,
+Bundesliga,2026-11-27,2026/2027,False,Werder Bremen,Borussia M'gladbach,,,,
+Bundesliga,2026-11-28,2026/2027,False,Cologne,Elversberg,,,,
+Bundesliga,2026-11-28,2026/2027,False,Hamburg,Bayern Munich,,,,
+Bundesliga,2026-11-28,2026/2027,False,Mainz,Union Berlin,,,,
+Bundesliga,2026-11-28,2026/2027,False,Paderborn,Schalke,,,,
+Bundesliga,2026-11-28,2026/2027,False,VfB Stuttgart,Eintracht Frankfurt,,,,
+Bundesliga,2026-11-29,2026/2027,False,SC Freiburg,RB Leipzig,,,,
+Bundesliga,2026-11-29,2026/2027,False,TSG Hoffenheim,Augsburg,,,,
+Bundesliga,2026-11-29,2026/2027,False,Borussia Dortmund,Bayer Leverkusen,,,,
+Bundesliga,2026-12-04,2026/2027,False,Bayern Munich,Paderborn,,,,
+Bundesliga,2026-12-05,2026/2027,False,Augsburg,Cologne,,,,
+Bundesliga,2026-12-05,2026/2027,False,Bayer Leverkusen,Borussia M'gladbach,,,,
+Bundesliga,2026-12-05,2026/2027,False,SC Freiburg,TSG Hoffenheim,,,,
+Bundesliga,2026-12-05,2026/2027,False,RB Leipzig,Mainz,,,,
+Bundesliga,2026-12-05,2026/2027,False,Union Berlin,Hamburg,,,,
+Bundesliga,2026-12-05,2026/2027,False,Eintracht Frankfurt,Werder Bremen,,,,
+Bundesliga,2026-12-06,2026/2027,False,Schalke,Borussia Dortmund,,,,
+Bundesliga,2026-12-06,2026/2027,False,Elversberg,VfB Stuttgart,,,,
+Bundesliga,2026-12-11,2026/2027,False,Hamburg,Schalke,,,,
+Bundesliga,2026-12-12,2026/2027,False,Borussia Dortmund,Augsburg,,,,
+Bundesliga,2026-12-12,2026/2027,False,Cologne,RB Leipzig,,,,
+Bundesliga,2026-12-12,2026/2027,False,Paderborn,Elversberg,,,,
+Bundesliga,2026-12-12,2026/2027,False,VfB Stuttgart,Union Berlin,,,,
+Bundesliga,2026-12-12,2026/2027,False,Borussia M'gladbach,Eintracht Frankfurt,,,,
+Bundesliga,2026-12-13,2026/2027,False,Mainz,SC Freiburg,,,,
+Bundesliga,2026-12-13,2026/2027,False,TSG Hoffenheim,Bayern Munich,,,,
+Bundesliga,2026-12-13,2026/2027,False,Werder Bremen,Bayer Leverkusen,,,,
+Bundesliga,2026-12-18,2026/2027,False,Bayern Munich,Werder Bremen,,,,
+Bundesliga,2026-12-19,2026/2027,False,Augsburg,Paderborn,,,,
+Bundesliga,2026-12-19,2026/2027,False,Bayer Leverkusen,Eintracht Frankfurt,,,,
+Bundesliga,2026-12-19,2026/2027,False,Elversberg,Hamburg,,,,
+Bundesliga,2026-12-19,2026/2027,False,Mainz,Cologne,,,,
+Bundesliga,2026-12-19,2026/2027,False,RB Leipzig,Borussia Dortmund,,,,
+Bundesliga,2026-12-20,2026/2027,False,SC Freiburg,VfB Stuttgart,,,,
+Bundesliga,2026-12-20,2026/2027,False,Union Berlin,TSG Hoffenheim,,,,
+Bundesliga,2026-12-20,2026/2027,False,Schalke,Borussia M'gladbach,,,,
+Bundesliga,2027-01-08,2026/2027,False,Borussia Dortmund,Mainz,,,,
+Bundesliga,2027-01-09,2026/2027,False,Eintracht Frankfurt,Schalke,,,,
+Bundesliga,2027-01-09,2026/2027,False,Cologne,SC Freiburg,,,,
+Bundesliga,2027-01-09,2026/2027,False,TSG Hoffenheim,Elversberg,,,,
+Bundesliga,2027-01-09,2026/2027,False,Paderborn,RB Leipzig,,,,
+Bundesliga,2027-01-09,2026/2027,False,VfB Stuttgart,Augsburg,,,,
+Bundesliga,2027-01-09,2026/2027,False,Borussia M'gladbach,Bayern Munich,,,,
+Bundesliga,2027-01-10,2026/2027,False,Werder Bremen,Union Berlin,,,,
+Bundesliga,2027-01-10,2026/2027,False,Hamburg,Bayer Leverkusen,,,,
+Bundesliga,2027-01-12,2026/2027,False,RB Leipzig,VfB Stuttgart,,,,
+Bundesliga,2027-01-12,2026/2027,False,Augsburg,Borussia M'gladbach,,,,
+Bundesliga,2027-01-12,2026/2027,False,Cologne,Borussia Dortmund,,,,
+Bundesliga,2027-01-12,2026/2027,False,Mainz,TSG Hoffenheim,,,,
+Bundesliga,2027-01-13,2026/2027,False,Elversberg,Eintracht Frankfurt,,,,
+Bundesliga,2027-01-13,2026/2027,False,Bayern Munich,Bayer Leverkusen,,,,
+Bundesliga,2027-01-13,2026/2027,False,SC Freiburg,Hamburg,,,,
+Bundesliga,2027-01-13,2026/2027,False,Union Berlin,Paderborn,,,,
+Bundesliga,2027-01-14,2026/2027,False,Schalke,Werder Bremen,,,,
+Bundesliga,2027-01-15,2026/2027,False,VfB Stuttgart,Mainz,,,,
+Bundesliga,2027-01-16,2026/2027,False,Borussia Dortmund,SC Freiburg,,,,
+Bundesliga,2027-01-16,2026/2027,False,Borussia M'gladbach,Union Berlin,,,,
+Bundesliga,2027-01-16,2026/2027,False,Hamburg,Augsburg,,,,
+Bundesliga,2027-01-16,2026/2027,False,TSG Hoffenheim,RB Leipzig,,,,
+Bundesliga,2027-01-16,2026/2027,False,Paderborn,Cologne,,,,
+Bundesliga,2027-01-16,2026/2027,False,Eintracht Frankfurt,Bayern Munich,,,,
+Bundesliga,2027-01-17,2026/2027,False,Werder Bremen,Elversberg,,,,
+Bundesliga,2027-01-17,2026/2027,False,Bayer Leverkusen,Schalke,,,,
+Bundesliga,2027-01-22,2026/2027,False,Werder Bremen,SC Freiburg,,,,
+Bundesliga,2027-01-23,2026/2027,False,Borussia M'gladbach,RB Leipzig,,,,
+Bundesliga,2027-01-23,2026/2027,False,Paderborn,Mainz,,,,
+Bundesliga,2027-01-23,2026/2027,False,Schalke,Augsburg,,,,
+Bundesliga,2027-01-23,2026/2027,False,VfB Stuttgart,Bayern Munich,,,,
+Bundesliga,2027-01-23,2026/2027,False,Hamburg,Borussia Dortmund,,,,
+Bundesliga,2027-01-24,2026/2027,False,Eintracht Frankfurt,Union Berlin,,,,
+Bundesliga,2027-01-24,2026/2027,False,Bayer Leverkusen,Elversberg,,,,
+Bundesliga,2027-01-24,2026/2027,False,TSG Hoffenheim,Cologne,,,,
+Bundesliga,2027-01-30,2026/2027,False,Augsburg,Eintracht Frankfurt,,,,
+Bundesliga,2027-01-30,2026/2027,False,Bayern Munich,Schalke,,,,
+Bundesliga,2027-01-30,2026/2027,False,Borussia Dortmund,TSG Hoffenheim,,,,
+Bundesliga,2027-01-30,2026/2027,False,Elversberg,Borussia M'gladbach,,,,
+Bundesliga,2027-01-30,2026/2027,False,Cologne,VfB Stuttgart,,,,
+Bundesliga,2027-01-30,2026/2027,False,SC Freiburg,Paderborn,,,,
+Bundesliga,2027-01-30,2026/2027,False,Mainz,Hamburg,,,,
+Bundesliga,2027-01-30,2026/2027,False,RB Leipzig,Werder Bremen,,,,
+Bundesliga,2027-01-30,2026/2027,False,Union Berlin,Bayer Leverkusen,,,,
+Bundesliga,2027-02-06,2026/2027,False,Bayer Leverkusen,Augsburg,,,,
+Bundesliga,2027-02-06,2026/2027,False,Bayern Munich,Elversberg,,,,
+Bundesliga,2027-02-06,2026/2027,False,Borussia M'gladbach,SC Freiburg,,,,
+Bundesliga,2027-02-06,2026/2027,False,Eintracht Frankfurt,Mainz,,,,
+Bundesliga,2027-02-06,2026/2027,False,Hamburg,RB Leipzig,,,,
+Bundesliga,2027-02-06,2026/2027,False,Paderborn,Borussia Dortmund,,,,
+Bundesliga,2027-02-06,2026/2027,False,Schalke,Union Berlin,,,,
+Bundesliga,2027-02-06,2026/2027,False,VfB Stuttgart,TSG Hoffenheim,,,,
+Bundesliga,2027-02-06,2026/2027,False,Werder Bremen,Cologne,,,,
+Bundesliga,2027-02-13,2026/2027,False,Augsburg,Werder Bremen,,,,
+Bundesliga,2027-02-13,2026/2027,False,Borussia Dortmund,VfB Stuttgart,,,,
+Bundesliga,2027-02-13,2026/2027,False,Elversberg,Schalke,,,,
+Bundesliga,2027-02-13,2026/2027,False,Cologne,Hamburg,,,,
+Bundesliga,2027-02-13,2026/2027,False,SC Freiburg,Eintracht Frankfurt,,,,
+Bundesliga,2027-02-13,2026/2027,False,TSG Hoffenheim,Paderborn,,,,
+Bundesliga,2027-02-13,2026/2027,False,Mainz,Borussia M'gladbach,,,,
+Bundesliga,2027-02-13,2026/2027,False,RB Leipzig,Bayer Leverkusen,,,,
+Bundesliga,2027-02-13,2026/2027,False,Union Berlin,Bayern Munich,,,,
+Bundesliga,2027-02-20,2026/2027,False,Bayer Leverkusen,Mainz,,,,
+Bundesliga,2027-02-20,2026/2027,False,Bayern Munich,Augsburg,,,,
+Bundesliga,2027-02-20,2026/2027,False,Borussia M'gladbach,Cologne,,,,
+Bundesliga,2027-02-20,2026/2027,False,Eintracht Frankfurt,RB Leipzig,,,,
+Bundesliga,2027-02-20,2026/2027,False,Elversberg,Union Berlin,,,,
+Bundesliga,2027-02-20,2026/2027,False,Hamburg,TSG Hoffenheim,,,,
+Bundesliga,2027-02-20,2026/2027,False,Schalke,SC Freiburg,,,,
+Bundesliga,2027-02-20,2026/2027,False,VfB Stuttgart,Paderborn,,,,
+Bundesliga,2027-02-20,2026/2027,False,Werder Bremen,Borussia Dortmund,,,,
+Bundesliga,2027-02-27,2026/2027,False,Augsburg,Elversberg,,,,
+Bundesliga,2027-02-27,2026/2027,False,Borussia Dortmund,Union Berlin,,,,
+Bundesliga,2027-02-27,2026/2027,False,Cologne,Eintracht Frankfurt,,,,
+Bundesliga,2027-02-27,2026/2027,False,SC Freiburg,Bayer Leverkusen,,,,
+Bundesliga,2027-02-27,2026/2027,False,TSG Hoffenheim,Borussia M'gladbach,,,,
+Bundesliga,2027-02-27,2026/2027,False,Mainz,Schalke,,,,
+Bundesliga,2027-02-27,2026/2027,False,Paderborn,Werder Bremen,,,,
+Bundesliga,2027-02-27,2026/2027,False,RB Leipzig,Bayern Munich,,,,
+Bundesliga,2027-02-27,2026/2027,False,VfB Stuttgart,Hamburg,,,,
+Bundesliga,2027-03-02,2026/2027,False,Bayer Leverkusen,TSG Hoffenheim,,,,
+Bundesliga,2027-03-02,2026/2027,False,Bayern Munich,SC Freiburg,,,,
+Bundesliga,2027-03-02,2026/2027,False,Borussia M'gladbach,VfB Stuttgart,,,,
+Bundesliga,2027-03-02,2026/2027,False,Eintracht Frankfurt,Borussia Dortmund,,,,
+Bundesliga,2027-03-02,2026/2027,False,Elversberg,RB Leipzig,,,,
+Bundesliga,2027-03-02,2026/2027,False,Hamburg,Paderborn,,,,
+Bundesliga,2027-03-02,2026/2027,False,Schalke,Cologne,,,,
+Bundesliga,2027-03-02,2026/2027,False,Union Berlin,Augsburg,,,,
+Bundesliga,2027-03-02,2026/2027,False,Werder Bremen,Mainz,,,,
+Bundesliga,2027-03-06,2026/2027,False,Borussia Dortmund,Bayern Munich,,,,
+Bundesliga,2027-03-06,2026/2027,False,Cologne,Union Berlin,,,,
+Bundesliga,2027-03-06,2026/2027,False,SC Freiburg,Augsburg,,,,
+Bundesliga,2027-03-06,2026/2027,False,Hamburg,Eintracht Frankfurt,,,,
+Bundesliga,2027-03-06,2026/2027,False,TSG Hoffenheim,Werder Bremen,,,,
+Bundesliga,2027-03-06,2026/2027,False,Mainz,Elversberg,,,,
+Bundesliga,2027-03-06,2026/2027,False,Paderborn,Borussia M'gladbach,,,,
+Bundesliga,2027-03-06,2026/2027,False,RB Leipzig,Schalke,,,,
+Bundesliga,2027-03-06,2026/2027,False,VfB Stuttgart,Bayer Leverkusen,,,,
+Bundesliga,2027-03-13,2026/2027,False,Augsburg,RB Leipzig,,,,
+Bundesliga,2027-03-13,2026/2027,False,Bayer Leverkusen,Cologne,,,,
+Bundesliga,2027-03-13,2026/2027,False,Bayern Munich,Mainz,,,,
+Bundesliga,2027-03-13,2026/2027,False,Borussia M'gladbach,Hamburg,,,,
+Bundesliga,2027-03-13,2026/2027,False,Eintracht Frankfurt,Paderborn,,,,
+Bundesliga,2027-03-13,2026/2027,False,Elversberg,Borussia Dortmund,,,,
+Bundesliga,2027-03-13,2026/2027,False,Schalke,TSG Hoffenheim,,,,
+Bundesliga,2027-03-13,2026/2027,False,Union Berlin,SC Freiburg,,,,
+Bundesliga,2027-03-13,2026/2027,False,Werder Bremen,VfB Stuttgart,,,,
+Bundesliga,2027-03-20,2026/2027,False,Borussia Dortmund,Borussia M'gladbach,,,,
+Bundesliga,2027-03-20,2026/2027,False,Cologne,Bayern Munich,,,,
+Bundesliga,2027-03-20,2026/2027,False,SC Freiburg,Elversberg,,,,
+Bundesliga,2027-03-20,2026/2027,False,Hamburg,Werder Bremen,,,,
+Bundesliga,2027-03-20,2026/2027,False,TSG Hoffenheim,Eintracht Frankfurt,,,,
+Bundesliga,2027-03-20,2026/2027,False,Mainz,Augsburg,,,,
+Bundesliga,2027-03-20,2026/2027,False,Paderborn,Bayer Leverkusen,,,,
+Bundesliga,2027-03-20,2026/2027,False,RB Leipzig,Union Berlin,,,,
+Bundesliga,2027-03-20,2026/2027,False,VfB Stuttgart,Schalke,,,,
+Bundesliga,2027-04-03,2026/2027,False,Augsburg,TSG Hoffenheim,,,,
+Bundesliga,2027-04-03,2026/2027,False,Bayer Leverkusen,Borussia Dortmund,,,,
+Bundesliga,2027-04-03,2026/2027,False,Bayern Munich,Hamburg,,,,
+Bundesliga,2027-04-03,2026/2027,False,Borussia M'gladbach,Werder Bremen,,,,
+Bundesliga,2027-04-03,2026/2027,False,Eintracht Frankfurt,VfB Stuttgart,,,,
+Bundesliga,2027-04-03,2026/2027,False,Elversberg,Cologne,,,,
+Bundesliga,2027-04-03,2026/2027,False,RB Leipzig,SC Freiburg,,,,
+Bundesliga,2027-04-03,2026/2027,False,Schalke,Paderborn,,,,
+Bundesliga,2027-04-03,2026/2027,False,Union Berlin,Mainz,,,,
+Bundesliga,2027-04-10,2026/2027,False,Borussia Dortmund,Schalke,,,,
+Bundesliga,2027-04-10,2026/2027,False,Borussia M'gladbach,Bayer Leverkusen,,,,
+Bundesliga,2027-04-10,2026/2027,False,Cologne,Augsburg,,,,
+Bundesliga,2027-04-10,2026/2027,False,Hamburg,Union Berlin,,,,
+Bundesliga,2027-04-10,2026/2027,False,TSG Hoffenheim,SC Freiburg,,,,
+Bundesliga,2027-04-10,2026/2027,False,Mainz,RB Leipzig,,,,
+Bundesliga,2027-04-10,2026/2027,False,Paderborn,Bayern Munich,,,,
+Bundesliga,2027-04-10,2026/2027,False,VfB Stuttgart,Elversberg,,,,
+Bundesliga,2027-04-10,2026/2027,False,Werder Bremen,Eintracht Frankfurt,,,,
+Bundesliga,2027-04-17,2026/2027,False,Augsburg,Borussia Dortmund,,,,
+Bundesliga,2027-04-17,2026/2027,False,Bayer Leverkusen,Werder Bremen,,,,
+Bundesliga,2027-04-17,2026/2027,False,Bayern Munich,TSG Hoffenheim,,,,
+Bundesliga,2027-04-17,2026/2027,False,Eintracht Frankfurt,Borussia M'gladbach,,,,
+Bundesliga,2027-04-17,2026/2027,False,Elversberg,Paderborn,,,,
+Bundesliga,2027-04-17,2026/2027,False,SC Freiburg,Mainz,,,,
+Bundesliga,2027-04-17,2026/2027,False,RB Leipzig,Cologne,,,,
+Bundesliga,2027-04-17,2026/2027,False,Schalke,Hamburg,,,,
+Bundesliga,2027-04-17,2026/2027,False,Union Berlin,VfB Stuttgart,,,,
+Bundesliga,2027-04-24,2026/2027,False,Borussia Dortmund,RB Leipzig,,,,
+Bundesliga,2027-04-24,2026/2027,False,Borussia M'gladbach,Schalke,,,,
+Bundesliga,2027-04-24,2026/2027,False,Eintracht Frankfurt,Bayer Leverkusen,,,,
+Bundesliga,2027-04-24,2026/2027,False,Cologne,Mainz,,,,
+Bundesliga,2027-04-24,2026/2027,False,Hamburg,Elversberg,,,,
+Bundesliga,2027-04-24,2026/2027,False,TSG Hoffenheim,Union Berlin,,,,
+Bundesliga,2027-04-24,2026/2027,False,Paderborn,Augsburg,,,,
+Bundesliga,2027-04-24,2026/2027,False,VfB Stuttgart,SC Freiburg,,,,
+Bundesliga,2027-04-24,2026/2027,False,Werder Bremen,Bayern Munich,,,,
+Bundesliga,2027-05-08,2026/2027,False,Augsburg,VfB Stuttgart,,,,
+Bundesliga,2027-05-08,2026/2027,False,Bayer Leverkusen,Hamburg,,,,
+Bundesliga,2027-05-08,2026/2027,False,Bayern Munich,Borussia M'gladbach,,,,
+Bundesliga,2027-05-08,2026/2027,False,Elversberg,TSG Hoffenheim,,,,
+Bundesliga,2027-05-08,2026/2027,False,SC Freiburg,Cologne,,,,
+Bundesliga,2027-05-08,2026/2027,False,Mainz,Borussia Dortmund,,,,
+Bundesliga,2027-05-08,2026/2027,False,RB Leipzig,Paderborn,,,,
+Bundesliga,2027-05-08,2026/2027,False,Schalke,Eintracht Frankfurt,,,,
+Bundesliga,2027-05-08,2026/2027,False,Union Berlin,Werder Bremen,,,,
+Bundesliga,2027-05-15,2026/2027,False,Bayer Leverkusen,Bayern Munich,,,,
+Bundesliga,2027-05-15,2026/2027,False,Borussia Dortmund,Cologne,,,,
+Bundesliga,2027-05-15,2026/2027,False,Borussia M'gladbach,Augsburg,,,,
+Bundesliga,2027-05-15,2026/2027,False,Eintracht Frankfurt,Elversberg,,,,
+Bundesliga,2027-05-15,2026/2027,False,Hamburg,SC Freiburg,,,,
+Bundesliga,2027-05-15,2026/2027,False,TSG Hoffenheim,Mainz,,,,
+Bundesliga,2027-05-15,2026/2027,False,Paderborn,Union Berlin,,,,
+Bundesliga,2027-05-15,2026/2027,False,VfB Stuttgart,RB Leipzig,,,,
+Bundesliga,2027-05-15,2026/2027,False,Werder Bremen,Schalke,,,,
+Bundesliga,2027-05-22,2026/2027,False,Augsburg,Hamburg,,,,
+Bundesliga,2027-05-22,2026/2027,False,Bayern Munich,Eintracht Frankfurt,,,,
+Bundesliga,2027-05-22,2026/2027,False,Elversberg,Werder Bremen,,,,
+Bundesliga,2027-05-22,2026/2027,False,Cologne,Paderborn,,,,
+Bundesliga,2027-05-22,2026/2027,False,SC Freiburg,Borussia Dortmund,,,,
+Bundesliga,2027-05-22,2026/2027,False,Mainz,VfB Stuttgart,,,,
+Bundesliga,2027-05-22,2026/2027,False,RB Leipzig,TSG Hoffenheim,,,,
+Bundesliga,2027-05-22,2026/2027,False,Schalke,Bayer Leverkusen,,,,
+Bundesliga,2027-05-22,2026/2027,False,Union Berlin,Borussia M'gladbach,,,,
