@@ -5,10 +5,19 @@ Each league-season is scraped with understatapi, flattened from Understat's
 nested JSON into one row per match, and team names are converted to the
 totalcorner.com spellings so the two sources can be joined.
 From LT_model.ipynb (Understat fixture scraper, Data clean up, Dataset merging).
+
+When Understat itself is down, finished seasons can be read from the Wayback
+Machine's copies of the league pages instead (scrape_season_wayback): those
+pages embed the same match JSON (datesData) that understatapi returns.
 """
 
+import re
+import time
+
 import pandas as pd
+import requests
 import understatapi
+from understatapi.parsers.base import BaseParser
 
 # Understat league name -> totalcorner league file (top flight and the division below)
 LEAGUES = {
@@ -45,6 +54,68 @@ def scrape_league(league, last_season):
         df['season'] = f"{season}/{season + 1}"
         raw_data.append(df)
     return pd.concat(raw_data, ignore_index=True)
+
+
+# --- Wayback Machine fallback ------------------------------------------------
+
+# understatapi league name -> the path Understat's own URLs use
+URL_SLUG = {'EPL': 'EPL', 'La_Liga': 'La_liga', 'Serie_A': 'Serie_A', 'Bundesliga': 'Bundesliga', 'Ligue_1': 'Ligue_1'}
+WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
+WAYBACK_RAW = "https://web.archive.org/web/{ts}id_/{url}"  # id_ = the page as archived, without Wayback's toolbar
+MAX_SNAPSHOTS = 8  # snapshots tried per season before giving up
+
+
+def _get(session, url, params=None, tries=4):
+    for attempt in range(tries):
+        try:
+            resp = session.get(url, params=params, timeout=60)
+            if resp.status_code == 200:
+                return resp
+            if resp.status_code not in (429, 500, 502, 503, 504):
+                resp.raise_for_status()
+        except (requests.ConnectionError, requests.Timeout):
+            if attempt == tries - 1:
+                raise
+        time.sleep(5 * (attempt + 1))
+    resp.raise_for_status()
+    return resp
+
+
+# Archived copies of a season's league page taken after the season ended (from 1 August of
+# its second year, which covers the COVID-delayed 2019/20 finishes), oldest first
+def wayback_snapshots(league, season, session):
+    url = f"understat.com/league/{URL_SLUG[league]}/{season}"
+    resp = _get(session, WAYBACK_CDX, params={"url": url, "filter": "statuscode:200", "from": f"{season + 1}0801",
+                                              "fl": "timestamp,original", "collapse": "digest", "output": "json"})
+    rows = resp.json() if resp.text.strip() else []
+    return [(ts, original) for ts, original in rows[1:]]
+
+
+# One season's matches from the Wayback Machine, as raw understatapi-style records, plus the
+# snapshot used. Tries snapshots oldest first and keeps the one with the most played matches,
+# stopping as soon as one has no unplayed fixtures left. Returns (None, None) if nothing parses.
+def scrape_season_wayback(league, season, session=None, pause=1.5):
+    session = session or requests.Session()
+    best, best_ts, best_played = None, None, -1
+    for ts, original in wayback_snapshots(league, season, session)[:MAX_SNAPSHOTS]:
+        time.sleep(pause)
+        html = _get(session, WAYBACK_RAW.format(ts=ts, url=original)).text
+        if "datesData" not in html:
+            continue  # later page layouts load the data over XHR rather than embedding it
+        try:
+            records = BaseParser.parse(html=html, query="datesData")
+        except ValueError:
+            continue
+        played = sum(bool(m.get("isResult")) for m in records)
+        if played > best_played:
+            best, best_ts, best_played = records, ts, played
+        if records and played == len(records):
+            break
+    if best is None:
+        return None, None
+    df = pd.DataFrame(best)
+    df['season'] = f"{season}/{season + 1}"
+    return df, best_ts
 
 
 # Flattens the nested columns, converts types and harmonises team names with totalcorner

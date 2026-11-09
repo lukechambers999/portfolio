@@ -25,7 +25,7 @@ which holds two projects:
 | `lt_app/` | The in-browser app: `model.js` mirrors `code/lt/`, `app.js` is the UI |
 | `snapshots/lt/` | Per-league JSON the app runs on (`index.json` lists the leagues; `samples.json` holds the latest Premier League rows from each source and a worked match-price example) |
 | `_build/make_lt_snapshots.py` | Regenerates `snapshots/lt/` for the top-5 leagues: scrapes FotMob (adding the frozen pre-2020/21 Understat seasons in `data/understat/`), joins the totalcorner lines, fits HA, rho, the default window/weights and the promotion factors |
-| `_build/freeze_understat.py` | One-off: saves Understat's 2015/16 to 2019/20 seasons (before FotMob's xG starts) to `data/understat/` |
+| `_build/freeze_understat.py` | One-off: saves Understat's 2015/16 to 2019/20 seasons (before FotMob's xG starts) to `data/understat/`, falling back to the Wayback Machine's archived league pages when Understat is down (`data/understat/sources.csv` records which) |
 | `.github/workflows/update_lt_data.yml` | Daily Action: pulls the totalcorner CSVs from Google Drive, runs the build, commits `snapshots/lt/` and the FotMob xG caches in `data/fotmob/` if they changed and republishes |
 
 ## Editing
