@@ -2370,16 +2370,16 @@ Premier League,2026-10-31,2026/2027,True,Tottenham,Crystal Palace,2.0,0.0,3.47,0
 Premier League,2026-10-31,2026/2027,True,Aston Villa,Fulham,1.0,1.0,1.83,2.24
 Premier League,2026-11-01,2026/2027,True,Liverpool,Arsenal,0.0,1.0,1.05,0.98
 Premier League,2026-11-02,2026/2027,True,Newcastle,Everton,0.0,1.0,1.29,2.34
-Premier League,2026-11-06,2026/2027,False,Everton,Coventry,,,,
-Premier League,2026-11-07,2026/2027,False,Leeds,Tottenham,,,,
-Premier League,2026-11-07,2026/2027,False,Arsenal,Hull,,,,
-Premier League,2026-11-07,2026/2027,False,Fulham,Newcastle,,,,
-Premier League,2026-11-07,2026/2027,False,Nottm Forest,Man City,,,,
-Premier League,2026-11-08,2026/2027,False,Brighton,Brentford,,,,
-Premier League,2026-11-08,2026/2027,False,Crystal Palace,Liverpool,,,,
-Premier League,2026-11-08,2026/2027,False,Ipswich,Bournemouth,,,,
-Premier League,2026-11-08,2026/2027,False,Sunderland,Chelsea,,,,
-Premier League,2026-11-08,2026/2027,False,Man Utd,Aston Villa,,,,
+Premier League,2026-11-06,2026/2027,True,Everton,Coventry,3.0,1.0,1.43,1.21
+Premier League,2026-11-07,2026/2027,True,Leeds,Tottenham,1.0,0.0,1.96,0.72
+Premier League,2026-11-07,2026/2027,True,Arsenal,Hull,1.0,0.0,1.26,0.36
+Premier League,2026-11-07,2026/2027,True,Fulham,Newcastle,1.0,1.0,0.7,1.14
+Premier League,2026-11-07,2026/2027,True,Nottm Forest,Man City,3.0,1.0,1.06,1.76
+Premier League,2026-11-08,2026/2027,True,Brighton,Brentford,2.0,0.0,2.11,0.59
+Premier League,2026-11-08,2026/2027,True,Crystal Palace,Liverpool,1.0,3.0,2.6,2.65
+Premier League,2026-11-08,2026/2027,True,Ipswich,Bournemouth,1.0,2.0,1.26,2.23
+Premier League,2026-11-08,2026/2027,True,Sunderland,Chelsea,1.0,0.0,2.38,0.66
+Premier League,2026-11-08,2026/2027,True,Man Utd,Aston Villa,4.0,4.0,3.55,2.88
 Premier League,2026-11-21,2026/2027,False,Man City,Fulham,,,,
 Premier League,2026-11-21,2026/2027,False,Bournemouth,Nottm Forest,,,,
 Premier League,2026-11-21,2026/2027,False,Aston Villa,Sunderland,,,,

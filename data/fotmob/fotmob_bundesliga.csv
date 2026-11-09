@@ -1907,15 +1907,15 @@ Bundesliga,2026-10-31,2026/2027,True,Werder Bremen,TSG Hoffenheim,2.0,0.0,1.29,1
 Bundesliga,2026-10-31,2026/2027,True,Bayern Munich,Borussia Dortmund,2.0,2.0,4.48,0.74
 Bundesliga,2026-11-01,2026/2027,True,Union Berlin,Cologne,1.0,1.0,0.68,1.18
 Bundesliga,2026-11-01,2026/2027,True,Eintracht Frankfurt,Hamburg,3.0,1.0,1.95,1.16
-Bundesliga,2026-11-06,2026/2027,False,Hamburg,Borussia M'gladbach,,,,
-Bundesliga,2026-11-07,2026/2027,False,Borussia Dortmund,Elversberg,,,,
-Bundesliga,2026-11-07,2026/2027,False,Mainz,Bayern Munich,,,,
-Bundesliga,2026-11-07,2026/2027,False,Paderborn,Eintracht Frankfurt,,,,
-Bundesliga,2026-11-07,2026/2027,False,RB Leipzig,Augsburg,,,,
-Bundesliga,2026-11-07,2026/2027,False,VfB Stuttgart,Werder Bremen,,,,
-Bundesliga,2026-11-08,2026/2027,False,Cologne,Bayer Leverkusen,,,,
-Bundesliga,2026-11-08,2026/2027,False,SC Freiburg,Union Berlin,,,,
-Bundesliga,2026-11-08,2026/2027,False,TSG Hoffenheim,Schalke,,,,
+Bundesliga,2026-11-06,2026/2027,True,Hamburg,Borussia M'gladbach,3.0,1.0,2.27,2.22
+Bundesliga,2026-11-07,2026/2027,True,Borussia Dortmund,Elversberg,2.0,1.0,1.57,1.22
+Bundesliga,2026-11-07,2026/2027,True,Mainz,Bayern Munich,1.0,2.0,0.54,2.78
+Bundesliga,2026-11-07,2026/2027,True,Paderborn,Eintracht Frankfurt,2.0,2.0,2.23,1.75
+Bundesliga,2026-11-07,2026/2027,True,RB Leipzig,Augsburg,5.0,2.0,2.23,2.03
+Bundesliga,2026-11-07,2026/2027,True,VfB Stuttgart,Werder Bremen,1.0,0.0,0.71,1.4
+Bundesliga,2026-11-08,2026/2027,True,Cologne,Bayer Leverkusen,1.0,2.0,1.61,1.87
+Bundesliga,2026-11-08,2026/2027,True,SC Freiburg,Union Berlin,2.0,0.0,2.58,0.34
+Bundesliga,2026-11-08,2026/2027,True,TSG Hoffenheim,Schalke,2.0,1.0,2.23,2.6
 Bundesliga,2026-11-20,2026/2027,False,Bayern Munich,Cologne,,,,
 Bundesliga,2026-11-21,2026/2027,False,Bayer Leverkusen,Paderborn,,,,
 Bundesliga,2026-11-21,2026/2027,False,Borussia M'gladbach,Borussia Dortmund,,,,

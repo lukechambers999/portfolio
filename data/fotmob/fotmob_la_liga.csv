@@ -2388,16 +2388,16 @@ La Liga,2026-11-01,2026/2027,True,Racing Santander,Real Madrid,0.0,3.0,0.97,3.36
 La Liga,2026-11-01,2026/2027,True,Elche,Valencia,0.0,1.0,1.26,0.79
 La Liga,2026-11-01,2026/2027,True,Athletic Club,Real Sociedad,2.0,1.0,3.08,1.15
 La Liga,2026-11-02,2026/2027,True,Deportivo A Coruna,Osasuna,2.0,1.0,2.35,1.14
-La Liga,2026-11-06,2026/2027,False,Sevilla,CD Alaves,,,,
-La Liga,2026-11-07,2026/2027,False,Malaga,Racing Santander,,,,
-La Liga,2026-11-07,2026/2027,False,Espanyol,Deportivo A Coruna,,,,
-La Liga,2026-11-07,2026/2027,False,Osasuna,Athletic Club,,,,
-La Liga,2026-11-07,2026/2027,False,Valencia,Real Madrid,,,,
-La Liga,2026-11-08,2026/2027,False,Elche,Real Betis,,,,
-La Liga,2026-11-08,2026/2027,False,Real Sociedad,Rayo Vallecano,,,,
-La Liga,2026-11-08,2026/2027,False,Celta Vigo,Levante,,,,
-La Liga,2026-11-08,2026/2027,False,Villarreal,Getafe,,,,
-La Liga,2026-11-08,2026/2027,False,Atletico Madrid,Barcelona,,,,
+La Liga,2026-11-06,2026/2027,True,Sevilla,CD Alaves,0.0,0.0,1.6,0.54
+La Liga,2026-11-07,2026/2027,True,Malaga,Racing Santander,1.0,2.0,2.02,2.31
+La Liga,2026-11-07,2026/2027,True,Espanyol,Deportivo A Coruna,0.0,0.0,0.7,0.23
+La Liga,2026-11-07,2026/2027,True,Osasuna,Athletic Club,1.0,1.0,0.65,2.28
+La Liga,2026-11-07,2026/2027,True,Valencia,Real Madrid,0.0,3.0,0.18,2.34
+La Liga,2026-11-08,2026/2027,True,Elche,Real Betis,0.0,2.0,0.84,1.78
+La Liga,2026-11-08,2026/2027,True,Real Sociedad,Rayo Vallecano,1.0,0.0,1.62,1.42
+La Liga,2026-11-08,2026/2027,True,Celta Vigo,Levante,0.0,0.0,3.16,0.28
+La Liga,2026-11-08,2026/2027,True,Villarreal,Getafe,2.0,0.0,2.31,0.82
+La Liga,2026-11-08,2026/2027,True,Atletico Madrid,Barcelona,1.0,2.0,1.67,1.61
 La Liga,2026-11-20,2026/2027,False,Athletic Club,Espanyol,,,,
 La Liga,2026-11-21,2026/2027,False,CD Alaves,Deportivo A Coruna,,,,
 La Liga,2026-11-21,2026/2027,False,Rayo Vallecano,Valencia,,,,
@@ -2418,6 +2418,8 @@ La Liga,2026-11-29,2026/2027,False,Deportivo A Coruna,Barcelona,,,,
 La Liga,2026-11-29,2026/2027,False,Celta Vigo,Villarreal,,,,
 La Liga,2026-11-29,2026/2027,False,Real Sociedad,Sevilla,,,,
 La Liga,2026-11-30,2026/2027,False,Espanyol,Getafe,,,,
+La Liga,2026-12-02,2026/2027,False,Real Sociedad,Real Madrid,,,,
+La Liga,2026-12-02,2026/2027,False,Barcelona,Atletico Madrid,,,,
 La Liga,2026-12-06,2026/2027,False,Athletic Club,Real Madrid,,,,
 La Liga,2026-12-06,2026/2027,False,Atletico Madrid,Real Betis,,,,
 La Liga,2026-12-06,2026/2027,False,Barcelona,Celta Vigo,,,,
@@ -2500,14 +2502,12 @@ La Liga,2027-01-31,2026/2027,False,Real Betis,Elche,,,,
 La Liga,2027-01-31,2026/2027,False,Sevilla,Athletic Club,,,,
 La Liga,2027-01-31,2026/2027,False,Villarreal,Racing Santander,,,,
 La Liga,2027-02-07,2026/2027,False,Athletic Club,Osasuna,,,,
-La Liga,2027-02-07,2026/2027,False,Barcelona,Atletico Madrid,,,,
 La Liga,2027-02-07,2026/2027,False,CD Alaves,Celta Vigo,,,,
 La Liga,2027-02-07,2026/2027,False,Deportivo A Coruna,Malaga,,,,
 La Liga,2027-02-07,2026/2027,False,Elche,Levante,,,,
 La Liga,2027-02-07,2026/2027,False,Espanyol,Rayo Vallecano,,,,
 La Liga,2027-02-07,2026/2027,False,Getafe,Villarreal,,,,
 La Liga,2027-02-07,2026/2027,False,Real Betis,Sevilla,,,,
-La Liga,2027-02-07,2026/2027,False,Real Sociedad,Real Madrid,,,,
 La Liga,2027-02-07,2026/2027,False,Valencia,Racing Santander,,,,
 La Liga,2027-02-14,2026/2027,False,Celta Vigo,Rayo Vallecano,,,,
 La Liga,2027-02-14,2026/2027,False,Elche,Deportivo A Coruna,,,,
