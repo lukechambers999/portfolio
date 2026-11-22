@@ -2389,11 +2389,11 @@ Serie A,2026-11-08,2026/2027,True,Genoa,AC Milan,1.0,2.0,1.15,0.63
 Serie A,2026-11-08,2026/2027,True,Monza,Atalanta,0.0,1.0,1.35,1.36
 Serie A,2026-11-08,2026/2027,True,Inter Milan,Como,2.0,0.0,1.81,0.21
 Serie A,2026-11-08,2026/2027,True,Fiorentina,Juventus,2.0,2.0,2.1,2.44
-Serie A,2026-11-21,2026/2027,False,Como,Cagliari,,,,
-Serie A,2026-11-21,2026/2027,False,Lazio,Lecce,,,,
-Serie A,2026-11-21,2026/2027,False,Parma,Roma,,,,
-Serie A,2026-11-21,2026/2027,False,Napoli,Torino,,,,
-Serie A,2026-11-22,2026/2027,False,Juventus,Venezia,,,,
+Serie A,2026-11-21,2026/2027,True,Como,Cagliari,2.0,0.0,0.81,0.66
+Serie A,2026-11-21,2026/2027,True,Lazio,Lecce,3.0,0.0,1.14,0.78
+Serie A,2026-11-21,2026/2027,True,Parma,Roma,1.0,5.0,2.1,3.01
+Serie A,2026-11-21,2026/2027,True,Napoli,Torino,1.0,0.0,1.74,0.53
+Serie A,2026-11-22,2026/2027,True,Juventus,Venezia,4.0,0.0,1.84,0.83
 Serie A,2026-11-22,2026/2027,False,Bologna,Udinese,,,,
 Serie A,2026-11-22,2026/2027,False,Sassuolo,Genoa,,,,
 Serie A,2026-11-22,2026/2027,False,AC Milan,Frosinone,,,,

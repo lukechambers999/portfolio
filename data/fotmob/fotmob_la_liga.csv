@@ -2400,10 +2400,10 @@ La Liga,2026-11-08,2026/2027,True,Villarreal,Getafe,2.0,0.0,2.31,0.82
 La Liga,2026-11-08,2026/2027,True,Atletico Madrid,Barcelona,1.0,2.0,1.67,1.61
 La Liga,2026-11-20,2026/2027,True,Athletic Club,Espanyol,0.0,1.0,1.45,0.53
 La Liga,2026-11-21,2026/2027,True,CD Alaves,Deportivo A Coruna,3.0,1.0,3.18,0.24
-La Liga,2026-11-21,2026/2027,False,Rayo Vallecano,Valencia,,,,
-La Liga,2026-11-21,2026/2027,False,Sevilla,Real Betis,,,,
-La Liga,2026-11-21,2026/2027,False,Real Madrid,Celta Vigo,,,,
-La Liga,2026-11-22,2026/2027,False,Barcelona,Villarreal,,,,
+La Liga,2026-11-21,2026/2027,True,Rayo Vallecano,Valencia,0.0,1.0,0.74,0.66
+La Liga,2026-11-21,2026/2027,True,Sevilla,Real Betis,1.0,1.0,2.32,0.62
+La Liga,2026-11-21,2026/2027,True,Real Madrid,Celta Vigo,2.0,1.0,3.76,1.51
+La Liga,2026-11-22,2026/2027,True,Barcelona,Villarreal,3.0,2.0,3.27,0.16
 La Liga,2026-11-22,2026/2027,False,Racing Santander,Real Sociedad,,,,
 La Liga,2026-11-22,2026/2027,False,Osasuna,Malaga,,,,
 La Liga,2026-11-22,2026/2027,False,Getafe,Atletico Madrid,,,,

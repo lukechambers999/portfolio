@@ -118,37 +118,37 @@
   "Date": "2026-11-27",
   "Home": "Nottm Forest",
   "Away": "Chelsea",
-  "home_att": 1.3569,
-  "home_def": 1.4946,
-  "away_att": 1.6223,
-  "away_def": 1.3819,
-  "def_avg": 1.4871,
-  "HA": 0.109142,
+  "home_att": 1.2973,
+  "home_def": 1.5536,
+  "away_att": 1.6155,
+  "away_def": 1.4113,
+  "def_avg": 1.4867,
+  "HA": 0.109145,
   "rho": -0.042024,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.2609,
-    "away_goals": 1.6305,
-    "home": 0.2961,
-    "draw": 0.2435,
-    "away": 0.4604
+    "home_goals": 1.2315,
+    "away_goals": 1.6881,
+    "home": 0.2793,
+    "draw": 0.2398,
+    "away": 0.4809
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.4186,
-    "away_goals": 1.4727,
-    "home": 0.3639,
-    "draw": 0.2481,
-    "away": 0.388
+    "home_goals": 1.3908,
+    "away_goals": 1.5288,
+    "home": 0.3462,
+    "draw": 0.2462,
+    "away": 0.4076
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.4186,
-    "away_goals": 1.4727,
-    "home": 0.359,
-    "draw": 0.2578,
-    "away": 0.3832
+    "home_goals": 1.3908,
+    "away_goals": 1.5288,
+    "home": 0.3414,
+    "draw": 0.2558,
+    "away": 0.4028
    }
   ]
  }
