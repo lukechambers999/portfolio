@@ -2156,9 +2156,9 @@ Ligue 1,2026-11-21,2026/2027,True,Lens,Toulouse,1.0,1.0,2.36,0.81
 Ligue 1,2026-11-21,2026/2027,True,Lille,Lyon,0.0,1.0,1.06,0.85
 Ligue 1,2026-11-21,2026/2027,True,Monaco,Auxerre,1.0,1.0,2.4,0.29
 Ligue 1,2026-11-21,2026/2027,True,Strasbourg,Brest,0.0,1.0,1.86,1.41
-Ligue 1,2026-11-22,2026/2027,False,Paris FC,Angers,,,,
-Ligue 1,2026-11-22,2026/2027,False,Lorient,Rennes,,,,
-Ligue 1,2026-11-22,2026/2027,False,Marseille,Le Mans,,,,
+Ligue 1,2026-11-22,2026/2027,True,Paris FC,Angers,4.0,0.0,3.51,0.46
+Ligue 1,2026-11-22,2026/2027,True,Lorient,Rennes,1.0,1.0,1.45,1.25
+Ligue 1,2026-11-22,2026/2027,True,Marseille,Le Mans,2.0,3.0,1.42,3.92
 Ligue 1,2026-11-27,2026/2027,False,Brest,Paris FC,,,,
 Ligue 1,2026-11-28,2026/2027,False,Angers,Lens,,,,
 Ligue 1,2026-11-28,2026/2027,False,Le Havre,Strasbourg,,,,
