@@ -115,40 +115,40 @@
   }
  ],
  "price_example": {
-  "Date": "2026-11-27",
-  "Home": "Nottm Forest",
-  "Away": "Chelsea",
-  "home_att": 1.2973,
-  "home_def": 1.5536,
-  "away_att": 1.6155,
-  "away_def": 1.4113,
-  "def_avg": 1.4867,
-  "HA": 0.109145,
+  "Date": "2026-11-29",
+  "Home": "Fulham",
+  "Away": "Bournemouth",
+  "home_att": 1.374,
+  "home_def": 1.4448,
+  "away_att": 1.5369,
+  "away_def": 1.4205,
+  "def_avg": 1.4866,
+  "HA": 0.109695,
   "rho": -0.042024,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.2315,
-    "away_goals": 1.6881,
-    "home": 0.2793,
-    "draw": 0.2398,
-    "away": 0.4809
+    "home_goals": 1.3129,
+    "away_goals": 1.4936,
+    "home": 0.3335,
+    "draw": 0.2513,
+    "away": 0.4152
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.3908,
-    "away_goals": 1.5288,
-    "home": 0.3462,
-    "draw": 0.2462,
-    "away": 0.4076
+    "home_goals": 1.4668,
+    "away_goals": 1.3397,
+    "home": 0.4028,
+    "draw": 0.2519,
+    "away": 0.3453
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.3908,
-    "away_goals": 1.5288,
-    "home": 0.3414,
-    "draw": 0.2558,
-    "away": 0.4028
+    "home_goals": 1.4668,
+    "away_goals": 1.3397,
+    "home": 0.3978,
+    "draw": 0.2619,
+    "away": 0.3403
    }
   ]
  }
