@@ -118,37 +118,37 @@
   "Date": "2026-11-29",
   "Home": "Fulham",
   "Away": "Bournemouth",
-  "home_att": 1.374,
-  "home_def": 1.4448,
-  "away_att": 1.5369,
-  "away_def": 1.4205,
-  "def_avg": 1.4873,
+  "home_att": 1.35,
+  "home_def": 1.4904,
+  "away_att": 1.5368,
+  "away_def": 1.3989,
+  "def_avg": 1.4864,
   "HA": 0.110061,
   "rho": -0.042024,
   "steps": [
    {
     "step": "Ratings only",
-    "home_goals": 1.3123,
-    "away_goals": 1.493,
-    "home": 0.3334,
-    "draw": 0.2514,
-    "away": 0.4152
+    "home_goals": 1.2705,
+    "away_goals": 1.541,
+    "home": 0.3142,
+    "draw": 0.2496,
+    "away": 0.4362
    },
    {
     "step": "+ Home advantage",
-    "home_goals": 1.4667,
-    "away_goals": 1.3386,
-    "home": 0.403,
-    "draw": 0.2519,
-    "away": 0.345
+    "home_goals": 1.4253,
+    "away_goals": 1.3863,
+    "home": 0.3828,
+    "draw": 0.2522,
+    "away": 0.3651
    },
    {
     "step": "+ Draw factor",
-    "home_goals": 1.4667,
-    "away_goals": 1.3386,
-    "home": 0.398,
-    "draw": 0.2619,
-    "away": 0.34
+    "home_goals": 1.4253,
+    "away_goals": 1.3863,
+    "home": 0.3778,
+    "draw": 0.2621,
+    "away": 0.3601
    }
   ]
  }
