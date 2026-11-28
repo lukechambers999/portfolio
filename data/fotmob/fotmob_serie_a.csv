@@ -2399,8 +2399,8 @@ Serie A,2026-11-22,2026/2027,True,Sassuolo,Genoa,0.0,2.0,1.66,2.11
 Serie A,2026-11-22,2026/2027,True,AC Milan,Frosinone,5.0,1.0,2.85,1.09
 Serie A,2026-11-22,2026/2027,True,Atalanta,Inter Milan,4.0,4.0,2.92,3.33
 Serie A,2026-11-23,2026/2027,True,Monza,Fiorentina,3.0,0.0,1.62,1.77
-Serie A,2026-11-27,2026/2027,False,Venezia,Bologna,,,,
-Serie A,2026-11-28,2026/2027,False,Frosinone,Parma,,,,
+Serie A,2026-11-27,2026/2027,True,Venezia,Bologna,0.0,0.0,1.25,0.97
+Serie A,2026-11-28,2026/2027,True,Frosinone,Parma,3.0,0.0,1.97,0.58
 Serie A,2026-11-28,2026/2027,False,Torino,Lazio,,,,
 Serie A,2026-11-28,2026/2027,False,Inter Milan,Genoa,,,,
 Serie A,2026-11-29,2026/2027,False,Udinese,Fiorentina,,,,
